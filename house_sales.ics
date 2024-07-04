@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:区域: 薰衣草苗圃\n房号: 4\n小区编号: 21\n房屋用途限制类型: 仅限部队购买\n状态: 可供购买\n当前阶段结束时间: 2024-07-06 23:00:00
+DTSTART:20240706T230000Z
+SUMMARY:薰衣草苗圃\, 21区 4
+UID:7cbe8dc2-dc9c-4798-a16c-8ff3903f3760@7cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:区域: 穹顶皓天\n房号: 43\n小区编号: 15\n房屋用途限制类型: 仅限个人购买\n状态: 可供购买\n当前阶段结束时间: 2024-07-06 23:00:00
+DTSTART:20240706T230000Z
+SUMMARY:穹顶皓天\, 15区 43
+UID:1e28bb3d-471d-4c2f-909e-cfb630ea72f6@1e28.org
+END:VEVENT
+END:VCALENDAR
