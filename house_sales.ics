@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
 BEGIN:VEVENT
 DESCRIPTION:区域: 薰衣草苗圃\n房号: 4\n小区编号: 21\n房屋用途限制类型: 仅限部队购买\n状态: 可供购买\n当前阶段结束时间: 2028-03-09 00:20:00
 DTSTART:20280309T002000Z
