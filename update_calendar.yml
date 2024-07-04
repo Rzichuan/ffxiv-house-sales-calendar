@@ -2,7 +2,7 @@ name: Update Calendar
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每日0点运行
+    - cron: '0 14 * * *' # 每天14:00运行
   push:
     branches:
       - main
