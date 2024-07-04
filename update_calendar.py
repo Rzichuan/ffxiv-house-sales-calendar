@@ -68,7 +68,7 @@ def process_date(EndTime, LastSeen):
 
 # 转换时间戳为人类可读格式
 def convert_to_human_readable(timestamp):
-    dt = datetime.utcfromtimestamp(timestamp) + timedelta(hours=8)
+    dt = datetime.utcfromtimestamp(timestamp) + timedelta(hours=0)
     return dt.strftime('%Y-%m-%d %H:%M:%S')
 
 # 读取现有ICS文件
