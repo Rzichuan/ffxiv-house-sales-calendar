@@ -1,5 +1,4 @@
 import requests
-import time
 import os
 from datetime import datetime, timedelta
 from ics import Calendar, Event
@@ -58,17 +57,10 @@ def check_period(current_timestamp):
         publicity_EndTime = cycle_start_time + application_period_seconds + publicity_period_seconds
         return publicity_EndTime
 
-# 处理日期函数
-def process_date(EndTime, LastSeen):
-    if EndTime == 0:
-        # 如果end_time为0，则使用last_seen进行处理
-        EndTime = check_period(LastSeen)
-    # 对处理后的数据进行其他操作，这里简单返回end_time作为示例
-    return EndTime
-
-# 转换时间戳为人类可读格式
-def convert_to_human_readable(timestamp):
-    dt = datetime.utcfromtimestamp(timestamp) + timedelta(hours=8)
+# 转换时间戳为GMT+8时间格式
+def convert_to_gmt8(timestamp):
+    dt = datetime.utcfromtimestamp(timestamp)
+    dt = dt + timedelta(hours=8)  # 转换为GMT+8时间
     return dt.strftime('%Y-%m-%d %H:%M:%S')
 
 # 读取现有ICS文件
@@ -116,13 +108,13 @@ try:
             # 仅在Size值为2时处理数据
             if Size == 2:
                 # 调用处理日期函数处理时间戳
-                processed_EndTime = process_date(EndTime, LastSeen)
+                processed_EndTime = check_period(EndTime)  # 此处直接调用check_period函数
 
                 # 创建一个新的字典存储处理后的数据
                 processed_item = {
                     'Area': AREA_MAP.get(Area, "未知"),
                     'ID': ID + 1,  # 房号从1开始计算
-                    'EndTime_processed': convert_to_human_readable(processed_EndTime),
+                    'EndTime_processed': convert_to_gmt8(processed_EndTime),
                     'Slot': Slot,
                     'RegionType': REGION_TYPE_MAP.get(RegionType, "未知"),
                     'State': STATE_MAP.get(State, "未知")
@@ -139,12 +131,12 @@ try:
         for item in processed_data:
             event_exists = False
             for event in cal.events:
-                if event.name == f"房屋信息 - 区域: {item['Area']}, 房号: {item['ID']}":
+                if event.name == f"{item['Area']}, {item['Slot']}区 {item['ID']}":
                     event_exists = True
                     break
             if not event_exists:
                 event = Event()
-                event.name = f"房屋信息 - 区域: {item['Area']}, 房号: {item['ID']}"
+                event.name = f"{item['Area']}, {item['Slot']}区 {item['ID']}"
                 event.begin = item['EndTime_processed']
                 event.description = (
                     f"区域: {item['Area']}\n"
