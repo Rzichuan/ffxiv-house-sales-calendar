@@ -3,6 +3,10 @@ import time
 import os
 from datetime import datetime, timedelta
 from ics import Calendar, Event
+import pytz  # 引入pytz库
+
+# 设置GMT+8时区
+tz = pytz.timezone('Asia/Shanghai')
 
 # 区域ID映射
 AREA_MAP = {
@@ -66,9 +70,9 @@ def process_date(EndTime, LastSeen):
     # 对处理后的数据进行其他操作，这里简单返回end_time作为示例
     return EndTime
 
-# 转换时间戳为人类可读格式
+# 转换时间戳为本地时间格式
 def convert_to_human_readable(timestamp):
-    dt = datetime.utcfromtimestamp(timestamp) + timedelta(hours=0)
+    dt = datetime.utcfromtimestamp(timestamp) + timedelta(hours=8)  # 转换为GMT+8时间
     return dt.strftime('%Y-%m-%d %H:%M:%S')
 
 # 读取现有ICS文件
@@ -145,7 +149,9 @@ try:
             if not event_exists:
                 event = Event()
                 event.name = f"{item['Area']}, {item['Slot']}区 {item['ID']}"
-                event.begin = item['EndTime_processed']
+                # 将结束时间转换为GMT+8时间
+                end_time_gmt8 = datetime.strptime(item['EndTime_processed'], '%Y-%m-%d %H:%M:%S')
+                event.begin = tz.localize(end_time_gmt8)  # 设置时区为GMT+8
                 event.description = (
                     f"区域: {item['Area']}\n"
                     f"房号: {item['ID']}\n"
@@ -165,4 +171,3 @@ try:
 
 except requests.exceptions.RequestException as e:
     print(f"Error fetching data: {e}")
-
