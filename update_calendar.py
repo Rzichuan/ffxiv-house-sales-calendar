@@ -93,7 +93,7 @@ try:
 
     # 设置请求头
     headers = {
-        'User-Agent': 'iCal 1.0.0 / Testone <arice2022@outlook.com>'
+        'User-Agent': 'iCal 1.0.0 / Testone <ravens_slalom.0v@icloud.com>'
     }
 
     # 发送GET请求获取数据
