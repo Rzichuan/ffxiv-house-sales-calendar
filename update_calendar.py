@@ -143,12 +143,12 @@ try:
         for item in processed_data:
             event_exists = False
             for event in cal.events:
-                if event.name == f"{item['Area']}, {item['Slot']}区 {item['ID']}":
+                if event.name == f"{item['Area']}, {item['Slot']}区 {item['ID']} {item['RegionType']}":
                     event_exists = True
                     break
             if not event_exists:
                 event = Event()
-                event.name = f"{item['Area']}, {item['Slot']}区 {item['ID']}"
+                event.name = f"{item['Area']}, {item['Slot']}区 {item['ID']} {item['RegionType']}"
                 # 将结束时间转换为GMT+8时间
                 end_time_gmt8 = datetime.strptime(item['EndTime_processed'], '%Y-%m-%d %H:%M:%S')
                 event.begin = tz.localize(end_time_gmt8)  # 设置时区为GMT+8
