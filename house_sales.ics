@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
 BEGIN:VEVENT
 DESCRIPTION:区域: 穹顶皓天\n房号: 43\n小区编号: 15\n房屋用途限制类型: 仅限个人购买\n状态: 可供购买\n当前阶段结束时间: 2024-07-06 23:00:00
 DTSTART:20240706T150000Z
