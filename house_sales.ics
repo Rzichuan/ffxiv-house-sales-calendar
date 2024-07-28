@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DESCRIPTION:区域: 穹顶皓天\n房号: 43\n小区编号: 15\n房屋用途限制类型: 仅限个人购买\n状态: 可供购买\n当前阶段结束时间: 2024-07-06 23:00:00
-DTSTART:20240706T150000Z
-SUMMARY:穹顶皓天\, 15区 43 仅限个人购买
-UID:9005dd43-fc23-4ef1-978b-974bacb8d8db@9005.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:区域: 穹顶皓天\n房号: 13\n小区编号: 28\n房屋用途限制类型: 未知\n状态: 未知/没有抽签信息\n当前阶段结束时间: 2028-03-09 00:20:00
 DTSTART:20280308T162000Z
 SUMMARY:穹顶皓天\, 28区 13 未知
 UID:e4b24536-e52b-461e-bd02-5904a1e70e31@e4b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:区域: 穹顶皓天\n房号: 43\n小区编号: 15\n房屋用途限制类型: 仅限个人购买\n状态: 可供购买\n当前阶段结束时间: 2024-07-06 23:00:00
+DTSTART:20240706T150000Z
+SUMMARY:穹顶皓天\, 15区 43 仅限个人购买
+UID:9005dd43-fc23-4ef1-978b-974bacb8d8db@9005.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:区域: 高脚孤丘\n房号: 36\n小区编号: 16\n房屋用途限制类型: 未知\n状态: 未知/没有抽签信息\n当前阶段结束时间: 2028-03-09 00:20:00
@@ -21,16 +21,16 @@ SUMMARY:高脚孤丘\, 16区 36 未知
 UID:b03fd0c2-e761-4787-886f-47d69160b242@b03f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:区域: 薰衣草苗圃\n房号: 4\n小区编号: 24\n房屋用途限制类型: 仅限个人购买\n状态: 未知\n当前阶段结束时间: 2024-07-19 23:00:00
-DTSTART:20240719T150000Z
-SUMMARY:薰衣草苗圃\, 24区 4 仅限个人购买
-UID:64b5d01e-44b4-41a2-b97e-978706b29272@64b5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:区域: 白银乡\n房号: 61\n小区编号: 6\n房屋用途限制类型: 仅限个人购买\n状态: 未知/没有抽签信息\n当前阶段结束时间: 2028-03-09 00:20:00
 DTSTART:20280308T162000Z
 SUMMARY:白银乡\, 6区 61 仅限个人购买
 UID:5301a0fb-f559-4812-bb25-374b7fafa7a4@5301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:区域: 薰衣草苗圃\n房号: 4\n小区编号: 24\n房屋用途限制类型: 仅限个人购买\n状态: 未知\n当前阶段结束时间: 2024-07-19 23:00:00
+DTSTART:20240719T150000Z
+SUMMARY:薰衣草苗圃\, 24区 4 仅限个人购买
+UID:64b5d01e-44b4-41a2-b97e-978706b29272@64b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:区域: 海雾村\n房号: 46\n小区编号: 12\n房屋用途限制类型: 仅限个人购买\n状态: 未知/没有抽签信息\n当前阶段结束时间: 2028-03-09 00:20:00
