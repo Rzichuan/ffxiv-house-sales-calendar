@@ -1,4 +1,4 @@
-name: Run Script and Generate Files
+name: Run Script and Update Files
 
 on:
   push:
@@ -31,3 +31,13 @@ jobs:
       run: |
         echo "Listing files in the workspace:"
         ls -R
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add data/ # 添加你的生成文件所在目录
+        git commit -m "Update generated files" || echo "No changes to commit"
+        git push
