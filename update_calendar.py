@@ -1,9 +1,12 @@
 import requests
-import time
 import os
 from datetime import datetime, timedelta
 from ics import Calendar, Event
-import pytz  # 引入pytz库
+import pytz
+import logging
+
+# 配置日志记录
+logging.basicConfig(filename='house_sales.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # 设置GMT+8时区
 tz = pytz.timezone('Asia/Shanghai')
@@ -29,46 +32,6 @@ STATE_MAP = {
     1: "可供购买",
     2: "结果公示阶段"
 }
-
-# 计算周期函数
-def check_period(current_timestamp):
-    # 周期开始时间戳（2024年7月1日23时）
-    cycle_start = 1835713200
-    
-    # 周期的长度（申请期5天，公示期4天）
-    application_period_seconds = 5 * 24 * 60 * 60
-    publicity_period_seconds = 4 * 24 * 60 * 60
-    
-    # 计算当前时间距离周期开始时间的秒数
-    elapsed_seconds = current_timestamp - cycle_start
-    
-    if elapsed_seconds < 0:
-        return cycle_start + application_period_seconds
-    
-    # 计算当前时间属于周期的第几个周期
-    cycle_number = elapsed_seconds // (application_period_seconds + publicity_period_seconds)
-    
-    # 计算当前周期内的起始时间戳
-    cycle_start_time = cycle_start + cycle_number * (application_period_seconds + publicity_period_seconds)
-    
-    # 计算当前时间在当前周期内的偏移
-    current_cycle_elapsed = current_timestamp - cycle_start_time
-    
-    # 判断当前时间是申请期还是公示期，并返回结束时间戳
-    if current_cycle_elapsed < application_period_seconds:
-        application_EndTime = cycle_start_time + application_period_seconds
-        return application_EndTime
-    else:
-        publicity_EndTime = cycle_start_time + application_period_seconds + publicity_period_seconds
-        return publicity_EndTime
-
-# 处理日期函数
-def process_date(EndTime, LastSeen):
-    if EndTime == 0:
-        # 如果end_time为0，则使用last_seen进行处理
-        EndTime = check_period(LastSeen)
-    # 对处理后的数据进行其他操作，这里简单返回end_time作为示例
-    return EndTime
 
 # 转换时间戳为本地时间格式
 def convert_to_human_readable(timestamp):
@@ -103,11 +66,20 @@ try:
     if response.status_code == 200:
         # 获取JSON格式的响应数据
         data_from_server = response.json()
+        
+        # 记录原始数据日志
+        logging.info("原始数据: %s", data_from_server)
+
+        # 筛选 Size 为 1 和 2 的数据
+        filtered_data = [item for item in data_from_server if item.get('Size') in [1, 2]]
+        
+        # 记录筛选后的数据日志
+        logging.info("筛选后的数据: %s", filtered_data)
 
         # 处理数据
         processed_data = []
 
-        for item_data in data_from_server:
+        for item_data in filtered_data:
             Area = item_data['Area']
             ID = item_data['ID']
             EndTime = item_data['EndTime']
@@ -117,23 +89,24 @@ try:
             RegionType = item_data.get('RegionType')  # 获取RegionType值
             State = item_data.get('State')  # 获取State值
 
-            # 仅在Size值为2时处理数据
-            if Size == 2:
-                # 调用处理日期函数处理时间戳
-                processed_EndTime = process_date(EndTime, LastSeen)
+            # 调用处理日期函数处理时间戳
+            processed_EndTime = EndTime if EndTime != 0 else LastSeen  # 简单处理示例
 
-                # 创建一个新的字典存储处理后的数据
-                processed_item = {
-                    'Area': AREA_MAP.get(Area, "未知"),
-                    'ID': ID + 1,  # 房号从1开始计算
-                    'EndTime_processed': convert_to_human_readable(processed_EndTime),
-                    'Slot': Slot,
-                    'RegionType': REGION_TYPE_MAP.get(RegionType, "未知"),
-                    'State': STATE_MAP.get(State, "未知")
-                }
+            # 创建一个新的字典存储处理后的数据
+            processed_item = {
+                'Area': AREA_MAP.get(Area, "未知"),
+                'ID': ID + 1,  # 房号从1开始计算
+                'EndTime_processed': convert_to_human_readable(processed_EndTime),
+                'Slot': Slot,
+                'RegionType': REGION_TYPE_MAP.get(RegionType, "未知"),
+                'State': STATE_MAP.get(State, "未知")
+            }
 
-                # 将处理后的数据存储到新的列表中
-                processed_data.append(processed_item)
+            # 记录处理后的数据日志
+            logging.info("处理后的数据项: %s", processed_item)
+
+            # 将处理后的数据存储到新的列表中
+            processed_data.append(processed_item)
 
         # 读取现有ICS文件
         ics_file_path = 'house_sales.ics'
@@ -158,6 +131,8 @@ try:
                             f"状态: {item['State']}\n"
                             f"当前阶段结束时间: {item['EndTime_processed']}"
                         )
+                        # 记录更新事件日志
+                        logging.info("更新事件: %s", event)
                     event_exists = True
                     break
 
@@ -175,13 +150,15 @@ try:
                     f"当前阶段结束时间: {item['EndTime_processed']}"
                 )
                 cal.events.add(event)
+                # 记录新增事件日志
+                logging.info("新增事件: %s", event)
 
         # 写入ICS文件
         with open(ics_file_path, 'w', encoding='utf-8') as f:
             f.writelines(cal)
 
     else:
-        print(f"Failed to retrieve data: {response.status_code}")
+        logging.error("Failed to retrieve data: %d", response.status_code)
 
 except requests.exceptions.RequestException as e:
-    print(f"Error fetching data: {e}")
+    logging.error("Error fetching data: %s", e)
