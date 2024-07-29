@@ -3,13 +3,15 @@ name: Daily Schedule
 on:
   schedule:
     - cron: '0 0 * * *'  # 每天 UTC 00:00 执行
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  run-script:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,6 +26,9 @@ jobs:
         run: |
           python your_script_name.py
 
-      - name: List files for debugging
-        run: |
-          ls -R
+      - name: Upload files as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-files
+          path: |
+            generated_files
