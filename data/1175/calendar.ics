@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 4区 - 49号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 7区 - 58号 - 仅限个人购买\n晨曦王座 - 白银乡 - 17区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
-SUMMARY:M房抽选截止
-UID:4d51c7f3-44f4-4a15-a4b3-dc9f9b461cec@4d51.org
+SUMMARY:L房抽选截止
+UID:c6f84356-e533-4504-8285-ee1c8487a60e@c6f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 9区 - 35号 - 仅限个人购买\n晨曦王座 - 白银乡 - 15区 - 60号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:L房抽选截止
-UID:9a729885-e163-4d5a-8325-44f7a6aeba6b@9a72.org
+UID:734e193e-e8df-476d-b32f-66818c3711df@734e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 4区 - 49号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:M房抽选截止
+UID:1fdbd574-d0ba-470c-ab7f-0f70f486c6da@1fdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 2区 - 14号 - 仅限个人购买\n晨曦王座 - 海雾村 - 11区 - 6号 - 仅限个人购买\n晨曦王座 - 薰衣草苗圃 - 22区 - 30号 - 仅限部队购买\n晨曦王座 - 高脚孤丘 - 19区 - 8号 - 其他\n晨曦王座 - 高脚孤丘 - 26区 - 12号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 4区 - 56号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 5区 - 2号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 9区 - 21号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 14区 - 26号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:M房抽选截止
-UID:0f1cffdc-347a-4741-b4c0-d861b4d226c1@0f1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 7区 - 58号 - 仅限个人购买\n晨曦王座 - 白银乡 - 17区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:L房抽选截止
-UID:03f215e9-6b39-458a-b7bb-c35d9c4eba1a@03f2.org
+UID:6de138a9-f8fd-4fab-b488-ba158f6b4a06@6de1.org
 END:VEVENT
 END:VCALENDAR

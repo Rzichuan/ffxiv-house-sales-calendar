@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 薰衣草苗圃 - 9区 - 35号 - 仅限个人购买\n萌芽池 - 高脚孤丘 - 3区 - 38号 - 仅限个人购买\n萌芽池 - 白银乡 - 20区 - 24号 - 其他\n萌芽池 - 白银乡 - 22区 - 24号 - 仅限部队购买\n萌芽池 - 穹顶皓天 - 3区 - 21号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 6区 - 21号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 9区 - 38号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 10区 - 2号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 13区 - 38号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240802T150000Z
-SUMMARY:M房抽选截止
-UID:91ac951c-1438-4a36-82ca-e9ffd1434140@91ac.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 25区 - 27号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:cbb4db53-fe2f-4140-bfab-1a12803ddbb1@cbb4.org
+UID:e346ab18-385c-4873-9b7d-fa1946215cc1@e346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 薰衣草苗圃 - 9区 - 35号 - 仅限个人购买\n萌芽池 - 高脚孤丘 - 3区 - 38号 - 仅限个人购买\n萌芽池 - 白银乡 - 20区 - 24号 - 其他\n萌芽池 - 白银乡 - 22区 - 24号 - 仅限部队购买\n萌芽池 - 穹顶皓天 - 3区 - 21号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 6区 - 21号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 9区 - 38号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 10区 - 2号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 13区 - 38号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240802T150000Z
+SUMMARY:M房抽选截止
+UID:3d01a345-687e-4b70-b555-775f1e1a2287@3d01.org
 END:VEVENT
 END:VCALENDAR

@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 10区 - 32号 - 仅限个人购买\n红玉海 - 穹顶皓天 - 14区 - 48号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:M房抽选截止
-UID:045b9641-aad1-4c1e-9c6c-6a594bd0c3f6@045b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 27区 - 59号 - 仅限个人购买\n红玉海 - 薰衣草苗圃 - 7区 - 41号 - 仅限个人购买\n红玉海 - 薰衣草苗圃 - 22区 - 31号 - 仅限部队购买\n红玉海 - 薰衣草苗圃 - 26区 - 16号 - 仅限个人购买\n红玉海 - 高脚孤丘 - 28区 - 6号 - 其他\n红玉海 - 高脚孤丘 - 28区 - 38号 - 其他\n红玉海 - 白银乡 - 1区 - 58号 - 仅限个人购买\n红玉海 - 白银乡 - 12区 - 54号 - 仅限个人购买\n红玉海 - 白银乡 - 16区 - 24号 - 仅限个人购买\n红玉海 - 白银乡 - 26区 - 28号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:M房抽选截止
-UID:7922851c-8769-47e2-9ea2-9ed0208ac03b@7922.org
+UID:3d9f5f66-ec3e-43fb-9a33-aeb6af7ffe07@3d9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 10区 - 32号 - 仅限个人购买\n红玉海 - 穹顶皓天 - 14区 - 48号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:M房抽选截止
+UID:07da711d-5ea0-465a-9a53-326d53337b8d@07da.org
 END:VEVENT
 END:VCALENDAR
