@@ -1,6 +1,6 @@
-import requests
-import json
 import os
+import json
+import requests
 from datetime import datetime, timedelta, timezone
 from ics import Calendar, Event
 import pytz
@@ -171,8 +171,6 @@ def generate_calendar(input_file, output_folder):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(str(cal))
 
-    print(f"Calendar file {output_file} successfully created.")
-
 def main():
     for server_id in SERVER_IDS:
         try:
@@ -183,17 +181,20 @@ def main():
             filtered_data = filter_data(data)
 
             # 保存为JSON文件
-            folder_path = f'/main/data/{server_id}'
-            save_to_json(filtered_data, folder_path, 'filtered_data.json')
+            folder_path = 'data/'  # 确保是相对路径
+            server_folder = os.path.join(folder_path, server_id)
+            save_to_json(filtered_data, server_folder, 'filtered_data.json')
 
             # 处理数据
-            process_data(os.path.join(folder_path, 'filtered_data.json'), folder_path)
+            process_data(os.path.join(server_folder, 'filtered_data.json'), server_folder)
 
             # 生成日历
-            generate_calendar(os.path.join(folder_path, 'processed_data.json'), folder_path)
+            generate_calendar(os.path.join(server_folder, 'processed_data.json'), server_folder)
+
+            print(f"服务器 {server_id} 的文件已成功生成并保存到 {server_folder}")
 
         except Exception as e:
-            print(f"An error occurred for server {server_id}: {e}")
+            print(f"服务器 {server_id} 发生错误: {e}")
 
 if __name__ == "__main__":
     main()
