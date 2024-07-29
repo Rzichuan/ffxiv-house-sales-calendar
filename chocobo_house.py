@@ -18,8 +18,8 @@ AREA_MAPPING = {
 }
 
 REGIONTYPE_MAPPING = {
-    1: "仅限部队购买",
-    2: "仅限个人购买",
+    1: "部队",
+    2: "个人",
     0: "其他"  # RegionType 为 0 的情况改为 "其他"
 }
 
