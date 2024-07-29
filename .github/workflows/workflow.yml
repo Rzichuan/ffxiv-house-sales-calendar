@@ -32,4 +32,4 @@ jobs:
       with:
         name: calendar-results
         path: |
-          data/
+          /main/data/
