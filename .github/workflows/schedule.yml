@@ -22,4 +22,8 @@ jobs:
 
       - name: Run script
         run: |
-          python update_calendar.py
+          python your_script_name.py
+
+      - name: List files for debugging
+        run: |
+          ls -R
