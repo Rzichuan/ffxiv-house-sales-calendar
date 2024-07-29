@@ -2,6 +2,8 @@
 
 数据来源： https://house.ffxiv.cyou
 
+日历只显示房屋抽选截止日期，且都为推测数据，偶尔可能会出错
+
 ### 订阅链接：
 
 - **宇宙和音 (1173)**: https://rzichuan.github.io/ffxiv-house-sales-calendar/data/1173/calendar.ics
