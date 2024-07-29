@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 4区 - 21号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 17区 - 27号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 20区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 25区 - 33号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
-SUMMARY:M房抽选截止
-UID:fcaf37b9-82fa-4960-a664-d2a7c7698e6a@fcaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 2区 - 14号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 20区 - 41号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 26区 - 21号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 7区 - 12号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 19区 - 25号 - 其他\n沃仙曦染 - 高脚孤丘 - 20区 - 6号 - 其他\n沃仙曦染 - 白银乡 - 20区 - 8号 - 其他\n沃仙曦染 - 穹顶皓天 - 3区 - 47号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240802T150000Z
-SUMMARY:M房抽选截止
-UID:be9a8620-e748-4efb-ad31-ecb47a66c920@be9a.org
+SUMMARY:L房抽选截止
+UID:0ec93048-3eec-4c85-944f-1382d7267dc8@0ec9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 13号 - 仅限个人购买\n沃仙曦染 - 白银乡 - 24区 - 30号 - 仅限部队购买\n沃仙曦染 - 白银乡 - 25区 - 30号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:L房抽选截止
-UID:a6b1a5c7-9134-4e9b-81bb-02a2cb5e5f5b@a6b1.org
+UID:81f711ac-331a-40cc-b237-06d12aa9f8a4@81f7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 25区 - 33号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 海雾村 - 2区 - 14号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 20区 - 41号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 26区 - 21号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 7区 - 12号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 19区 - 25号 - 其他\n沃仙曦染 - 高脚孤丘 - 20区 - 6号 - 其他\n沃仙曦染 - 白银乡 - 20区 - 8号 - 其他\n沃仙曦染 - 穹顶皓天 - 3区 - 47号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240802T150000Z
+SUMMARY:M房抽选截止
+UID:d75784c2-bee2-4618-9d7f-e046d05680a5@d757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 4区 - 21号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 17区 - 27号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 20区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
-SUMMARY:L房抽选截止
-UID:3586c320-ae4b-41b5-9992-29258394cae5@3586.org
+SUMMARY:M房抽选截止
+UID:e3c1765f-2d53-4f45-8dc0-b93662c530a1@e3c1.org
 END:VEVENT
 END:VCALENDAR
