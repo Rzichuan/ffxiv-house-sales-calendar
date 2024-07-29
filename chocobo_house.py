@@ -171,6 +171,8 @@ def generate_calendar(input_file, output_folder):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(str(cal))
 
+    print(f"Calendar file {output_file} successfully created.")
+
 def main():
     for server_id in SERVER_IDS:
         try:
@@ -190,11 +192,8 @@ def main():
             # 生成日历
             generate_calendar(os.path.join(folder_path, 'processed_data.json'), folder_path)
 
-            print(f"服务器 {server_id} 的文件已成功生成并保存到 {folder_path}")
-
         except Exception as e:
-            print(f"服务器 {server_id} 发生错误: {e}")
+            print(f"An error occurred for server {server_id}: {e}")
 
 if __name__ == "__main__":
     main()
-
