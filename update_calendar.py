@@ -144,14 +144,28 @@ try:
             event_exists = False
             for event in cal.events:
                 if event.name == f"{item['Area']}, {item['Slot']}区 {item['ID']} {item['RegionType']}":
+                    existing_end_time = event.end.astimezone(tz)
+                    new_end_time_gmt8 = datetime.strptime(item['EndTime_processed'], '%Y-%m-%d %H:%M:%S')
+                    new_end_time_gmt8 = tz.localize(new_end_time_gmt8)
+
+                    if new_end_time_gmt8 > existing_end_time:
+                        event.end = new_end_time_gmt8
+                        event.description = (
+                            f"区域: {item['Area']}\n"
+                            f"房号: {item['ID']}\n"
+                            f"小区编号: {item['Slot']}\n"
+                            f"房屋用途限制类型: {item['RegionType']}\n"
+                            f"状态: {item['State']}\n"
+                            f"当前阶段结束时间: {item['EndTime_processed']}"
+                        )
                     event_exists = True
                     break
+
             if not event_exists:
                 event = Event()
                 event.name = f"{item['Area']}, {item['Slot']}区 {item['ID']} {item['RegionType']}"
-                # 将结束时间转换为GMT+8时间
                 end_time_gmt8 = datetime.strptime(item['EndTime_processed'], '%Y-%m-%d %H:%M:%S')
-                event.begin = tz.localize(end_time_gmt8)  # 设置时区为GMT+8
+                event.end = tz.localize(end_time_gmt8)
                 event.description = (
                     f"区域: {item['Area']}\n"
                     f"房号: {item['ID']}\n"
