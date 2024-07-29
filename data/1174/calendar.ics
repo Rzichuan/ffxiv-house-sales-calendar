@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 25区 - 33号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:L房抽选截止
-UID:3ef0e530-4c87-4ef6-b9c2-7c349bd446e2@3ef0.org
+UID:00b82cfd-2e7f-4967-936a-0bb8865c9d80@00b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 2区 - 14号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 20区 - 41号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 26区 - 21号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 7区 - 12号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 19区 - 25号 - 其他\n沃仙曦染 - 高脚孤丘 - 20区 - 6号 - 其他\n沃仙曦染 - 白银乡 - 20区 - 8号 - 其他\n沃仙曦染 - 穹顶皓天 - 3区 - 47号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:M房抽选截止
-UID:eacdf636-bfad-48ed-9f74-952e936d4052@eacd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 13号 - 仅限个人购买\n沃仙曦染 - 白银乡 - 24区 - 30号 - 仅限部队购买\n沃仙曦染 - 白银乡 - 25区 - 30号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240802T150000Z
-SUMMARY:L房抽选截止
-UID:67a4c7b3-6b76-4277-aef6-4a3609f4cb32@67a4.org
+UID:50d8b3cd-1818-490b-859d-a261decccaef@50d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 4区 - 21号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 17区 - 27号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 20区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:be9c744e-fa08-489e-b5f9-6b7bfeb3ea7d@be9c.org
+UID:b7a7d1d6-6207-4cf5-ae39-3b0b985a8c7f@b7a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 13号 - 仅限个人购买\n沃仙曦染 - 白银乡 - 24区 - 30号 - 仅限部队购买\n沃仙曦染 - 白银乡 - 25区 - 30号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240802T150000Z
+SUMMARY:L房抽选截止
+UID:b0a58f81-112e-455e-9edd-de02407205b8@b0a5.org
 END:VEVENT
 END:VCALENDAR

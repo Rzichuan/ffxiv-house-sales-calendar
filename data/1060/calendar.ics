@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 薰衣草苗圃 - 25区 - 27号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:M房抽选截止
-UID:e346ab18-385c-4873-9b7d-fa1946215cc1@e346.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 9区 - 35号 - 仅限个人购买\n萌芽池 - 高脚孤丘 - 3区 - 38号 - 仅限个人购买\n萌芽池 - 白银乡 - 20区 - 24号 - 其他\n萌芽池 - 白银乡 - 22区 - 24号 - 仅限部队购买\n萌芽池 - 穹顶皓天 - 3区 - 21号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 6区 - 21号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 9区 - 38号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 10区 - 2号 - 仅限个人购买\n萌芽池 - 穹顶皓天 - 13区 - 38号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:M房抽选截止
-UID:3d01a345-687e-4b70-b555-775f1e1a2287@3d01.org
+UID:3295f67d-cfa8-4179-bf36-8a007d40570e@3295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 薰衣草苗圃 - 25区 - 27号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:M房抽选截止
+UID:6ba62360-d4a2-4a49-9f4b-d100a334fc2d@6ba6.org
 END:VEVENT
 END:VCALENDAR
