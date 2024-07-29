@@ -26,7 +26,7 @@ jobs:
 
     - name: Run script
       run: |
-        python path/to/chocobo_house.py
+        python chocobo_house.py  # 确保路径正确
 
     - name: Upload results
       uses: actions/upload-artifact@v3
