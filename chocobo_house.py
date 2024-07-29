@@ -183,7 +183,7 @@ def main():
             filtered_data = filter_data(data)
 
             # 保存为JSON文件
-            folder_path = f'data/{server_id}'
+            folder_path = f'/main/data/{server_id}'
             save_to_json(filtered_data, folder_path, 'filtered_data.json')
 
             # 处理数据
