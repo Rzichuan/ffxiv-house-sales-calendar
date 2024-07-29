@@ -25,8 +25,7 @@ jobs:
         pip install requests ics pytz
 
     - name: Run script
-      run: |
-        python chocobo_house.py  # 确保路径正确
+      run: python chocobo_house.py
 
     - name: Upload results
       uses: actions/upload-artifact@v3
