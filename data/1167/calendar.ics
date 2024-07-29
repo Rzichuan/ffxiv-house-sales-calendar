@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 27区 - 59号 - 仅限个人购买\n红玉海 - 薰衣草苗圃 - 7区 - 41号 - 仅限个人购买\n红玉海 - 薰衣草苗圃 - 22区 - 31号 - 仅限部队购买\n红玉海 - 薰衣草苗圃 - 26区 - 16号 - 仅限个人购买\n红玉海 - 高脚孤丘 - 28区 - 6号 - 其他\n红玉海 - 高脚孤丘 - 28区 - 38号 - 其他\n红玉海 - 白银乡 - 1区 - 58号 - 仅限个人购买\n红玉海 - 白银乡 - 12区 - 54号 - 仅限个人购买\n红玉海 - 白银乡 - 16区 - 24号 - 仅限个人购买\n红玉海 - 白银乡 - 26区 - 28号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240802T150000Z
+SUMMARY:M房抽选截止
+UID:837b6c57-792f-4390-a09d-e53f889eea81@837b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 10区 - 32号 - 仅限个人购买\n红玉海 - 穹顶皓天 - 14区 - 48号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:M房抽选截止
+UID:2c53eacc-7d49-43eb-a8cf-019b9ecdb126@2c53.org
+END:VEVENT
+END:VCALENDAR
