@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 7区 - 37号 - 仅限个人购买\n拉诺西亚 - 穹顶皓天 - 13区 - 7号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 7区 - 37号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:a8e79a43-15b6-486a-92ac-850d2d1d816a@a8e7.org
+UID:0805e7d2-c9f4-4165-9ba5-e5a28b0c6c2e@0805.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 7号 - 仅限个人购买\n拉诺西亚 - 海雾村 - 25区 - 34号 - 仅限个人购买\n拉诺西亚 - 海雾村 - 27区 - 1号 - 仅限个人购买\n拉诺西亚 - 海雾村 - 29区 - 4号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 17区 - 60号 - 其他\n拉诺西亚 - 高脚孤丘 - 9区 - 41号 - 仅限个人购买\n拉诺西亚 - 高脚孤丘 - 21区 - 36号 - 仅限部队购买\n拉诺西亚 - 白银乡 - 13区 - 24号 - 仅限个人购买\n拉诺西亚 - 白银乡 - 23区 - 49号 - 仅限部队购买\n拉诺西亚 - 穹顶皓天 - 20区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 7号 - 个人\n拉诺西亚 - 海雾村 - 25区 - 34号 - 个人\n拉诺西亚 - 海雾村 - 27区 - 1号 - 个人\n拉诺西亚 - 海雾村 - 29区 - 4号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 17区 - 60号 - 其他\n拉诺西亚 - 高脚孤丘 - 9区 - 41号 - 个人\n拉诺西亚 - 高脚孤丘 - 21区 - 36号 - 部队\n拉诺西亚 - 白银乡 - 13区 - 24号 - 个人\n拉诺西亚 - 白银乡 - 23区 - 49号 - 部队\n拉诺西亚 - 穹顶皓天 - 20区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:M房抽选截止
-UID:ccebd8ce-5128-4286-bf0c-c05219875f52@cceb.org
+UID:2a92186b-261b-496c-9ebb-6b8f52769079@2a92.org
 END:VEVENT
 END:VCALENDAR

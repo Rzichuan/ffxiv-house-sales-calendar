@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 9区 - 7号 - 仅限个人购买\n神意之地 - 海雾村 - 15区 - 14号 - 仅限个人购买\n神意之地 - 高脚孤丘 - 12区 - 38号 - 仅限个人购买\n神意之地 - 高脚孤丘 - 26区 - 12号 - 仅限个人购买\n神意之地 - 白银乡 - 18区 - 28号 - 其他\n神意之地 - 白银乡 - 21区 - 28号 - 仅限部队购买\n神意之地 - 穹顶皓天 - 3区 - 32号 - 仅限个人购买\n神意之地 - 穹顶皓天 - 18区 - 2号 - 其他\n神意之地 - 穹顶皓天 - 19区 - 56号 - 其他\n神意之地 - 穹顶皓天 - 27区 - 7号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240802T150000Z
-SUMMARY:M房抽选截止
-UID:6ead5cb7-a556-4cb8-95f6-2827d05781d0@6ead.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 18区 - 45号 - 其他\n神意之地 - 穹顶皓天 - 14区 - 22号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 海雾村 - 18区 - 45号 - 其他\n神意之地 - 穹顶皓天 - 14区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:L房抽选截止
-UID:ab79d6f3-113e-430f-9ebb-936168fa0e2a@ab79.org
+UID:c628eb9b-836b-43b4-a8b8-1a0ca805744e@c628.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 9区 - 7号 - 个人\n神意之地 - 海雾村 - 15区 - 14号 - 个人\n神意之地 - 高脚孤丘 - 12区 - 38号 - 个人\n神意之地 - 高脚孤丘 - 26区 - 12号 - 个人\n神意之地 - 白银乡 - 18区 - 28号 - 其他\n神意之地 - 白银乡 - 21区 - 28号 - 部队\n神意之地 - 穹顶皓天 - 3区 - 32号 - 个人\n神意之地 - 穹顶皓天 - 18区 - 2号 - 其他\n神意之地 - 穹顶皓天 - 19区 - 56号 - 其他\n神意之地 - 穹顶皓天 - 27区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240802T150000Z
+SUMMARY:M房抽选截止
+UID:163b53a6-6a57-4d30-85ca-313bf722927d@163b.org
 END:VEVENT
 END:VCALENDAR

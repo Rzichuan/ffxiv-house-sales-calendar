@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 4区 - 49号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:M房抽选截止
-UID:920549bb-996b-47d1-a475-6df5b784206b@9205.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 9区 - 35号 - 仅限个人购买\n晨曦王座 - 白银乡 - 15区 - 60号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240802T150000Z
-SUMMARY:L房抽选截止
-UID:0685e02f-352f-4000-9799-fc5e0a679681@0685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 7区 - 58号 - 仅限个人购买\n晨曦王座 - 白银乡 - 17区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 7区 - 58号 - 个人\n晨曦王座 - 白银乡 - 17区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:L房抽选截止
-UID:d8171e58-2cf9-42aa-a453-15cd952463b7@d817.org
+UID:7e009b21-b2b1-4b38-ae5d-cfbd5db0905f@7e00.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 2区 - 14号 - 仅限个人购买\n晨曦王座 - 海雾村 - 11区 - 6号 - 仅限个人购买\n晨曦王座 - 薰衣草苗圃 - 22区 - 30号 - 仅限部队购买\n晨曦王座 - 高脚孤丘 - 19区 - 8号 - 其他\n晨曦王座 - 高脚孤丘 - 26区 - 12号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 4区 - 56号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 5区 - 2号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 9区 - 21号 - 仅限个人购买\n晨曦王座 - 穹顶皓天 - 14区 - 26号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 2区 - 14号 - 个人\n晨曦王座 - 海雾村 - 11区 - 6号 - 个人\n晨曦王座 - 薰衣草苗圃 - 22区 - 30号 - 部队\n晨曦王座 - 高脚孤丘 - 19区 - 8号 - 其他\n晨曦王座 - 高脚孤丘 - 26区 - 12号 - 个人\n晨曦王座 - 穹顶皓天 - 4区 - 56号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 9区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 14区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:M房抽选截止
-UID:9b3d17fc-3357-4b02-8690-138242796212@9b3d.org
+UID:95d3e163-930c-4c30-bee8-e7400015e1e2@95d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 4区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:M房抽选截止
+UID:b37bdf6e-2fb4-4a21-9baa-5e98695c18cb@b37b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 9区 - 35号 - 个人\n晨曦王座 - 白银乡 - 15区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240802T150000Z
+SUMMARY:L房抽选截止
+UID:8b215b6b-d895-4606-9ad1-302e0ea922c9@8b21.org
 END:VEVENT
 END:VCALENDAR

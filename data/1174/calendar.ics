@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 25区 - 33号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:L房抽选截止
-UID:00b82cfd-2e7f-4967-936a-0bb8865c9d80@00b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 2区 - 14号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 20区 - 41号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 26区 - 21号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 7区 - 12号 - 仅限个人购买\n沃仙曦染 - 高脚孤丘 - 19区 - 25号 - 其他\n沃仙曦染 - 高脚孤丘 - 20区 - 6号 - 其他\n沃仙曦染 - 白银乡 - 20区 - 8号 - 其他\n沃仙曦染 - 穹顶皓天 - 3区 - 47号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 海雾村 - 2区 - 14号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 20区 - 41号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 26区 - 21号 - 个人\n沃仙曦染 - 高脚孤丘 - 7区 - 12号 - 个人\n沃仙曦染 - 高脚孤丘 - 19区 - 25号 - 其他\n沃仙曦染 - 高脚孤丘 - 20区 - 6号 - 其他\n沃仙曦染 - 白银乡 - 20区 - 8号 - 其他\n沃仙曦染 - 穹顶皓天 - 3区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:M房抽选截止
-UID:50d8b3cd-1818-490b-859d-a261decccaef@50d8.org
+UID:8ef80260-b75b-4f9c-96f3-7600c76d6781@8ef8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 4区 - 21号 - 仅限个人购买\n沃仙曦染 - 薰衣草苗圃 - 17区 - 27号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 20区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 25区 - 33号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:L房抽选截止
+UID:38198a2b-79b8-4f5f-a79f-715ae3bb7400@3819.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 4区 - 21号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 17区 - 27号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 20区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:b7a7d1d6-6207-4cf5-ae39-3b0b985a8c7f@b7a7.org
+UID:1ad92f2d-e170-47dd-8ab4-eb9b3bf31f3b@1ad9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 13号 - 仅限个人购买\n沃仙曦染 - 白银乡 - 24区 - 30号 - 仅限部队购买\n沃仙曦染 - 白银乡 - 25区 - 30号 - 仅限个人购买\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 13号 - 个人\n沃仙曦染 - 白银乡 - 24区 - 30号 - 部队\n沃仙曦染 - 白银乡 - 25区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240802T150000Z
 SUMMARY:L房抽选截止
-UID:b0a58f81-112e-455e-9edd-de02407205b8@b0a5.org
+UID:438ce6fc-b343-42de-bf2d-b54ebffa8afe@438c.org
 END:VEVENT
 END:VCALENDAR
