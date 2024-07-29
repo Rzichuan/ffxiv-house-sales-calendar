@@ -24,7 +24,7 @@ jobs:
 
       - name: Run script
         run: |
-          python your_script_name.py
+          python chocobo_house.py
 
       - name: Upload files as artifact
         uses: actions/upload-artifact@v4
