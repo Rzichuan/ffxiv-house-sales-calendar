@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 薰衣草苗圃 - 9区 - 35号 - 个人\n萌芽池 - 高脚孤丘 - 3区 - 38号 - 个人\n萌芽池 - 白银乡 - 20区 - 24号 - 其他\n萌芽池 - 白银乡 - 22区 - 24号 - 部队\n萌芽池 - 穹顶皓天 - 3区 - 21号 - 个人\n萌芽池 - 穹顶皓天 - 6区 - 21号 - 个人\n萌芽池 - 穹顶皓天 - 9区 - 38号 - 个人\n萌芽池 - 穹顶皓天 - 10区 - 2号 - 个人\n萌芽池 - 穹顶皓天 - 13区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240802T150000Z
-SUMMARY:M房抽选截止
-UID:f499814b-738b-4047-9b92-1c0ac1d953e7@f499.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 25区 - 27号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:5ed6ab0e-3012-45bf-ba77-1256bb2e72ff@5ed6.org
+UID:02571345-6523-418f-a622-d1b55ef0c665@0257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 薰衣草苗圃 - 9区 - 35号 - 个人\n萌芽池 - 高脚孤丘 - 3区 - 38号 - 个人\n萌芽池 - 白银乡 - 20区 - 24号 - 其他\n萌芽池 - 白银乡 - 22区 - 24号 - 部队\n萌芽池 - 穹顶皓天 - 3区 - 21号 - 个人\n萌芽池 - 穹顶皓天 - 6区 - 21号 - 个人\n萌芽池 - 穹顶皓天 - 9区 - 38号 - 个人\n萌芽池 - 穹顶皓天 - 10区 - 2号 - 个人\n萌芽池 - 穹顶皓天 - 13区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240802T150000Z
+SUMMARY:M房抽选截止
+UID:48b4a210-ae84-4106-9cb6-d58c44424cd9@48b4.org
 END:VEVENT
 END:VCALENDAR
