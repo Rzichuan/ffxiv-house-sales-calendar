@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:红玉海 - 高脚孤丘 - 10区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:L房抽选截止
+UID:f0c6d98d-a949-4393-af13-04cd823dbb42@f0c6.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 11区 - 36号 - 个人\n红玉海 - 高脚孤丘 - 30区 - 34号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:3d14746b-f708-4d7c-ad41-5345a8ff9e41@3d14.org
+UID:94dccc6f-2f9f-4211-8167-bdcda9a6af4d@94dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 19区 - 43号 - 其他\n红玉海 - 白银乡 - 1区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:L房抽选截止
-UID:20061d88-173c-4c88-b6af-2d7b72b39502@2006.org
+UID:b56243a2-d0b8-4b20-9158-75ac25333113@b562.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 10区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:L房抽选截止
-UID:3f6eed02-62a8-44c6-bbe9-98978494d622@3f6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 8区 - 1号 - 个人\n红玉海 - 海雾村 - 10区 - 31号 - 个人\n红玉海 - 海雾村 - 12区 - 14号 - 个人\n红玉海 - 海雾村 - 13区 - 34号 - 个人\n红玉海 - 海雾村 - 16区 - 1号 - 个人\n红玉海 - 海雾村 - 24区 - 30号 - 部队\n红玉海 - 海雾村 - 28区 - 30号 - 其他\n红玉海 - 薰衣草苗圃 - 12区 - 46号 - 个人\n红玉海 - 薰衣草苗圃 - 13区 - 41号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 31号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 32号 - 部队\n红玉海 - 穹顶皓天 - 26区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 8区 - 1号 - 个人\n红玉海 - 海雾村 - 10区 - 31号 - 个人\n红玉海 - 海雾村 - 12区 - 14号 - 个人\n红玉海 - 海雾村 - 13区 - 34号 - 个人\n红玉海 - 海雾村 - 16区 - 1号 - 个人\n红玉海 - 海雾村 - 24区 - 30号 - 部队\n红玉海 - 海雾村 - 28区 - 30号 - 其他\n红玉海 - 薰衣草苗圃 - 12区 - 46号 - 个人\n红玉海 - 薰衣草苗圃 - 13区 - 41号 - 个人\n红玉海 - 薰衣草苗圃 - 16区 - 51号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 31号 - 其他\n红玉海 - 白银乡 - 24区 - 15号 - 部队\n红玉海 - 穹顶皓天 - 1区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 32号 - 部队\n红玉海 - 穹顶皓天 - 26区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:M房抽选截止
-UID:38e0f589-d3be-4884-bdc8-606bdb89e288@38e0.org
+UID:8eaeb311-5a0d-4d88-80e8-246da50a0014@8eae.org
 END:VEVENT
 END:VCALENDAR
