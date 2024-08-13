@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 26区 - 44号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 25区 - 14号 - 个人\n幻影群岛 - 海雾村 - 26区 - 44号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 12号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 49号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 19区 - 36号 - 其他\n幻影群岛 - 白银乡 - 19区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:M房抽选截止
-UID:1a4e9f99-e931-44a0-816e-5de990eb783d@1a4e.org
+UID:e8cf29db-8023-48f1-bb2a-27d8baae53a8@e8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 10区 - 1号 - 个人\n幻影群岛 - 海雾村 - 12区 - 29号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 34号 - 个人\n幻影群岛 - 白银乡 - 6区 - 19号 - 个人\n幻影群岛 - 白银乡 - 10区 - 49号 - 个人\n幻影群岛 - 白银乡 - 13区 - 24号 - 个人\n幻影群岛 - 白银乡 - 16区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240811T150000Z
+SUMMARY:M房抽选截止
+UID:6c059fc1-9099-4027-94cc-a7c0424354ce@6c05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 22区 - 33号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:L房抽选截止
-UID:9385c074-782e-46de-b034-213181ae2e0a@9385.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 10区 - 1号 - 个人\n幻影群岛 - 海雾村 - 12区 - 29号 - 个人\n幻影群岛 - 海雾村 - 22区 - 29号 - 部队\n幻影群岛 - 薰衣草苗圃 - 8区 - 35号 - 个人\n幻影群岛 - 薰衣草苗圃 - 11区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 12区 - 35号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 11号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 19区 - 49号 - 其他\n幻影群岛 - 白银乡 - 6区 - 19号 - 个人\n幻影群岛 - 白银乡 - 10区 - 49号 - 个人\n幻影群岛 - 白银乡 - 13区 - 24号 - 个人\n幻影群岛 - 白银乡 - 16区 - 43号 - 个人\n幻影群岛 - 白银乡 - 17区 - 28号 - 其他\n幻影群岛 - 白银乡 - 25区 - 13号 - 个人\n幻影群岛 - 穹顶皓天 - 26区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:M房抽选截止
-UID:0c8343e1-6a81-40ff-aacb-fd028e6785a8@0c83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 12区 - 36号 - 个人\n幻影群岛 - 薰衣草苗圃 - 28区 - 58号 - 其他\n幻影群岛 - 高脚孤丘 - 17区 - 60号 - 其他\n幻影群岛 - 穹顶皓天 - 5区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
-SUMMARY:L房抽选截止
-UID:2721ec05-b9b1-4aba-96df-a4408cc408ff@2721.org
+UID:5ec9dbd6-4963-4d05-959e-b8382c9a4547@5ec9.org
 END:VEVENT
 END:VCALENDAR
