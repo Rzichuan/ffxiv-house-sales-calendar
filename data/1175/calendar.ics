@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 12区 - 37号 - 个人\n晨曦王座 - 薰衣草苗圃 - 27区 - 16号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 8号 - 个人\n晨曦王座 - 高脚孤丘 - 28区 - 42号 - 其他\n晨曦王座 - 白银乡 - 14区 - 1号 - 个人\n晨曦王座 - 白银乡 - 22区 - 8号 - 部队\n晨曦王座 - 白银乡 - 26区 - 54号 - 个人\n晨曦王座 - 穹顶皓天 - 27区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:930b525f-a0f4-4da9-afe7-57536ae1d904@930b.org
+UID:e870efa2-6af2-40a7-8bd7-370cbd3c2cb6@e870.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 29区 - 60号 - 其他\n晨曦王座 - 高脚孤丘 - 6区 - 42号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 34号 - 个人\n晨曦王座 - 白银乡 - 22区 - 15号 - 部队\n晨曦王座 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:M房抽选截止
-UID:e40178cd-37ac-4f1f-9253-d62d463a0c68@e401.org
+UID:59a69128-f1ce-4c48-96c5-f0f9172aa885@59a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:L房抽选截止
-UID:a46c43e0-ebe9-4621-8e38-78b3829376dd@a46c.org
+UID:9552084e-3c80-4402-bfa5-404e0fa708e9@9552.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 17区 - 60号 - 其他\n晨曦王座 - 穹顶皓天 - 8区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:L房抽选截止
-UID:67be41d0-6331-486e-b77a-f531b78e4b5c@67be.org
+UID:9b9afd5d-a795-4319-bb51-fc1bced03d79@9b9a.org
 END:VEVENT
 END:VCALENDAR
