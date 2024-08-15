@@ -103,23 +103,6 @@
     },
     {
         "Server": 1167,
-        "Area": 0,
-        "Slot": 27,
-        "ID": 30,
-        "Price": 20000000,
-        "Size": 1,
-        "FirstSeen": 1722958977,
-        "LastSeen": 1723384779,
-        "State": 1,
-        "Participate": 86,
-        "Winner": 0,
-        "EndTime": 1723388400,
-        "UpdateTime": 1723306828,
-        "PurchaseType": 2,
-        "RegionType": 0
-    },
-    {
-        "Server": 1167,
         "Area": 1,
         "Slot": 11,
         "ID": 46,
