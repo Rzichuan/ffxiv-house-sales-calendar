@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 3区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240820T150000Z
+SUMMARY:L房抽选截止
+UID:04a4e1b0-79f0-4d9c-9382-b273301e0020@04a4.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 白银乡 - 24区 - 19号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:3a21f2fe-f7c1-4b2a-9353-1d804d88882e@3a21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 9区 - 4号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 24区 - 51号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 29区 - 27号 - 其他\n拉诺西亚 - 高脚孤丘 - 4区 - 38号 - 个人\n拉诺西亚 - 高脚孤丘 - 11区 - 34号 - 个人\n拉诺西亚 - 白银乡 - 18区 - 1号 - 其他\n拉诺西亚 - 白银乡 - 20区 - 8号 - 其他\n拉诺西亚 - 白银乡 - 27区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:M房抽选截止
-UID:c73ce4ad-fd18-47dd-9329-a5d6b8dff81f@c73c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 2区 - 29号 - 个人\n拉诺西亚 - 穹顶皓天 - 9区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:M房抽选截止
-UID:d35ca8eb-2fa2-468a-b977-045863afc3f3@d35c.org
+UID:ab7e9b5c-a689-41d3-b233-82d081498ada@ab7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 白银乡 - 20区 - 37号 - 其他\n拉诺西亚 - 白银乡 - 25区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:L房抽选截止
-UID:319358c6-cf17-4a3e-9300-5d48a968581a@3193.org
+UID:eb5ea1c8-e5b7-4457-8e2e-3e67f55272c1@eb5e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 3区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 2区 - 29号 - 个人\n拉诺西亚 - 穹顶皓天 - 9区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240829T150000Z
+SUMMARY:M房抽选截止
+UID:148c2857-45fe-4eed-83f6-a6ad0213139a@148c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 9区 - 4号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 24区 - 51号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 29区 - 27号 - 其他\n拉诺西亚 - 高脚孤丘 - 4区 - 38号 - 个人\n拉诺西亚 - 高脚孤丘 - 11区 - 34号 - 个人\n拉诺西亚 - 白银乡 - 18区 - 1号 - 其他\n拉诺西亚 - 白银乡 - 20区 - 8号 - 其他\n拉诺西亚 - 白银乡 - 27区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
-SUMMARY:L房抽选截止
-UID:b2ed44d0-709b-42e2-b8a7-9925da22403d@b2ed.org
+SUMMARY:M房抽选截止
+UID:908f6798-bd79-4580-8d05-013e0d1bf236@908f.org
 END:VEVENT
 END:VCALENDAR
