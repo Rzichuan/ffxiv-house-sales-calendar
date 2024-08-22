@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 9区 - 35号 - 个人\n拉诺西亚 - 白银乡 - 20区 - 37号 - 其他\n拉诺西亚 - 白银乡 - 25区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240829T150000Z
+SUMMARY:L房抽选截止
+UID:423da621-b175-482a-9d14-45514084da54@423d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 24区 - 51号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 29区 - 27号 - 其他\n拉诺西亚 - 白银乡 - 18区 - 1号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20240820T150000Z
+SUMMARY:M房抽选截止
+UID:386f52e1-6c43-4b53-a20b-57a793a23f24@386f.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 3区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:L房抽选截止
-UID:04a4e1b0-79f0-4d9c-9382-b273301e0020@04a4.org
+UID:0b2ad162-6559-410a-9655-50aa6837755d@0b2a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 白银乡 - 24区 - 19号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240811T150000Z
 SUMMARY:M房抽选截止
-UID:ab7e9b5c-a689-41d3-b233-82d081498ada@ab7e.org
+UID:e19771db-9047-4763-b72e-f851f8b534bb@e197.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 20区 - 37号 - 其他\n拉诺西亚 - 白银乡 - 25区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:L房抽选截止
-UID:eb5ea1c8-e5b7-4457-8e2e-3e67f55272c1@eb5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 2区 - 29号 - 个人\n拉诺西亚 - 穹顶皓天 - 9区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 2区 - 29号 - 个人\n拉诺西亚 - 海雾村 - 15区 - 7号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 3区 - 21号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 5号 - 个人\n拉诺西亚 - 高脚孤丘 - 5区 - 12号 - 个人\n拉诺西亚 - 高脚孤丘 - 12区 - 4号 - 个人\n拉诺西亚 - 穹顶皓天 - 9区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:M房抽选截止
-UID:148c2857-45fe-4eed-83f6-a6ad0213139a@148c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 9区 - 4号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 24区 - 51号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 29区 - 27号 - 其他\n拉诺西亚 - 高脚孤丘 - 4区 - 38号 - 个人\n拉诺西亚 - 高脚孤丘 - 11区 - 34号 - 个人\n拉诺西亚 - 白银乡 - 18区 - 1号 - 其他\n拉诺西亚 - 白银乡 - 20区 - 8号 - 其他\n拉诺西亚 - 白银乡 - 27区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:M房抽选截止
-UID:908f6798-bd79-4580-8d05-013e0d1bf236@908f.org
+UID:910646d7-14f4-432c-94c4-a3c3e1d4600e@9106.org
 END:VEVENT
 END:VCALENDAR
