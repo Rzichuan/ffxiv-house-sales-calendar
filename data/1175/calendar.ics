@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:L房抽选截止
-UID:d3ada946-bf60-4200-964b-74c3fea7ca3b@d3ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 6区 - 42号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 34号 - 个人\n晨曦王座 - 白银乡 - 7区 - 15号 - 个人\n晨曦王座 - 白银乡 - 22区 - 15号 - 部队\n晨曦王座 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:M房抽选截止
-UID:f8eec16d-0ece-4cb6-b98e-164015ffaa74@f8ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 19区 - 6号 - 其他\n晨曦王座 - 高脚孤丘 - 27区 - 4号 - 个人\n晨曦王座 - 穹顶皓天 - 7区 - 7号 - 个人\n晨曦王座 - 穹顶皓天 - 21区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:M房抽选截止
-UID:b4fb4bc3-d9cd-4829-8b16-f6d5e7448143@b4fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 32号 - 其他\n晨曦王座 - 高脚孤丘 - 17区 - 30号 - 其他\n晨曦王座 - 白银乡 - 24区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 32号 - 其他\n晨曦王座 - 海雾村 - 29区 - 2号 - 其他\n晨曦王座 - 高脚孤丘 - 17区 - 30号 - 其他\n晨曦王座 - 白银乡 - 24区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:L房抽选截止
-UID:133fa243-b48a-47ab-b73f-c42a84cbeb76@133f.org
+UID:04bf7b82-b16d-491d-bc09-78272ed16d3c@04bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 23区 - 31号 - 部队\n晨曦王座 - 高脚孤丘 - 27区 - 4号 - 个人\n晨曦王座 - 白银乡 - 12区 - 19号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 56号 - 个人\n晨曦王座 - 穹顶皓天 - 21区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20240829T150000Z
+SUMMARY:M房抽选截止
+UID:afdfc2d9-ce17-4876-b169-11e941064011@afdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240820T150000Z
+SUMMARY:L房抽选截止
+UID:a4f60b7b-a382-4ad8-89b9-cabddc79b59a@a4f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 22区 - 15号 - 部队\n晨曦王座 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240820T150000Z
+SUMMARY:M房抽选截止
+UID:700746f9-2eea-4f94-af11-3b9db438580f@7007.org
 END:VEVENT
 END:VCALENDAR
