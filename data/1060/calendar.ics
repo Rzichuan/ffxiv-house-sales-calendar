@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 薰衣草苗圃 - 22区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
+SUMMARY:L房抽选截止
+UID:6660b401-54ab-4414-9532-0c47ed4b53e6@6660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 白银乡 - 4区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240829T150000Z
+SUMMARY:L房抽选截止
+UID:073ad7c3-1a4a-4c9c-b8a0-66f0135b3e9a@073a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 12区 - 29号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:M房抽选截止
-UID:aa270525-1f9b-4518-83d6-ba214c3ed663@aa27.org
+UID:db316b93-59b1-4009-8bc0-99dfb5d217cb@db31.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 高脚孤丘 - 27区 - 5号 - 个人\n萌芽池 - 穹顶皓天 - 28区 - 52号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:L房抽选截止
-UID:b53d3b56-ff31-48e1-8442-c44a1b97e61a@b53d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 薰衣草苗圃 - 25区 - 27号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240811T150000Z
+DESCRIPTION:萌芽池 - 薰衣草苗圃 - 4区 - 27号 - 个人\n萌芽池 - 高脚孤丘 - 15区 - 55号 - 个人\n萌芽池 - 高脚孤丘 - 28区 - 38号 - 其他\n萌芽池 - 白银乡 - 8区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
 SUMMARY:M房抽选截止
-UID:7ea9a267-3851-4c29-b7ed-7bde508dbddc@7ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 4区 - 7号 - 个人\n萌芽池 - 穹顶皓天 - 15区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:L房抽选截止
-UID:6965fade-8b4e-4571-869f-335172a7742c@6965.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 高脚孤丘 - 16区 - 49号 - 个人\n萌芽池 - 高脚孤丘 - 18区 - 11号 - 其他\n萌芽池 - 白银乡 - 10区 - 28号 - 个人\n萌芽池 - 白银乡 - 15区 - 54号 - 个人\n萌芽池 - 白银乡 - 26区 - 58号 - 个人\n萌芽池 - 穹顶皓天 - 24区 - 7号 - 部队\n萌芽池 - 穹顶皓天 - 25区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:M房抽选截止
-UID:0c67c2fc-763b-4680-abb4-0fef8524f7e8@0c67.org
+UID:48c255db-990c-4066-b5a3-05793835585f@48c2.org
 END:VEVENT
 END:VCALENDAR
