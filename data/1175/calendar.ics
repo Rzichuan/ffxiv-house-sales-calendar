@@ -2,33 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 23区 - 31号 - 部队\n晨曦王座 - 高脚孤丘 - 27区 - 4号 - 个人\n晨曦王座 - 白银乡 - 12区 - 19号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:M房抽选截止
-UID:7f58da52-9e67-4e41-99f2-570c505fa0fe@7f58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:M房抽选截止
-UID:18107004-2fcf-4161-a372-254386130161@1810.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 32号 - 其他\n晨曦王座 - 海雾村 - 29区 - 2号 - 其他\n晨曦王座 - 高脚孤丘 - 17区 - 30号 - 其他\n晨曦王座 - 白银乡 - 24区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:L房抽选截止
-UID:61f108c0-569e-4c29-9518-6e189a9fa936@61f1.org
+UID:a321b57a-a524-46cc-963a-27252a7619b1@a321.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 23区 - 31号 - 部队\n晨曦王座 - 高脚孤丘 - 27区 - 4号 - 个人\n晨曦王座 - 白银乡 - 12区 - 19号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240829T150000Z
+SUMMARY:M房抽选截止
+UID:776f4089-268d-4bba-85b1-62653a2f9bb1@776f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 穹顶皓天 - 10区 - 60号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
 SUMMARY:L房抽选截止
-UID:b8869dcb-3929-4614-bd7f-9604c7eba9ac@b886.org
+UID:121bfcb4-c059-416f-aec1-9c140ef08c09@121b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240907T150000Z
 SUMMARY:M房抽选截止
-UID:3710fe66-ce02-459e-b931-22ecf46fbf51@3710.org
+UID:4f4239a6-fae0-4020-ad9d-59c36975573c@4f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240820T150000Z
+SUMMARY:M房抽选截止
+UID:77e9904e-77c7-4e73-92b9-65e946ea76fe@77e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240820T150000Z
+SUMMARY:L房抽选截止
+UID:446c8f01-2899-4c31-9823-87e6e219558e@446c.org
 END:VEVENT
 END:VCALENDAR
