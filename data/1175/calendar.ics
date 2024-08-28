@@ -5,36 +5,36 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 32号 - 其他\n晨曦王座 - 海雾村 - 29区 - 2号 - 其他\n晨曦王座 - 高脚孤丘 - 17区 - 30号 - 其他\n晨曦王座 - 白银乡 - 24区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:L房抽选截止
-UID:a321b57a-a524-46cc-963a-27252a7619b1@a321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 23区 - 31号 - 部队\n晨曦王座 - 高脚孤丘 - 27区 - 4号 - 个人\n晨曦王座 - 白银乡 - 12区 - 19号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:M房抽选截止
-UID:776f4089-268d-4bba-85b1-62653a2f9bb1@776f.org
+UID:2b88ac52-8b95-471e-aa28-7d82df744200@2b88.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 穹顶皓天 - 10区 - 60号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240907T150000Z
 SUMMARY:L房抽选截止
-UID:121bfcb4-c059-416f-aec1-9c140ef08c09@121b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240907T150000Z
-SUMMARY:M房抽选截止
-UID:4f4239a6-fae0-4020-ad9d-59c36975573c@4f42.org
+UID:e0bce1d8-fbf3-47a6-a395-8cff41e82753@e0bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:M房抽选截止
-UID:77e9904e-77c7-4e73-92b9-65e946ea76fe@77e9.org
+UID:77743f2c-130c-4bd7-b135-5cadaf7a95fb@7774.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 23区 - 31号 - 部队\n晨曦王座 - 高脚孤丘 - 27区 - 4号 - 个人\n晨曦王座 - 白银乡 - 12区 - 19号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240829T150000Z
+SUMMARY:M房抽选截止
+UID:674f1434-5096-4e6a-93cb-4186f81717dc@674f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:L房抽选截止
-UID:446c8f01-2899-4c31-9823-87e6e219558e@446c.org
+UID:fdbffabd-08f6-442a-ba1d-312f4fbb5ea8@fdbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
+SUMMARY:M房抽选截止
+UID:570b7c05-dd1d-4ca9-a52e-35a980a39523@570b.org
 END:VEVENT
 END:VCALENDAR
