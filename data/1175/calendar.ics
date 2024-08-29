@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 32号 - 其他\n晨曦王座 - 海雾村 - 29区 - 2号 - 其他\n晨曦王座 - 高脚孤丘 - 17区 - 30号 - 其他\n晨曦王座 - 白银乡 - 24区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:L房抽选截止
-UID:2b88ac52-8b95-471e-aa28-7d82df744200@2b88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 穹顶皓天 - 10区 - 60号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240907T150000Z
-SUMMARY:L房抽选截止
-UID:e0bce1d8-fbf3-47a6-a395-8cff41e82753@e0bc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 穹顶皓天 - 25区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240820T150000Z
 SUMMARY:M房抽选截止
-UID:77743f2c-130c-4bd7-b135-5cadaf7a95fb@7774.org
+UID:0a359e12-5ee2-4927-a80c-d899189459b1@0a35.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 23区 - 31号 - 部队\n晨曦王座 - 高脚孤丘 - 27区 - 4号 - 个人\n晨曦王座 - 白银乡 - 12区 - 19号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:M房抽选截止
-UID:674f1434-5096-4e6a-93cb-4186f81717dc@674f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240820T150000Z
-SUMMARY:L房抽选截止
-UID:fdbffabd-08f6-442a-ba1d-312f4fbb5ea8@fdbf.org
+UID:6f81e595-31c1-41c8-bd70-64d2a4360ea2@6f81.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240907T150000Z
 SUMMARY:M房抽选截止
-UID:570b7c05-dd1d-4ca9-a52e-35a980a39523@570b.org
+UID:4169f88c-47e3-443a-9ccc-bd8f6fc3fcf6@4169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240820T150000Z
+SUMMARY:L房抽选截止
+UID:313ccbb0-d2c5-49e0-9df8-006078289130@313c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 32号 - 其他\n晨曦王座 - 海雾村 - 29区 - 2号 - 其他\n晨曦王座 - 高脚孤丘 - 17区 - 30号 - 其他\n晨曦王座 - 白银乡 - 24区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20240829T150000Z
+SUMMARY:L房抽选截止
+UID:eaf1d722-0e89-48ac-986d-952fa761f61e@eaf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 穹顶皓天 - 10区 - 60号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
+SUMMARY:L房抽选截止
+UID:fff8d407-add6-4e0b-8bea-ea5910f4b18b@fff8.org
 END:VEVENT
 END:VCALENDAR
