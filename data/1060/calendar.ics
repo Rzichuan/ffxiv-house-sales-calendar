@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 薰衣草苗圃 - 22区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20240907T150000Z
-SUMMARY:L房抽选截止
-UID:63f8bb65-e873-4d5c-9ae9-684bc2827474@63f8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 12区 - 29号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:M房抽选截止
-UID:ac55e595-ed65-4204-a10f-cd5346086749@ac55.org
+UID:a80dd221-dcb9-4254-a5f0-b82a84eab533@a80d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 4区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
+DESCRIPTION:萌芽池 - 薰衣草苗圃 - 22区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
 SUMMARY:L房抽选截止
-UID:f5a45df9-682a-48db-b59f-32fb37cbfdeb@f5a4.org
+UID:64349325-14d7-4964-919e-80717ebf7b42@6434.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 4区 - 27号 - 个人\n萌芽池 - 高脚孤丘 - 1区 - 6号 - 个人\n萌芽池 - 高脚孤丘 - 8区 - 49号 - 个人\n萌芽池 - 高脚孤丘 - 15区 - 55号 - 个人\n萌芽池 - 高脚孤丘 - 28区 - 38号 - 其他\n萌芽池 - 白银乡 - 8区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240907T150000Z
 SUMMARY:M房抽选截止
-UID:2b959f47-4d1a-4bab-9150-695eb77fb895@2b95.org
+UID:ff379a5f-f7da-4856-adfc-f0a0a27f5d6f@ff37.org
 END:VEVENT
 END:VCALENDAR
