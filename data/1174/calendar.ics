@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 白银乡 - 26区 - 60号 - 个人\n沃仙曦染 - 白银乡 - 27区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 14区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
-SUMMARY:L房抽选截止
-UID:7050312c-39c9-43f1-bc3b-f14ac10466d0@7050.org
+SUMMARY:M房抽选截止
+UID:9e244ce7-54b2-432c-aac1-968b1cd6be1c@9e24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 海雾村 - 3区 - 37号 - 个人\n沃仙曦染 - 高脚孤丘 - 2区 - 11号 - 个人\n沃仙曦染 - 高脚孤丘 - 12区 - 41号 - 个人\n沃仙曦染 - 白银乡 - 27区 - 15号 - 个人\n沃仙曦染 - 穹顶皓天 - 3区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
+SUMMARY:M房抽选截止
+UID:547f377a-e8f3-4ef3-9eb9-8dd0a9b50385@547f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 高脚孤丘 - 24区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240907T150000Z
 SUMMARY:L房抽选截止
-UID:25dbe8e6-9b6a-4283-9da6-dc7a8783b686@25db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 2区 - 11号 - 个人\n沃仙曦染 - 高脚孤丘 - 12区 - 41号 - 个人\n沃仙曦染 - 白银乡 - 27区 - 15号 - 个人\n沃仙曦染 - 穹顶皓天 - 3区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240907T150000Z
-SUMMARY:M房抽选截止
-UID:4064aea6-1a3d-4f15-b7ad-4e3bd46dd115@4064.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 14区 - 42号 - 个人\n沃仙曦染 - 高脚孤丘 - 25区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240829T150000Z
-SUMMARY:M房抽选截止
-UID:fd6248d1-c039-4f9f-8a5a-b99514245a86@fd62.org
+UID:d4c1fea7-cc23-4b59-8127-5c016ea9bb0f@d4c1.org
 END:VEVENT
 END:VCALENDAR

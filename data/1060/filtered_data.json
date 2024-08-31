@@ -35,23 +35,6 @@
     },
     {
         "Server": 1060,
-        "Area": 1,
-        "Slot": 21,
-        "ID": 36,
-        "Price": 40000000,
-        "Size": 2,
-        "FirstSeen": 1724516350,
-        "LastSeen": 1724941026,
-        "State": 1,
-        "Participate": 207,
-        "Winner": 0,
-        "EndTime": 1724943600,
-        "UpdateTime": 1724922630,
-        "PurchaseType": 2,
-        "RegionType": 1
-    },
-    {
-        "Server": 1060,
         "Area": 2,
         "Slot": 0,
         "ID": 6,
@@ -117,22 +100,5 @@
         "UpdateTime": 0,
         "PurchaseType": 2,
         "RegionType": 0
-    },
-    {
-        "Server": 1060,
-        "Area": 3,
-        "Slot": 7,
-        "ID": 38,
-        "Price": 20000000,
-        "Size": 1,
-        "FirstSeen": 1724516310,
-        "LastSeen": 1724945338,
-        "State": 1,
-        "Participate": 21,
-        "Winner": 0,
-        "EndTime": 1724943600,
-        "UpdateTime": 1724665595,
-        "PurchaseType": 2,
-        "RegionType": 2
     }
 ]

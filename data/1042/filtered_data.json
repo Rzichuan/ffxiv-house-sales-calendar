@@ -121,23 +121,6 @@
     {
         "Server": 1042,
         "Area": 3,
-        "Slot": 19,
-        "ID": 37,
-        "Price": 42500000,
-        "Size": 2,
-        "FirstSeen": 1723901882,
-        "LastSeen": 1724775826,
-        "State": 1,
-        "Participate": 244,
-        "Winner": 0,
-        "EndTime": 1724943600,
-        "UpdateTime": 1724775855,
-        "PurchaseType": 2,
-        "RegionType": 0
-    },
-    {
-        "Server": 1042,
-        "Area": 3,
         "Slot": 24,
         "ID": 46,
         "Price": 40000000,
