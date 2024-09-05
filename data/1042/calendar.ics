@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 24区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20240916T150000Z
+SUMMARY:M房抽选截止
+UID:9d704739-1af4-4086-a141-248cba8f6974@9d70.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 9区 - 1号 - 个人\n拉诺西亚 - 海雾村 - 10区 - 60号 - 个人\n拉诺西亚 - 海雾村 - 11区 - 1号 - 个人\n拉诺西亚 - 海雾村 - 16区 - 31号 - 个人\n拉诺西亚 - 高脚孤丘 - 9区 - 36号 - 个人\n拉诺西亚 - 高脚孤丘 - 25区 - 19号 - 个人\n拉诺西亚 - 穹顶皓天 - 16区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240907T150000Z
 SUMMARY:M房抽选截止
-UID:b397c835-43cd-40c3-ae8c-fafb9210391e@b397.org
+UID:f9f54e2d-98d4-40f9-b1e8-6e3b73511aea@f9f5.org
 END:VEVENT
 END:VCALENDAR

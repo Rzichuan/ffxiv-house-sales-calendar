@@ -5,30 +5,30 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 6区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:L房抽选截止
-UID:681bc38e-8f2e-4333-b044-d47712507b96@681b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 4区 - 36号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240916T150000Z
-SUMMARY:M房抽选截止
-UID:6c198243-90e1-4d69-b0bb-ee3c0859bde1@6c19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 22区 - 6号 - 部队\n红玉海 - 海雾村 - 26区 - 36号 - 个人\n红玉海 - 薰衣草苗圃 - 7区 - 57号 - 个人\n红玉海 - 薰衣草苗圃 - 23区 - 51号 - 部队\n红玉海 - 白银乡 - 12区 - 1号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240907T150000Z
-SUMMARY:M房抽选截止
-UID:fcab6b79-f2c2-4fb9-8525-8468443fb591@fcab.org
+UID:36ad5075-fbf5-44ef-8a89-6abf64543065@36ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 17区 - 6号 - 其他\n红玉海 - 高脚孤丘 - 4区 - 43号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240916T150000Z
 SUMMARY:L房抽选截止
-UID:98578da4-4027-4402-a6dc-5f00a4d5d234@9857.org
+UID:96717362-d7ce-4e76-a039-b5e7a14c3f80@9671.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 4区 - 59号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:M房抽选截止
-UID:3cdbaef0-8c35-4257-8462-3a2a5fbcfc24@3cdb.org
+UID:cfc8a69a-8ccf-406f-b170-e54d5ad6a733@cfc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 高脚孤丘 - 4区 - 36号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 36号 - 个人\n红玉海 - 高脚孤丘 - 28区 - 55号 - 其他\n红玉海 - 白银乡 - 11区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240916T150000Z
+SUMMARY:M房抽选截止
+UID:8846866b-cca7-41ae-b4b4-bd3a13c6d85a@8846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 22区 - 6号 - 部队\n红玉海 - 海雾村 - 26区 - 36号 - 个人\n红玉海 - 薰衣草苗圃 - 7区 - 57号 - 个人\n红玉海 - 薰衣草苗圃 - 23区 - 51号 - 部队\n红玉海 - 白银乡 - 12区 - 1号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240907T150000Z
+SUMMARY:M房抽选截止
+UID:4f03b223-697a-482a-915c-66b7323e5656@4f03.org
 END:VEVENT
 END:VCALENDAR
