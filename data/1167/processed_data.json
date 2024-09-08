@@ -37,19 +37,19 @@
     },
     {
         "Area": 1,
-        "ID": 57,
-        "Slot": 6,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1167,
-        "Purchase_endtime": 1725721200
-    },
-    {
-        "Area": 1,
         "ID": 6,
         "Slot": 16,
         "RegionType": 0,
         "Size": 2,
+        "Server": 1167,
+        "Purchase_endtime": 1726498800
+    },
+    {
+        "Area": 1,
+        "ID": 35,
+        "Slot": 17,
+        "RegionType": 0,
+        "Size": 1,
         "Server": 1167,
         "Purchase_endtime": 1726498800
     },
@@ -61,15 +61,6 @@
         "Size": 1,
         "Server": 1167,
         "Purchase_endtime": 1725721200
-    },
-    {
-        "Area": 2,
-        "ID": 36,
-        "Slot": 3,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1167,
-        "Purchase_endtime": 1726498800
     },
     {
         "Area": 2,
@@ -91,18 +82,18 @@
     },
     {
         "Area": 2,
-        "ID": 43,
-        "Slot": 11,
-        "RegionType": 2,
-        "Size": 2,
+        "ID": 55,
+        "Slot": 27,
+        "RegionType": 0,
+        "Size": 1,
         "Server": 1167,
         "Purchase_endtime": 1726498800
     },
     {
-        "Area": 2,
-        "ID": 55,
-        "Slot": 27,
-        "RegionType": 0,
+        "Area": 3,
+        "ID": 31,
+        "Slot": 3,
+        "RegionType": 2,
         "Size": 1,
         "Server": 1167,
         "Purchase_endtime": 1726498800
@@ -124,5 +115,32 @@
         "Size": 1,
         "Server": 1167,
         "Purchase_endtime": 1725721200
+    },
+    {
+        "Area": 4,
+        "ID": 48,
+        "Slot": 3,
+        "RegionType": 2,
+        "Size": 1,
+        "Server": 1167,
+        "Purchase_endtime": 1726498800
+    },
+    {
+        "Area": 4,
+        "ID": 26,
+        "Slot": 9,
+        "RegionType": 2,
+        "Size": 1,
+        "Server": 1167,
+        "Purchase_endtime": 1726498800
+    },
+    {
+        "Area": 4,
+        "ID": 12,
+        "Slot": 11,
+        "RegionType": 2,
+        "Size": 2,
+        "Server": 1167,
+        "Purchase_endtime": 1726498800
     }
 ]
