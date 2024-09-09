@@ -126,12 +126,12 @@
         "Price": 19000000,
         "Size": 1,
         "FirstSeen": 1724938431,
-        "LastSeen": 1725703348,
-        "State": 1,
-        "Participate": 39,
-        "Winner": 0,
-        "EndTime": 1725721200,
-        "UpdateTime": 1725516616,
+        "LastSeen": 1725785898,
+        "State": 2,
+        "Participate": 58,
+        "Winner": 1,
+        "EndTime": 1726066800,
+        "UpdateTime": 1725785945,
         "PurchaseType": 2,
         "RegionType": 2
     }
