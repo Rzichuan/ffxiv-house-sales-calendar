@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 9区 - 36号 - 个人\n拉诺西亚 - 高脚孤丘 - 25区 - 19号 - 个人\n拉诺西亚 - 穹顶皓天 - 16区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240907T150000Z
 SUMMARY:M房抽选截止
-UID:2f42fda5-6bc9-4d0f-b846-9352e8350ecc@2f42.org
+UID:d490cb47-f518-48e4-ad2a-704e9ae803e6@d490.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 24区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240916T150000Z
 SUMMARY:M房抽选截止
-UID:353340b4-af81-45b9-9ee8-73633fb65590@3533.org
+UID:02ce9503-dc1a-481b-b378-0a2a391163a1@02ce.org
 END:VEVENT
 END:VCALENDAR
