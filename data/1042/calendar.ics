@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 21号 - 个人\n拉诺西亚 - 穹顶皓天 - 4区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240925T150000Z
-SUMMARY:M房抽选截止
-UID:7ddea50a-2d2e-435b-b5bc-f60b4d227ec4@7dde.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 24区 - 35号 - 部队\n拉诺西亚 - 高脚孤丘 - 3区 - 38号 - 个人\n拉诺西亚 - 白银乡 - 3区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240916T150000Z
 SUMMARY:M房抽选截止
-UID:9ffbcbf6-1e82-44f9-b247-6cf8a4bc14a9@9ffb.org
+UID:a7545a70-d2d1-463d-aa1f-d647cda005e8@a754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 21号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 43号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 15号 - 其他\n拉诺西亚 - 穹顶皓天 - 4区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
+SUMMARY:M房抽选截止
+UID:a4a72c93-98cc-4eda-9bf5-285a38164e66@a4a7.org
 END:VEVENT
 END:VCALENDAR

@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 3区 - 21号 - 个人\n红玉海 - 薰衣草苗圃 - 21区 - 27号 - 部队\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 白银乡 - 17区 - 24号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20240925T150000Z
-SUMMARY:M房抽选截止
-UID:0e1170f6-deec-4e0b-b70f-bcbb0a3ebaeb@0e11.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 3区 - 6号 - 个人\n红玉海 - 白银乡 - 17区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240925T150000Z
 SUMMARY:L房抽选截止
-UID:3e39fd0a-36cb-4b21-8fb2-9a3f70f4ff56@3e39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 12区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240916T150000Z
-SUMMARY:L房抽选截止
-UID:cbe480a2-0370-4bcc-a87c-334de51d6d4c@cbe4.org
+UID:fbd2d7a1-b062-4ad0-92da-eb1719c2cefc@fbd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 4区 - 59号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240829T150000Z
 SUMMARY:M房抽选截止
-UID:4700fc78-b8cf-433d-97a1-3efa8e3cba20@4700.org
+UID:aa8ce28b-1c92-4db1-8b98-696d2027404e@aa8c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 9区 - 60号 - 个人\n红玉海 - 海雾村 - 14区 - 6号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 35号 - 其他\n红玉海 - 薰衣草苗圃 - 28区 - 51号 - 其他\n红玉海 - 高脚孤丘 - 28区 - 55号 - 其他\n红玉海 - 白银乡 - 4区 - 31号 - 个人\n红玉海 - 白银乡 - 11区 - 49号 - 个人\n红玉海 - 白银乡 - 25区 - 58号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 48号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 14区 - 6号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 35号 - 其他\n红玉海 - 薰衣草苗圃 - 28区 - 51号 - 其他\n红玉海 - 高脚孤丘 - 28区 - 55号 - 其他\n红玉海 - 白银乡 - 4区 - 31号 - 个人\n红玉海 - 白银乡 - 11区 - 49号 - 个人\n红玉海 - 白银乡 - 25区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240916T150000Z
 SUMMARY:M房抽选截止
-UID:2b86b7cf-0123-4342-9152-45c43be27ab5@2b86.org
+UID:5083bd84-d309-4ec6-849b-181866eb90dd@5083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 3区 - 21号 - 个人\n红玉海 - 薰衣草苗圃 - 4区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 21区 - 27号 - 部队\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 白银乡 - 17区 - 24号 - 其他\n红玉海 - 穹顶皓天 - 22区 - 17号 - 部队\n红玉海 - 穹顶皓天 - 27区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
+SUMMARY:M房抽选截止
+UID:3be8ccf6-7740-42ef-91f4-8218ffe3f2ae@3be8.org
 END:VEVENT
 END:VCALENDAR
