@@ -2,15 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 8区 - 14号 - 个人\n幻影群岛 - 薰衣草苗圃 - 27区 - 21号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 7号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 47号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240916T150000Z
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 14区 - 11号 - 个人\n幻影群岛 - 薰衣草苗圃 - 15区 - 31号 - 个人\n幻影群岛 - 薰衣草苗圃 - 25区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 29区 - 31号 - 其他\n幻影群岛 - 高脚孤丘 - 3区 - 49号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
 SUMMARY:M房抽选截止
-UID:df9d43da-f324-4802-b489-db7130488390@df9d.org
+UID:9c53f490-f5c1-4262-a651-0bf7ea26b98d@9c53.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 25区 - 5号 - 个人\n幻影群岛 - 白银乡 - 14区 - 7号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 白银乡 - 14区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240916T150000Z
 SUMMARY:L房抽选截止
-UID:38868091-1afe-4d5f-be33-6ceafc4b6fe2@3886.org
+UID:5861d642-044a-4e92-8dab-4880464bac4c@5861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 8区 - 14号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 47号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240916T150000Z
+SUMMARY:M房抽选截止
+UID:08ba3dc9-a64a-49c9-ae1c-68a49949ad90@08ba.org
 END:VEVENT
 END:VCALENDAR
