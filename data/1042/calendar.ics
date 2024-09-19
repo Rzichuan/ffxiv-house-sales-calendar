@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 21号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 43号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 15号 - 其他\n拉诺西亚 - 穹顶皓天 - 4区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240925T150000Z
-SUMMARY:M房抽选截止
-UID:f441480e-fbf5-4d30-8e4c-4c1c5454d9e6@f441.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 24区 - 35号 - 部队\n拉诺西亚 - 高脚孤丘 - 3区 - 38号 - 个人\n拉诺西亚 - 白银乡 - 3区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240916T150000Z
 SUMMARY:M房抽选截止
-UID:fa649a90-29da-4cda-9d15-edbf5a8a2201@fa64.org
+UID:e3c6f724-a8be-43dd-a351-2720c7fd3522@e3c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 21号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 43号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 15号 - 其他\n拉诺西亚 - 穹顶皓天 - 4区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
+SUMMARY:M房抽选截止
+UID:193012a7-cdac-43fd-8eea-4aa4a5f6fd8e@1930.org
 END:VEVENT
 END:VCALENDAR

@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 4区 - 5号 - 个人\n神意之地 - 高脚孤丘 - 18区 - 8号 - 其他\n神意之地 - 白银乡 - 3区 - 15号 - 个人\n神意之地 - 白银乡 - 10区 - 54号 - 个人\n神意之地 - 穹顶皓天 - 5区 - 17号 - 个人\n神意之地 - 穹顶皓天 - 19区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20240916T150000Z
+DESCRIPTION:神意之地 - 白银乡 - 10区 - 15号 - 个人\n神意之地 - 穹顶皓天 - 5区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
 SUMMARY:M房抽选截止
-UID:dc2f209b-d076-4b8e-953d-abd571062cc1@dc2f.org
+UID:ec2d4a0b-98f7-44be-b27c-8c3a29258378@ec2d.org
 END:VEVENT
 END:VCALENDAR

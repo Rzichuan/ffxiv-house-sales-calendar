@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 25区 - 33号 - 个人\n宇宙和音 - 高脚孤丘 - 9区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240916T150000Z
-SUMMARY:L房抽选截止
-UID:4c58d578-c171-4815-90d4-12cb19d8ddfc@4c58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 5区 - 6号 - 个人\n宇宙和音 - 高脚孤丘 - 17区 - 34号 - 其他\n宇宙和音 - 白银乡 - 5区 - 54号 - 个人\n宇宙和音 - 白银乡 - 12区 - 31号 - 个人\n宇宙和音 - 白银乡 - 27区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240916T150000Z
-SUMMARY:M房抽选截止
-UID:9ea93c2d-840c-49b3-90a9-da679c9e3a58@9ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 17区 - 35号 - 其他\n宇宙和音 - 薰衣草苗圃 - 18区 - 57号 - 其他\n宇宙和音 - 高脚孤丘 - 7区 - 38号 - 个人\n宇宙和音 - 高脚孤丘 - 12区 - 4号 - 个人\n宇宙和音 - 高脚孤丘 - 18区 - 41号 - 其他\n宇宙和音 - 白银乡 - 3区 - 45号 - 个人\n宇宙和音 - 白银乡 - 17区 - 15号 - 其他\n宇宙和音 - 白银乡 - 17区 - 54号 - 其他\n宇宙和音 - 白银乡 - 27区 - 54号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20240925T150000Z
-SUMMARY:M房抽选截止
-UID:859dd910-cd01-4278-a11a-3356b9a90677@859d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 19区 - 33号 - 其他\n宇宙和音 - 白银乡 - 18区 - 7号 - 其他\n宇宙和音 - 穹顶皓天 - 5区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 19区 - 33号 - 其他\n宇宙和音 - 穹顶皓天 - 5区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240925T150000Z
 SUMMARY:L房抽选截止
-UID:7b68d0bf-c41f-488a-8246-b1766de349f4@7b68.org
+UID:820176b6-ced5-4bcd-a3ac-69be5c75cb94@8201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 7区 - 1号 - 个人\n宇宙和音 - 薰衣草苗圃 - 14区 - 27号 - 个人\n宇宙和音 - 薰衣草苗圃 - 17区 - 35号 - 其他\n宇宙和音 - 薰衣草苗圃 - 18区 - 57号 - 其他\n宇宙和音 - 高脚孤丘 - 2区 - 55号 - 个人\n宇宙和音 - 高脚孤丘 - 7区 - 38号 - 个人\n宇宙和音 - 高脚孤丘 - 12区 - 4号 - 个人\n宇宙和音 - 高脚孤丘 - 18区 - 41号 - 其他\n宇宙和音 - 白银乡 - 3区 - 45号 - 个人\n宇宙和音 - 白银乡 - 17区 - 54号 - 其他\n宇宙和音 - 白银乡 - 27区 - 54号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
+SUMMARY:M房抽选截止
+UID:0fdf78ef-e195-413a-8538-4df7ad011f03@0fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 9区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20240916T150000Z
+SUMMARY:L房抽选截止
+UID:63989768-0356-45c3-a878-cb0b440e9db3@6398.org
 END:VEVENT
 END:VCALENDAR
