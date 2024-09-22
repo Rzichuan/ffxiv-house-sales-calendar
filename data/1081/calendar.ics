@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 4区 - 30号 - 个人\n神意之地 - 薰衣草苗圃 - 13区 - 51号 - 个人\n神意之地 - 白银乡 - 10区 - 15号 - 个人\n神意之地 - 穹顶皓天 - 5区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240925T150000Z
 SUMMARY:M房抽选截止
-UID:ddb1e73f-359b-4a54-ab6e-322ab8b4171e@ddb1.org
+UID:c9f72caf-d6ff-405c-805c-028dc2cc9d55@c9f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 1区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:M房抽选截止
-UID:7794b35e-b215-4f43-8f42-fdca80710a8f@7794.org
+UID:45c0059d-7ecf-41a1-b632-dc837fcdab96@45c0.org
 END:VEVENT
 END:VCALENDAR
