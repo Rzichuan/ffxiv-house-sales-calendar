@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 6区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 1号 - 其他\n晨曦王座 - 白银乡 - 12区 - 45号 - 个人\n晨曦王座 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20240925T150000Z
-SUMMARY:M房抽选截止
-UID:291da209-1db9-44d9-b4a2-c3e97d00ec54@291d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 14区 - 7号 - 个人\n晨曦王座 - 海雾村 - 15区 - 31号 - 个人\n晨曦王座 - 海雾村 - 17区 - 4号 - 其他\n晨曦王座 - 薰衣草苗圃 - 14区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 16区 - 27号 - 个人\n晨曦王座 - 高脚孤丘 - 8区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 9区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:M房抽选截止
-UID:8451abaf-34b6-41a0-a2ac-4e6dada904ab@8451.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 24区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240916T150000Z
 SUMMARY:M房抽选截止
-UID:71ddb988-97ad-4785-8afa-4b9678c192c6@71dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 21区 - 2号 - 部队\n晨曦王座 - 白银乡 - 23区 - 37号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20240925T150000Z
-SUMMARY:L房抽选截止
-UID:cbc12841-71c5-4d8a-bca2-f2dbf9ce26e7@cbc1.org
+UID:d2c4bfd9-296c-477d-ae43-d3b8efe45e26@d2c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 28区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:L房抽选截止
-UID:80f25f8b-ac6a-4997-b695-4544f39256c9@80f2.org
+UID:b580c47c-6d3f-433e-b46a-9e79ba83b20b@b580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 6区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 1号 - 其他\n晨曦王座 - 白银乡 - 12区 - 45号 - 个人\n晨曦王座 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
+SUMMARY:M房抽选截止
+UID:6569f9c7-1298-41a7-9fba-ca515ef9b908@6569.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 14区 - 7号 - 个人\n晨曦王座 - 海雾村 - 15区 - 31号 - 个人\n晨曦王座 - 海雾村 - 17区 - 4号 - 其他\n晨曦王座 - 薰衣草苗圃 - 14区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 16区 - 27号 - 个人\n晨曦王座 - 高脚孤丘 - 8区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 9区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241004T150000Z
+SUMMARY:M房抽选截止
+UID:8adfa224-5e00-4867-a408-b511d9db5db4@8adf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 21区 - 2号 - 部队\n晨曦王座 - 白银乡 - 23区 - 37号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
+SUMMARY:L房抽选截止
+UID:b81f87c3-99ce-4e53-947f-26afc180bb2d@b81f.org
 END:VEVENT
 END:VCALENDAR
