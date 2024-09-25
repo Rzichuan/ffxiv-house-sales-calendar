@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 24区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20240916T150000Z
-SUMMARY:M房抽选截止
-UID:d2c4bfd9-296c-477d-ae43-d3b8efe45e26@d2c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 28区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:L房抽选截止
-UID:b580c47c-6d3f-433e-b46a-9e79ba83b20b@b580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 6区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 1号 - 其他\n晨曦王座 - 白银乡 - 12区 - 45号 - 个人\n晨曦王座 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20240925T150000Z
-SUMMARY:M房抽选截止
-UID:6569f9c7-1298-41a7-9fba-ca515ef9b908@6569.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 14区 - 7号 - 个人\n晨曦王座 - 海雾村 - 15区 - 31号 - 个人\n晨曦王座 - 海雾村 - 17区 - 4号 - 其他\n晨曦王座 - 薰衣草苗圃 - 14区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 16区 - 27号 - 个人\n晨曦王座 - 高脚孤丘 - 8区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 9区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:M房抽选截止
-UID:8adfa224-5e00-4867-a408-b511d9db5db4@8adf.org
+UID:442b335b-daad-4d0e-87a6-686589a54921@442b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 21区 - 2号 - 部队\n晨曦王座 - 白银乡 - 23区 - 37号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20240925T150000Z
 SUMMARY:L房抽选截止
-UID:b81f87c3-99ce-4e53-947f-26afc180bb2d@b81f.org
+UID:8953259d-07f6-4bb7-9db5-86aa6f9dcb1b@8953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 28区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20241004T150000Z
+SUMMARY:L房抽选截止
+UID:5c05fbbf-0281-441d-a092-d9ff4200079e@5c05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 6区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 1号 - 其他\n晨曦王座 - 白银乡 - 12区 - 45号 - 个人\n晨曦王座 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20240925T150000Z
+SUMMARY:M房抽选截止
+UID:2422e7be-915d-410a-9066-86aac2dc44df@2422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 24区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20240916T150000Z
+SUMMARY:M房抽选截止
+UID:fb02b37f-303b-431c-a02d-57cbab08fc81@fb02.org
 END:VEVENT
 END:VCALENDAR
