@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 1区 - 43号 - 个人\n拉诺西亚 - 高脚孤丘 - 6区 - 60号 - 个人\n拉诺西亚 - 白银乡 - 16区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:L房抽选截止
-UID:20732332-38c1-4d46-b14e-41dd16d27883@2073.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 23区 - 36号 - 部队\n拉诺西亚 - 穹顶皓天 - 17区 - 8号 - 其他\n拉诺西亚 - 穹顶皓天 - 29区 - 37号 - 其他\n拉诺西亚 - 穹顶皓天 - 30区 - 7号 - 部队\n拉诺西亚 - 穹顶皓天 - 30区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:M房抽选截止
-UID:f4afa971-4949-4487-b455-33be29e1337a@f4af.org
+UID:f595e267-1d92-491a-888d-f5357b327ef7@f595.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 穹顶皓天 - 12区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20240925T150000Z
 SUMMARY:L房抽选截止
-UID:943b934c-631b-453c-96f0-5564ad0ea29c@943b.org
+UID:f289df62-12b0-4cf0-8923-79ca2fd19c5c@f289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 23区 - 36号 - 部队\n拉诺西亚 - 穹顶皓天 - 17区 - 8号 - 其他\n拉诺西亚 - 穹顶皓天 - 29区 - 37号 - 其他\n拉诺西亚 - 穹顶皓天 - 30区 - 7号 - 部队\n拉诺西亚 - 穹顶皓天 - 30区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20241004T150000Z
+SUMMARY:M房抽选截止
+UID:e274d4d9-91f3-41b3-8d82-203a9513c484@e274.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 1区 - 42号 - 个人\n拉诺西亚 - 高脚孤丘 - 29区 - 34号 - 其他\n拉诺西亚 - 白银乡 - 8区 - 43号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 15号 - 其他\n拉诺西亚 - 穹顶皓天 - 14区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 29区 - 2号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20240925T150000Z
 SUMMARY:M房抽选截止
-UID:62d9132c-c370-43e1-992f-eacb99f60f39@62d9.org
+UID:eea44a03-6169-4185-ab7f-28aa19e379fb@eea4.org
 END:VEVENT
 END:VCALENDAR
