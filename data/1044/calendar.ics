@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 13区 - 37号 - 个人\n幻影群岛 - 薰衣草苗圃 - 15区 - 1号 - 个人\n幻影群岛 - 薰衣草苗圃 - 23区 - 21号 - 部队\n幻影群岛 - 薰衣草苗圃 - 28区 - 27号 - 其他\n幻影群岛 - 高脚孤丘 - 9区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 25号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 12号 - 其他\n幻影群岛 - 白银乡 - 13区 - 1号 - 个人\n幻影群岛 - 穹顶皓天 - 20区 - 37号 - 其他\n幻影群岛 - 穹顶皓天 - 25区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:M房抽选截止
-UID:b805a275-88f8-46ba-be07-46cf84c9691c@b805.org
+UID:b41f2183-6770-4cd2-98eb-4fbe192a353c@b41f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 6区 - 58号 - 个人\n幻影群岛 - 穹顶皓天 - 13区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:L房抽选截止
-UID:3515c356-ed46-4287-a4a6-63740a9d0005@3515.org
+UID:7a59201e-d4fb-4ded-bb06-3faf59f89d85@7a59.org
 END:VEVENT
 END:VCALENDAR
