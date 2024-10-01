@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 1区 - 51号 - 个人\n神意之地 - 高脚孤丘 - 19区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:M房抽选截止
-UID:75731c81-44c0-4e40-bf31-28cb532f54f8@7573.org
+UID:4139c4ae-3315-4b37-a013-4e221b6f4ca6@4139.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 23区 - 58号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:L房抽选截止
-UID:0b1e6920-8a90-4a85-bc65-79290c5843ab@0b1e.org
+UID:b5fcd3c4-4c78-4abf-9ac2-b16400b90e9b@b5fc.org
 END:VEVENT
 END:VCALENDAR
