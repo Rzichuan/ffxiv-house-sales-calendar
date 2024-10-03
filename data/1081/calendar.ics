@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 23区 - 58号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:L房抽选截止
-UID:38ad2e00-b82a-429b-b0fd-12b30f5ae185@38ad.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 1区 - 51号 - 个人\n神意之地 - 高脚孤丘 - 19区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:M房抽选截止
-UID:6789ac18-cc07-43b3-b86a-a89578210766@6789.org
+UID:694fe7e6-1967-4038-a2c5-ae29717e3826@694f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 23区 - 58号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20241004T150000Z
+SUMMARY:L房抽选截止
+UID:fc6a621e-4d1b-44e4-a01a-30d42b993da6@fc6a.org
 END:VEVENT
 END:VCALENDAR
