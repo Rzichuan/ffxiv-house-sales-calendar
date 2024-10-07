@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 白银乡 - 21区 - 28号 - 部队\n沃仙曦染 - 穹顶皓天 - 29区 - 47号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 8区 - 55号 - 个人\n沃仙曦染 - 白银乡 - 21区 - 28号 - 部队\n沃仙曦染 - 穹顶皓天 - 29区 - 47号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241013T150000Z
 SUMMARY:M房抽选截止
-UID:d923be53-c404-41f7-9469-5670504705c8@d923.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 26区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:M房抽选截止
-UID:0c17d6c2-7fe9-49d9-ae63-3c99a0c8c185@0c17.org
+UID:85cd2fce-ebaf-4cd4-be60-c2bcecfa33a2@85cd.org
 END:VEVENT
 END:VCALENDAR

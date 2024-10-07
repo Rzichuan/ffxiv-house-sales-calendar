@@ -5,18 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 12区 - 12号 - 个人\n幻影群岛 - 白银乡 - 18区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241013T150000Z
 SUMMARY:M房抽选截止
-UID:b8b51773-5aba-4387-9fe0-b34c2a1c6c43@b8b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 穹顶皓天 - 13区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:L房抽选截止
-UID:875aa274-94ad-4c5b-9ce2-83a0c8314923@875a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:M房抽选截止
-UID:d36baa0d-b299-4987-8db3-205f32721716@d36b.org
+UID:a80acfbc-4e66-4158-aa78-1f791175784d@a80a.org
 END:VEVENT
 END:VCALENDAR
