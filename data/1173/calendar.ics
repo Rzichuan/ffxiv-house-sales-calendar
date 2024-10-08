@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 穹顶皓天 - 15区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:M房抽选截止
-UID:50e6a4ba-f90a-42ee-a2b0-d74e8a87e003@50e6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 白银乡 - 15区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241013T150000Z
 SUMMARY:M房抽选截止
-UID:a63a7189-0b38-44da-b534-feeea03c1f3d@a63a.org
+UID:93304e25-6fe5-49fc-94e4-4982af22ca4b@9330.org
 END:VEVENT
 END:VCALENDAR
