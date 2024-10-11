@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 白银乡 - 4区 - 31号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241013T150000Z
 SUMMARY:M房抽选截止
-UID:7da1ee44-af4a-43b4-9b2c-3d054b221b9b@7da1.org
+UID:a545bb73-1c28-48a1-a2fd-39c1ac5b9eaa@a545.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 21区 - 19号 - 部队\n红玉海 - 穹顶皓天 - 4区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241004T150000Z
 SUMMARY:M房抽选截止
-UID:9b57d5d1-ceac-4701-b703-9dc696500684@9b57.org
+UID:06912a93-f900-430d-a1dc-faee79c17a83@0691.org
 END:VEVENT
 END:VCALENDAR
