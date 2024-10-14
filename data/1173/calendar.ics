@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 白银乡 - 15区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241013T150000Z
-SUMMARY:M房抽选截止
-UID:9325334e-76d4-4705-8954-fceee0cc1115@9325.org
-END:VEVENT
 END:VCALENDAR

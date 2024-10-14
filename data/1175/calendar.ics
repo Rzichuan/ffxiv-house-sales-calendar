@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241004T150000Z
-SUMMARY:L房抽选截止
-UID:b37fc229-c50c-4256-bc37-bb8639dbd3d7@b37f.org
-END:VEVENT
 END:VCALENDAR
