@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 2区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241013T150000Z
-SUMMARY:M房抽选截止
-UID:040a7837-d849-460d-bbba-4166e2864f6c@040a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 穹顶皓天 - 14区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241022T150000Z
 SUMMARY:M房抽选截止
-UID:adf8f6cd-7661-4e42-9113-3cce0f4ee006@adf8.org
+UID:caa8239f-1c50-4ea9-8523-be134893d4ff@caa8.org
 END:VEVENT
 END:VCALENDAR
