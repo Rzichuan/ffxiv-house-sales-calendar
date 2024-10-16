@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 白银乡 - 18区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20241013T150000Z
-SUMMARY:M房抽选截止
-UID:c698f6c9-e6ec-4098-aa49-bf220d3483a4@c698.org
-END:VEVENT
 END:VCALENDAR

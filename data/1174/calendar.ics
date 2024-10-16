@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 白银乡 - 21区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20241013T150000Z
-SUMMARY:M房抽选截止
-UID:186157ea-7b52-409f-b55e-bd4fdbfc7f22@1861.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 21区 - 1号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241022T150000Z
 SUMMARY:M房抽选截止
-UID:c204fabf-b2f2-460b-b17d-3c2d683e3962@c204.org
+UID:28d88b38-2e74-40e7-9514-1a2cc19b577a@28d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 白银乡 - 21区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20241013T150000Z
+SUMMARY:M房抽选截止
+UID:43dae79d-9345-4589-b864-0e1f3ce19b6a@43da.org
 END:VEVENT
 END:VCALENDAR
