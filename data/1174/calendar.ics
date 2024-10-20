@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 21区 - 1号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241022T150000Z
 SUMMARY:M房抽选截止
-UID:0243c757-a0b3-4de6-b5e1-7a73a54a290a@0243.org
+UID:34772462-85e2-45bc-9064-7725946d2b7f@3477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 白银乡 - 6区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241031T150000Z
+SUMMARY:M房抽选截止
+UID:bb38babb-3229-408f-a82e-80b3ae1b3dfa@bb38.org
 END:VEVENT
 END:VCALENDAR
