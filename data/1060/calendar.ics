@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 6区 - 59号 - 个人\n萌芽池 - 薰衣草苗圃 - 20区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20241022T150000Z
-SUMMARY:M房抽选截止
-UID:e11d45bc-9822-4da2-9f91-6e67135c407c@e11d.org
-END:VEVENT
 END:VCALENDAR

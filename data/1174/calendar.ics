@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 6区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241031T150000Z
 SUMMARY:M房抽选截止
-UID:358e75d2-0b81-4c1b-9cca-9aba8cc4b6a8@358e.org
+UID:eea92c3e-e2e3-4339-b41b-6a642e1782dd@eea9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 21区 - 1号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241022T150000Z
 SUMMARY:M房抽选截止
-UID:e27357c2-b129-4d1d-9a29-d84133e940fd@e273.org
+UID:dcfb5af0-76f0-4015-a0c2-bcb2d594e943@dcfb.org
 END:VEVENT
 END:VCALENDAR
