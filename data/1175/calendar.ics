@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 3号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241031T150000Z
+SUMMARY:L房抽选截止
+UID:d32d5149-e9f1-41e1-89cf-914912ae7f5b@d32d.org
+END:VEVENT
 END:VCALENDAR
