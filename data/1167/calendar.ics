@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 28区 - 51号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20241031T150000Z
-SUMMARY:M房抽选截止
-UID:a76950cd-9ee7-4fe3-8e34-151e714f13fc@a769.org
-END:VEVENT
 END:VCALENDAR
