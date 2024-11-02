@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 2区 - 57号 - 个人\n沃仙曦染 - 白银乡 - 22区 - 24号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241109T150000Z
 SUMMARY:M房抽选截止
-UID:df4adf39-77ac-416d-9928-818531812cba@df4a.org
+UID:459c65ba-5f60-46e0-b45e-8c8054bf000a@459c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 6区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241031T150000Z
 SUMMARY:M房抽选截止
-UID:3f614e8e-5f81-47d0-9697-2482696e4c18@3f61.org
+UID:a6e59581-1683-4a42-8e3d-b6202d9578cb@a6e5.org
 END:VEVENT
 END:VCALENDAR
