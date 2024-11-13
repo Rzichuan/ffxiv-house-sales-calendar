@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 2区 - 57号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241109T150000Z
-SUMMARY:M房抽选截止
-UID:fe5f2b91-a401-4135-9c89-5336ea0f5dab@fe5f.org
-END:VEVENT
 END:VCALENDAR
