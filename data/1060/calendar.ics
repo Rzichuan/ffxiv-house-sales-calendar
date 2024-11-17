@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20241127T150000Z
+SUMMARY:M房抽选截止
+UID:d4c35143-aa98-4e03-8e37-6c07affea607@d4c3.org
+END:VEVENT
 END:VCALENDAR

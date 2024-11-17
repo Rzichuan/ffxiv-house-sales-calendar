@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 海雾村 - 1区 - 44号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241127T150000Z
+SUMMARY:M房抽选截止
+UID:ee7ced07-6f9b-40c9-989a-f74971629120@ee7c.org
+END:VEVENT
 END:VCALENDAR
