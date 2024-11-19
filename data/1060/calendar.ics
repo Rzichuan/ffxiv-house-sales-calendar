@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:萌芽池 - 高脚孤丘 - 25区 - 34号 - 个人\n萌芽池 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241127T150000Z
 SUMMARY:M房抽选截止
-UID:5c0e1cc1-81da-4b20-bb8f-7a18f109c0db@5c0e.org
+UID:56827b53-3a73-4c9d-9f02-aaa6f089fb62@5682.org
 END:VEVENT
 END:VCALENDAR
