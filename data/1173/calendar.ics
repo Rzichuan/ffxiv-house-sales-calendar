@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 4区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241118T150000Z
 SUMMARY:M房抽选截止
-UID:fbfaf0df-a420-4861-a189-923e62476355@fbfa.org
+UID:6a8b1774-92e2-4bd4-9b5e-c81e39bd841c@6a8b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 18区 - 14号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241127T150000Z
 SUMMARY:M房抽选截止
-UID:d8bb2704-d17a-4745-aa3a-d415a2ed5880@d8bb.org
+UID:6cfce6d7-f89c-4f62-9d22-00556b196e54@6cfc.org
 END:VEVENT
 END:VCALENDAR
