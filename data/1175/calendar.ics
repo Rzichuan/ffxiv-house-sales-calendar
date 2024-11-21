@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 22区 - 46号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20241127T150000Z
+SUMMARY:M房抽选截止
+UID:afd770fc-f991-4624-bf59-b2439d85a4e6@afd7.org
+END:VEVENT
 END:VCALENDAR
