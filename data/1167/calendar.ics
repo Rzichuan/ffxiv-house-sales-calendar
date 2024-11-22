@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 高脚孤丘 - 21区 - 34号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20241127T150000Z
+SUMMARY:M房抽选截止
+UID:84b10175-39c0-4d46-a6c8-d32d206948d4@84b1.org
+END:VEVENT
 END:VCALENDAR
