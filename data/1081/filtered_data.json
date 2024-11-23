@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "Server": 1081,
+        "Area": 2,
+        "Slot": 28,
+        "ID": 19,
+        "Price": 20000000,
+        "Size": 1,
+        "FirstSeen": 1732269647,
+        "LastSeen": 1732325155,
+        "State": 1,
+        "Participate": 6,
+        "Winner": 0,
+        "EndTime": 1732719600,
+        "UpdateTime": 1732288775,
+        "PurchaseType": 2,
+        "RegionType": 0
+    }
+]

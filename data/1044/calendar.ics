@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 白银乡 - 9区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241206T150000Z
+SUMMARY:M房抽选截止
+UID:f70fe22b-825f-442a-95c4-2965bdaca508@f70f.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 28区 - 31号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241127T150000Z
 SUMMARY:M房抽选截止
-UID:8e517a67-7707-415c-977c-547571d9b489@8e51.org
+UID:8d9a20c1-e42c-4c42-aa52-89b6362abc74@8d9a.org
 END:VEVENT
 END:VCALENDAR

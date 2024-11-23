@@ -7,7 +7,7 @@
         "Price": 18000000,
         "Size": 1,
         "FirstSeen": 1731561958,
-        "LastSeen": 1732239383,
+        "LastSeen": 1732325125,
         "State": 0,
         "Participate": 0,
         "Winner": 0,
@@ -15,5 +15,22 @@
         "UpdateTime": 0,
         "PurchaseType": 2,
         "RegionType": 0
+    },
+    {
+        "Server": 1044,
+        "Area": 3,
+        "Slot": 8,
+        "ID": 13,
+        "Price": 17000000,
+        "Size": 1,
+        "FirstSeen": 1732309254,
+        "LastSeen": 1732325131,
+        "State": 0,
+        "Participate": 0,
+        "Winner": 0,
+        "EndTime": 0,
+        "UpdateTime": 0,
+        "PurchaseType": 2,
+        "RegionType": 2
     }
 ]
