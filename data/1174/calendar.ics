@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 海雾村 - 12区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241206T150000Z
+SUMMARY:M房抽选截止
+UID:4a4cb621-0d25-4b6b-9230-7ccf27b79292@4a4c.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 1区 - 44号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 23区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241127T150000Z
 SUMMARY:M房抽选截止
-UID:8d6f91be-edde-4938-b466-107922363cae@8d6f.org
+UID:3a7e90cb-03a3-490b-9646-b4df5b26ff0f@3a7e.org
 END:VEVENT
 END:VCALENDAR
