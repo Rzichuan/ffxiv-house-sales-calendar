@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 1区 - 44号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 23区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241127T150000Z
 SUMMARY:M房抽选截止
-UID:4648cd50-b0da-48b8-8690-92e368375411@4648.org
+UID:9f4f373a-cd89-43ba-b787-0e20c79d3319@9f4f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 12区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241206T150000Z
 SUMMARY:M房抽选截止
-UID:5c5a9000-ecc8-46a7-b550-b828aa10a847@5c5a.org
+UID:b42765dc-a37e-4c1b-b4d0-b02b7b001d2a@b427.org
 END:VEVENT
 END:VCALENDAR
