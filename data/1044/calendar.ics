@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 白银乡 - 9区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241206T150000Z
 SUMMARY:M房抽选截止
-UID:c7b5414a-6846-4dbf-9bbc-5f6dc477ae3a@c7b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 28区 - 31号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20241127T150000Z
-SUMMARY:M房抽选截止
-UID:3b905b6c-39e8-4710-bcb1-c0a6ad884c7e@3b90.org
+UID:80c7ecee-d89e-4478-90eb-c1ac978d4978@80c7.org
 END:VEVENT
 END:VCALENDAR
