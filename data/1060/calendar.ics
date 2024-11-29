@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 白银乡 - 22区 - 15号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241206T150000Z
 SUMMARY:M房抽选截止
-UID:85beb3bf-6295-4f5c-93a3-afcd956eb529@85be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20241127T150000Z
-SUMMARY:M房抽选截止
-UID:adac903a-f5b8-4307-9910-adab1a79b389@adac.org
+UID:6fdfa70f-639e-4bdc-aa07-493fed8149a1@6fdf.org
 END:VEVENT
 END:VCALENDAR
