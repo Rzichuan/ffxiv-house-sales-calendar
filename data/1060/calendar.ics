@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 4区 - 21号 - 个人\n萌芽池 - 薰衣草苗圃 - 27区 - 51号 - 个人\n萌芽池 - 白银乡 - 22区 - 15号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241206T150000Z
 SUMMARY:M房抽选截止
-UID:0ab76d2f-8623-48ec-b1a5-826dffded12b@0ab7.org
+UID:21fa55b8-9797-4094-98a1-bb7b67d21ef7@21fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 薰衣草苗圃 - 11区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241215T150000Z
+SUMMARY:M房抽选截止
+UID:940ba4c6-dbcc-4689-9c8e-8f14b182d038@940b.org
 END:VEVENT
 END:VCALENDAR
