@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 12区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241206T150000Z
 SUMMARY:M房抽选截止
-UID:4b40278e-1df1-4178-977f-033ed8e33df2@4b40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 18区 - 43号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20241206T150000Z
-SUMMARY:L房抽选截止
-UID:71c8a225-9a28-4f08-8cd0-5db67993450a@71c8.org
+UID:96f385f9-e512-4cd7-8d8a-af8918eaf072@96f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 16区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241215T150000Z
 SUMMARY:M房抽选截止
-UID:9a932f61-5120-4aa4-a883-1dd2d465994c@9a93.org
+UID:ce99f1dc-71a6-4337-bdbf-5e3b4c28d81a@ce99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 18区 - 43号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20241206T150000Z
+SUMMARY:L房抽选截止
+UID:74ace17c-b939-4d7e-b32f-20502be1beac@74ac.org
 END:VEVENT
 END:VCALENDAR
