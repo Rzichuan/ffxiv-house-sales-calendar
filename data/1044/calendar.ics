@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 白银乡 - 9区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241206T150000Z
-SUMMARY:M房抽选截止
-UID:e2b2bd2e-0fc0-40b2-bf3c-3e6ca382fd63@e2b2.org
-END:VEVENT
 END:VCALENDAR

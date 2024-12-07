@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 19区 - 19号 - 其他\n神意之地 - 穹顶皓天 - 12区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241206T150000Z
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 15区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241215T150000Z
 SUMMARY:M房抽选截止
-UID:0af4c93d-f3d6-444f-b15b-d295af827ef8@0af4.org
+UID:44dbf8b2-41a1-4363-85fe-9f51f1bcbc63@44db.org
 END:VEVENT
 END:VCALENDAR
