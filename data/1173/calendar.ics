@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 穹顶皓天 - 3区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 穹顶皓天 - 3区 - 17号 - 个人\n宇宙和音 - 穹顶皓天 - 8区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241215T150000Z
 SUMMARY:M房抽选截止
-UID:4afc82ae-0289-4127-b279-d5dd79aa6cc1@4afc.org
+UID:e48a3e42-74f3-453b-a217-4ecb7cad305f@e48a.org
 END:VEVENT
 END:VCALENDAR
