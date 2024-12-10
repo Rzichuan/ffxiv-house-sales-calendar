@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 7区 - 14号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241215T150000Z
+SUMMARY:M房抽选截止
+UID:6e6dbada-ac45-46ae-99ad-b3edd1073873@6e6d.org
+END:VEVENT
 END:VCALENDAR
