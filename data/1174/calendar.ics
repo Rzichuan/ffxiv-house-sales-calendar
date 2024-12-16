@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 8区 - 15号 - 个人\n沃仙曦染 - 穹顶皓天 - 1区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241224T150000Z
 SUMMARY:M房抽选截止
-UID:4aa087eb-3c1d-46a4-815e-7ee637f92631@4aa0.org
+UID:b2c99f80-71eb-4646-b5af-be9d991fe145@b2c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 16区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241215T150000Z
 SUMMARY:M房抽选截止
-UID:a7dbf976-724d-47f7-afc4-1d4c6a7e1d03@a7db.org
+UID:1d5d5137-da61-495b-a044-6e989e83bf01@1d5d.org
 END:VEVENT
 END:VCALENDAR
