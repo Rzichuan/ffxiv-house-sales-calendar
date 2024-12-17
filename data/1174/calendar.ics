@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 白银乡 - 8区 - 15号 - 个人\n沃仙曦染 - 穹顶皓天 - 1区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 白银乡 - 8区 - 15号 - 个人\n沃仙曦染 - 白银乡 - 15区 - 58号 - 个人\n沃仙曦染 - 穹顶皓天 - 1区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241224T150000Z
 SUMMARY:M房抽选截止
-UID:b2c99f80-71eb-4646-b5af-be9d991fe145@b2c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 白银乡 - 16区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241215T150000Z
-SUMMARY:M房抽选截止
-UID:1d5d5137-da61-495b-a044-6e989e83bf01@1d5d.org
+UID:98397b14-f783-4d61-9365-40b4c1cacde8@9839.org
 END:VEVENT
 END:VCALENDAR

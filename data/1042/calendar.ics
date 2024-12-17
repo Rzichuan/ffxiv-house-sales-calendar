@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 13区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20241224T150000Z
+SUMMARY:L房抽选截止
+UID:2437d0b1-1eae-4da5-bcdd-dce1b52a5129@2437.org
+END:VEVENT
 END:VCALENDAR

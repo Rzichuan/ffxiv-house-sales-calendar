@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 15区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241215T150000Z
-SUMMARY:M房抽选截止
-UID:31056674-d4c1-48cb-a608-9206f94e11a8@3105.org
-END:VEVENT
 END:VCALENDAR
