@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 23区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20241224T150000Z
 SUMMARY:M房抽选截止
-UID:be08e3d8-c371-4e1a-9ecc-ebc19271bf1d@be08.org
+UID:fb75f452-2154-4186-8032-663243702975@fb75.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 19区 - 6号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20241224T150000Z
 SUMMARY:L房抽选截止
-UID:0b95abc6-e5d5-4a9b-ad90-1720de5ac1d7@0b95.org
+UID:426efaee-68b5-4a0b-a904-c1b0bbb6deab@426e.org
 END:VEVENT
 END:VCALENDAR
