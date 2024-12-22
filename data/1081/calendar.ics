@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 28区 - 6号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250102T150000Z
+SUMMARY:M房抽选截止
+UID:75e4ffc6-4896-404a-b4cb-4799ef452b19@75e4.org
+END:VEVENT
 END:VCALENDAR
