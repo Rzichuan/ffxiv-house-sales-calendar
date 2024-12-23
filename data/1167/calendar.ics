@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 白银乡 - 22区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 高脚孤丘 - 4区 - 35号 - 个人\n红玉海 - 白银乡 - 22区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250102T150000Z
 SUMMARY:L房抽选截止
-UID:9bd1c52d-2e06-4266-b60e-b84c10c913cc@9bd1.org
+UID:d45bbe66-a374-486b-813a-88160dec8f21@d45b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 白银乡 - 21区 - 58号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250102T150000Z
+SUMMARY:M房抽选截止
+UID:d5318e7a-f06b-4844-b292-391d0d0f004f@d531.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 12区 - 34号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 41号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241224T150000Z
 SUMMARY:M房抽选截止
-UID:bbba79ed-b725-45e1-9a7c-e30c004b77a1@bbba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 白银乡 - 13区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250102T150000Z
-SUMMARY:M房抽选截止
-UID:30f9feae-34c6-43ab-ad03-9be1ca113e2c@30f9.org
+UID:9765da7e-a13f-4fe7-adc4-9fe216b3d9be@9765.org
 END:VEVENT
 END:VCALENDAR
