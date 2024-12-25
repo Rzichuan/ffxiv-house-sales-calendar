@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 4区 - 14号 - 个人\n宇宙和音 - 穹顶皓天 - 10区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20241224T150000Z
+DESCRIPTION:宇宙和音 - 穹顶皓天 - 9区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250102T150000Z
 SUMMARY:M房抽选截止
-UID:970f6521-8c1c-4113-a243-4628c5b5e8b5@970f.org
+UID:b26fbfb9-cb02-4b41-89cb-6d32113cc2ae@b26f.org
 END:VEVENT
 END:VCALENDAR
