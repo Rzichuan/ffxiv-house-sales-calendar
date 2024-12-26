@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 24区 - 37号 - 部队\n幻影群岛 - 高脚孤丘 - 7区 - 6号 - 个人\n幻影群岛 - 白银乡 - 3区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20241224T150000Z
 SUMMARY:M房抽选截止
-UID:3d131836-d773-4aa1-900a-4f2fd8a643f3@3d13.org
+UID:e8ceeb7e-2dce-4f94-a739-74f7c264480f@e8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 白银乡 - 13区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250102T150000Z
+SUMMARY:M房抽选截止
+UID:dc7566bf-6e76-4920-a0a6-33ca7a1bbc5f@dc75.org
 END:VEVENT
 END:VCALENDAR
