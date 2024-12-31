@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 白银乡 - 7区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250111T150000Z
+SUMMARY:M房抽选截止
+UID:aef95ae5-8f2b-45c7-b593-73eb38d71ca5@aef9.org
+END:VEVENT
 END:VCALENDAR

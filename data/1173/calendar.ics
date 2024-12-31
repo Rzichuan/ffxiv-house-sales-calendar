@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 23区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250111T150000Z
 SUMMARY:M房抽选截止
-UID:807d689f-c837-4843-a3a0-b46daa5dc0dd@807d.org
+UID:18d30c4b-802d-4d95-aec1-22bf3e9c7d40@18d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 28区 - 30号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250111T150000Z
+SUMMARY:L房抽选截止
+UID:01b8b7d4-14d6-40a3-b8e2-4c41f9d10edd@01b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 穹顶皓天 - 9区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250102T150000Z
 SUMMARY:M房抽选截止
-UID:69366a50-a691-4be8-9bc5-f9ced6e28916@6936.org
+UID:32ebe32c-29d3-44db-a80b-13a30365d03f@32eb.org
 END:VEVENT
 END:VCALENDAR
