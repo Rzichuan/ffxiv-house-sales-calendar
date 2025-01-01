@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 28区 - 6号 - 其他\n神意之地 - 穹顶皓天 - 5区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250102T150000Z
 SUMMARY:M房抽选截止
-UID:335da504-ed92-4ac1-adf2-283388b28eec@335d.org
+UID:a1751129-0044-478e-9311-d7db5f2d8ffb@a175.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 白银乡 - 20区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250111T150000Z
 SUMMARY:M房抽选截止
-UID:cd8faa6c-2913-41b5-9b9a-5f1592e2bbcc@cd8f.org
+UID:61a88363-af79-4c2f-90a3-56ed63f7eac0@61a8.org
 END:VEVENT
 END:VCALENDAR
