@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:神意之地 - 高脚孤丘 - 23区 - 25号 - 部队\n神意之地 - 白银乡 - 20区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250111T150000Z
+SUMMARY:M房抽选截止
+UID:8ad8239f-6be6-4d60-9f75-f312ad8681fa@8ad8.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 28区 - 6号 - 其他\n神意之地 - 穹顶皓天 - 5区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250102T150000Z
 SUMMARY:M房抽选截止
-UID:a1751129-0044-478e-9311-d7db5f2d8ffb@a175.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 20区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250111T150000Z
-SUMMARY:M房抽选截止
-UID:61a88363-af79-4c2f-90a3-56ed63f7eac0@61a8.org
+UID:80488b25-0d62-4f09-a417-32c01e9a7c59@8048.org
 END:VEVENT
 END:VCALENDAR

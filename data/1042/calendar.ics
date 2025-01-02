@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 16区 - 36号 - 个人\n拉诺西亚 - 白银乡 - 7区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 16区 - 36号 - 个人\n拉诺西亚 - 白银乡 - 7区 - 45号 - 个人\n拉诺西亚 - 白银乡 - 25区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250111T150000Z
 SUMMARY:M房抽选截止
-UID:e383504f-ea11-4ce5-a672-6b9d2455b9fc@e383.org
+UID:765dbbf6-37b8-4d8d-bd82-92d68f1810b7@765d.org
 END:VEVENT
 END:VCALENDAR
