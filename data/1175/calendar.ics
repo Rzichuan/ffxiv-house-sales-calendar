@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 9区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 15区 - 6号 - 个人\n晨曦王座 - 穹顶皓天 - 2区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250120T150000Z
+SUMMARY:L房抽选截止
+UID:5dfa720c-0393-49e1-bc93-1cae7263733d@5dfa.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250111T150000Z
 SUMMARY:M房抽选截止
-UID:25452f11-5574-4560-867c-88230cdce018@2545.org
+UID:6f05f1af-6a7c-4097-9859-5a154e25ad3c@6f05.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 9区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 2区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250120T150000Z
-SUMMARY:L房抽选截止
-UID:7a2fab0e-b7ec-4b15-b43b-af91ed3dbb0c@7a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 8区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250111T150000Z
-SUMMARY:L房抽选截止
-UID:07576240-e886-4092-967c-044d32557e30@0757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 9区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 13区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 60号 - 其他\n晨曦王座 - 薰衣草苗圃 - 25区 - 16号 - 个人\n晨曦王座 - 高脚孤丘 - 3区 - 12号 - 个人\n晨曦王座 - 高脚孤丘 - 29区 - 41号 - 其他\n晨曦王座 - 白银乡 - 2区 - 58号 - 个人\n晨曦王座 - 白银乡 - 12区 - 58号 - 个人\n晨曦王座 - 白银乡 - 13区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 4区 - 18号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 18号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 26号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 38号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 9区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 13区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 60号 - 其他\n晨曦王座 - 薰衣草苗圃 - 25区 - 16号 - 个人\n晨曦王座 - 高脚孤丘 - 3区 - 12号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 29区 - 41号 - 其他\n晨曦王座 - 白银乡 - 2区 - 58号 - 个人\n晨曦王座 - 白银乡 - 12区 - 58号 - 个人\n晨曦王座 - 白银乡 - 13区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 4区 - 18号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 18号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 26号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 38号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 51号 - 个人\n晨曦王座 - 穹顶皓天 - 17区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250120T150000Z
 SUMMARY:M房抽选截止
-UID:7f59e27c-8efb-448f-8f97-4c3f6966da03@7f59.org
+UID:3a122045-5650-4dc5-877e-288026d19051@3a12.org
 END:VEVENT
 END:VCALENDAR
