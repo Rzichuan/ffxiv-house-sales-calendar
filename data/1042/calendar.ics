@@ -2,33 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 8区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 25区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 28区 - 41号 - 其他\n拉诺西亚 - 穹顶皓天 - 8区 - 48号 - 个人\n拉诺西亚 - 穹顶皓天 - 20区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250129T150000Z
+SUMMARY:M房抽选截止
+UID:0c7ffefe-0338-4aa8-9be4-7d90af0cdb30@0c7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 14区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 22区 - 42号 - 部队\n拉诺西亚 - 高脚孤丘 - 26区 - 6号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250120T150000Z
+SUMMARY:M房抽选截止
+UID:02fc27ba-51d3-483c-9a70-3f9361fce4c0@02fc.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 27区 - 30号 - 个人\n拉诺西亚 - 白银乡 - 4区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250129T150000Z
 SUMMARY:L房抽选截止
-UID:4bc2d2b7-7f1a-408e-a151-67a027f5112b@4bc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 8区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 25区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 28区 - 41号 - 其他\n拉诺西亚 - 穹顶皓天 - 20区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250129T150000Z
-SUMMARY:M房抽选截止
-UID:a3c5c01d-9e67-4497-a937-89af7fac5960@a3c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 7区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250111T150000Z
-SUMMARY:M房抽选截止
-UID:fc85bdf1-d65d-4ae9-8d1e-6a7c631947bd@fc85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 22区 - 30号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 27区 - 57号 - 个人\n拉诺西亚 - 高脚孤丘 - 10区 - 8号 - 个人\n拉诺西亚 - 高脚孤丘 - 14区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 22区 - 42号 - 部队\n拉诺西亚 - 高脚孤丘 - 26区 - 6号 - 个人\n拉诺西亚 - 白银乡 - 27区 - 49号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 18区 - 37号 - 其他\n拉诺西亚 - 穹顶皓天 - 26区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250120T150000Z
-SUMMARY:M房抽选截止
-UID:df08f4fe-ee31-4c37-9d40-1b63f0298ee7@df08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 12区 - 33号 - 个人\n拉诺西亚 - 高脚孤丘 - 30区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250120T150000Z
-SUMMARY:L房抽选截止
-UID:79979a19-9390-4c55-8926-b4673a41844b@7997.org
+UID:4fc896b7-a746-4a36-8a15-af309193bdb7@4fc8.org
 END:VEVENT
 END:VCALENDAR
