@@ -10,24 +10,6 @@
     },
     {
         "Area": 0,
-        "ID": 7,
-        "Slot": 10,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1081,
-        "Purchase_endtime": 1737385200
-    },
-    {
-        "Area": 0,
-        "ID": 4,
-        "Slot": 13,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1081,
-        "Purchase_endtime": 1737385200
-    },
-    {
-        "Area": 0,
         "ID": 1,
         "Slot": 14,
         "RegionType": 2,
@@ -43,15 +25,6 @@
         "Size": 1,
         "Server": 1081,
         "Purchase_endtime": 1738162800
-    },
-    {
-        "Area": 1,
-        "ID": 3,
-        "Slot": 29,
-        "RegionType": 1,
-        "Size": 2,
-        "Server": 1081,
-        "Purchase_endtime": 1737385200
     },
     {
         "Area": 2,
@@ -70,15 +43,6 @@
         "Size": 1,
         "Server": 1081,
         "Purchase_endtime": 1738162800
-    },
-    {
-        "Area": 2,
-        "ID": 12,
-        "Slot": 16,
-        "RegionType": 0,
-        "Size": 1,
-        "Server": 1081,
-        "Purchase_endtime": 1737385200
     },
     {
         "Area": 2,
@@ -108,6 +72,15 @@
         "Purchase_endtime": 1738162800
     },
     {
+        "Area": 2,
+        "ID": 25,
+        "Slot": 29,
+        "RegionType": 1,
+        "Size": 1,
+        "Server": 1081,
+        "Purchase_endtime": 1738162800
+    },
+    {
         "Area": 3,
         "ID": 46,
         "Slot": 1,
@@ -120,6 +93,15 @@
         "Area": 3,
         "ID": 49,
         "Slot": 6,
+        "RegionType": 2,
+        "Size": 1,
+        "Server": 1081,
+        "Purchase_endtime": 1738162800
+    },
+    {
+        "Area": 3,
+        "ID": 49,
+        "Slot": 25,
         "RegionType": 2,
         "Size": 1,
         "Server": 1081,
@@ -145,12 +127,12 @@
     },
     {
         "Area": 4,
-        "ID": 51,
+        "ID": 7,
         "Slot": 11,
         "RegionType": 2,
         "Size": 1,
         "Server": 1081,
-        "Purchase_endtime": 1737385200
+        "Purchase_endtime": 1738162800
     },
     {
         "Area": 4,

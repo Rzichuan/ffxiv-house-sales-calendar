@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 8区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 25区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 28区 - 41号 - 其他\n拉诺西亚 - 穹顶皓天 - 8区 - 48号 - 个人\n拉诺西亚 - 穹顶皓天 - 20区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 8区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 25区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 28区 - 41号 - 其他\n拉诺西亚 - 白银乡 - 10区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 8区 - 48号 - 个人\n拉诺西亚 - 穹顶皓天 - 17区 - 26号 - 其他\n拉诺西亚 - 穹顶皓天 - 20区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250129T150000Z
 SUMMARY:M房抽选截止
-UID:0c7ffefe-0338-4aa8-9be4-7d90af0cdb30@0c7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 14区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 22区 - 42号 - 部队\n拉诺西亚 - 高脚孤丘 - 26区 - 6号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250120T150000Z
-SUMMARY:M房抽选截止
-UID:02fc27ba-51d3-483c-9a70-3f9361fce4c0@02fc.org
+UID:214506e8-b9e2-4344-aca6-53cc5f58ad41@2145.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 27区 - 30号 - 个人\n拉诺西亚 - 白银乡 - 4区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250129T150000Z
 SUMMARY:L房抽选截止
-UID:4fc896b7-a746-4a36-8a15-af309193bdb7@4fc8.org
+UID:1e101a61-3441-4445-9d3b-355724e38e64@1e10.org
 END:VEVENT
 END:VCALENDAR
