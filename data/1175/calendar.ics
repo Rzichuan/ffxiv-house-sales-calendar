@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 6区 - 31号 - 个人\n晨曦王座 - 薰衣草苗圃 - 4区 - 60号 - 个人\n晨曦王座 - 薰衣草苗圃 - 7区 - 41号 - 个人\n晨曦王座 - 薰衣草苗圃 - 22区 - 16号 - 部队\n晨曦王座 - 高脚孤丘 - 6区 - 12号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 8号 - 个人\n晨曦王座 - 白银乡 - 2区 - 49号 - 个人\n晨曦王座 - 白银乡 - 3区 - 1号 - 个人\n晨曦王座 - 穹顶皓天 - 26区 - 38号 - 个人\n晨曦王座 - 穹顶皓天 - 28区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 7区 - 41号 - 个人\n晨曦王座 - 薰衣草苗圃 - 22区 - 16号 - 部队\n晨曦王座 - 高脚孤丘 - 25区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250129T150000Z
 SUMMARY:M房抽选截止
-UID:6c0650e0-f006-4b0b-9bf1-f9a71953716c@6c06.org
+UID:b7463f62-511b-429f-bf3f-b3be9672fbd1@b746.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 31号 - 个人\n晨曦王座 - 海雾村 - 14区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 薰衣草苗圃 - 13区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 27区 - 55号 - 个人\n晨曦王座 - 白银乡 - 24区 - 43号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250207T150000Z
-SUMMARY:M房抽选截止
-UID:c3f9e16f-a67f-465c-ad2a-80357e2b4b60@c3f9.org
+DESCRIPTION:晨曦王座 - 白银乡 - 22区 - 46号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250129T150000Z
+SUMMARY:L房抽选截止
+UID:85b0f5f0-b110-4dd2-b451-c74de787bbef@85b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 16区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:L房抽选截止
-UID:ebfa6bbb-6979-4cfa-ae4e-38476ef3ce78@ebfa.org
+UID:47e04998-79ae-4e59-aaed-1491f516c225@47e0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 25区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 6区 - 60号 - 个人\n晨曦王座 - 高脚孤丘 - 18区 - 35号 - 其他\n晨曦王座 - 白银乡 - 12区 - 16号 - 个人\n晨曦王座 - 白银乡 - 22区 - 46号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250129T150000Z
-SUMMARY:L房抽选截止
-UID:8dfaf6a4-9563-4426-b63d-6d8b2a400774@8dfa.org
+DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 31号 - 个人\n晨曦王座 - 海雾村 - 14区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 薰衣草苗圃 - 13区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 27区 - 55号 - 个人\n晨曦王座 - 白银乡 - 24区 - 43号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250207T150000Z
+SUMMARY:M房抽选截止
+UID:00dffae7-076b-4983-bfca-cd4ff08ecf87@00df.org
 END:VEVENT
 END:VCALENDAR
