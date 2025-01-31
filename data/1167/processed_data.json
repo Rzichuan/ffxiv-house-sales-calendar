@@ -10,15 +10,6 @@
     },
     {
         "Area": 0,
-        "ID": 44,
-        "Slot": 6,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1167,
-        "Purchase_endtime": 1738162800
-    },
-    {
-        "Area": 0,
         "ID": 5,
         "Slot": 13,
         "RegionType": 2,
@@ -109,15 +100,6 @@
     },
     {
         "Area": 2,
-        "ID": 42,
-        "Slot": 11,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1167,
-        "Purchase_endtime": 1738162800
-    },
-    {
-        "Area": 2,
         "ID": 13,
         "Slot": 13,
         "RegionType": 2,
@@ -144,6 +126,24 @@
         "Purchase_endtime": 1738940400
     },
     {
+        "Area": 2,
+        "ID": 8,
+        "Slot": 18,
+        "RegionType": 0,
+        "Size": 1,
+        "Server": 1167,
+        "Purchase_endtime": 1738940400
+    },
+    {
+        "Area": 2,
+        "ID": 41,
+        "Slot": 29,
+        "RegionType": 1,
+        "Size": 1,
+        "Server": 1167,
+        "Purchase_endtime": 1738940400
+    },
+    {
         "Area": 3,
         "ID": 58,
         "Slot": 0,
@@ -165,15 +165,6 @@
         "Area": 3,
         "ID": 45,
         "Slot": 12,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1167,
-        "Purchase_endtime": 1738162800
-    },
-    {
-        "Area": 3,
-        "ID": 8,
-        "Slot": 13,
         "RegionType": 2,
         "Size": 1,
         "Server": 1167,
@@ -208,6 +199,15 @@
     },
     {
         "Area": 4,
+        "ID": 47,
+        "Slot": 5,
+        "RegionType": 2,
+        "Size": 1,
+        "Server": 1167,
+        "Purchase_endtime": 1738940400
+    },
+    {
+        "Area": 4,
         "ID": 26,
         "Slot": 14,
         "RegionType": 2,
@@ -223,14 +223,5 @@
         "Size": 2,
         "Server": 1167,
         "Purchase_endtime": 1738940400
-    },
-    {
-        "Area": 4,
-        "ID": 2,
-        "Slot": 26,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1167,
-        "Purchase_endtime": 1738162800
     }
 ]
