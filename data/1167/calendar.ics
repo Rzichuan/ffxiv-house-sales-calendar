@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 白银乡 - 21区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250129T150000Z
-SUMMARY:L房抽选截止
-UID:530e52a4-ee69-459d-9ff4-f53308cde192@530e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 4区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 8区 - 57号 - 个人\n红玉海 - 白银乡 - 13区 - 45号 - 个人\n红玉海 - 白银乡 - 20区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250129T150000Z
-SUMMARY:M房抽选截止
-UID:6b116167-74ef-43a1-8a54-b6ecab4d6780@6b11.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 14区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 13区 - 33号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 13号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:L房抽选截止
-UID:71cd0935-7b5b-49ca-b9ea-8d1e54495268@71cd.org
+UID:90c7c7fe-bfac-42c0-9435-44ac5c0f0b72@90c7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 3区 - 44号 - 个人\n红玉海 - 海雾村 - 16区 - 4号 - 个人\n红玉海 - 海雾村 - 23区 - 4号 - 部队\n红玉海 - 海雾村 - 29区 - 34号 - 其他\n红玉海 - 薰衣草苗圃 - 9区 - 30号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 57号 - 其他\n红玉海 - 薰衣草苗圃 - 24区 - 46号 - 部队\n红玉海 - 高脚孤丘 - 14区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 16区 - 49号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 8号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 41号 - 部队\n红玉海 - 白银乡 - 1区 - 58号 - 个人\n红玉海 - 白银乡 - 3区 - 1号 - 个人\n红玉海 - 白银乡 - 17区 - 19号 - 其他\n红玉海 - 穹顶皓天 - 6区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 15区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 4区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 8区 - 57号 - 个人\n红玉海 - 白银乡 - 20区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250129T150000Z
+SUMMARY:M房抽选截止
+UID:b1b71b69-ddb8-4031-a582-e8e55992481f@b1b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 3区 - 44号 - 个人\n红玉海 - 海雾村 - 16区 - 4号 - 个人\n红玉海 - 海雾村 - 23区 - 4号 - 部队\n红玉海 - 海雾村 - 29区 - 34号 - 其他\n红玉海 - 海雾村 - 29区 - 44号 - 其他\n红玉海 - 薰衣草苗圃 - 9区 - 30号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 57号 - 其他\n红玉海 - 薰衣草苗圃 - 23区 - 41号 - 部队\n红玉海 - 薰衣草苗圃 - 24区 - 46号 - 部队\n红玉海 - 高脚孤丘 - 14区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 16区 - 49号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 8号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 41号 - 部队\n红玉海 - 白银乡 - 1区 - 58号 - 个人\n红玉海 - 白银乡 - 3区 - 1号 - 个人\n红玉海 - 白银乡 - 3区 - 28号 - 个人\n红玉海 - 白银乡 - 17区 - 19号 - 其他\n红玉海 - 穹顶皓天 - 4区 - 48号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 15区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:M房抽选截止
-UID:972cf442-6e82-4fbb-a157-d9c757e6ea2b@972c.org
+UID:5636c98c-f6b2-48b9-b914-e6cce0e98874@5636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 白银乡 - 21区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250129T150000Z
+SUMMARY:L房抽选截止
+UID:b75e9774-d9d4-4c68-b7ce-86619c83a78e@b75e.org
 END:VEVENT
 END:VCALENDAR
