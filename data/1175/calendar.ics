@@ -2,15 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 16区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n晨曦王座 - 白银乡 - 5区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250207T150000Z
-SUMMARY:L房抽选截止
-UID:19cd569b-3c3f-4ab5-b58f-af0fe743ea6c@19cd.org
+DESCRIPTION:晨曦王座 - 白银乡 - 13区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250216T150000Z
+SUMMARY:M房抽选截止
+UID:50493245-9a2e-4b41-9e2e-fb414607a7c2@5049.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 31号 - 个人\n晨曦王座 - 海雾村 - 14区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 海雾村 - 29区 - 31号 - 其他\n晨曦王座 - 薰衣草苗圃 - 13区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 9区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 27区 - 55号 - 个人\n晨曦王座 - 白银乡 - 6区 - 24号 - 个人\n晨曦王座 - 白银乡 - 9区 - 58号 - 个人\n晨曦王座 - 白银乡 - 12区 - 54号 - 个人\n晨曦王座 - 白银乡 - 24区 - 43号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:M房抽选截止
-UID:6d238238-2ed5-40a1-873f-48fb74e61d3b@6d23.org
+UID:075bae89-ab0c-49bc-9e27-982be9873343@075b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 16区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n晨曦王座 - 白银乡 - 5区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250207T150000Z
+SUMMARY:L房抽选截止
+UID:cf90d144-d9f0-4f5b-b023-b4a913af8e8c@cf90.org
 END:VEVENT
 END:VCALENDAR
