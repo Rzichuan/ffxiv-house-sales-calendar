@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 11区 - 25号 - 个人\n晨曦王座 - 白银乡 - 13区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 31号 - 个人\n晨曦王座 - 海雾村 - 14区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 海雾村 - 29区 - 31号 - 其他\n晨曦王座 - 薰衣草苗圃 - 13区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 9区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 27区 - 55号 - 个人\n晨曦王座 - 白银乡 - 6区 - 24号 - 个人\n晨曦王座 - 白银乡 - 9区 - 58号 - 个人\n晨曦王座 - 白银乡 - 12区 - 54号 - 个人\n晨曦王座 - 白银乡 - 24区 - 43号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250207T150000Z
+SUMMARY:M房抽选截止
+UID:47fe7136-0bda-47ea-a465-517e81e32f69@47fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 11区 - 25号 - 个人\n晨曦王座 - 白银乡 - 13区 - 49号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:M房抽选截止
-UID:084d46a4-fc80-466c-b93e-264e114456ae@084d.org
+UID:8320d153-5698-49d6-ad8f-648430ff7995@8320.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 16区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n晨曦王座 - 白银乡 - 5区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:L房抽选截止
-UID:bb73b963-6517-4f72-8802-c46e807caece@bb73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 31号 - 个人\n晨曦王座 - 海雾村 - 14区 - 36号 - 个人\n晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 海雾村 - 29区 - 31号 - 其他\n晨曦王座 - 薰衣草苗圃 - 13区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 9区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 27区 - 55号 - 个人\n晨曦王座 - 白银乡 - 6区 - 24号 - 个人\n晨曦王座 - 白银乡 - 9区 - 58号 - 个人\n晨曦王座 - 白银乡 - 12区 - 54号 - 个人\n晨曦王座 - 白银乡 - 24区 - 43号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250207T150000Z
-SUMMARY:M房抽选截止
-UID:ada7dc6b-1807-4d33-b47a-8d15fd6f0b24@ada7.org
+UID:e50e436f-e440-4398-8dc8-74cfc518d718@e50e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 14区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:L房抽选截止
-UID:d2e5dfd6-f7d9-43d2-be41-3862a9cd5cef@d2e5.org
+UID:3c3ca952-49c2-4371-a257-8c72d4a08fa3@3c3c.org
 END:VEVENT
 END:VCALENDAR
