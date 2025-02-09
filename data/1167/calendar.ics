@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 8区 - 57号 - 个人\n红玉海 - 白银乡 - 20区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250129T150000Z
-SUMMARY:M房抽选截止
-UID:4c79c89a-c874-4637-953e-012fa8d21cf4@4c79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 16区 - 4号 - 个人\n红玉海 - 海雾村 - 29区 - 44号 - 其他\n红玉海 - 薰衣草苗圃 - 23区 - 41号 - 部队\n红玉海 - 薰衣草苗圃 - 24区 - 46号 - 部队\n红玉海 - 高脚孤丘 - 19区 - 8号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 41号 - 部队\n红玉海 - 白银乡 - 10区 - 38号 - 个人\n红玉海 - 白银乡 - 17区 - 19号 - 其他\n红玉海 - 穹顶皓天 - 12区 - 18号 - 个人\n红玉海 - 穹顶皓天 - 15区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 29区 - 44号 - 其他\n红玉海 - 高脚孤丘 - 19区 - 8号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 41号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:M房抽选截止
-UID:1169af3d-f0f4-4b4e-860b-6fa5ea9684cc@1169.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 13区 - 33号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 13号 - 个人\n红玉海 - 白银乡 - 24区 - 37号 - 部队\n红玉海 - 穹顶皓天 - 21区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250207T150000Z
-SUMMARY:L房抽选截止
-UID:d86f64e6-0038-4bb9-94be-3aea9b58cbd3@d86f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 4区 - 29号 - 个人\n红玉海 - 白银乡 - 7区 - 43号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 14区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 27区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250216T150000Z
-SUMMARY:M房抽选截止
-UID:fcaf2cb0-585c-481a-ae81-814e22eee5e9@fcaf.org
+UID:4d45e3ae-58f7-4951-b522-b52b2e99a27d@4d45.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 16区 - 43号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 12号 - 个人\n红玉海 - 穹顶皓天 - 15区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:L房抽选截止
-UID:a83e9323-3367-41ff-a0c9-1bf3949eff38@a83e.org
+UID:b40b8d6a-3c43-48e3-8550-60c0271d2303@b40b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 4区 - 29号 - 个人\n红玉海 - 白银乡 - 7区 - 43号 - 个人\n红玉海 - 白银乡 - 18区 - 15号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 14区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 17区 - 56号 - 其他\n红玉海 - 穹顶皓天 - 27区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250216T150000Z
+SUMMARY:M房抽选截止
+UID:12c81ac9-496f-4d93-9645-c5d6b426d162@12c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 白银乡 - 24区 - 37号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250207T150000Z
+SUMMARY:L房抽选截止
+UID:f187fc22-aec3-4ef4-8613-8a710b86418a@f187.org
 END:VEVENT
 END:VCALENDAR

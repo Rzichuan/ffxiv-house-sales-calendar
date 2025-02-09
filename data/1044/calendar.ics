@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 21区 - 30号 - 部队\n幻影群岛 - 海雾村 - 29区 - 30号 - 其他\n幻影群岛 - 薰衣草苗圃 - 6区 - 16号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 27号 - 部队\n幻影群岛 - 薰衣草苗圃 - 25区 - 1号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 6号 - 其他\n幻影群岛 - 穹顶皓天 - 12区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250216T150000Z
-SUMMARY:M房抽选截止
-UID:60b07476-dd4e-45fc-b399-2e1857511eab@60b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 20区 - 7号 - 其他\n幻影群岛 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250207T150000Z
-SUMMARY:M房抽选截止
-UID:cae16a68-6659-4996-9fa3-f51713a0946b@cae1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 27区 - 15号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 穹顶皓天 - 6区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:L房抽选截止
-UID:9245b52e-5ba8-4e34-b584-0ed8f14f364a@9245.org
+UID:57203086-b7ec-48bb-8692-91a1c1e27d17@5720.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 21区 - 30号 - 部队\n幻影群岛 - 海雾村 - 25区 - 44号 - 个人\n幻影群岛 - 海雾村 - 29区 - 30号 - 其他\n幻影群岛 - 薰衣草苗圃 - 6区 - 16号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 27号 - 部队\n幻影群岛 - 薰衣草苗圃 - 25区 - 1号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 6号 - 其他\n幻影群岛 - 白银乡 - 8区 - 31号 - 个人\n幻影群岛 - 白银乡 - 16区 - 1号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250216T150000Z
+SUMMARY:M房抽选截止
+UID:6f656c6c-6059-41fa-b4ec-7445e5028c17@6f65.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 26区 - 3号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:L房抽选截止
-UID:38c054fd-0ecf-40ac-96cf-a1a38e105073@38c0.org
+UID:d1036631-9d6c-43ab-a480-e1b7911d9659@d103.org
 END:VEVENT
 END:VCALENDAR
