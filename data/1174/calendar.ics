@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 11区 - 7号 - 个人\n沃仙曦染 - 海雾村 - 24区 - 37号 - 部队\n沃仙曦染 - 薰衣草苗圃 - 22区 - 57号 - 部队\n沃仙曦染 - 高脚孤丘 - 2区 - 34号 - 个人\n沃仙曦染 - 高脚孤丘 - 8区 - 41号 - 个人\n沃仙曦染 - 高脚孤丘 - 26区 - 25号 - 个人\n沃仙曦染 - 白银乡 - 1区 - 45号 - 个人\n沃仙曦染 - 穹顶皓天 - 2区 - 26号 - 个人\n沃仙曦染 - 穹顶皓天 - 9区 - 38号 - 个人\n沃仙曦染 - 穹顶皓天 - 16区 - 17号 - 个人\n沃仙曦染 - 穹顶皓天 - 18区 - 18号 - 其他\n沃仙曦染 - 穹顶皓天 - 18区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 海雾村 - 11区 - 7号 - 个人\n沃仙曦染 - 海雾村 - 24区 - 37号 - 部队\n沃仙曦染 - 薰衣草苗圃 - 22区 - 57号 - 部队\n沃仙曦染 - 高脚孤丘 - 2区 - 34号 - 个人\n沃仙曦染 - 高脚孤丘 - 8区 - 41号 - 个人\n沃仙曦染 - 高脚孤丘 - 26区 - 25号 - 个人\n沃仙曦染 - 白银乡 - 1区 - 45号 - 个人\n沃仙曦染 - 穹顶皓天 - 2区 - 26号 - 个人\n沃仙曦染 - 穹顶皓天 - 9区 - 38号 - 个人\n沃仙曦染 - 穹顶皓天 - 16区 - 17号 - 个人\n沃仙曦染 - 穹顶皓天 - 18区 - 18号 - 其他\n沃仙曦染 - 穹顶皓天 - 18区 - 38号 - 其他\n沃仙曦染 - 穹顶皓天 - 27区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:M房抽选截止
-UID:9fa2eda8-024f-4ea7-8c9b-89d2f0406fdb@9fa2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 21区 - 2号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250207T150000Z
-SUMMARY:L房抽选截止
-UID:0cf79e36-9531-4bc2-9673-d00c176c7af7@0cf7.org
+UID:d7b28341-63ba-40d0-b786-5217ffcf9016@d7b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 高脚孤丘 - 27区 - 5号 - 个人\n沃仙曦染 - 穹顶皓天 - 1区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:L房抽选截止
-UID:34078663-db99-41e2-bd57-26dc0c2605db@3407.org
+UID:c3f73818-8e05-46b5-9396-4b5bf96cf2a4@c3f7.org
 END:VEVENT
 END:VCALENDAR
