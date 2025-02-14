@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 26区 - 3号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 17区 - 22号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:L房抽选截止
-UID:8cdc583c-48ca-49c2-9cce-a1b03fcbb0c1@8cdc.org
+UID:26799b02-4996-4c20-8afb-9aad8137429d@2679.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 白银乡 - 26区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250225T150000Z
+SUMMARY:M房抽选截止
+UID:b4ecf6c5-7f56-4a1b-b36d-d9c9b83ebb66@b4ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 21区 - 30号 - 部队\n幻影群岛 - 海雾村 - 25区 - 44号 - 个人\n幻影群岛 - 海雾村 - 29区 - 30号 - 其他\n幻影群岛 - 薰衣草苗圃 - 2区 - 35号 - 个人\n幻影群岛 - 薰衣草苗圃 - 6区 - 16号 - 个人\n幻影群岛 - 薰衣草苗圃 - 18区 - 5号 - 其他\n幻影群岛 - 薰衣草苗圃 - 21区 - 27号 - 部队\n幻影群岛 - 薰衣草苗圃 - 25区 - 1号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 6号 - 其他\n幻影群岛 - 白银乡 - 8区 - 31号 - 个人\n幻影群岛 - 白银乡 - 16区 - 1号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 7号 - 个人\n幻影群岛 - 穹顶皓天 - 18区 - 2号 - 其他\n幻影群岛 - 穹顶皓天 - 30区 - 8号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:M房抽选截止
-UID:db01d02d-98d2-4206-a58f-55b2537a2a54@db01.org
+UID:8ae32fcc-68ff-43a4-b768-660682ae5ba8@8ae3.org
 END:VEVENT
 END:VCALENDAR
