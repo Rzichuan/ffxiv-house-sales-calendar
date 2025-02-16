@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 26区 - 3号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 17区 - 22号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250216T150000Z
-SUMMARY:L房抽选截止
-UID:19bde6aa-9867-430a-a2f9-7802a9c3f5ed@19bd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 21区 - 30号 - 部队\n幻影群岛 - 海雾村 - 25区 - 44号 - 个人\n幻影群岛 - 海雾村 - 29区 - 30号 - 其他\n幻影群岛 - 薰衣草苗圃 - 2区 - 35号 - 个人\n幻影群岛 - 薰衣草苗圃 - 6区 - 16号 - 个人\n幻影群岛 - 薰衣草苗圃 - 18区 - 5号 - 其他\n幻影群岛 - 薰衣草苗圃 - 21区 - 27号 - 部队\n幻影群岛 - 薰衣草苗圃 - 25区 - 1号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 6号 - 其他\n幻影群岛 - 白银乡 - 8区 - 31号 - 个人\n幻影群岛 - 白银乡 - 16区 - 1号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 7号 - 个人\n幻影群岛 - 穹顶皓天 - 18区 - 2号 - 其他\n幻影群岛 - 穹顶皓天 - 30区 - 8号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:M房抽选截止
-UID:4b8c9b34-efa5-4cc4-84f1-de25d413ef47@4b8c.org
+UID:684eeb3b-cd48-43cf-81f3-132f9bc18e14@684e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 22区 - 3号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 22区 - 3号 - 部队\n幻影群岛 - 白银乡 - 22区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250225T150000Z
 SUMMARY:L房抽选截止
-UID:ef368867-cbf4-4567-b571-4b523b300df7@ef36.org
+UID:4b0cec07-25c9-45fb-8737-10d2f464bc5a@4b0c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 5区 - 11号 - 个人\n幻影群岛 - 白银乡 - 26区 - 49号 - 个人\n幻影群岛 - 白银乡 - 30区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 26区 - 3号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 17区 - 22号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250216T150000Z
+SUMMARY:L房抽选截止
+UID:5b9e2a8d-a325-4c02-ae83-0071e2920547@5b9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 5区 - 11号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 6号 - 个人\n幻影群岛 - 白银乡 - 26区 - 49号 - 个人\n幻影群岛 - 白银乡 - 30区 - 28号 - 部队\n幻影群岛 - 穹顶皓天 - 12区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250225T150000Z
 SUMMARY:M房抽选截止
-UID:aacc72d3-d9eb-4b6e-bd39-a2e601f14287@aacc.org
+UID:99fc5a90-a57d-4b71-894d-ded7dff410dd@99fc.org
 END:VEVENT
 END:VCALENDAR
