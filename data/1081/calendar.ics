@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 12区 - 60号 - 个人\n神意之地 - 高脚孤丘 - 28区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250216T150000Z
-SUMMARY:L房抽选截止
-UID:f7e8b011-16bb-44b9-943d-63eb4c61534f@f7e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 17区 - 6号 - 其他\n神意之地 - 海雾村 - 24区 - 7号 - 部队\n神意之地 - 薰衣草苗圃 - 4区 - 11号 - 个人\n神意之地 - 薰衣草苗圃 - 14区 - 21号 - 个人\n神意之地 - 穹顶皓天 - 23区 - 32号 - 部队\n神意之地 - 穹顶皓天 - 29区 - 51号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250225T150000Z
-SUMMARY:M房抽选截止
-UID:899423e7-f330-4140-bdf7-c28d74cb8e56@8994.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 10区 - 59号 - 个人\n神意之地 - 海雾村 - 20区 - 4号 - 其他\n神意之地 - 薰衣草苗圃 - 1区 - 21号 - 个人\n神意之地 - 高脚孤丘 - 7区 - 55号 - 个人\n神意之地 - 穹顶皓天 - 3区 - 26号 - 个人\n神意之地 - 穹顶皓天 - 7区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 1区 - 21号 - 个人\n神意之地 - 高脚孤丘 - 7区 - 55号 - 个人\n神意之地 - 穹顶皓天 - 3区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:M房抽选截止
-UID:c2a62ce3-b2d1-4b63-93d0-b7932d677175@c2a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 20区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250129T150000Z
-SUMMARY:M房抽选截止
-UID:b7e3b753-8023-4a89-9f8a-0325c9e4c3d2@b7e3.org
+UID:e0523386-fe6c-4c2a-8ad1-dd7633d58350@e052.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 13区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250207T150000Z
 SUMMARY:M房抽选截止
-UID:a23f8b9f-e261-4af3-8d1b-23f1c58ba533@a23f.org
+UID:56b4d3e3-dc48-42a4-be46-10c26286e150@56b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 17区 - 6号 - 其他\n神意之地 - 海雾村 - 24区 - 7号 - 部队\n神意之地 - 薰衣草苗圃 - 4区 - 11号 - 个人\n神意之地 - 薰衣草苗圃 - 14区 - 21号 - 个人\n神意之地 - 穹顶皓天 - 23区 - 32号 - 部队\n神意之地 - 穹顶皓天 - 25区 - 56号 - 个人\n神意之地 - 穹顶皓天 - 29区 - 51号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250225T150000Z
+SUMMARY:M房抽选截止
+UID:ff374448-cfec-40d6-adee-bd9aa8fe3ae5@ff37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 高脚孤丘 - 20区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250129T150000Z
+SUMMARY:M房抽选截止
+UID:911aeac6-4c9c-4303-91d9-67ee0cda4c0c@911a.org
 END:VEVENT
 END:VCALENDAR

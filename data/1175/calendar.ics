@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 36号 - 个人\n晨曦王座 - 海雾村 - 25区 - 1号 - 个人\n晨曦王座 - 白银乡 - 4区 - 13号 - 个人\n晨曦王座 - 白银乡 - 7区 - 8号 - 个人\n晨曦王座 - 白银乡 - 14区 - 15号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 36号 - 个人\n晨曦王座 - 海雾村 - 25区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 4区 - 41号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 35号 - 其他\n晨曦王座 - 高脚孤丘 - 2区 - 49号 - 个人\n晨曦王座 - 白银乡 - 4区 - 13号 - 个人\n晨曦王座 - 白银乡 - 7区 - 8号 - 个人\n晨曦王座 - 白银乡 - 14区 - 15号 - 个人\n晨曦王座 - 穹顶皓天 - 4区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250225T150000Z
 SUMMARY:M房抽选截止
-UID:1561d71c-fa96-401a-bdfb-e2e4bc3e384a@1561.org
+UID:5e66a318-0043-4e4d-9f70-aa320aec12a9@5e66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 21区 - 6号 - 部队\n晨曦王座 - 高脚孤丘 - 6区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250225T150000Z
 SUMMARY:L房抽选截止
-UID:d61507e4-b741-4e07-ad35-3a70fc3ec66e@d615.org
+UID:84251de3-63cf-459a-847e-0222e37d5ba8@8425.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 19区 - 57号 - 其他\n晨曦王座 - 高脚孤丘 - 6区 - 49号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 11区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 28区 - 8号 - 其他\n晨曦王座 - 白银乡 - 7区 - 45号 - 个人\n晨曦王座 - 白银乡 - 13区 - 49号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 2区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 9区 - 56号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250216T150000Z
-SUMMARY:M房抽选截止
-UID:59ed8caf-3a7b-4962-8974-3bd30912e23b@59ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 13区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 11区 - 43号 - 个人\n晨曦王座 - 白银乡 - 14区 - 30号 - 个人\n晨曦王座 - 白银乡 - 28区 - 37号 - 其他\n晨曦王座 - 穹顶皓天 - 17区 - 30号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 11区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
 SUMMARY:L房抽选截止
-UID:dfa54d41-505b-4ead-8a3d-95c40c4da58d@dfa5.org
+UID:da8b252d-cc88-41fd-bee7-f640bc1344ba@da8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 6区 - 49号 - 个人\n晨曦王座 - 高脚孤丘 - 11区 - 25号 - 个人\n晨曦王座 - 白银乡 - 7区 - 45号 - 个人\n晨曦王座 - 白银乡 - 13区 - 49号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250216T150000Z
+SUMMARY:M房抽选截止
+UID:27e1e98f-4863-4309-abf4-75f74826899c@27e1.org
 END:VEVENT
 END:VCALENDAR
