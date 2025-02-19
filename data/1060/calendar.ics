@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 29区 - 34号 - 其他\n萌芽池 - 薰衣草苗圃 - 23区 - 5号 - 部队\n萌芽池 - 白银乡 - 14区 - 38号 - 个人\n萌芽池 - 白银乡 - 28区 - 8号 - 其他\n萌芽池 - 白银乡 - 28区 - 13号 - 其他\n萌芽池 - 穹顶皓天 - 7区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250225T150000Z
-SUMMARY:M房抽选截止
-UID:12330c0f-fd29-4cde-9a02-7c4c155d2df9@1233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 高脚孤丘 - 27区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250216T150000Z
-SUMMARY:M房抽选截止
-UID:0a4ec38c-023a-4de9-a0d0-79c308d4defd@0a4e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 14区 - 3号 - 个人\n萌芽池 - 高脚孤丘 - 12区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250225T150000Z
 SUMMARY:L房抽选截止
-UID:f00c3015-5165-4a3b-84f8-e2e1efde8405@f00c.org
+UID:891e5d46-89c7-4b60-893c-4d5b3a0c8759@891e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 海雾村 - 29区 - 34号 - 其他\n萌芽池 - 薰衣草苗圃 - 23区 - 5号 - 部队\n萌芽池 - 高脚孤丘 - 29区 - 41号 - 其他\n萌芽池 - 白银乡 - 14区 - 38号 - 个人\n萌芽池 - 白银乡 - 28区 - 8号 - 其他\n萌芽池 - 白银乡 - 28区 - 13号 - 其他\n萌芽池 - 穹顶皓天 - 7区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250225T150000Z
+SUMMARY:M房抽选截止
+UID:3d997935-35ad-4818-aa77-176ac56ac4e0@3d99.org
 END:VEVENT
 END:VCALENDAR

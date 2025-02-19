@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 18区 - 5号 - 其他\n幻影群岛 - 高脚孤丘 - 6区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 26区 - 3号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250216T150000Z
-SUMMARY:M房抽选截止
-UID:df4a8ac6-9729-4eb2-9725-ff8ba0b673a3@df4a.org
+SUMMARY:L房抽选截止
+UID:46ea5258-d519-4a59-99c6-b4afbbb408c0@46ea.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 22区 - 3号 - 部队\n幻影群岛 - 白银乡 - 22区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 25区 - 2号 - 个人\n幻影群岛 - 薰衣草苗圃 - 22区 - 3号 - 部队\n幻影群岛 - 白银乡 - 22区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250225T150000Z
 SUMMARY:L房抽选截止
-UID:685de315-a8d3-4091-97c1-adaf5a4c8b6e@685d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 26区 - 3号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 17区 - 22号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250216T150000Z
-SUMMARY:L房抽选截止
-UID:052da300-4330-48e8-b100-80d19e53d512@052d.org
+UID:199936e2-00e2-4513-b7d7-c99e864adb8b@1999.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 5区 - 11号 - 个人\n幻影群岛 - 薰衣草苗圃 - 20区 - 27号 - 其他\n幻影群岛 - 薰衣草苗圃 - 27区 - 1号 - 个人\n幻影群岛 - 薰衣草苗圃 - 30区 - 11号 - 部队\n幻影群岛 - 高脚孤丘 - 9区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 6号 - 个人\n幻影群岛 - 白银乡 - 25区 - 49号 - 个人\n幻影群岛 - 白银乡 - 26区 - 49号 - 个人\n幻影群岛 - 白银乡 - 29区 - 38号 - 其他\n幻影群岛 - 白银乡 - 30区 - 28号 - 部队\n幻影群岛 - 穹顶皓天 - 6区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250225T150000Z
 SUMMARY:M房抽选截止
-UID:a0c94665-8fa7-4b80-bb8c-b75675340fe3@a0c9.org
+UID:c58e041c-bf85-4fb6-904e-4004b5a5ad94@c58e.org
 END:VEVENT
 END:VCALENDAR
