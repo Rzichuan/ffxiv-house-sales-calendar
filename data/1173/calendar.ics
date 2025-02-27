@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 25区 - 43号 - 个人\n宇宙和音 - 穹顶皓天 - 2区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250225T150000Z
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 1区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250306T150000Z
 SUMMARY:L房抽选截止
-UID:ed398f32-ad49-4d4b-a218-54fc4f7ccad6@ed39.org
+UID:70536ed2-82c4-4eef-85c9-d73020794236@7053.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 1区 - 27号 - 个人\n宇宙和音 - 薰衣草苗圃 - 22区 - 11号 - 部队\n宇宙和音 - 白银乡 - 9区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250225T150000Z
-SUMMARY:M房抽选截止
-UID:4d560cfb-2caa-406f-add9-761011bbfb9c@4d56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 白银乡 - 10区 - 45号 - 个人\n宇宙和音 - 白银乡 - 19区 - 19号 - 其他\n宇宙和音 - 白银乡 - 21区 - 19号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 5区 - 55号 - 个人\n宇宙和音 - 白银乡 - 10区 - 45号 - 个人\n宇宙和音 - 白银乡 - 19区 - 19号 - 其他\n宇宙和音 - 白银乡 - 21区 - 19号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250306T150000Z
 SUMMARY:M房抽选截止
-UID:243b3f12-357a-4c95-8d80-1cb04d44d97a@243b.org
+UID:bd56da69-b661-4f28-8380-6e91ec663dc0@bd56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 1区 - 27号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250225T150000Z
+SUMMARY:M房抽选截止
+UID:c5bbe392-4da3-428f-b40c-be442b9d5f6e@c5bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 穹顶皓天 - 2区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250225T150000Z
+SUMMARY:L房抽选截止
+UID:171d5f35-4af5-425b-b626-c0f40b3680bc@171d.org
 END:VEVENT
 END:VCALENDAR
