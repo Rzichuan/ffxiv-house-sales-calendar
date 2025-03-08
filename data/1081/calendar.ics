@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 25区 - 55号 - 个人\n神意之地 - 高脚孤丘 - 28区 - 41号 - 其他\n神意之地 - 白银乡 - 4区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 白银乡 - 4区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250306T150000Z
 SUMMARY:M房抽选截止
-UID:86809913-11c5-4cf9-ae3b-3b7555320331@8680.org
+UID:681b389e-8427-4ddc-b250-a9d818f49d2f@681b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250306T150000Z
-SUMMARY:L房抽选截止
-UID:f7f0722c-1ec2-4aed-830c-6643ea42c791@f7f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 2区 - 15号 - 个人\n神意之地 - 白银乡 - 5区 - 8号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 14区 - 30号 - 个人\n神意之地 - 高脚孤丘 - 17区 - 6号 - 其他\n神意之地 - 白银乡 - 2区 - 15号 - 个人\n神意之地 - 白银乡 - 5区 - 8号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250315T150000Z
 SUMMARY:M房抽选截止
-UID:00d964a0-9634-4e58-9c61-bd257b1c0abd@00d9.org
+UID:751e9173-86d5-40b5-875c-eee9aff317ab@751e.org
 END:VEVENT
 END:VCALENDAR
