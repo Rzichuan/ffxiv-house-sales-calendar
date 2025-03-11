@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 14区 - 30号 - 个人\n神意之地 - 高脚孤丘 - 17区 - 6号 - 其他\n神意之地 - 白银乡 - 2区 - 15号 - 个人\n神意之地 - 白银乡 - 5区 - 8号 - 个人\n神意之地 - 白银乡 - 27区 - 58号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250315T150000Z
-SUMMARY:M房抽选截止
-UID:ece81c99-e5b6-4202-954d-e591b3fcc2fb@ece8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 4区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250306T150000Z
-SUMMARY:M房抽选截止
-UID:f41aede5-a204-4f72-b300-46c27ce64992@f41a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 3区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250315T150000Z
 SUMMARY:L房抽选截止
-UID:bfbb6594-34a1-4511-88be-acae3ada884b@bfbb.org
+UID:c3952671-9ef0-457b-8f6c-1461939202d9@c395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 14区 - 30号 - 个人\n神意之地 - 高脚孤丘 - 17区 - 6号 - 其他\n神意之地 - 白银乡 - 2区 - 15号 - 个人\n神意之地 - 白银乡 - 5区 - 8号 - 个人\n神意之地 - 白银乡 - 27区 - 58号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250315T150000Z
+SUMMARY:M房抽选截止
+UID:453bbfd5-5e8f-4d5d-9876-af14a77a7b56@453b.org
 END:VEVENT
 END:VCALENDAR
