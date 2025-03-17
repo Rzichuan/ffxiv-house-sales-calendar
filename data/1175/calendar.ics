@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 穹顶皓天 - 21区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250315T150000Z
-SUMMARY:L房抽选截止
-UID:5a8702bf-b22e-4e7d-b379-558331ebfd74@5a87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 12区 - 28号 - 个人\n晨曦王座 - 白银乡 - 1区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250324T150000Z
-SUMMARY:L房抽选截止
-UID:80da1217-5c2b-47ad-9aa8-e9619a1cb255@80da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 7号 - 个人\n晨曦王座 - 薰衣草苗圃 - 8区 - 46号 - 个人\n晨曦王座 - 薰衣草苗圃 - 29区 - 51号 - 其他\n晨曦王座 - 高脚孤丘 - 8区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 2区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 8区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250315T150000Z
 SUMMARY:M房抽选截止
-UID:76f3e1a5-594e-41f4-a428-4117c67221a8@76f3.org
+UID:bef63344-d7cd-420b-b72a-a167436f318e@bef6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 11区 - 60号 - 个人\n晨曦王座 - 海雾村 - 14区 - 59号 - 个人\n晨曦王座 - 海雾村 - 18区 - 60号 - 其他\n晨曦王座 - 薰衣草苗圃 - 3区 - 11号 - 个人\n晨曦王座 - 薰衣草苗圃 - 6区 - 27号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 51号 - 个人\n晨曦王座 - 薰衣草苗圃 - 16区 - 1号 - 个人\n晨曦王座 - 高脚孤丘 - 13区 - 42号 - 个人\n晨曦王座 - 白银乡 - 3区 - 13号 - 个人\n晨曦王座 - 穹顶皓天 - 3区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 11区 - 60号 - 个人\n晨曦王座 - 海雾村 - 14区 - 59号 - 个人\n晨曦王座 - 海雾村 - 18区 - 60号 - 其他\n晨曦王座 - 薰衣草苗圃 - 3区 - 11号 - 个人\n晨曦王座 - 薰衣草苗圃 - 6区 - 27号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 51号 - 个人\n晨曦王座 - 薰衣草苗圃 - 16区 - 1号 - 个人\n晨曦王座 - 高脚孤丘 - 13区 - 42号 - 个人\n晨曦王座 - 高脚孤丘 - 18区 - 12号 - 其他\n晨曦王座 - 白银乡 - 3区 - 13号 - 个人\n晨曦王座 - 穹顶皓天 - 3区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 24区 - 26号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250324T150000Z
 SUMMARY:M房抽选截止
-UID:c0885e6d-7748-47c2-ab36-9260abd42b42@c088.org
+UID:f84271ae-151d-41f8-9015-e2fb5d936190@f842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 12区 - 28号 - 个人\n晨曦王座 - 白银乡 - 1区 - 16号 - 个人\n晨曦王座 - 白银乡 - 4区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250324T150000Z
+SUMMARY:L房抽选截止
+UID:7810a3ef-b209-4389-97a6-e530014f3d93@7810.org
 END:VEVENT
 END:VCALENDAR
