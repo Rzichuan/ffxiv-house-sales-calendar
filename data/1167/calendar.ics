@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 3区 - 30号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 13区 - 30号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 12号 - 其他\n红玉海 - 白银乡 - 8区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250324T150000Z
 SUMMARY:M房抽选截止
-UID:fb502d55-e7f1-4b11-b887-74b60528f832@fb50.org
+UID:34149070-f2ea-4b4a-9953-7a7efcfb7e17@3414.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 25区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 12号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 25区 - 32号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 35号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 12号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250324T150000Z
 SUMMARY:L房抽选截止
-UID:b759aa85-f839-4934-a31d-d2f9ea5081b6@b759.org
+UID:c1783080-12dc-4cf5-99d4-173ed2bda5ae@c178.org
 END:VEVENT
 END:VCALENDAR
