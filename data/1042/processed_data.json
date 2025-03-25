@@ -1,15 +1,6 @@
 [
     {
         "Area": 0,
-        "ID": 4,
-        "Slot": 0,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1042,
-        "Purchase_endtime": 1742828400
-    },
-    {
-        "Area": 0,
         "ID": 15,
         "Slot": 4,
         "RegionType": 2,
@@ -23,6 +14,15 @@
         "Slot": 6,
         "RegionType": 2,
         "Size": 1,
+        "Server": 1042,
+        "Purchase_endtime": 1743606000
+    },
+    {
+        "Area": 0,
+        "ID": 5,
+        "Slot": 9,
+        "RegionType": 2,
+        "Size": 2,
         "Server": 1042,
         "Purchase_endtime": 1743606000
     },
@@ -43,33 +43,6 @@
         "Size": 2,
         "Server": 1042,
         "Purchase_endtime": 1743606000
-    },
-    {
-        "Area": 1,
-        "ID": 30,
-        "Slot": 16,
-        "RegionType": 0,
-        "Size": 1,
-        "Server": 1042,
-        "Purchase_endtime": 1742828400
-    },
-    {
-        "Area": 1,
-        "ID": 58,
-        "Slot": 19,
-        "RegionType": 0,
-        "Size": 2,
-        "Server": 1042,
-        "Purchase_endtime": 1742828400
-    },
-    {
-        "Area": 2,
-        "ID": 4,
-        "Slot": 18,
-        "RegionType": 0,
-        "Size": 1,
-        "Server": 1042,
-        "Purchase_endtime": 1742828400
     },
     {
         "Area": 3,
@@ -118,38 +91,11 @@
     },
     {
         "Area": 4,
-        "ID": 38,
-        "Slot": 11,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1042,
-        "Purchase_endtime": 1742828400
-    },
-    {
-        "Area": 4,
-        "ID": 8,
-        "Slot": 15,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1042,
-        "Purchase_endtime": 1742828400
-    },
-    {
-        "Area": 4,
         "ID": 47,
         "Slot": 21,
         "RegionType": 1,
         "Size": 1,
         "Server": 1042,
         "Purchase_endtime": 1743606000
-    },
-    {
-        "Area": 4,
-        "ID": 38,
-        "Slot": 24,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1042,
-        "Purchase_endtime": 1742828400
     }
 ]
