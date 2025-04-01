@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 13区 - 60号 - 个人\n晨曦王座 - 白银乡 - 2区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 13区 - 60号 - 个人\n晨曦王座 - 白银乡 - 2区 - 43号 - 个人\n晨曦王座 - 白银乡 - 3区 - 45号 - 个人\n晨曦王座 - 白银乡 - 14区 - 1号 - 个人\n晨曦王座 - 白银乡 - 30区 - 58号 - 部队\n晨曦王座 - 穹顶皓天 - 1区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250411T150000Z
 SUMMARY:M房抽选截止
-UID:e7cfb29b-f858-4377-8c82-f497d6995124@e7cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 6区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 22号 - 个人\n晨曦王座 - 穹顶皓天 - 27区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250402T150000Z
-SUMMARY:L房抽选截止
-UID:8110192f-2788-4f44-bbd8-fe886c7efac6@8110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 17区 - 37号 - 其他\n晨曦王座 - 穹顶皓天 - 23区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
-SUMMARY:L房抽选截止
-UID:ffe37951-a8f7-480c-be4f-541b834cc365@ffe3.org
+UID:ccf7b406-2c09-4776-a90d-20f1ac4abc64@ccf7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 12区 - 1号 - 个人\n晨曦王座 - 海雾村 - 16区 - 14号 - 个人\n晨曦王座 - 海雾村 - 17区 - 7号 - 其他\n晨曦王座 - 海雾村 - 23区 - 34号 - 部队\n晨曦王座 - 薰衣草苗圃 - 9区 - 51号 - 个人\n晨曦王座 - 薰衣草苗圃 - 27区 - 35号 - 个人\n晨曦王座 - 高脚孤丘 - 6区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 9区 - 8号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 14区 - 36号 - 个人\n晨曦王座 - 白银乡 - 5区 - 28号 - 个人\n晨曦王座 - 白银乡 - 5区 - 58号 - 个人\n晨曦王座 - 白银乡 - 14区 - 49号 - 个人\n晨曦王座 - 白银乡 - 19区 - 58号 - 其他\n晨曦王座 - 白银乡 - 21区 - 54号 - 部队\n晨曦王座 - 白银乡 - 24区 - 1号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250402T150000Z
 SUMMARY:M房抽选截止
-UID:79c89548-3704-4fec-9ac6-15a8a9b3a8f4@79c8.org
+UID:7dee871a-47f9-40fe-8b04-7cd0d38576b9@7dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 6区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 22号 - 个人\n晨曦王座 - 穹顶皓天 - 27区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250402T150000Z
+SUMMARY:L房抽选截止
+UID:0e4acdad-2448-4521-bd5f-b1ff6fc7fe9e@0e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 17区 - 37号 - 其他\n晨曦王座 - 穹顶皓天 - 23区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250411T150000Z
+SUMMARY:L房抽选截止
+UID:57446713-85cd-4e8a-aad6-33b925a5701e@5744.org
 END:VEVENT
 END:VCALENDAR
