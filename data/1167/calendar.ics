@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 24区 - 35号 - 部队\n红玉海 - 白银乡 - 12区 - 43号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 穹顶皓天 - 9区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 24区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250411T150000Z
+SUMMARY:M房抽选截止
+UID:74d7f03a-e174-4022-b9be-57a435d9ea7b@74d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 17区 - 37号 - 其他\n红玉海 - 薰衣草苗圃 - 3区 - 16号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 25号 - 其他\n红玉海 - 白银乡 - 8区 - 58号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250402T150000Z
+SUMMARY:M房抽选截止
+UID:b1424779-9d89-4c9d-867c-1db794c85674@b142.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 11区 - 15号 - 个人\n红玉海 - 海雾村 - 22区 - 32号 - 部队\n红玉海 - 薰衣草苗圃 - 20区 - 3号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250402T150000Z
 SUMMARY:L房抽选截止
-UID:57069dd7-6c8a-4939-9d3d-79d02c6e842e@5706.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 4区 - 36号 - 个人\n红玉海 - 海雾村 - 17区 - 37号 - 其他\n红玉海 - 薰衣草苗圃 - 3区 - 16号 - 个人\n红玉海 - 薰衣草苗圃 - 10区 - 30号 - 个人\n红玉海 - 薰衣草苗圃 - 23区 - 27号 - 部队\n红玉海 - 高脚孤丘 - 19区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 22区 - 38号 - 部队\n红玉海 - 白银乡 - 8区 - 58号 - 个人\n红玉海 - 白银乡 - 12区 - 31号 - 个人\n红玉海 - 白银乡 - 14区 - 28号 - 个人\n红玉海 - 白银乡 - 25区 - 15号 - 个人\n红玉海 - 穹顶皓天 - 2区 - 37号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 5区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250402T150000Z
-SUMMARY:M房抽选截止
-UID:12ac8d60-c905-45c7-8519-9d8e23818c2d@12ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 24区 - 35号 - 部队\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
-SUMMARY:M房抽选截止
-UID:ce77b125-eb6e-460c-a620-e439e1be82be@ce77.org
+UID:59aaf105-a38b-46a9-8533-fd85f1338f78@59aa.org
 END:VEVENT
 END:VCALENDAR
