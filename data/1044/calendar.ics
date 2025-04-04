@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 13区 - 36号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
-SUMMARY:L房抽选截止
-UID:8ab52a8d-1589-4de5-9a82-22c18273d175@8ab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 穹顶皓天 - 27区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250324T150000Z
-SUMMARY:L房抽选截止
-UID:7be04530-d8d9-48f5-92a1-6f59112ca879@7be0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 13区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 12号 - 个人\n幻影群岛 - 高脚孤丘 - 26区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 17区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 高脚孤丘 - 13区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 26区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250402T150000Z
 SUMMARY:M房抽选截止
-UID:800c7fae-1d20-47ee-885c-b9aa9408022b@800c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 12区 - 34号 - 个人\n幻影群岛 - 薰衣草苗圃 - 8区 - 35号 - 个人\n幻影群岛 - 薰衣草苗圃 - 13区 - 5号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 21号 - 部队\n幻影群岛 - 高脚孤丘 - 18区 - 55号 - 其他\n幻影群岛 - 白银乡 - 23区 - 54号 - 部队\n幻影群岛 - 穹顶皓天 - 2区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
-SUMMARY:M房抽选截止
-UID:6ef9f8c8-bd83-4cbf-baf2-bd99aa03f14b@6ef9.org
+UID:5fffe24a-058f-4a97-b7c6-b851196f3a5d@5fff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 5区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250402T150000Z
 SUMMARY:L房抽选截止
-UID:26dd96b5-10c9-413a-a7d7-8d3682b8f700@26dd.org
+UID:b906d972-dc3f-449c-9507-4b702c5c5874@b906.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 12区 - 34号 - 个人\n幻影群岛 - 海雾村 - 27区 - 59号 - 个人\n幻影群岛 - 薰衣草苗圃 - 8区 - 35号 - 个人\n幻影群岛 - 薰衣草苗圃 - 13区 - 5号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 21号 - 部队\n幻影群岛 - 高脚孤丘 - 18区 - 55号 - 其他\n幻影群岛 - 白银乡 - 23区 - 54号 - 部队\n幻影群岛 - 穹顶皓天 - 2区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 2区 - 56号 - 个人\n幻影群岛 - 穹顶皓天 - 23区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250411T150000Z
+SUMMARY:M房抽选截止
+UID:69c71fea-fd72-4e99-9131-dc81953a89c3@69c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 13区 - 36号 - 个人\n幻影群岛 - 薰衣草苗圃 - 14区 - 33号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 43号 - 个人\n幻影群岛 - 白银乡 - 15区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250411T150000Z
+SUMMARY:L房抽选截止
+UID:cacb7509-2929-4e51-972b-aa3f75f49420@cacb.org
 END:VEVENT
 END:VCALENDAR
