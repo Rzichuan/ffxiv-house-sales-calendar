@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 6区 - 29号 - 个人\n沃仙曦染 - 海雾村 - 24区 - 30号 - 部队\n沃仙曦染 - 白银乡 - 25区 - 15号 - 个人\n沃仙曦染 - 穹顶皓天 - 14区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
-SUMMARY:M房抽选截止
-UID:3d069a01-2f82-4947-9603-ad2074d77916@3d06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 白银乡 - 2区 - 37号 - 个人\n沃仙曦染 - 白银乡 - 21区 - 37号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 白银乡 - 2区 - 37号 - 个人\n沃仙曦染 - 白银乡 - 12区 - 30号 - 个人\n沃仙曦染 - 白银乡 - 21区 - 37号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250411T150000Z
 SUMMARY:L房抽选截止
-UID:b6dbf696-81e4-43ab-b948-bd590167b98b@b6db.org
+UID:5cd425b0-0820-4ec9-9b79-d96986d0a210@5cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 海雾村 - 6区 - 29号 - 个人\n沃仙曦染 - 海雾村 - 10区 - 1号 - 个人\n沃仙曦染 - 海雾村 - 24区 - 30号 - 部队\n沃仙曦染 - 薰衣草苗圃 - 21区 - 46号 - 部队\n沃仙曦染 - 白银乡 - 25区 - 15号 - 个人\n沃仙曦染 - 穹顶皓天 - 14区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250411T150000Z
+SUMMARY:M房抽选截止
+UID:3f7ff57d-ca50-4b5d-8353-cce86ff8cdbc@3f7f.org
 END:VEVENT
 END:VCALENDAR
