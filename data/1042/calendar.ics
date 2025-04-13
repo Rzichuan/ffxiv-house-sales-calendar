@@ -5,18 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 13区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250402T150000Z
 SUMMARY:L房抽选截止
-UID:8b26d2e3-2e5b-4be1-82cd-f440fc9c6b9f@8b26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 15区 - 60号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 35号 - 个人\n拉诺西亚 - 白银乡 - 17区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
-SUMMARY:M房抽选截止
-UID:e0b9b980-ce33-4304-9f04-d904738e6914@e0b9.org
+UID:38e9254e-ca7e-44de-a8f4-47ca07ec0e5c@38e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 25区 - 51号 - 个人\n拉诺西亚 - 穹顶皓天 - 29区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250420T150000Z
 SUMMARY:M房抽选截止
-UID:5f8be38c-9959-49b3-b421-dabb92f85342@5f8b.org
+UID:b4729ac9-a850-4557-ba7d-083dd21ef675@b472.org
 END:VEVENT
 END:VCALENDAR
