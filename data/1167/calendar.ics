@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 15区 - 60号 - 个人\n红玉海 - 白银乡 - 2区 - 43号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 高脚孤丘 - 10区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250420T150000Z
+SUMMARY:L房抽选截止
+UID:706569f3-1cf0-4cb6-bd00-c2ad262bf0d5@7065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 15区 - 60号 - 个人\n红玉海 - 白银乡 - 2区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250411T150000Z
 SUMMARY:M房抽选截止
-UID:3042b44b-8dbb-4705-8a83-81d129633a37@3042.org
+UID:be5a55d7-35be-4311-8bf4-e3d82cc443f4@be5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 2区 - 14号 - 个人\n红玉海 - 高脚孤丘 - 7区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 4号 - 其他\n红玉海 - 高脚孤丘 - 24区 - 8号 - 部队\n红玉海 - 高脚孤丘 - 25区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 25区 - 55号 - 个人\n红玉海 - 高脚孤丘 - 27区 - 49号 - 个人\n红玉海 - 白银乡 - 16区 - 43号 - 个人\n红玉海 - 白银乡 - 25区 - 1号 - 个人\n红玉海 - 白银乡 - 29区 - 28号 - 其他\n红玉海 - 穹顶皓天 - 2区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250420T150000Z
+SUMMARY:M房抽选截止
+UID:3fa7bedd-d1d7-477b-a227-7599695a1c36@3fa7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 白银乡 - 8区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250402T150000Z
 SUMMARY:M房抽选截止
-UID:a4238a7d-edb4-4816-9414-5e63ff06960d@a423.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 2区 - 14号 - 个人\n红玉海 - 高脚孤丘 - 7区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 4号 - 其他\n红玉海 - 高脚孤丘 - 24区 - 8号 - 部队\n红玉海 - 高脚孤丘 - 25区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 25区 - 55号 - 个人\n红玉海 - 高脚孤丘 - 27区 - 49号 - 个人\n红玉海 - 白银乡 - 25区 - 1号 - 个人\n红玉海 - 白银乡 - 29区 - 28号 - 其他\n红玉海 - 穹顶皓天 - 2区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250420T150000Z
-SUMMARY:M房抽选截止
-UID:2b7c196a-980c-4ea6-af1b-0cd59f3b0fd1@2b7c.org
+UID:8b5df5ab-5af8-46d0-b973-a7f8e8f51d97@8b5d.org
 END:VEVENT
 END:VCALENDAR

@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 17区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250420T150000Z
-SUMMARY:M房抽选截止
-UID:f9ada030-334c-4467-bc94-a7f2e48d604e@f9ad.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250420T150000Z
 SUMMARY:L房抽选截止
-UID:d085ccdc-afed-416f-af6b-cabfb1716cdf@d085.org
+UID:e6044a3d-f538-4efd-8bf5-7357a7540ab6@e604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 17区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250420T150000Z
+SUMMARY:M房抽选截止
+UID:b21b84c4-d5ae-4457-b1b5-c5eb3b02b525@b21b.org
 END:VEVENT
 END:VCALENDAR

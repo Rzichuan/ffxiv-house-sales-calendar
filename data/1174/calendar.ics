@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 10区 - 1号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
+DESCRIPTION:沃仙曦染 - 海雾村 - 10区 - 30号 - 个人\n沃仙曦染 - 海雾村 - 26区 - 4号 - 个人\n沃仙曦染 - 高脚孤丘 - 7区 - 4号 - 个人\n沃仙曦染 - 白银乡 - 11区 - 8号 - 个人\n沃仙曦染 - 白银乡 - 12区 - 19号 - 个人\n沃仙曦染 - 穹顶皓天 - 1区 - 26号 - 个人\n沃仙曦染 - 穹顶皓天 - 14区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250420T150000Z
 SUMMARY:M房抽选截止
-UID:ecb2ffc3-7957-459c-b2dc-a9ae2988ee86@ecb2.org
+UID:72a2c797-03c3-41bf-ab91-e3038ec0b2bb@72a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 21区 - 37号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250411T150000Z
 SUMMARY:L房抽选截止
-UID:1a4ecabe-cde3-4925-92da-01e28c64cef2@1a4e.org
+UID:4316f7ee-aa0f-4977-badc-39e2af7b1af7@4316.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 18区 - 2号 - 其他\n沃仙曦染 - 高脚孤丘 - 8区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250420T150000Z
 SUMMARY:L房抽选截止
-UID:da8de81a-d186-4f39-bd48-3b60dd59ccc7@da8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 10区 - 30号 - 个人\n沃仙曦染 - 海雾村 - 26区 - 4号 - 个人\n沃仙曦染 - 高脚孤丘 - 7区 - 4号 - 个人\n沃仙曦染 - 白银乡 - 11区 - 8号 - 个人\n沃仙曦染 - 白银乡 - 12区 - 19号 - 个人\n沃仙曦染 - 穹顶皓天 - 1区 - 26号 - 个人\n沃仙曦染 - 穹顶皓天 - 14区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250420T150000Z
-SUMMARY:M房抽选截止
-UID:0fa0ea17-48c1-469b-9b74-8fca6941ee79@0fa0.org
+UID:086b4482-7d1a-44b3-b50e-2a66d11b14cb@086b.org
 END:VEVENT
 END:VCALENDAR
