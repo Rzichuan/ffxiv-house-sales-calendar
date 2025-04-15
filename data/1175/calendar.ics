@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250420T150000Z
 SUMMARY:L房抽选截止
-UID:e6044a3d-f538-4efd-8bf5-7357a7540ab6@e604.org
+UID:016c9e45-14ae-47a3-9dfa-247cf0a78221@016c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 17区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 28区 - 42号 - 其他\n晨曦王座 - 白银乡 - 17区 - 13号 - 其他\n晨曦王座 - 白银乡 - 26区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250420T150000Z
 SUMMARY:M房抽选截止
-UID:b21b84c4-d5ae-4457-b1b5-c5eb3b02b525@b21b.org
+UID:e98d6071-3684-4c31-a3d4-dde03bdaad5f@e98d.org
 END:VEVENT
 END:VCALENDAR
