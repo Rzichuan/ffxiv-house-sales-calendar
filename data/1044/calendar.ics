@@ -2,39 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 6区 - 21号 - 个人\n幻影群岛 - 白银乡 - 1区 - 49号 - 个人\n幻影群岛 - 白银乡 - 6区 - 58号 - 个人\n幻影群岛 - 穹顶皓天 - 23区 - 8号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 6区 - 21号 - 个人\n幻影群岛 - 高脚孤丘 - 5区 - 8号 - 个人\n幻影群岛 - 白银乡 - 1区 - 49号 - 个人\n幻影群岛 - 白银乡 - 6区 - 58号 - 个人\n幻影群岛 - 穹顶皓天 - 23区 - 8号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250429T150000Z
 SUMMARY:M房抽选截止
-UID:dbd625b2-94da-4ee1-9230-04ce0778112b@dbd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 8区 - 35号 - 个人\n幻影群岛 - 薰衣草苗圃 - 13区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250411T150000Z
-SUMMARY:M房抽选截止
-UID:ac9be08e-ce29-4e1c-b561-61942013632b@ac9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 30区 - 15号 - 部队\n幻影群岛 - 高脚孤丘 - 12区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250420T150000Z
-SUMMARY:L房抽选截止
-UID:032259e8-6d38-4192-8c01-f93879afb58d@0322.org
+UID:09186006-5f16-43ab-80e5-5249e4a2db2d@0918.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 12区 - 45号 - 个人\n幻影群岛 - 海雾村 - 24区 - 15号 - 部队\n幻影群岛 - 高脚孤丘 - 24区 - 5号 - 部队\n幻影群岛 - 穹顶皓天 - 3区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250429T150000Z
 SUMMARY:L房抽选截止
-UID:466b8b0e-0536-4766-aacd-5b6bdef6abe5@466b.org
+UID:00b97eee-188a-44a6-b4d4-a8c19f215808@00b9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 22区 - 60号 - 部队\n幻影群岛 - 海雾村 - 23区 - 1号 - 部队\n幻影群岛 - 高脚孤丘 - 8区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 30区 - 15号 - 部队\n幻影群岛 - 高脚孤丘 - 12区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250420T150000Z
-SUMMARY:M房抽选截止
-UID:e8a9b28f-da99-410e-a04d-190b10116da0@e8a9.org
+SUMMARY:L房抽选截止
+UID:6b10b3b3-9f3b-4edc-a119-5509b544a221@6b10.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 13区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 13区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250411T150000Z
-SUMMARY:L房抽选截止
-UID:9a2089d5-d21a-4c00-b428-a7d32bfe23fb@9a20.org
+SUMMARY:M房抽选截止
+UID:904df382-b589-47ca-8bf3-8b302474e4e7@904d.org
 END:VEVENT
 END:VCALENDAR
