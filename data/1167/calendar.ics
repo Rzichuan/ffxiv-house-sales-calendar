@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 4区 - 13号 - 个人\n红玉海 - 穹顶皓天 - 2区 - 22号 - 个人\n红玉海 - 穹顶皓天 - 27区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 穹顶皓天 - 2区 - 22号 - 个人\n红玉海 - 穹顶皓天 - 27区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250429T150000Z
 SUMMARY:L房抽选截止
-UID:ab84fd7b-e062-4029-8d47-092469575389@ab84.org
+UID:393f4bc4-1677-469d-9377-2c3e356e76f9@393f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 19区 - 14号 - 其他\n红玉海 - 海雾村 - 20区 - 4号 - 其他\n红玉海 - 薰衣草苗圃 - 12区 - 27号 - 个人\n红玉海 - 高脚孤丘 - 7区 - 25号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 12号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250429T150000Z
+SUMMARY:M房抽选截止
+UID:c09259e5-52b2-49d5-bca4-4db2221b1378@c092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 8区 - 29号 - 个人\n红玉海 - 薰衣草苗圃 - 3区 - 46号 - 个人\n红玉海 - 薰衣草苗圃 - 13区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 13区 - 19号 - 个人\n红玉海 - 穹顶皓天 - 27区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250508T150000Z
+SUMMARY:M房抽选截止
+UID:8c42a39a-025f-4394-b5c6-ac3f0882a862@8c42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 14区 - 60号 - 个人\n红玉海 - 白银乡 - 13区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 3区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250508T150000Z
 SUMMARY:L房抽选截止
-UID:bd04984d-e0b6-42d3-aee4-492129f45596@bd04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 13区 - 59号 - 个人\n红玉海 - 海雾村 - 19区 - 14号 - 其他\n红玉海 - 海雾村 - 20区 - 4号 - 其他\n红玉海 - 薰衣草苗圃 - 11区 - 31号 - 个人\n红玉海 - 薰衣草苗圃 - 12区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 14区 - 30号 - 个人\n红玉海 - 薰衣草苗圃 - 20区 - 57号 - 其他\n红玉海 - 高脚孤丘 - 7区 - 25号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 12号 - 个人\n红玉海 - 高脚孤丘 - 23区 - 6号 - 部队\n红玉海 - 白银乡 - 8区 - 58号 - 个人\n红玉海 - 白银乡 - 13区 - 19号 - 个人\n红玉海 - 白银乡 - 19区 - 31号 - 其他\n红玉海 - 穹顶皓天 - 8区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250429T150000Z
-SUMMARY:M房抽选截止
-UID:168d700d-031c-4f58-b694-16a69ca8889c@168d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 13区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250508T150000Z
-SUMMARY:M房抽选截止
-UID:cba016f4-6920-48e3-9924-d0fe33616cef@cba0.org
+UID:6068d809-f558-4738-8025-ed2ffc08c4e1@6068.org
 END:VEVENT
 END:VCALENDAR
