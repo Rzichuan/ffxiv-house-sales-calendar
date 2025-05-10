@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 12区 - 36号 - 个人\n宇宙和音 - 薰衣草苗圃 - 20区 - 60号 - 其他\n宇宙和音 - 白银乡 - 16区 - 45号 - 个人\n宇宙和音 - 白银乡 - 20区 - 43号 - 其他\n宇宙和音 - 穹顶皓天 - 24区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250508T150000Z
-SUMMARY:M房抽选截止
-UID:a6beeba2-1e58-4b5e-aadc-e7a9082a5167@a6be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 1区 - 30号 - 个人\n宇宙和音 - 薰衣草苗圃 - 23区 - 57号 - 部队\n宇宙和音 - 高脚孤丘 - 14区 - 55号 - 个人\n宇宙和音 - 高脚孤丘 - 19区 - 55号 - 其他\n宇宙和音 - 高脚孤丘 - 26区 - 11号 - 个人\n宇宙和音 - 白银乡 - 1区 - 15号 - 个人\n宇宙和音 - 白银乡 - 3区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250517T150000Z
-SUMMARY:M房抽选截止
-UID:74a57f92-e181-4523-b55a-7c56871e1e11@74a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 19区 - 3号 - 其他\n宇宙和音 - 白银乡 - 5区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250508T150000Z
-SUMMARY:L房抽选截止
-UID:427a2f6c-3a84-4ab1-9d3a-6d3752a56a98@427a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 1区 - 15号 - 个人\n宇宙和音 - 高脚孤丘 - 4区 - 30号 - 个人\n宇宙和音 - 白银乡 - 4区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250517T150000Z
 SUMMARY:L房抽选截止
-UID:af4e4ae4-0fa3-4222-ab97-015083ce8fd0@af4e.org
+UID:048d91e9-edc4-4fc8-8484-390443ae393a@048d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 19区 - 3号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250508T150000Z
+SUMMARY:L房抽选截止
+UID:8be4c36b-c8b1-4699-ae4b-a053a2bdbdee@8be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 20区 - 60号 - 其他\n宇宙和音 - 穹顶皓天 - 24区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250508T150000Z
+SUMMARY:M房抽选截止
+UID:ef89fe14-74cf-4f89-95f0-30613070aeb2@ef89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 1区 - 30号 - 个人\n宇宙和音 - 薰衣草苗圃 - 23区 - 57号 - 部队\n宇宙和音 - 高脚孤丘 - 14区 - 55号 - 个人\n宇宙和音 - 高脚孤丘 - 19区 - 55号 - 其他\n宇宙和音 - 高脚孤丘 - 26区 - 11号 - 个人\n宇宙和音 - 白银乡 - 1区 - 15号 - 个人\n宇宙和音 - 白银乡 - 3区 - 43号 - 个人\n宇宙和音 - 穹顶皓天 - 29区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250517T150000Z
+SUMMARY:M房抽选截止
+UID:e7fe7999-eefd-40e0-8525-13742af87b0b@e7fe.org
 END:VEVENT
 END:VCALENDAR
