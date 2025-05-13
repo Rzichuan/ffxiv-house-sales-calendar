@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 16区 - 14号 - 个人\n神意之地 - 高脚孤丘 - 12区 - 34号 - 个人\n神意之地 - 高脚孤丘 - 13区 - 49号 - 个人\n神意之地 - 高脚孤丘 - 19区 - 11号 - 其他\n神意之地 - 高脚孤丘 - 26区 - 19号 - 个人\n神意之地 - 高脚孤丘 - 29区 - 8号 - 其他\n神意之地 - 高脚孤丘 - 29区 - 12号 - 其他\n神意之地 - 穹顶皓天 - 10区 - 48号 - 个人\n神意之地 - 穹顶皓天 - 20区 - 51号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250517T150000Z
 SUMMARY:M房抽选截止
-UID:3ab4d747-768f-4a0c-891a-9831ce354472@3ab4.org
+UID:a00779f3-236b-440c-946d-451d9e3a2158@a007.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 3区 - 43号 - 个人\n神意之地 - 高脚孤丘 - 12区 - 5号 - 个人\n神意之地 - 高脚孤丘 - 29区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250517T150000Z
 SUMMARY:L房抽选截止
-UID:19e0c9b5-1d7a-4a8d-a7eb-40b99946352e@19e0.org
+UID:61df8a1a-3926-48ed-8ba5-242bbc0bb747@61df.org
 END:VEVENT
 END:VCALENDAR
