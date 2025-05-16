@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 穹顶皓天 - 24区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250508T150000Z
+DESCRIPTION:宇宙和音 - 海雾村 - 20区 - 1号 - 其他\n宇宙和音 - 薰衣草苗圃 - 1区 - 30号 - 个人\n宇宙和音 - 薰衣草苗圃 - 23区 - 57号 - 部队\n宇宙和音 - 薰衣草苗圃 - 25区 - 1号 - 个人\n宇宙和音 - 薰衣草苗圃 - 25区 - 21号 - 个人\n宇宙和音 - 高脚孤丘 - 14区 - 55号 - 个人\n宇宙和音 - 高脚孤丘 - 19区 - 55号 - 其他\n宇宙和音 - 高脚孤丘 - 26区 - 11号 - 个人\n宇宙和音 - 白银乡 - 1区 - 15号 - 个人\n宇宙和音 - 白银乡 - 3区 - 43号 - 个人\n宇宙和音 - 穹顶皓天 - 5区 - 7号 - 个人\n宇宙和音 - 穹顶皓天 - 16区 - 18号 - 个人\n宇宙和音 - 穹顶皓天 - 29区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250517T150000Z
 SUMMARY:M房抽选截止
-UID:4a43c7e2-62c1-4210-b803-b570ab050732@4a43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 20区 - 14号 - 其他\n宇宙和音 - 海雾村 - 21区 - 37号 - 部队\n宇宙和音 - 白银乡 - 15区 - 15号 - 个人\n宇宙和音 - 穹顶皓天 - 10区 - 21号 - 个人\n宇宙和音 - 穹顶皓天 - 25区 - 48号 - 个人\n宇宙和音 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250526T150000Z
-SUMMARY:M房抽选截止
-UID:c81b3785-c83f-4fe6-95c0-1485fff43615@c81b.org
+UID:64292ed3-2581-40fb-9d02-ece69998d239@6429.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 1区 - 15号 - 个人\n宇宙和音 - 高脚孤丘 - 4区 - 30号 - 个人\n宇宙和音 - 白银乡 - 4区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250517T150000Z
 SUMMARY:L房抽选截止
-UID:95f56435-7f9c-4f54-8d36-60e298059ab3@95f5.org
+UID:5ec3d1d9-ce38-4503-a216-cd47b7ea9146@5ec3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 20区 - 1号 - 其他\n宇宙和音 - 薰衣草苗圃 - 1区 - 30号 - 个人\n宇宙和音 - 薰衣草苗圃 - 23区 - 57号 - 部队\n宇宙和音 - 薰衣草苗圃 - 25区 - 1号 - 个人\n宇宙和音 - 薰衣草苗圃 - 25区 - 21号 - 个人\n宇宙和音 - 高脚孤丘 - 14区 - 55号 - 个人\n宇宙和音 - 高脚孤丘 - 19区 - 55号 - 其他\n宇宙和音 - 高脚孤丘 - 26区 - 11号 - 个人\n宇宙和音 - 白银乡 - 1区 - 15号 - 个人\n宇宙和音 - 白银乡 - 3区 - 43号 - 个人\n宇宙和音 - 穹顶皓天 - 5区 - 7号 - 个人\n宇宙和音 - 穹顶皓天 - 16区 - 18号 - 个人\n宇宙和音 - 穹顶皓天 - 29区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250517T150000Z
+DESCRIPTION:宇宙和音 - 海雾村 - 20区 - 14号 - 其他\n宇宙和音 - 海雾村 - 21区 - 37号 - 部队\n宇宙和音 - 白银乡 - 15区 - 15号 - 个人\n宇宙和音 - 穹顶皓天 - 10区 - 21号 - 个人\n宇宙和音 - 穹顶皓天 - 25区 - 48号 - 个人\n宇宙和音 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250526T150000Z
 SUMMARY:M房抽选截止
-UID:a58b95a1-6970-4c15-b262-5d20034a7c04@a58b.org
+UID:8f8898ec-6519-4bdd-abcb-b3a4732f23a3@8f88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 穹顶皓天 - 24区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250508T150000Z
+SUMMARY:M房抽选截止
+UID:a323a156-31e2-4897-99ba-ca7501a9500f@a323.org
 END:VEVENT
 END:VCALENDAR
