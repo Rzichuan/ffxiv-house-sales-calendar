@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 23区 - 3号 - 部队\n红玉海 - 薰衣草苗圃 - 23区 - 33号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250526T150000Z
-SUMMARY:L房抽选截止
-UID:859e735f-9cc4-4d9a-8c54-57d5ac4cc432@859e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 11区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250517T150000Z
-SUMMARY:L房抽选截止
-UID:dc1c399c-063c-41e7-ba08-61b26d63edc4@dc1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 27区 - 16号 - 个人\n红玉海 - 高脚孤丘 - 2区 - 4号 - 个人\n红玉海 - 白银乡 - 25区 - 13号 - 个人\n红玉海 - 穹顶皓天 - 14区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250526T150000Z
-SUMMARY:M房抽选截止
-UID:003304be-76f6-45e0-998a-14bfab8cb17a@0033.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 1区 - 30号 - 个人\n红玉海 - 海雾村 - 10区 - 44号 - 个人\n红玉海 - 海雾村 - 22区 - 4号 - 部队\n红玉海 - 薰衣草苗圃 - 2区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 41号 - 个人\n红玉海 - 薰衣草苗圃 - 21区 - 41号 - 部队\n红玉海 - 高脚孤丘 - 23区 - 34号 - 部队\n红玉海 - 白银乡 - 22区 - 15号 - 部队\n红玉海 - 穹顶皓天 - 2区 - 56号 - 个人\n红玉海 - 穹顶皓天 - 10区 - 56号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 10区 - 44号 - 个人\n红玉海 - 海雾村 - 22区 - 4号 - 部队\n红玉海 - 薰衣草苗圃 - 2区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 41号 - 个人\n红玉海 - 薰衣草苗圃 - 21区 - 41号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250517T150000Z
 SUMMARY:M房抽选截止
-UID:4094a0a6-10f4-4198-9aae-9ed2a5d4dd8b@4094.org
+UID:d92804a4-e83d-464e-9f88-4e96ac54cd09@d928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 23区 - 3号 - 部队\n红玉海 - 薰衣草苗圃 - 23区 - 33号 - 部队\n红玉海 - 高脚孤丘 - 4区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250526T150000Z
+SUMMARY:L房抽选截止
+UID:2611d1b2-1d30-4692-8e5b-201bac10fe57@2611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 9区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 27区 - 16号 - 个人\n红玉海 - 高脚孤丘 - 2区 - 4号 - 个人\n红玉海 - 白银乡 - 25区 - 13号 - 个人\n红玉海 - 穹顶皓天 - 14区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 27区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250526T150000Z
+SUMMARY:M房抽选截止
+UID:6756711a-5f9f-4c8a-9b20-189617f48a5e@6756.org
 END:VEVENT
 END:VCALENDAR
