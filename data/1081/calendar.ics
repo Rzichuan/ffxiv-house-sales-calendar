@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 12区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 高脚孤丘 - 26区 - 19号 - 个人\n神意之地 - 高脚孤丘 - 29区 - 8号 - 其他\n神意之地 - 穹顶皓天 - 20区 - 51号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250517T150000Z
-SUMMARY:L房抽选截止
-UID:bec2a419-ed3c-4ea0-a502-1e69eb29a1a3@bec2.org
+SUMMARY:M房抽选截止
+UID:eaeacb98-67c1-4ce0-bf78-8b1948636ea0@eaea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 7区 - 29号 - 个人\n神意之地 - 海雾村 - 14区 - 59号 - 个人\n神意之地 - 薰衣草苗圃 - 6区 - 35号 - 个人\n神意之地 - 白银乡 - 2区 - 15号 - 个人\n神意之地 - 白银乡 - 6区 - 43号 - 个人\n神意之地 - 白银乡 - 17区 - 31号 - 其他\n神意之地 - 穹顶皓天 - 26区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250526T150000Z
+SUMMARY:M房抽选截止
+UID:c9c3aa83-fc53-48f0-bfde-631f3ebf1b90@c9c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 21区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250526T150000Z
 SUMMARY:L房抽选截止
-UID:28c3072b-a145-4670-a3e3-da8e13750325@28c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 12区 - 34号 - 个人\n神意之地 - 高脚孤丘 - 13区 - 49号 - 个人\n神意之地 - 高脚孤丘 - 26区 - 19号 - 个人\n神意之地 - 高脚孤丘 - 29区 - 8号 - 其他\n神意之地 - 穹顶皓天 - 20区 - 51号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250517T150000Z
-SUMMARY:M房抽选截止
-UID:104d7feb-41eb-4551-889d-803d239f31ba@104d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 7区 - 29号 - 个人\n神意之地 - 薰衣草苗圃 - 6区 - 35号 - 个人\n神意之地 - 白银乡 - 6区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250526T150000Z
-SUMMARY:M房抽选截止
-UID:063d4928-74b4-4b95-ab64-a637358749bd@063d.org
+UID:795e1e6e-e315-4d2e-9276-8969168aad44@795e.org
 END:VEVENT
 END:VCALENDAR

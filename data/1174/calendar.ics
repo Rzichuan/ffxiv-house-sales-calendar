@@ -2,33 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 7区 - 45号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 20区 - 3号 - 其他\n沃仙曦染 - 穹顶皓天 - 22区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250517T150000Z
-SUMMARY:L房抽选截止
-UID:21c453ad-5824-4d07-8172-5273c0bc28a7@21c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 16区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250508T150000Z
-SUMMARY:M房抽选截止
-UID:0452a81a-10fc-4da8-b62f-c7fbf87377bf@0452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 16区 - 30号 - 个人\n沃仙曦染 - 海雾村 - 19区 - 59号 - 其他\n沃仙曦染 - 海雾村 - 27区 - 44号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 7区 - 35号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 18区 - 35号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 28区 - 60号 - 其他\n沃仙曦染 - 高脚孤丘 - 21区 - 8号 - 部队\n沃仙曦染 - 白银乡 - 8区 - 28号 - 个人\n沃仙曦染 - 白银乡 - 10区 - 19号 - 个人\n沃仙曦染 - 白银乡 - 22区 - 28号 - 部队\n沃仙曦染 - 白银乡 - 29区 - 28号 - 其他\n沃仙曦染 - 穹顶皓天 - 14区 - 56号 - 个人\n沃仙曦染 - 穹顶皓天 - 30区 - 26号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250526T150000Z
-SUMMARY:M房抽选截止
-UID:3798aad6-2128-4a32-8f7c-0060b420e28f@3798.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 17区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 海雾村 - 17区 - 32号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 22区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250526T150000Z
 SUMMARY:L房抽选截止
-UID:6da84699-1b5a-46ef-94f9-5f9a0dfde690@6da8.org
+UID:d9774997-a47d-4341-803b-ab278f5cbdbb@d977.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 穹顶皓天 - 11区 - 48号 - 个人\n沃仙曦染 - 穹顶皓天 - 16区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250517T150000Z
+DESCRIPTION:沃仙曦染 - 海雾村 - 16区 - 30号 - 个人\n沃仙曦染 - 海雾村 - 19区 - 59号 - 其他\n沃仙曦染 - 海雾村 - 27区 - 44号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 7区 - 35号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 18区 - 35号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 28区 - 60号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 30区 - 1号 - 部队\n沃仙曦染 - 高脚孤丘 - 21区 - 8号 - 部队\n沃仙曦染 - 白银乡 - 8区 - 28号 - 个人\n沃仙曦染 - 白银乡 - 10区 - 19号 - 个人\n沃仙曦染 - 白银乡 - 22区 - 28号 - 部队\n沃仙曦染 - 白银乡 - 29区 - 28号 - 其他\n沃仙曦染 - 穹顶皓天 - 14区 - 56号 - 个人\n沃仙曦染 - 穹顶皓天 - 29区 - 21号 - 其他\n沃仙曦染 - 穹顶皓天 - 30区 - 26号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250526T150000Z
 SUMMARY:M房抽选截止
-UID:8d0c3bea-6fc5-4379-9123-8cb49808d658@8d0c.org
+UID:5c6a4528-e203-43c3-864a-ce50bfa8a946@5c6a.org
 END:VEVENT
 END:VCALENDAR

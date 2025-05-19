@@ -1,15 +1,6 @@
 [
     {
         "Area": 0,
-        "ID": 45,
-        "Slot": 6,
-        "RegionType": 2,
-        "Size": 2,
-        "Server": 1174,
-        "Purchase_endtime": 1747494000
-    },
-    {
-        "Area": 0,
         "ID": 30,
         "Slot": 15,
         "RegionType": 2,
@@ -55,15 +46,6 @@
     },
     {
         "Area": 1,
-        "ID": 21,
-        "Slot": 15,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1174,
-        "Purchase_endtime": 1746716400
-    },
-    {
-        "Area": 1,
         "ID": 35,
         "Slot": 17,
         "RegionType": 0,
@@ -73,18 +55,27 @@
     },
     {
         "Area": 1,
-        "ID": 3,
-        "Slot": 19,
-        "RegionType": 0,
+        "ID": 36,
+        "Slot": 21,
+        "RegionType": 1,
         "Size": 2,
         "Server": 1174,
-        "Purchase_endtime": 1747494000
+        "Purchase_endtime": 1748271600
     },
     {
         "Area": 1,
         "ID": 60,
         "Slot": 27,
         "RegionType": 0,
+        "Size": 1,
+        "Server": 1174,
+        "Purchase_endtime": 1748271600
+    },
+    {
+        "Area": 1,
+        "ID": 1,
+        "Slot": 29,
+        "RegionType": 1,
         "Size": 1,
         "Server": 1174,
         "Purchase_endtime": 1748271600
@@ -136,15 +127,6 @@
     },
     {
         "Area": 4,
-        "ID": 48,
-        "Slot": 10,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1174,
-        "Purchase_endtime": 1747494000
-    },
-    {
-        "Area": 4,
         "ID": 56,
         "Slot": 13,
         "RegionType": 2,
@@ -154,21 +136,12 @@
     },
     {
         "Area": 4,
-        "ID": 26,
-        "Slot": 15,
-        "RegionType": 2,
+        "ID": 21,
+        "Slot": 28,
+        "RegionType": 0,
         "Size": 1,
         "Server": 1174,
-        "Purchase_endtime": 1747494000
-    },
-    {
-        "Area": 4,
-        "ID": 60,
-        "Slot": 21,
-        "RegionType": 1,
-        "Size": 2,
-        "Server": 1174,
-        "Purchase_endtime": 1747494000
+        "Purchase_endtime": 1748271600
     },
     {
         "Area": 4,
