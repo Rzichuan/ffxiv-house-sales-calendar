@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 10区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250526T150000Z
-SUMMARY:L房抽选截止
-UID:c342ead5-7eef-4cab-ac07-f533ca8d7082@c342.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 14区 - 59号 - 个人\n拉诺西亚 - 海雾村 - 26区 - 4号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 29区 - 57号 - 其他\n拉诺西亚 - 白银乡 - 28区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250526T150000Z
 SUMMARY:M房抽选截止
-UID:806fdf94-8511-444f-a544-c29201b3399e@806f.org
+UID:b7a7896b-7ed2-4032-b48f-eb66ed83ce7d@b7a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 白银乡 - 10区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250526T150000Z
+SUMMARY:L房抽选截止
+UID:982baab6-8497-4dda-8a30-80aa5acbce87@982b.org
 END:VEVENT
 END:VCALENDAR
