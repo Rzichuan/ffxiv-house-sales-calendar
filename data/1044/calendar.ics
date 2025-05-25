@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 穹顶皓天 - 16区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250517T150000Z
-SUMMARY:M房抽选截止
-UID:06e263b1-1251-4bb0-9884-b7344782701c@06e2.org
+DESCRIPTION:幻影群岛 - 高脚孤丘 - 27区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250604T150000Z
+SUMMARY:L房抽选截止
+UID:faa1d0b7-4fd6-49be-b3d9-bd69ae05d17e@faa1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250526T150000Z
 SUMMARY:L房抽选截止
-UID:478fe959-3417-444c-b973-6ca35d14768d@478f.org
+UID:35238a11-0bb0-4e55-bd03-3ed5f0316553@3523.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 5区 - 7号 - 个人\n幻影群岛 - 白银乡 - 7区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250604T150000Z
+DESCRIPTION:幻影群岛 - 穹顶皓天 - 16区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250517T150000Z
 SUMMARY:M房抽选截止
-UID:9542a7a1-2152-4aff-9d9e-8f758690f838@9542.org
+UID:e988eb06-5f94-497c-ae00-adf556c542bb@e988.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 21区 - 34号 - 部队\n幻影群岛 - 海雾村 - 25区 - 29号 - 个人\n幻影群岛 - 薰衣草苗圃 - 12区 - 1号 - 个人\n幻影群岛 - 薰衣草苗圃 - 22区 - 31号 - 部队\n幻影群岛 - 高脚孤丘 - 5区 - 12号 - 个人\n幻影群岛 - 高脚孤丘 - 24区 - 55号 - 部队\n幻影群岛 - 白银乡 - 20区 - 15号 - 其他\n幻影群岛 - 穹顶皓天 - 3区 - 18号 - 个人\n幻影群岛 - 穹顶皓天 - 4区 - 2号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 7区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 28区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250526T150000Z
 SUMMARY:M房抽选截止
-UID:1392227f-37ef-4369-bda3-ceb5bb98b9a1@1392.org
+UID:38a1fa5c-6076-4553-8256-8574b2d6ce30@38a1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 27区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 5区 - 7号 - 个人\n幻影群岛 - 海雾村 - 13区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 41号 - 个人\n幻影群岛 - 白银乡 - 7区 - 19号 - 个人\n幻影群岛 - 穹顶皓天 - 7区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250604T150000Z
-SUMMARY:L房抽选截止
-UID:648870ba-26a6-46eb-a481-ca0f54aa08ea@6488.org
+SUMMARY:M房抽选截止
+UID:6aaaa43d-4a06-4034-a942-2f1dfd6cca1f@6aaa.org
 END:VEVENT
 END:VCALENDAR
