@@ -97,5 +97,14 @@
         "Size": 1,
         "Server": 1044,
         "Purchase_endtime": 1749049200
+    },
+    {
+        "Area": 4,
+        "ID": 17,
+        "Slot": 28,
+        "RegionType": 0,
+        "Size": 1,
+        "Server": 1044,
+        "Purchase_endtime": 1749049200
     }
 ]
