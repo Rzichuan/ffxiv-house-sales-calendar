@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 21区 - 6号 - 部队\n神意之地 - 薰衣草苗圃 - 9区 - 46号 - 个人\n神意之地 - 薰衣草苗圃 - 20区 - 30号 - 其他\n神意之地 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250613T150000Z
+SUMMARY:M房抽选截止
+UID:8dc8e3b4-8558-42eb-9518-ef0235ebeb42@8dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 10区 - 32号 - 个人\n神意之地 - 白银乡 - 2区 - 16号 - 个人\n神意之地 - 穹顶皓天 - 28区 - 22号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250613T150000Z
+SUMMARY:L房抽选截止
+UID:ebd28e9e-0193-41c7-85e1-b32e4a91e6fc@ebd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 15区 - 46号 - 个人\n神意之地 - 穹顶皓天 - 8区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250604T150000Z
+SUMMARY:M房抽选截止
+UID:888b4cbc-4508-48c3-b5dd-ad538fa7975d@888b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 4区 - 60号 - 个人\n神意之地 - 穹顶皓天 - 11区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250604T150000Z
 SUMMARY:L房抽选截止
-UID:8ae9cda3-1a33-48e8-be21-6470dc6e400f@8ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 10区 - 32号 - 个人\n神意之地 - 穹顶皓天 - 28区 - 22号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250613T150000Z
-SUMMARY:L房抽选截止
-UID:75047253-118a-4f46-9886-b80a300d18ec@7504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 21区 - 6号 - 部队\n神意之地 - 薰衣草苗圃 - 9区 - 46号 - 个人\n神意之地 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250613T150000Z
-SUMMARY:M房抽选截止
-UID:e2ca79f4-0f93-43a0-9aaa-e72899667971@e2ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 15区 - 46号 - 个人\n神意之地 - 高脚孤丘 - 6区 - 19号 - 个人\n神意之地 - 高脚孤丘 - 27区 - 34号 - 个人\n神意之地 - 穹顶皓天 - 8区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250604T150000Z
-SUMMARY:M房抽选截止
-UID:f8712d86-fc32-47ea-aac4-33f87d6ee552@f871.org
+UID:1fc99560-35fc-4721-ad35-6e5b6d4d989a@1fc9.org
 END:VEVENT
 END:VCALENDAR
