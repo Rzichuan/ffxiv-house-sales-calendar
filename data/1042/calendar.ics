@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 1区 - 11号 - 个人\n拉诺西亚 - 白银乡 - 15区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 4区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 4区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250604T150000Z
 SUMMARY:M房抽选截止
-UID:3dfc1546-c023-4b4c-b035-b03950a02326@3dfc.org
+UID:3ba66a47-940c-45f5-8e1e-bc704dc9f2eb@3ba6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 6区 - 5号 - 个人\n拉诺西亚 - 高脚孤丘 - 15区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 1区 - 45号 - 个人\n拉诺西亚 - 白银乡 - 20区 - 19号 - 其他\n拉诺西亚 - 穹顶皓天 - 15区 - 18号 - 个人\n拉诺西亚 - 穹顶皓天 - 24区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250613T150000Z
 SUMMARY:M房抽选截止
-UID:8c9db9fe-f7dd-45ea-9e51-aa06d3b6fdd0@8c9d.org
+UID:7df00c00-94c0-4da6-9048-90c689dd1541@7df0.org
 END:VEVENT
 END:VCALENDAR
