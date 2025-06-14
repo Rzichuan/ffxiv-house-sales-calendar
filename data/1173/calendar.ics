@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 26区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250613T150000Z
-SUMMARY:L房抽选截止
-UID:a36a31b0-4f81-452e-b8e1-6eb4460e3ed5@a36a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 4区 - 34号 - 个人\n宇宙和音 - 高脚孤丘 - 13区 - 36号 - 个人\n宇宙和音 - 白银乡 - 11区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 4区 - 34号 - 个人\n宇宙和音 - 高脚孤丘 - 13区 - 36号 - 个人\n宇宙和音 - 白银乡 - 11区 - 58号 - 个人\n宇宙和音 - 穹顶皓天 - 29区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:M房抽选截止
-UID:0a1c6d9e-c119-4a44-8d9f-744a38ae1697@0a1c.org
+UID:5e89aa61-3ae5-44ab-a39b-3d8ed75611d1@5e89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 白银乡 - 5区 - 38号 - 个人\n宇宙和音 - 穹顶皓天 - 17区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250613T150000Z
+SUMMARY:M房抽选截止
+UID:803c6fe9-b756-4212-b5ec-8f8c874c2bde@803c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 3区 - 45号 - 个人\n宇宙和音 - 薰衣草苗圃 - 23区 - 36号 - 部队\n宇宙和音 - 高脚孤丘 - 7区 - 5号 - 个人\n宇宙和音 - 穹顶皓天 - 26区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:L房抽选截止
-UID:8b536484-4377-4f47-a67e-69eb0849f79f@8b53.org
+UID:5dd4e049-34e1-40d8-afc5-22a704b50db1@5dd4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 8区 - 1号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250604T150000Z
-SUMMARY:M房抽选截止
-UID:b272ea3f-1d45-4bf5-ac8a-1be25a2e1019@b272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 11区 - 44号 - 个人\n宇宙和音 - 薰衣草苗圃 - 9区 - 31号 - 个人\n宇宙和音 - 薰衣草苗圃 - 20区 - 1号 - 其他\n宇宙和音 - 高脚孤丘 - 5区 - 42号 - 个人\n宇宙和音 - 高脚孤丘 - 6区 - 49号 - 个人\n宇宙和音 - 高脚孤丘 - 12区 - 42号 - 个人\n宇宙和音 - 白银乡 - 5区 - 38号 - 个人\n宇宙和音 - 白银乡 - 7区 - 8号 - 个人\n宇宙和音 - 白银乡 - 23区 - 1号 - 部队\n宇宙和音 - 白银乡 - 26区 - 43号 - 个人\n宇宙和音 - 穹顶皓天 - 17区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 26区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250613T150000Z
-SUMMARY:M房抽选截止
-UID:9a43c4f6-293b-41ce-88cf-6bec91e75544@9a43.org
+SUMMARY:L房抽选截止
+UID:7ce0531a-5076-457e-9a0b-1380fc788140@7ce0.org
 END:VEVENT
 END:VCALENDAR

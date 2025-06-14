@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 18区 - 6号 - 其他\n红玉海 - 薰衣草苗圃 - 2区 - 21号 - 个人\n红玉海 - 薰衣草苗圃 - 29区 - 35号 - 其他\n红玉海 - 高脚孤丘 - 5区 - 6号 - 个人\n红玉海 - 高脚孤丘 - 5区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 38号 - 其他\n红玉海 - 白银乡 - 24区 - 24号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250622T150000Z
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 8区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 19区 - 11号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 8号 - 其他\n红玉海 - 高脚孤丘 - 28区 - 11号 - 其他\n红玉海 - 白银乡 - 4区 - 28号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 9区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 14区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250613T150000Z
 SUMMARY:M房抽选截止
-UID:845ab10f-e179-4f2b-9243-1359aa03dd9c@845a.org
+UID:8d564da4-7401-4495-bbf8-387b910ede41@8d56.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 17区 - 15号 - 其他\n红玉海 - 高脚孤丘 - 1区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 17区 - 15号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250613T150000Z
 SUMMARY:L房抽选截止
-UID:b35b3e20-d22f-49c5-84e8-5bd917750798@b35b.org
+UID:5f9fdd5a-7ae7-46d0-bd26-772241ee1272@5f9f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 8区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 9区 - 51号 - 个人\n红玉海 - 薰衣草苗圃 - 19区 - 11号 - 其他\n红玉海 - 薰衣草苗圃 - 25区 - 31号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 25号 - 个人\n红玉海 - 高脚孤丘 - 20区 - 8号 - 其他\n红玉海 - 高脚孤丘 - 28区 - 11号 - 其他\n红玉海 - 白银乡 - 1区 - 13号 - 个人\n红玉海 - 白银乡 - 4区 - 28号 - 个人\n红玉海 - 白银乡 - 15区 - 49号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 9区 - 32号 - 个人\n红玉海 - 穹顶皓天 - 14区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250613T150000Z
+DESCRIPTION:红玉海 - 海雾村 - 15区 - 59号 - 个人\n红玉海 - 海雾村 - 18区 - 6号 - 其他\n红玉海 - 薰衣草苗圃 - 2区 - 21号 - 个人\n红玉海 - 薰衣草苗圃 - 29区 - 35号 - 其他\n红玉海 - 高脚孤丘 - 5区 - 6号 - 个人\n红玉海 - 高脚孤丘 - 5区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 38号 - 其他\n红玉海 - 高脚孤丘 - 25区 - 42号 - 个人\n红玉海 - 白银乡 - 24区 - 24号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250622T150000Z
 SUMMARY:M房抽选截止
-UID:7d450bb7-dcfa-48d6-984f-ecd9edabf79f@7d45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 15区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250604T150000Z
-SUMMARY:M房抽选截止
-UID:28921716-7c39-404e-be00-35cfb2ca9682@2892.org
+UID:353f2714-1ef2-447f-9488-ca9c59e1b4a5@353f.org
 END:VEVENT
 END:VCALENDAR
