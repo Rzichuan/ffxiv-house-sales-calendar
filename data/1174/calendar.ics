@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 3区 - 37号 - 个人\n沃仙曦染 - 海雾村 - 7区 - 34号 - 个人\n沃仙曦染 - 海雾村 - 26区 - 59号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 23区 - 46号 - 部队\n沃仙曦染 - 白银乡 - 24区 - 1号 - 部队\n沃仙曦染 - 穹顶皓天 - 11区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 海雾村 - 3区 - 37号 - 个人\n沃仙曦染 - 海雾村 - 26区 - 59号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 23区 - 46号 - 部队\n沃仙曦染 - 白银乡 - 24区 - 1号 - 部队\n沃仙曦染 - 穹顶皓天 - 11区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250613T150000Z
 SUMMARY:M房抽选截止
-UID:6c4760b4-3f8d-47c6-a795-bb0c09d7209d@6c47.org
+UID:dbdc9175-2686-4bfc-9d5f-159877ede613@dbdc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 17区 - 31号 - 其他\n沃仙曦染 - 海雾村 - 26区 - 30号 - 个人\n沃仙曦染 - 高脚孤丘 - 23区 - 41号 - 部队\n沃仙曦染 - 白银乡 - 12区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 海雾村 - 17区 - 31号 - 其他\n沃仙曦染 - 海雾村 - 20区 - 36号 - 其他\n沃仙曦染 - 海雾村 - 22区 - 37号 - 部队\n沃仙曦染 - 海雾村 - 26区 - 30号 - 个人\n沃仙曦染 - 高脚孤丘 - 23区 - 41号 - 部队\n沃仙曦染 - 白银乡 - 12区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:M房抽选截止
-UID:6b96d474-e0d5-4e3b-b177-bb878d356604@6b96.org
+UID:c7d85c58-b1a3-4df5-b9d3-e45794172cd5@c7d8.org
 END:VEVENT
 END:VCALENDAR
