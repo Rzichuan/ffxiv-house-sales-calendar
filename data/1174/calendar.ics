@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 17区 - 31号 - 其他\n沃仙曦染 - 海雾村 - 20区 - 36号 - 其他\n沃仙曦染 - 海雾村 - 22区 - 37号 - 部队\n沃仙曦染 - 海雾村 - 26区 - 30号 - 个人\n沃仙曦染 - 高脚孤丘 - 19区 - 55号 - 其他\n沃仙曦染 - 高脚孤丘 - 23区 - 41号 - 部队\n沃仙曦染 - 高脚孤丘 - 30区 - 38号 - 部队\n沃仙曦染 - 白银乡 - 12区 - 49号 - 个人\n沃仙曦染 - 穹顶皓天 - 14区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:M房抽选截止
-UID:20c3c981-ccc0-43dc-9ed8-f74d94c5bd5f@20c3.org
+UID:f61c8549-3436-4f65-ae03-ac58f931d656@f61c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 23区 - 46号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250613T150000Z
 SUMMARY:M房抽选截止
-UID:1f0b962b-e683-41ce-b806-bb4dcad488db@1f0b.org
+UID:a087d340-7d87-4a34-b757-0f782e8d0169@a087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 24区 - 41号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250701T150000Z
+SUMMARY:M房抽选截止
+UID:ea0e59cd-60ff-4ddd-a5c6-3630a50040cf@ea0e.org
 END:VEVENT
 END:VCALENDAR

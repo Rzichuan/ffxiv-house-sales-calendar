@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 穹顶皓天 - 24区 - 32号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250613T150000Z
+DESCRIPTION:幻影群岛 - 海雾村 - 3区 - 36号 - 个人\n幻影群岛 - 海雾村 - 26区 - 59号 - 个人\n幻影群岛 - 高脚孤丘 - 27区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 30区 - 19号 - 部队\n幻影群岛 - 白银乡 - 9区 - 8号 - 个人\n幻影群岛 - 白银乡 - 13区 - 13号 - 个人\n幻影群岛 - 白银乡 - 27区 - 24号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 18号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 27区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250622T150000Z
 SUMMARY:M房抽选截止
-UID:fc562ff2-dec6-435f-9460-6b32e9106105@fc56.org
+UID:51833981-4723-4f8f-9ad9-5f7f8a5b2a34@5183.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 27区 - 60号 - 个人\n幻影群岛 - 穹顶皓天 - 10区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:L房抽选截止
-UID:9f9b4c59-a372-4dd2-a1df-3c6e69ac1e66@9f9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 3区 - 36号 - 个人\n幻影群岛 - 海雾村 - 26区 - 59号 - 个人\n幻影群岛 - 高脚孤丘 - 27区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 30区 - 19号 - 部队\n幻影群岛 - 白银乡 - 9区 - 8号 - 个人\n幻影群岛 - 白银乡 - 13区 - 13号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 18号 - 个人\n幻影群岛 - 穹顶皓天 - 27区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250622T150000Z
-SUMMARY:M房抽选截止
-UID:a4990d53-f8e8-4168-b6cc-2d6885e5a480@a499.org
+UID:4aeaad19-7d31-469a-8a8e-fa584a6c8e51@4aea.org
 END:VEVENT
 END:VCALENDAR
