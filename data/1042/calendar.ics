@@ -2,27 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 27区 - 1号 - 个人\n拉诺西亚 - 穹顶皓天 - 2区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 27区 - 33号 - 个人\n拉诺西亚 - 穹顶皓天 - 12区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
-SUMMARY:M房抽选截止
-UID:ef1fcecd-f83d-4616-b19d-eab12e3f7c58@ef1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 14区 - 36号 - 个人\n拉诺西亚 - 海雾村 - 28区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 2区 - 31号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 20区 - 35号 - 其他\n拉诺西亚 - 高脚孤丘 - 3区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 20区 - 25号 - 其他\n拉诺西亚 - 穹顶皓天 - 3区 - 26号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 18号 - 个人\n拉诺西亚 - 穹顶皓天 - 11区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250622T150000Z
-SUMMARY:M房抽选截止
-UID:fe036e34-ebd3-45f5-b11e-026882db8ccd@fe03.org
+SUMMARY:L房抽选截止
+UID:64d50520-4ff8-4238-8628-471b57e7bdbd@64d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 18区 - 33号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:L房抽选截止
-UID:b22c09c6-8de6-4e85-842b-202b1ebf3425@b22c.org
+UID:0e4e4f37-126e-4cb9-abd5-b332128dd618@0e4e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 15区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 1区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250613T150000Z
 SUMMARY:M房抽选截止
-UID:b5224c98-e280-45bd-a649-2cf4a4886fe5@b522.org
+UID:653e7618-ec8a-423a-a354-ce05c9a559aa@653e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 14区 - 36号 - 个人\n拉诺西亚 - 海雾村 - 28区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 2区 - 31号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 20区 - 35号 - 其他\n拉诺西亚 - 高脚孤丘 - 3区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 20区 - 25号 - 其他\n拉诺西亚 - 穹顶皓天 - 3区 - 26号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 18号 - 个人\n拉诺西亚 - 穹顶皓天 - 11区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250622T150000Z
+SUMMARY:M房抽选截止
+UID:6db3abaa-f657-4154-a395-4cc66ede9e85@6db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 21区 - 29号 - 部队\n拉诺西亚 - 海雾村 - 27区 - 1号 - 个人\n拉诺西亚 - 穹顶皓天 - 2区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250701T150000Z
+SUMMARY:M房抽选截止
+UID:d0ca4cc9-2c7c-4165-b8fe-f92e9d0245f0@d0ca.org
 END:VEVENT
 END:VCALENDAR
