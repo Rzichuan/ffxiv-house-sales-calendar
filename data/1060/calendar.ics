@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 高脚孤丘 - 3区 - 25号 - 个人\n萌芽池 - 高脚孤丘 - 19区 - 6号 - 其他\n萌芽池 - 白银乡 - 10区 - 58号 - 个人\n萌芽池 - 白银乡 - 11区 - 31号 - 个人\n萌芽池 - 白银乡 - 25区 - 13号 - 个人\n萌芽池 - 穹顶皓天 - 8区 - 21号 - 个人\n萌芽池 - 穹顶皓天 - 21区 - 48号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:f0bf5be2-21d1-4ac8-9387-d2a9c1ad2d13@f0bf.org
+UID:647701a6-14e9-497e-9819-e92815296df4@6477.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 8区 - 32号 - 个人\n萌芽池 - 白银乡 - 9区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:L房抽选截止
-UID:a4a6569a-2e26-411c-b8fa-9a841a60319d@a4a6.org
+UID:5a38e200-4a11-457d-be25-c492f5feba96@5a38.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 10区 - 30号 - 个人\n萌芽池 - 海雾村 - 21区 - 34号 - 部队\n萌芽池 - 薰衣草苗圃 - 11区 - 30号 - 个人\n萌芽池 - 高脚孤丘 - 13区 - 49号 - 个人\n萌芽池 - 白银乡 - 19区 - 24号 - 其他\n萌芽池 - 白银乡 - 27区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:萌芽池 - 海雾村 - 10区 - 30号 - 个人\n萌芽池 - 高脚孤丘 - 13区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:M房抽选截止
-UID:e140e02d-a844-43aa-8859-2f8b88933904@e140.org
+UID:96f69743-c69e-41a2-bf09-1331f93b0fb2@96f6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 穹顶皓天 - 21区 - 52号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:L房抽选截止
-UID:2e5fa5e6-116b-4ed3-a100-003cd0655177@2e5f.org
+UID:3a96491b-a6ca-4130-95e8-874136dc6f96@3a96.org
 END:VEVENT
 END:VCALENDAR
