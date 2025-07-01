@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 21区 - 29号 - 部队\n拉诺西亚 - 海雾村 - 27区 - 1号 - 个人\n拉诺西亚 - 穹顶皓天 - 2区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:5aa6bf39-83ba-45c5-a119-b9565caffbb5@5aa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 16区 - 35号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 27区 - 33号 - 个人\n拉诺西亚 - 穹顶皓天 - 12区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250701T150000Z
-SUMMARY:L房抽选截止
-UID:9e3a7bc5-a1d9-4fcc-9297-6a3e4035d3ab@9e3a.org
+UID:7608dc29-9771-4697-9725-e0f210865789@7608.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 2区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250622T150000Z
 SUMMARY:M房抽选截止
-UID:bed7a006-23b1-4fc5-8342-ad5f4f961efe@bed7.org
+UID:09ed8bc5-a006-4b8f-8b9c-0cf4c4bdab8e@09ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 16区 - 35号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 27区 - 33号 - 个人\n拉诺西亚 - 穹顶皓天 - 12区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250701T150000Z
+SUMMARY:L房抽选截止
+UID:85d032c3-f11c-4aca-a1be-711b4edafd41@85d0.org
 END:VEVENT
 END:VCALENDAR
