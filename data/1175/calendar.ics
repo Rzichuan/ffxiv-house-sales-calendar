@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 30号 - 个人\n晨曦王座 - 白银乡 - 3区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:72b5fa2a-e681-4201-8554-033547225520@72b5.org
+UID:aee2b62f-59ab-434f-8492-ed7875441f94@aee2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 4区 - 43号 - 个人\n晨曦王座 - 白银乡 - 13区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:fd33257a-493d-4c75-b7ce-c961fff325d1@fd33.org
+UID:056095a2-322a-45a0-ad8a-15e4ee80a10e@0560.org
 END:VEVENT
 END:VCALENDAR
