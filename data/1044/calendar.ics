@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 9区 - 25号 - 个人\n幻影群岛 - 白银乡 - 19区 - 31号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:af2e8aaa-d2a4-4c7a-85c6-d9a9eef6581e@af2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 4区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 5区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250701T150000Z
-SUMMARY:M房抽选截止
-UID:4a788bc3-d418-476d-9b20-281c64a8865c@4a78.org
+UID:adb3e372-66a7-4218-8085-969a70af16e4@adb3.org
 END:VEVENT
 END:VCALENDAR

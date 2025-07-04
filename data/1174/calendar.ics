@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 15区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250701T150000Z
-SUMMARY:L房抽选截止
-UID:928a62c1-5cce-45f9-9527-c520efe1724a@928a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 2区 - 49号 - 个人\n沃仙曦染 - 高脚孤丘 - 4区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250701T150000Z
-SUMMARY:M房抽选截止
-UID:cf4425ca-ca8b-45b5-863e-b99a6e73a2c6@cf44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 5区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 4区 - 8号 - 个人\n沃仙曦染 - 高脚孤丘 - 5区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:25099819-73e4-470b-b3e8-cf2727fffa2b@2509.org
+UID:3f1d272a-5052-49a8-9c6a-f8d199cef457@3f1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 2区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250701T150000Z
+SUMMARY:M房抽选截止
+UID:5a713886-7120-41f2-8c55-e92449dbbcc8@5a71.org
 END:VEVENT
 END:VCALENDAR
