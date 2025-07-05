@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 30区 - 44号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:23d2e4cc-f3e2-4db9-bfd1-47f721d46287@23d2.org
+UID:cf04e8f7-d26e-43d0-ba39-a03db13929b9@cf04.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 穹顶皓天 - 21区 - 8号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:7db383a2-d332-4b4b-baa4-28d72be2f3ea@7db3.org
+UID:91065264-c608-4dc6-8d7e-69349ffa97ac@9106.org
 END:VEVENT
 END:VCALENDAR
