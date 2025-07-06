@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 10区 - 58号 - 个人\n萌芽池 - 白银乡 - 11区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:萌芽池 - 白银乡 - 11区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:65ff82b8-2118-443d-8d6b-9775089d2ce2@65ff.org
+UID:3d6ce389-48c4-479e-b3ad-2b74f0ea9b86@3d6c.org
 END:VEVENT
 END:VCALENDAR

@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 高脚孤丘 - 4区 - 8号 - 个人\n沃仙曦染 - 高脚孤丘 - 5区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:d52403e2-fef3-4c80-877b-2872b95753db@d524.org
+UID:011fc6f7-772b-4022-9971-8d0f80ec77bd@011f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 高脚孤丘 - 2区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:d4cb63e6-5ffd-4673-ae5c-bea93f8b946f@d4cb.org
+UID:34a61796-a2fa-46ca-a0d1-9fb03bdeeeb4@34a6.org
 END:VEVENT
 END:VCALENDAR
