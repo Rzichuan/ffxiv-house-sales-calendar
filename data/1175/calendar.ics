@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 30号 - 个人\n晨曦王座 - 高脚孤丘 - 8区 - 38号 - 个人\n晨曦王座 - 白银乡 - 3区 - 24号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:ad138b98-644d-427f-9618-9ed427627ef2@ad13.org
+UID:e8bc9825-e15d-48d4-8569-7fb88cb7c91f@e8bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 13区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:22482b5b-8708-4188-9b3e-8d435748475b@2248.org
+UID:31ba50b6-b1a2-4820-a9a9-37af28170dad@31ba.org
 END:VEVENT
 END:VCALENDAR

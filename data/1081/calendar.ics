@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 14区 - 57号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250701T150000Z
-SUMMARY:M房抽选截止
-UID:1c27af30-05d7-45fc-b81b-2c8efeac2798@1c27.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 8区 - 60号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 37号 - 个人\n神意之地 - 穹顶皓天 - 25区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:a8618824-a5a8-4eaa-9ac7-1d3aaa85d40d@a861.org
+UID:70a8a5ea-d8ba-4129-94ef-6e307e2c05fb@70a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 14区 - 57号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250701T150000Z
+SUMMARY:M房抽选截止
+UID:a3b58cd1-4a47-4394-9eb2-d287866c2322@a3b5.org
 END:VEVENT
 END:VCALENDAR
