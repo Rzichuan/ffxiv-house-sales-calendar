@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 30号 - 个人\n晨曦王座 - 高脚孤丘 - 8区 - 38号 - 个人\n晨曦王座 - 白银乡 - 3区 - 24号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250710T150000Z
-SUMMARY:M房抽选截止
-UID:e8bc9825-e15d-48d4-8569-7fb88cb7c91f@e8bc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 13区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:31ba50b6-b1a2-4820-a9a9-37af28170dad@31ba.org
+UID:e861a106-d7e8-4cf9-857c-ea3e4b0dbc6e@e861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 30号 - 个人\n晨曦王座 - 高脚孤丘 - 8区 - 38号 - 个人\n晨曦王座 - 白银乡 - 3区 - 24号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250710T150000Z
+SUMMARY:M房抽选截止
+UID:42056c9a-4f57-423b-9dbc-4fb7fdb6e73b@4205.org
 END:VEVENT
 END:VCALENDAR

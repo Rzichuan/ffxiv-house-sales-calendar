@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 穹顶皓天 - 21区 - 8号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:9b88f9e0-1e3f-464e-b295-f5e1c7c26820@9b88.org
+UID:13452a51-ff9c-48f8-81be-9f45fa55b7a8@1345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 18区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250719T150000Z
+SUMMARY:L房抽选截止
+UID:0037d144-9900-4271-ba66-4fbaedcc24ba@0037.org
 END:VEVENT
 END:VCALENDAR
