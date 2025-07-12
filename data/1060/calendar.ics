@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 11区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250701T150000Z
-SUMMARY:M房抽选截止
-UID:5cf4f215-68e9-4cf1-999e-33814b8077f1@5cf4.org
-END:VEVENT
 END:VCALENDAR

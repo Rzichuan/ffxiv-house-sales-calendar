@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 8区 - 60号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 37号 - 个人\n神意之地 - 穹顶皓天 - 25区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 穹顶皓天 - 2区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:e8a605b8-4397-4eed-9c64-6489d789b4a7@e8a6.org
+UID:2bf48066-a3a8-4791-8cf4-be66d18baadb@2bf4.org
 END:VEVENT
 END:VCALENDAR

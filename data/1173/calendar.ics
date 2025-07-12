@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 28区 - 7号 - 其他\n宇宙和音 - 薰衣草苗圃 - 16区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 28区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250701T150000Z
 SUMMARY:M房抽选截止
-UID:989c5295-c58b-4a9a-9250-15f7ef8dfc54@989c.org
+UID:d8dc234a-ffc8-48bc-aea3-94031f8cf648@d8dc.org
 END:VEVENT
 END:VCALENDAR
