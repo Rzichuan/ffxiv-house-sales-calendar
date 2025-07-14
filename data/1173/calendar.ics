@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 28区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250701T150000Z
-SUMMARY:M房抽选截止
-UID:0760ca5e-625d-40ff-9fee-eaca253a9f87@0760.org
-END:VEVENT
 END:VCALENDAR
