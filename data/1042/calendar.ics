@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 7区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250719T150000Z
-SUMMARY:M房抽选截止
-UID:eb55d65e-12c8-405c-9ec1-e778eff57b55@eb55.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 16区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:03d4d913-c44c-40bc-9231-c148f4a0c156@03d4.org
+UID:7da54a1b-1b2e-4dba-b428-445619123446@7da5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 7区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250719T150000Z
+SUMMARY:M房抽选截止
+UID:ae78d296-9e37-4622-aa71-28db5bbed734@ae78.org
 END:VEVENT
 END:VCALENDAR
