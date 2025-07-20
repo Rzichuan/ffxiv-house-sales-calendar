@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 26区 - 5号 - 个人\n红玉海 - 穹顶皓天 - 18区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 穹顶皓天 - 18区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250719T150000Z
 SUMMARY:L房抽选截止
-UID:4aa937f5-193a-4d58-a9cb-f955ede3a20f@4aa9.org
+UID:a4de80be-6bd1-489b-a714-25b3fdb88170@a4de.org
 END:VEVENT
 END:VCALENDAR

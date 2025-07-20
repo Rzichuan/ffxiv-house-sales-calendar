@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 16区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250710T150000Z
 SUMMARY:M房抽选截止
-UID:dcf30894-3710-4496-968c-a47dc5912cfd@dcf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 7区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250719T150000Z
-SUMMARY:M房抽选截止
-UID:cb91c8a8-633a-4caf-90e3-3002609795d5@cb91.org
+UID:99f79e60-c1eb-4db2-aa41-0dcb1b0db4a1@99f7.org
 END:VEVENT
 END:VCALENDAR
