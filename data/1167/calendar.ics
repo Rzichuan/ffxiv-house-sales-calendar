@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 18区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20250719T150000Z
-SUMMARY:L房抽选截止
-UID:c66c2743-56f3-4ad8-8de1-75e738746d00@c66c.org
-END:VEVENT
 END:VCALENDAR
