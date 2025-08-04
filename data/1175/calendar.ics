@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 3区 - 33号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250806T150000Z
-SUMMARY:L房抽选截止
-UID:328f6dd1-fc4b-4068-aa25-f80c7d6c72b0@328f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 9区 - 44号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250806T150000Z
 SUMMARY:M房抽选截止
-UID:902fdb15-87f8-450a-8ca8-a2f309944c77@902f.org
+UID:3adf994f-83c2-4e6f-a5a0-61c33640c0c8@3adf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 3区 - 33号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250806T150000Z
+SUMMARY:L房抽选截止
+UID:eae08b62-a1eb-4cb5-9ce7-b9763f03bbe9@eae0.org
 END:VEVENT
 END:VCALENDAR
