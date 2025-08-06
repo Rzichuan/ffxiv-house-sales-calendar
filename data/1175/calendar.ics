@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 3区 - 33号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250806T150000Z
 SUMMARY:L房抽选截止
-UID:79e03ffb-f9a2-448f-a8a0-08d51f380ac5@79e0.org
+UID:0a6c0c07-d52c-4560-8fd4-162fc98a5547@0a6c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 9区 - 44号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250806T150000Z
 SUMMARY:M房抽选截止
-UID:484560ae-13cb-4e29-a7f7-2cc6cfc1a841@4845.org
+UID:51abac25-8c7a-4461-b394-24b45fbbddfd@51ab.org
 END:VEVENT
 END:VCALENDAR
