@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 9区 - 44号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250806T150000Z
-SUMMARY:M房抽选截止
-UID:b5329892-607e-484f-aa9a-2a9490effa81@b532.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 穹顶皓天 - 7区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250815T150000Z
 SUMMARY:M房抽选截止
-UID:19ab2407-3a97-435d-8212-953aba58f787@19ab.org
+UID:6b4de012-b4c6-41c0-8137-df9735d1ea4b@6b4d.org
 END:VEVENT
 END:VCALENDAR

@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 21区 - 32号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250815T150000Z
+SUMMARY:L房抽选截止
+UID:05347e5a-13bd-4a7f-9ac6-3f60d1d99e50@0534.org
+END:VEVENT
 END:VCALENDAR
