@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 穹顶皓天 - 7区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250815T150000Z
-SUMMARY:M房抽选截止
-UID:e3e049b7-1c57-4873-a43c-5b0eaa42369e@e3e0.org
-END:VEVENT
 END:VCALENDAR
