@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 24区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250815T150000Z
-SUMMARY:M房抽选截止
-UID:4820a112-c08a-41a6-b722-658d3ee54863@4820.org
-END:VEVENT
 END:VCALENDAR
