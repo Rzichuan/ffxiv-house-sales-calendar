@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 33号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250824T150000Z
-SUMMARY:L房抽选截止
-UID:436a43bb-97f1-4cb7-b7ae-67ebb046f22d@436a.org
-END:VEVENT
 END:VCALENDAR
