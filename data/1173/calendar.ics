@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 6区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250902T150000Z
+SUMMARY:L房抽选截止
+UID:b197cfe1-774a-43f8-923e-c9d8ee6ae73d@b197.org
+END:VEVENT
 END:VCALENDAR
