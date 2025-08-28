@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 11区 - 14号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250902T150000Z
+SUMMARY:M房抽选截止
+UID:46802799-fc3d-40d7-9ba3-59bd5e79a9c0@4680.org
+END:VEVENT
 END:VCALENDAR
