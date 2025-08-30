@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 25区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250902T150000Z
-SUMMARY:M房抽选截止
-UID:3467af44-400f-40ec-9c05-33b01926191f@3467.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 6区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250902T150000Z
 SUMMARY:L房抽选截止
-UID:b1be25ad-96d6-41df-87b7-1eb324a5b022@b1be.org
+UID:bff96025-6364-4e35-8538-0b5dcd25573f@bff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 25区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250902T150000Z
+SUMMARY:M房抽选截止
+UID:fc7cb376-c45b-4fee-994e-28287b8c91e7@fc7c.org
 END:VEVENT
 END:VCALENDAR
