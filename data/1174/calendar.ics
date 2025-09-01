@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 海雾村 - 11区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250911T150000Z
+SUMMARY:L房抽选截止
+UID:21c2b8b1-5ced-4061-997b-fa6032abebc4@21c2.org
+END:VEVENT
 END:VCALENDAR
