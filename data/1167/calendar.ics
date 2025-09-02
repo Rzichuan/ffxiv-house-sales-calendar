@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 高脚孤丘 - 14区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250911T150000Z
+SUMMARY:M房抽选截止
+UID:4738d04d-0802-42b1-862b-dcd6becbf2eb@4738.org
+END:VEVENT
 END:VCALENDAR
