@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 白银乡 - 24区 - 15号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20250911T150000Z
+SUMMARY:M房抽选截止
+UID:9cabe63b-2106-48c6-babc-d540579b4b8b@9cab.org
+END:VEVENT
 END:VCALENDAR
