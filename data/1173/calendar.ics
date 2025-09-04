@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 10区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 2区 - 11号 - 个人\n宇宙和音 - 高脚孤丘 - 10区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250911T150000Z
 SUMMARY:M房抽选截止
-UID:81bb7237-0898-4e90-baaf-6ff85025ed92@81bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 6区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250902T150000Z
-SUMMARY:L房抽选截止
-UID:2376b4ec-9ca3-4ee0-8c5d-14a1ad3ad9bf@2376.org
+UID:b4d229ae-860b-42a1-a9ea-01943721ea2d@b4d2.org
 END:VEVENT
 END:VCALENDAR
