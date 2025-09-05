@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 11区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250911T150000Z
 SUMMARY:L房抽选截止
-UID:6f4d302d-bc89-4133-8704-82f392dd92fb@6f4d.org
+UID:7aebef7d-8ab9-41be-8370-d638ad4480fa@7aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 海雾村 - 28区 - 36号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20250911T150000Z
+SUMMARY:M房抽选截止
+UID:cee29359-16fe-4a70-a5f7-9c78844dd7c5@cee2.org
 END:VEVENT
 END:VCALENDAR
