@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250911T150000Z
 SUMMARY:M房抽选截止
-UID:bbca0999-f557-467e-99d6-a8f415f86d01@bbca.org
+UID:aab304ee-d469-4310-bf34-646d45c36b90@aab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 3区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250920T150000Z
+SUMMARY:M房抽选截止
+UID:9497beb1-e773-4d66-ac5f-3c53be5e7e28@9497.org
 END:VEVENT
 END:VCALENDAR
