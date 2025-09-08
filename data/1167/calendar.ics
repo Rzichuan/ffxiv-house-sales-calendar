@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 9区 - 7号 - 个人\n红玉海 - 薰衣草苗圃 - 26区 - 51号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 25号 - 个人\n红玉海 - 穹顶皓天 - 24区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250911T150000Z
 SUMMARY:M房抽选截止
-UID:1860f882-5152-46ab-a8af-cf917b551cab@1860.org
+UID:6fdf20df-90b6-42ae-83b5-e2c462f9160f@6fdf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 12区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250911T150000Z
 SUMMARY:L房抽选截止
-UID:e86e18b6-2a61-45cd-97d4-77597fccf859@e86e.org
+UID:5956ba79-be36-40f3-8124-6b41f058cf69@5956.org
 END:VEVENT
 END:VCALENDAR
