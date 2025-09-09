@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "Area": 2,
+        "ID": 30,
+        "Slot": 26,
+        "RegionType": 2,
+        "Size": 2,
+        "Server": 1060,
+        "Purchase_endtime": 1758380400
+    },
+    {
+        "Area": 4,
+        "ID": 7,
+        "Slot": 6,
+        "RegionType": 2,
+        "Size": 1,
+        "Server": 1060,
+        "Purchase_endtime": 1758380400
+    }
+]
