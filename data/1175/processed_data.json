@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "Area": 2,
+        "ID": 41,
+        "Slot": 12,
+        "RegionType": 2,
+        "Size": 1,
+        "Server": 1175,
+        "Purchase_endtime": 1758380400
+    }
+]

@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 穹顶皓天 - 7区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250920T150000Z
-SUMMARY:M房抽选截止
-UID:66520204-ae9c-42b7-b195-de1058a7f1c9@6652.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 高脚孤丘 - 27区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:L房抽选截止
-UID:2d080aab-8b56-4cbf-a467-947cfcaf1f10@2d08.org
+UID:ad03ec13-8235-4cf3-a78d-eb716d6dc3a9@ad03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 穹顶皓天 - 7区 - 7号 - 个人\n萌芽池 - 穹顶皓天 - 10区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250920T150000Z
+SUMMARY:M房抽选截止
+UID:0d02e3c6-7c8e-448f-a9e5-b594e017af55@0d02.org
 END:VEVENT
 END:VCALENDAR

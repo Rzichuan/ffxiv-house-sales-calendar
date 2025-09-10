@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 13区 - 41号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250920T150000Z
+SUMMARY:M房抽选截止
+UID:4eb161f9-703a-43e9-adf6-a02888f0c793@4eb1.org
+END:VEVENT
 END:VCALENDAR
