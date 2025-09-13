@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 白银乡 - 12区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250920T150000Z
+SUMMARY:M房抽选截止
+UID:0613ca70-3346-46d0-9a0f-1e819f1bd818@0613.org
+END:VEVENT
 END:VCALENDAR
