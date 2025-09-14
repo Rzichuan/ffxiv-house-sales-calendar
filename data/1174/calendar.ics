@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 穹顶皓天 - 30区 - 21号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 穹顶皓天 - 15区 - 17号 - 个人\n沃仙曦染 - 穹顶皓天 - 30区 - 21号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:M房抽选截止
-UID:2c1d9782-d595-4da7-be08-ef96bd862c3e@2c1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 11区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250911T150000Z
-SUMMARY:L房抽选截止
-UID:12de64d4-b172-485d-a8a7-fceb88717f91@12de.org
+UID:99310ceb-2e4f-4fc3-8382-aa4e0dba67fb@9931.org
 END:VEVENT
 END:VCALENDAR

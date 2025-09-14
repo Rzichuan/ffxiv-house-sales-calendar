@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 白银乡 - 17区 - 15号 - 其他\n宇宙和音 - 白银乡 - 29区 - 49号 - 其他\n宇宙和音 - 穹顶皓天 - 20区 - 51号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:M房抽选截止
-UID:b2ff0600-1a33-43de-b422-a103b91aa809@b2ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 10区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250911T150000Z
-SUMMARY:M房抽选截止
-UID:009ecdeb-4e57-48f6-a64e-658932e4d963@009e.org
+UID:c23951c0-0f0c-41db-8ff7-8b7291d845db@c239.org
 END:VEVENT
 END:VCALENDAR
