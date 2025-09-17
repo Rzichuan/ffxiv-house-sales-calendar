@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 12区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:L房抽选截止
-UID:16ecbcf3-03d5-4657-92e9-2c55a181813c@16ec.org
+UID:decb6595-c248-4d90-81ad-3fba90610b04@decb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 18区 - 16号 - 其他\n晨曦王座 - 高脚孤丘 - 13区 - 41号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:M房抽选截止
-UID:1c530f31-0806-418e-9f35-95ac8b6beaa6@1c53.org
+UID:e218f45c-4373-4dbb-9a7b-d639a4716155@e218.org
 END:VEVENT
 END:VCALENDAR
