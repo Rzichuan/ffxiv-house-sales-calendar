@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 穹顶皓天 - 15区 - 17号 - 个人\n沃仙曦染 - 穹顶皓天 - 30区 - 21号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:M房抽选截止
-UID:51547ea4-640e-4672-af8e-5381c9c4c269@5154.org
+UID:4939aa64-174c-45d4-8a31-a91640cdcdc9@4939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 穹顶皓天 - 2区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250929T150000Z
+SUMMARY:M房抽选截止
+UID:efc1e428-5056-4bda-ba6e-b8d502070f79@efc1.org
 END:VEVENT
 END:VCALENDAR

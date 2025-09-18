@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 26区 - 35号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:L房抽选截止
-UID:78a81dc6-4d10-42d7-9432-1c4a9df4e919@78a8.org
+UID:0ba530a8-c7d1-422b-867f-2eb77579a955@0ba5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 白银乡 - 12区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:M房抽选截止
-UID:7f53530c-c98f-4179-aad0-6df00687c8df@7f53.org
+UID:dae2153f-2380-4040-8790-32501b1d06a3@dae2.org
 END:VEVENT
 END:VCALENDAR
