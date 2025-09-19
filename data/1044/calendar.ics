@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 26区 - 35号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250920T150000Z
-SUMMARY:L房抽选截止
-UID:0ba530a8-c7d1-422b-867f-2eb77579a955@0ba5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 白银乡 - 12区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250920T150000Z
 SUMMARY:M房抽选截止
-UID:dae2153f-2380-4040-8790-32501b1d06a3@dae2.org
+UID:7fbeae92-c974-4693-9e05-c7c7f94cb8c5@7fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 26区 - 35号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250920T150000Z
+SUMMARY:L房抽选截止
+UID:d779bd20-6ef6-4e07-9373-9d383ab6a7e5@d779.org
 END:VEVENT
 END:VCALENDAR
