@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 穹顶皓天 - 11区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250920T150000Z
-SUMMARY:L房抽选截止
-UID:000c0e58-8218-454a-be09-c00be766e030@000c.org
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 29区 - 30号 - 其他\n幻影群岛 - 高脚孤丘 - 6区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250929T150000Z
+SUMMARY:M房抽选截止
+UID:96073312-6c01-48d0-9fab-af3a06629477@9607.org
 END:VEVENT
 END:VCALENDAR

@@ -2,21 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 5区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:萌芽池 - 海雾村 - 9区 - 60号 - 个人\n萌芽池 - 白银乡 - 5区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250929T150000Z
 SUMMARY:M房抽选截止
-UID:c1792dc4-00d3-45d1-85d4-a4990713b349@c179.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 高脚孤丘 - 27区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250920T150000Z
-SUMMARY:L房抽选截止
-UID:adacd627-e579-43bc-a888-d893cfffb096@adac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 薰衣草苗圃 - 5区 - 51号 - 个人\n萌芽池 - 高脚孤丘 - 14区 - 49号 - 个人\n萌芽池 - 穹顶皓天 - 7区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250920T150000Z
-SUMMARY:M房抽选截止
-UID:3d4919b5-8f0e-4d9d-ad7a-b1b9882fd6fe@3d49.org
+UID:ad40ccc7-a5c9-4f0c-a1a1-0f4921e01fd2@ad40.org
 END:VEVENT
 END:VCALENDAR

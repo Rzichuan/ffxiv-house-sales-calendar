@@ -1,10 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 21区 - 13号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20250920T150000Z
-SUMMARY:M房抽选截止
-UID:91f1fa94-8c33-453c-b309-597650d413ab@91f1.org
-END:VEVENT
 END:VCALENDAR
