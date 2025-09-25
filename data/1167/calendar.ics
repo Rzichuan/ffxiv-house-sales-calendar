@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 19区 - 36号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20250929T150000Z
 SUMMARY:L房抽选截止
-UID:f406b178-a4fe-4435-8583-2b90f81a23c9@f406.org
+UID:b8ed5ba8-e387-4321-a0bb-2468c8e6c5ed@b8ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 2区 - 12号 - 个人\n红玉海 - 高脚孤丘 - 26区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250929T150000Z
 SUMMARY:M房抽选截止
-UID:18984ea1-a40b-4933-9857-52689d6bc651@1898.org
+UID:087ef769-b0fc-49f4-9109-c93410182ef4@087e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 29区 - 47号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251008T150000Z
+SUMMARY:M房抽选截止
+UID:06a6316f-f4e5-457f-9db8-23af30f95632@06a6.org
 END:VEVENT
 END:VCALENDAR
