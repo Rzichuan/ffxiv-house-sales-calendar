@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 27区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251008T150000Z
-SUMMARY:M房抽选截止
-UID:34175d2f-fdc2-472f-a5e0-42df860e5840@3417.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 27区 - 57号 - 个人\n晨曦王座 - 白银乡 - 11区 - 8号 - 个人\n晨曦王座 - 白银乡 - 27区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250929T150000Z
 SUMMARY:M房抽选截止
-UID:64bded26-2b2f-44c6-9a54-9e00e2200e35@64bd.org
+UID:b903a55d-77f0-4b3e-b722-0e46b9922402@b903.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 27区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251008T150000Z
+SUMMARY:M房抽选截止
+UID:60da891a-6925-43ec-b373-71cc9610ad93@60da.org
 END:VEVENT
 END:VCALENDAR
