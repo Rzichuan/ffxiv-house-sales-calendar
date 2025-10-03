@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 白银乡 - 5区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:M房抽选截止
-UID:4cffbf7a-5b46-4a5d-9fa0-9ed994b10e0e@4cff.org
+UID:abd7aeb6-75ba-4fa3-9f6a-315876de9ed7@abd7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 25区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:L房抽选截止
-UID:7c002a8d-f7cb-439c-b33f-6bd30c9dc3ad@7c00.org
+UID:adf71b7f-7ae1-4bfc-9359-334c13febbca@adf7.org
 END:VEVENT
 END:VCALENDAR

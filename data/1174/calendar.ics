@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 4区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250929T150000Z
-SUMMARY:L房抽选截止
-UID:d7455b80-2dcc-420b-8030-df88a7aa63f8@d745.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 26区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 海雾村 - 12区 - 31号 - 个人\n沃仙曦染 - 高脚孤丘 - 26区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:M房抽选截止
-UID:b9e4bca7-6c5c-4e37-a70a-173376da0138@b9e4.org
+UID:e651a1d4-38c7-4b5f-9795-628236b1a295@e651.org
 END:VEVENT
 END:VCALENDAR

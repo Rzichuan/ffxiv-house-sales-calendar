@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 6区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20250929T150000Z
-SUMMARY:M房抽选截止
-UID:39462ef7-afb0-468a-a6d8-bce732bc051a@3946.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 28区 - 29号 - 其他\n幻影群岛 - 高脚孤丘 - 25区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:M房抽选截止
-UID:73058366-3a59-41b0-9ad2-59bf6e06547f@7305.org
+UID:07a66421-46b8-473e-a5ac-e8e1cca6b396@07a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 高脚孤丘 - 6区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20250929T150000Z
+SUMMARY:M房抽选截止
+UID:bcbaa8ce-c3b7-4679-be71-09f85602f25f@bcba.org
 END:VEVENT
 END:VCALENDAR
