@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 白银乡 - 5区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20250929T150000Z
 SUMMARY:M房抽选截止
-UID:fdfe2c28-b455-44fe-b8e3-fe45c39d5fb5@fdfe.org
+UID:1f22df8b-372d-4c99-8f55-dae82d447d2c@1f22.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 30区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:L房抽选截止
-UID:f25b9010-cac5-4de8-abdc-107d3dd08b28@f25b.org
+UID:44348f12-bd6b-4b08-942a-9608214899fc@4434.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 穹顶皓天 - 26区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:M房抽选截止
-UID:84c251cf-f521-4055-bf77-2a456ab3ffe1@84c2.org
+UID:bdef1d75-c065-4610-a922-e5d774dca529@bdef.org
 END:VEVENT
 END:VCALENDAR

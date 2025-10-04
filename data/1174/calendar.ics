@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 12区 - 31号 - 个人\n沃仙曦染 - 高脚孤丘 - 26区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:M房抽选截止
-UID:e651a1d4-38c7-4b5f-9795-628236b1a295@e651.org
+UID:58c42305-ed5c-43aa-8000-c9546b603c60@58c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251017T150000Z
+SUMMARY:M房抽选截止
+UID:6ead4d4c-509c-4775-a018-1744aad91225@6ead.org
 END:VEVENT
 END:VCALENDAR

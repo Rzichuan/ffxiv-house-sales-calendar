@@ -1,4 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 28区 - 34号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251017T150000Z
+SUMMARY:M房抽选截止
+UID:e40f9605-ff32-48c3-bf05-bac9475d3b00@e40f.org
+END:VEVENT
 END:VCALENDAR
