@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 27区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251017T150000Z
+SUMMARY:M房抽选截止
+UID:ee0d1f0e-6110-4a03-977b-d5e90a0eeb95@ee0d.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 12区 - 60号 - 个人\n红玉海 - 白银乡 - 23区 - 1号 - 部队\n红玉海 - 穹顶皓天 - 29区 - 47号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:M房抽选截止
-UID:6716f079-d903-4d5c-9531-06d79224f434@6716.org
+UID:c02b49c7-f43b-4d2f-bace-28b81c00949c@c02b.org
 END:VEVENT
 END:VCALENDAR
