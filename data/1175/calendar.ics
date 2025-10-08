@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251017T150000Z
+SUMMARY:M房抽选截止
+UID:06155354-18e2-44e6-9327-5ba33862c4e7@0615.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 31号 - 个人\n晨曦王座 - 海雾村 - 14区 - 6号 - 个人\n晨曦王座 - 白银乡 - 27区 - 49号 - 个人\n晨曦王座 - 穹顶皓天 - 26区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251008T150000Z
 SUMMARY:M房抽选截止
-UID:7a2f6e15-5d2e-461d-ab03-e2e4a82481d9@7a2f.org
+UID:d1e8c6dc-8bb6-467b-bb42-ff4e751c43fe@d1e8.org
 END:VEVENT
 END:VCALENDAR

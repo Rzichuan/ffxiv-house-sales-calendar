@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 28区 - 34号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251017T150000Z
-SUMMARY:M房抽选截止
-UID:0e3dfc8a-b499-4428-a988-7172029f663f@0e3d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 12区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251017T150000Z
 SUMMARY:L房抽选截止
-UID:3caa8142-1ac5-43e2-ac0a-36be37dfb812@3caa.org
+UID:a939d75a-9d42-4434-adad-6970ca3f25a8@a939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 28区 - 34号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251017T150000Z
+SUMMARY:M房抽选截止
+UID:56f85c88-f34b-4239-8e3d-b78ab468f886@56f8.org
 END:VEVENT
 END:VCALENDAR
