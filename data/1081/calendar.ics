@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 12区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251017T150000Z
 SUMMARY:L房抽选截止
-UID:a939d75a-9d42-4434-adad-6970ca3f25a8@a939.org
+UID:91901c92-bf34-48e8-bc74-bcfd0097bed9@9190.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 28区 - 34号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251017T150000Z
 SUMMARY:M房抽选截止
-UID:56f85c88-f34b-4239-8e3d-b78ab468f886@56f8.org
+UID:6b2ea0ba-6908-4d55-83f5-19c1148d82e8@6b2e.org
 END:VEVENT
 END:VCALENDAR
