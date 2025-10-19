@@ -38,11 +38,11 @@
     {
         "Area": 1,
         "ID": 5,
-        "Slot": 11,
+        "Slot": 2,
         "RegionType": 2,
         "Size": 1,
         "Server": 1173,
-        "Purchase_endtime": 1760713200
+        "Purchase_endtime": 1761490800
     },
     {
         "Area": 1,
@@ -52,24 +52,6 @@
         "Size": 1,
         "Server": 1173,
         "Purchase_endtime": 1761490800
-    },
-    {
-        "Area": 1,
-        "ID": 3,
-        "Slot": 24,
-        "RegionType": 2,
-        "Size": 2,
-        "Server": 1173,
-        "Purchase_endtime": 1760713200
-    },
-    {
-        "Area": 1,
-        "ID": 3,
-        "Slot": 25,
-        "RegionType": 2,
-        "Size": 2,
-        "Server": 1173,
-        "Purchase_endtime": 1760713200
     },
     {
         "Area": 2,
@@ -100,12 +82,12 @@
     },
     {
         "Area": 2,
-        "ID": 43,
-        "Slot": 23,
+        "ID": 11,
+        "Slot": 29,
         "RegionType": 1,
-        "Size": 2,
+        "Size": 1,
         "Server": 1173,
-        "Purchase_endtime": 1760713200
+        "Purchase_endtime": 1761490800
     },
     {
         "Area": 2,
@@ -127,30 +109,12 @@
     },
     {
         "Area": 3,
-        "ID": 49,
-        "Slot": 4,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1173,
-        "Purchase_endtime": 1759935600
-    },
-    {
-        "Area": 3,
         "ID": 28,
         "Slot": 8,
         "RegionType": 2,
         "Size": 1,
         "Server": 1173,
         "Purchase_endtime": 1761490800
-    },
-    {
-        "Area": 3,
-        "ID": 46,
-        "Slot": 12,
-        "RegionType": 2,
-        "Size": 2,
-        "Server": 1173,
-        "Purchase_endtime": 1760713200
     },
     {
         "Area": 3,
