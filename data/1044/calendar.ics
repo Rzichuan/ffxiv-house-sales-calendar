@@ -2,15 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 20区 - 3号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251104T150000Z
+SUMMARY:L房抽选截止
+UID:9612c3fe-e2fd-436b-b1cf-e9ec1b843e59@9612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 17区 - 44号 - 其他\n幻影群岛 - 薰衣草苗圃 - 5区 - 30号 - 个人\n幻影群岛 - 薰衣草苗圃 - 18区 - 27号 - 其他\n幻影群岛 - 高脚孤丘 - 2区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 23区 - 8号 - 部队\n幻影群岛 - 高脚孤丘 - 24区 - 55号 - 部队\n幻影群岛 - 高脚孤丘 - 29区 - 8号 - 其他\n幻影群岛 - 白银乡 - 8区 - 19号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 21号 - 个人\n幻影群岛 - 穹顶皓天 - 2区 - 37号 - 个人\n幻影群岛 - 穹顶皓天 - 20区 - 56号 - 其他\n幻影群岛 - 穹顶皓天 - 23区 - 18号 - 部队\n幻影群岛 - 穹顶皓天 - 30区 - 48号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251026T150000Z
+SUMMARY:M房抽选截止
+UID:7ad13699-682d-4aad-834a-e42a973ddb56@7ad1.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 13区 - 43号 - 个人\n幻影群岛 - 高脚孤丘 - 23区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20251026T150000Z
 SUMMARY:L房抽选截止
-UID:39fec606-8e13-4a40-aa6f-09a346ffc4a0@39fe.org
+UID:a8cd54aa-3ab8-475b-9551-e415bfa409fd@a8cd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 17区 - 44号 - 其他\n幻影群岛 - 薰衣草苗圃 - 5区 - 30号 - 个人\n幻影群岛 - 薰衣草苗圃 - 18区 - 27号 - 其他\n幻影群岛 - 高脚孤丘 - 2区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 23区 - 8号 - 部队\n幻影群岛 - 高脚孤丘 - 24区 - 55号 - 部队\n幻影群岛 - 高脚孤丘 - 29区 - 8号 - 其他\n幻影群岛 - 白银乡 - 8区 - 19号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 21号 - 个人\n幻影群岛 - 穹顶皓天 - 2区 - 37号 - 个人\n幻影群岛 - 穹顶皓天 - 20区 - 56号 - 其他\n幻影群岛 - 穹顶皓天 - 30区 - 48号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251026T150000Z
+DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:a5dc77cf-93af-4c2d-898f-d74d14438deb@a5dc.org
+UID:2497f2ea-978e-477f-88f3-8a6bd47b79c5@2497.org
 END:VEVENT
 END:VCALENDAR

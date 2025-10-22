@@ -2,27 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 19区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 6区 - 11号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 6区 - 31号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 12区 - 46号 - 个人\n拉诺西亚 - 高脚孤丘 - 4区 - 6号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 14区 - 15号 - 个人\n拉诺西亚 - 穹顶皓天 - 7区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 10区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 19区 - 38号 - 其他\n拉诺西亚 - 穹顶皓天 - 28区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251026T150000Z
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:360075ae-7ca9-4c27-8e92-8137bc64c75b@3600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 25区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251017T150000Z
-SUMMARY:L房抽选截止
-UID:679b507d-73ed-4267-95ee-306ecd52714e@679b.org
+UID:3530a50a-d5bc-4091-936d-881bbe296d23@3530.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 45号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 16区 - 6号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 18区 - 33号 - 其他\n拉诺西亚 - 白银乡 - 19区 - 46号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251026T150000Z
 SUMMARY:L房抽选截止
-UID:84a77ceb-c6d9-4b1e-83b5-d66f00d13e08@84a7.org
+UID:e2c9ce93-363e-4f92-80fe-222f71b0a6ac@e2c9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 5区 - 43号 - 个人\n拉诺西亚 - 穹顶皓天 - 26区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 19区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 6区 - 11号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 6区 - 31号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 12区 - 46号 - 个人\n拉诺西亚 - 高脚孤丘 - 4区 - 6号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 14区 - 15号 - 个人\n拉诺西亚 - 穹顶皓天 - 7区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 10区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 19区 - 38号 - 其他\n拉诺西亚 - 穹顶皓天 - 28区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251026T150000Z
+SUMMARY:M房抽选截止
+UID:f0326c38-2b93-4661-a2a1-8abb1f38c350@f032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 26区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251017T150000Z
 SUMMARY:M房抽选截止
-UID:dc6940cb-8e15-4f14-802b-335cfd5af6b2@dc69.org
+UID:f1111e5c-22a7-4194-8e5c-7a1be0847bf7@f111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 25区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251017T150000Z
+SUMMARY:L房抽选截止
+UID:d63df555-8a41-43d7-aff4-b0b3318fae8e@d63d.org
 END:VEVENT
 END:VCALENDAR
