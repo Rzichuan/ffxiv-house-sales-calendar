@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 1号 - 个人\n晨曦王座 - 海雾村 - 26区 - 34号 - 个人\n晨曦王座 - 薰衣草苗圃 - 11区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 1号 - 个人\n晨曦王座 - 高脚孤丘 - 14区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 6号 - 个人\n晨曦王座 - 白银乡 - 16区 - 54号 - 个人\n晨曦王座 - 白银乡 - 19区 - 43号 - 其他\n晨曦王座 - 白银乡 - 25区 - 54号 - 个人\n晨曦王座 - 白银乡 - 25区 - 58号 - 个人\n晨曦王座 - 穹顶皓天 - 4区 - 38号 - 个人\n晨曦王座 - 穹顶皓天 - 30区 - 17号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251026T150000Z
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 30区 - 5号 - 部队\n晨曦王座 - 高脚孤丘 - 24区 - 42号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:0958c1e5-cd1b-46f7-9500-838aae28c625@0958.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 27区 - 33号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251026T150000Z
-SUMMARY:L房抽选截止
-UID:23511fad-16b6-479f-b9fc-5a9c5b6a3371@2351.org
+UID:5a9c04fe-f31b-40fe-be17-915e17b91a4c@5a9c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251017T150000Z
 SUMMARY:M房抽选截止
-UID:02ac9187-5902-4d1d-8d68-c584165ae2b7@02ac.org
+UID:bff824fe-ef81-4414-8f1c-0e39fd2524d8@bff8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 11区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 30区 - 5号 - 部队\n晨曦王座 - 高脚孤丘 - 24区 - 42号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251104T150000Z
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 27区 - 33号 - 个人\n晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251026T150000Z
+SUMMARY:L房抽选截止
+UID:0c4255bb-127b-4be3-b70a-6fdc077bd9d1@0c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 1号 - 个人\n晨曦王座 - 海雾村 - 26区 - 34号 - 个人\n晨曦王座 - 薰衣草苗圃 - 11区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 1号 - 个人\n晨曦王座 - 高脚孤丘 - 14区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 6号 - 个人\n晨曦王座 - 白银乡 - 16区 - 54号 - 个人\n晨曦王座 - 白银乡 - 19区 - 43号 - 其他\n晨曦王座 - 白银乡 - 25区 - 54号 - 个人\n晨曦王座 - 白银乡 - 25区 - 58号 - 个人\n晨曦王座 - 穹顶皓天 - 4区 - 38号 - 个人\n晨曦王座 - 穹顶皓天 - 30区 - 17号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251026T150000Z
 SUMMARY:M房抽选截止
-UID:11502de5-ffe5-4213-a85b-f37480681bb6@1150.org
+UID:897c5409-483f-47dc-9206-148398f2d516@897c.org
 END:VEVENT
 END:VCALENDAR
