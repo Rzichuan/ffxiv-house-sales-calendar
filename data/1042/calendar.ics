@@ -2,33 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 26区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251017T150000Z
-SUMMARY:M房抽选截止
-UID:56df3895-00c7-4bf2-845f-069fc3eab565@56df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 25区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251017T150000Z
-SUMMARY:L房抽选截止
-UID:047978fe-8192-4d42-896a-3709414c0756@0479.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 19区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 6区 - 11号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 6区 - 31号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 12区 - 46号 - 个人\n拉诺西亚 - 高脚孤丘 - 4区 - 6号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 14区 - 15号 - 个人\n拉诺西亚 - 穹顶皓天 - 7区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 10区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 19区 - 38号 - 其他\n拉诺西亚 - 穹顶皓天 - 28区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251026T150000Z
-SUMMARY:M房抽选截止
-UID:62e8dd66-ca18-4796-8cd8-c7c33fa43e4c@62e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 16区 - 6号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 14区 - 30号 - 个人\n拉诺西亚 - 白银乡 - 17区 - 28号 - 其他\n拉诺西亚 - 穹顶皓天 - 27区 - 38号 - 个人\n拉诺西亚 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 16区 - 6号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 14区 - 30号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 19区 - 27号 - 其他\n拉诺西亚 - 白银乡 - 17区 - 28号 - 其他\n拉诺西亚 - 穹顶皓天 - 16区 - 48号 - 个人\n拉诺西亚 - 穹顶皓天 - 27区 - 38号 - 个人\n拉诺西亚 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:22d91ca1-79eb-49be-8e41-a434a057f6b8@22d9.org
+UID:bcf81dca-d67b-40a5-89c2-267fab36ef20@bcf8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 45号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 16区 - 6号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 18区 - 33号 - 其他\n拉诺西亚 - 白银乡 - 19区 - 46号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 19区 - 29号 - 其他\n拉诺西亚 - 穹顶皓天 - 28区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251026T150000Z
+SUMMARY:M房抽选截止
+UID:e66609aa-bedc-45a3-98a1-1d7d9164d1a4@e666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 45号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 18区 - 33号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251026T150000Z
 SUMMARY:L房抽选截止
-UID:2ed38479-35cb-4e8d-ac60-36ec32e67de8@2ed3.org
+UID:01420e47-dec2-41c1-9406-17169801fdbc@0142.org
 END:VEVENT
 END:VCALENDAR
