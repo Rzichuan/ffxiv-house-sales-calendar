@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 2区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 高脚孤丘 - 11区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 11号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
-SUMMARY:L房抽选截止
-UID:d72b0916-00b7-4e2b-8ce2-87b7a303841c@d72b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 3区 - 28号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 13号 - 其他\n红玉海 - 穹顶皓天 - 21区 - 22号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251104T150000Z
-SUMMARY:L房抽选截止
-UID:35d20dd0-6355-48e2-bc63-8ac129dff7a7@35d2.org
+SUMMARY:M房抽选截止
+UID:f5956df5-189b-49ab-9f6f-5deca737e5b5@f595.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 4区 - 59号 - 个人\n红玉海 - 海雾村 - 5区 - 6号 - 个人\n红玉海 - 海雾村 - 6区 - 29号 - 个人\n红玉海 - 薰衣草苗圃 - 2区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 26区 - 60号 - 个人\n红玉海 - 薰衣草苗圃 - 27区 - 51号 - 个人\n红玉海 - 高脚孤丘 - 7区 - 34号 - 个人\n红玉海 - 高脚孤丘 - 25区 - 42号 - 个人\n红玉海 - 白银乡 - 3区 - 58号 - 个人\n红玉海 - 白银乡 - 10区 - 24号 - 个人\n红玉海 - 穹顶皓天 - 18区 - 47号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:d19c33ef-c52d-4983-8dd7-4eb77bd5586a@d19c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 11区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 11号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251113T150000Z
-SUMMARY:M房抽选截止
-UID:1955361f-5f92-49fd-ac46-cf24ba3e6e41@1955.org
+UID:5fab2566-8e70-4aba-a1a2-291d14fa7e81@5fab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 5区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251026T150000Z
 SUMMARY:M房抽选截止
-UID:1aedc9c7-cfd4-4951-b5d3-f756d9102840@1aed.org
+UID:61cfb74c-4c6f-4643-bc79-e25e80000d52@61cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 3区 - 28号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 13号 - 其他\n红玉海 - 穹顶皓天 - 21区 - 22号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251104T150000Z
+SUMMARY:L房抽选截止
+UID:dadd7f0c-17c7-477e-bf78-fd0d04d3dcf2@dadd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 2区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251113T150000Z
+SUMMARY:L房抽选截止
+UID:3454af87-245a-4f22-99aa-d68398510b96@3454.org
 END:VEVENT
 END:VCALENDAR
