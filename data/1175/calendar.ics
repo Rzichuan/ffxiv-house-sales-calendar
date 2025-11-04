@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 44号 - 个人\n晨曦王座 - 薰衣草苗圃 - 2区 - 5号 - 个人\n晨曦王座 - 薰衣草苗圃 - 3区 - 11号 - 个人\n晨曦王座 - 薰衣草苗圃 - 3区 - 27号 - 个人\n晨曦王座 - 薰衣草苗圃 - 11区 - 27号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 51号 - 其他\n晨曦王座 - 高脚孤丘 - 23区 - 8号 - 部队\n晨曦王座 - 高脚孤丘 - 25区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 30区 - 19号 - 部队\n晨曦王座 - 穹顶皓天 - 6区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251113T150000Z
+SUMMARY:M房抽选截止
+UID:e1b9c9ae-e9e3-4d6e-ac45-9a4c7d74455b@e1b9.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 26区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:L房抽选截止
-UID:026a5b01-9bdb-41d6-8ccd-de8399cd6661@026a.org
+UID:f357af6a-fe10-4822-90e2-457a23b6f3a2@f357.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 2区 - 1号 - 个人\n晨曦王座 - 薰衣草苗圃 - 11区 - 35号 - 个人\n晨曦王座 - 薰衣草苗圃 - 13区 - 21号 - 个人\n晨曦王座 - 薰衣草苗圃 - 30区 - 5号 - 部队\n晨曦王座 - 高脚孤丘 - 17区 - 36号 - 其他\n晨曦王座 - 高脚孤丘 - 24区 - 42号 - 部队\n晨曦王座 - 高脚孤丘 - 25区 - 41号 - 个人\n晨曦王座 - 穹顶皓天 - 14区 - 56号 - 个人\n晨曦王座 - 穹顶皓天 - 19区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:8b4e22e6-fcdd-497e-bf0b-02a815abb705@8b4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 44号 - 个人\n晨曦王座 - 薰衣草苗圃 - 2区 - 5号 - 个人\n晨曦王座 - 薰衣草苗圃 - 3区 - 11号 - 个人\n晨曦王座 - 薰衣草苗圃 - 3区 - 27号 - 个人\n晨曦王座 - 薰衣草苗圃 - 11区 - 27号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 51号 - 其他\n晨曦王座 - 高脚孤丘 - 23区 - 8号 - 部队\n晨曦王座 - 高脚孤丘 - 30区 - 19号 - 部队\n晨曦王座 - 穹顶皓天 - 6区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251113T150000Z
-SUMMARY:M房抽选截止
-UID:b01bf701-d136-4854-bfe2-5211a65af1ff@b01b.org
+UID:7cf41a17-2da4-48e3-bf9e-449170d35049@7cf4.org
 END:VEVENT
 END:VCALENDAR
