@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 5区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 26区 - 21号 - 个人\n幻影群岛 - 薰衣草苗圃 - 28区 - 51号 - 其他\n幻影群岛 - 高脚孤丘 - 3区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 36号 - 其他\n幻影群岛 - 白银乡 - 3区 - 13号 - 个人\n幻影群岛 - 白银乡 - 19区 - 15号 - 其他\n幻影群岛 - 穹顶皓天 - 3区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 5区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 26区 - 21号 - 个人\n幻影群岛 - 薰衣草苗圃 - 28区 - 51号 - 其他\n幻影群岛 - 高脚孤丘 - 3区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 36号 - 其他\n幻影群岛 - 白银乡 - 3区 - 13号 - 个人\n幻影群岛 - 白银乡 - 11区 - 19号 - 个人\n幻影群岛 - 白银乡 - 17区 - 28号 - 其他\n幻影群岛 - 白银乡 - 19区 - 15号 - 其他\n幻影群岛 - 穹顶皓天 - 3区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:M房抽选截止
-UID:35a29790-be62-4072-a422-b1c00187eeee@35a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251104T150000Z
-SUMMARY:L房抽选截止
-UID:52df82ae-bf45-4222-9ead-5dcd78d117f0@52df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 23区 - 51号 - 部队\n幻影群岛 - 穹顶皓天 - 4区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251104T150000Z
-SUMMARY:M房抽选截止
-UID:49c30e30-8d2d-45d3-bed9-fe02651b90d8@49c3.org
+UID:fdb240c3-46cd-41f0-a85f-dc5c03cc05c7@fdb2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 2号 - 个人\n幻影群岛 - 高脚孤丘 - 3区 - 35号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:L房抽选截止
-UID:0571304e-0b4e-494a-8f25-65a5461bff8d@0571.org
+UID:77f242f6-1242-4c22-9cf6-e16a83f405f7@77f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251104T150000Z
+SUMMARY:L房抽选截止
+UID:509cad35-c963-4c91-88ba-bf976094e3f2@509c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 23区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251104T150000Z
+SUMMARY:M房抽选截止
+UID:ebfa1c55-cee3-4d5e-8a85-a907087f91fc@ebfa.org
 END:VEVENT
 END:VCALENDAR
