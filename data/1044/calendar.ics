@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 5区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 26区 - 21号 - 个人\n幻影群岛 - 薰衣草苗圃 - 28区 - 51号 - 其他\n幻影群岛 - 高脚孤丘 - 3区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 36号 - 其他\n幻影群岛 - 白银乡 - 3区 - 13号 - 个人\n幻影群岛 - 白银乡 - 11区 - 19号 - 个人\n幻影群岛 - 白银乡 - 17区 - 28号 - 其他\n幻影群岛 - 白银乡 - 19区 - 15号 - 其他\n幻影群岛 - 穹顶皓天 - 3区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251113T150000Z
-SUMMARY:M房抽选截止
-UID:fdb240c3-46cd-41f0-a85f-dc5c03cc05c7@fdb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 2号 - 个人\n幻影群岛 - 高脚孤丘 - 3区 - 35号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251113T150000Z
-SUMMARY:L房抽选截止
-UID:77f242f6-1242-4c22-9cf6-e16a83f405f7@77f2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251104T150000Z
 SUMMARY:L房抽选截止
-UID:509cad35-c963-4c91-88ba-bf976094e3f2@509c.org
+UID:0ea2395e-7b61-4718-b025-f6215688abff@0ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 5区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 26区 - 21号 - 个人\n幻影群岛 - 薰衣草苗圃 - 28区 - 51号 - 其他\n幻影群岛 - 高脚孤丘 - 3区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 36号 - 其他\n幻影群岛 - 白银乡 - 3区 - 13号 - 个人\n幻影群岛 - 白银乡 - 11区 - 19号 - 个人\n幻影群岛 - 白银乡 - 17区 - 28号 - 其他\n幻影群岛 - 白银乡 - 19区 - 15号 - 其他\n幻影群岛 - 白银乡 - 25区 - 43号 - 个人\n幻影群岛 - 穹顶皓天 - 3区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251113T150000Z
+SUMMARY:M房抽选截止
+UID:d83ab445-7832-4ee4-8261-3096cea9fdc5@d83a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 23区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:ebfa1c55-cee3-4d5e-8a85-a907087f91fc@ebfa.org
+UID:4bd58189-f4c6-4b86-b8de-87c0864b8cd7@4bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 2号 - 个人\n幻影群岛 - 高脚孤丘 - 3区 - 35号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251113T150000Z
+SUMMARY:L房抽选截止
+UID:7e179a28-5d2b-4792-89cf-a96cbae0ef79@7e17.org
 END:VEVENT
 END:VCALENDAR
