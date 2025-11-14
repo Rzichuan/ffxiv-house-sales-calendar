@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 29区 - 59号 - 其他\n红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n红玉海 - 穹顶皓天 - 30区 - 26号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251113T150000Z
+SUMMARY:M房抽选截止
+UID:c50db26d-7aed-4f0b-aed9-516119313dc4@c50d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 2区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251113T150000Z
+SUMMARY:L房抽选截止
+UID:e17bb65d-493b-40d7-b6ed-ca0aafe484f3@e17b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:红玉海 - 白银乡 - 3区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251104T150000Z
 SUMMARY:M房抽选截止
-UID:fdb9e03f-542d-4e36-9c94-f2efab50b116@fdb9.org
+UID:f4e90936-7709-4a6e-a984-5430aab8e838@f4e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 29区 - 5号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:L房抽选截止
-UID:3c0e7acf-b86b-4095-907c-721628a1e60f@3c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 2区 - 28号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251113T150000Z
-SUMMARY:L房抽选截止
-UID:e0fb527e-ef04-45ea-945d-d60f3a14c346@e0fb.org
+UID:706e1a1c-9522-4494-ba04-ce4cb226a305@706e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 22区 - 29号 - 部队\n红玉海 - 薰衣草苗圃 - 30区 - 57号 - 部队\n红玉海 - 白银乡 - 3区 - 13号 - 个人\n红玉海 - 白银乡 - 12区 - 58号 - 个人\n红玉海 - 白银乡 - 16区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 30区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:35a9171d-ffd6-4491-a0e1-82d43387c467@35a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 7区 - 1号 - 个人\n红玉海 - 海雾村 - 21区 - 37号 - 部队\n红玉海 - 海雾村 - 29区 - 59号 - 其他\n红玉海 - 薰衣草苗圃 - 20区 - 51号 - 其他\n红玉海 - 高脚孤丘 - 11区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 11号 - 其他\n红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n红玉海 - 白银乡 - 2区 - 31号 - 个人\n红玉海 - 穹顶皓天 - 16区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 19区 - 2号 - 其他\n红玉海 - 穹顶皓天 - 22区 - 17号 - 部队\n红玉海 - 穹顶皓天 - 25区 - 56号 - 个人\n红玉海 - 穹顶皓天 - 30区 - 26号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251113T150000Z
-SUMMARY:M房抽选截止
-UID:252330fb-3745-4388-b8b4-1f88785034ec@2523.org
+UID:4c715b5f-0c23-4a7a-a573-ec0c585cae1d@4c71.org
 END:VEVENT
 END:VCALENDAR
