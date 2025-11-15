@@ -2,33 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251113T150000Z
-SUMMARY:L房抽选截止
-UID:8a31d5d2-81e8-4060-978e-4daab662af03@8a31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 26区 - 21号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 55号 - 个人\n幻影群岛 - 白银乡 - 11区 - 19号 - 个人\n幻影群岛 - 白银乡 - 17区 - 28号 - 其他\n幻影群岛 - 白银乡 - 25区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 白银乡 - 11区 - 19号 - 个人\n幻影群岛 - 白银乡 - 25区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:M房抽选截止
-UID:6ef41a0e-1065-4a5a-8b7f-323c6775cc2b@6ef4.org
+UID:781fbd12-f5c4-47a0-bee1-b7c2eb973198@781f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 30区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:L房抽选截止
-UID:bd4664a2-19c1-4d9c-a2d6-ac25f6441e69@bd46.org
+UID:d30f91fc-a752-42cc-b989-d8b0fe9d796f@d30f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 9区 - 31号 - 个人\n幻影群岛 - 海雾村 - 14区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 19区 - 57号 - 其他\n幻影群岛 - 薰衣草苗圃 - 23区 - 57号 - 部队\n幻影群岛 - 薰衣草苗圃 - 26区 - 27号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 8区 - 25号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 36号 - 个人\n幻影群岛 - 高脚孤丘 - 14区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 18区 - 49号 - 其他\n幻影群岛 - 穹顶皓天 - 23区 - 47号 - 部队\n幻影群岛 - 穹顶皓天 - 25区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 9区 - 31号 - 个人\n幻影群岛 - 海雾村 - 14区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 19区 - 57号 - 其他\n幻影群岛 - 薰衣草苗圃 - 23区 - 57号 - 部队\n幻影群岛 - 薰衣草苗圃 - 26区 - 27号 - 个人\n幻影群岛 - 高脚孤丘 - 6区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 8区 - 25号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 36号 - 个人\n幻影群岛 - 高脚孤丘 - 14区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 18区 - 49号 - 其他\n幻影群岛 - 白银乡 - 6区 - 24号 - 个人\n幻影群岛 - 穹顶皓天 - 7区 - 47号 - 个人\n幻影群岛 - 穹顶皓天 - 23区 - 47号 - 部队\n幻影群岛 - 穹顶皓天 - 25区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:b01ebf34-72ae-44a8-97eb-8c230de0a895@b01e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 15区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251104T150000Z
-SUMMARY:L房抽选截止
-UID:537dd44d-456d-41b8-9ece-0abc4917c9c4@537d.org
+UID:ff29d3c9-14e0-4291-b2f0-6290a339b3ea@ff29.org
 END:VEVENT
 END:VCALENDAR
