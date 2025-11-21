@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 30区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:L房抽选截止
-UID:ac896fdd-3857-45ce-8f94-fc7bf9d4a4ef@ac89.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 9区 - 31号 - 个人\n幻影群岛 - 海雾村 - 14区 - 6号 - 个人\n幻影群岛 - 海雾村 - 30区 - 4号 - 部队\n幻影群岛 - 薰衣草苗圃 - 19区 - 57号 - 其他\n幻影群岛 - 薰衣草苗圃 - 23区 - 57号 - 部队\n幻影群岛 - 薰衣草苗圃 - 26区 - 27号 - 个人\n幻影群岛 - 薰衣草苗圃 - 30区 - 46号 - 部队\n幻影群岛 - 高脚孤丘 - 6区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 8区 - 25号 - 个人\n幻影群岛 - 高脚孤丘 - 12区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 36号 - 个人\n幻影群岛 - 高脚孤丘 - 14区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 18区 - 49号 - 其他\n幻影群岛 - 白银乡 - 6区 - 24号 - 个人\n幻影群岛 - 穹顶皓天 - 7区 - 47号 - 个人\n幻影群岛 - 穹顶皓天 - 23区 - 47号 - 部队\n幻影群岛 - 穹顶皓天 - 25区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:86104cb7-5e00-4e5d-b7de-761f69ac4598@8610.org
+UID:dca7cb59-d72e-4835-8f19-1302d0789327@dca7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 7区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 42号 - 其他\n幻影群岛 - 穹顶皓天 - 5区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 2号 - 个人\n幻影群岛 - 穹顶皓天 - 15区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 28区 - 4号 - 其他\n幻影群岛 - 高脚孤丘 - 1区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 42号 - 其他\n幻影群岛 - 穹顶皓天 - 3区 - 48号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 2号 - 个人\n幻影群岛 - 穹顶皓天 - 15区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:e37f6bc0-3d39-4360-8c31-31b32196566a@e37f.org
+UID:89ee96d8-4a6c-4a6f-b450-c6d0fc821b96@89ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 高脚孤丘 - 30区 - 30号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251122T150000Z
+SUMMARY:L房抽选截止
+UID:686c3937-dcc2-4bd1-9075-ee7e833b6eae@686c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 19区 - 15号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:L房抽选截止
+UID:cb064dd6-a097-4598-9d08-fa816d813c30@cb06.org
 END:VEVENT
 END:VCALENDAR

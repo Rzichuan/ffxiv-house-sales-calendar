@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 5区 - 35号 - 个人\n宇宙和音 - 薰衣草苗圃 - 13区 - 36号 - 个人\n宇宙和音 - 高脚孤丘 - 6区 - 13号 - 个人\n宇宙和音 - 高脚孤丘 - 8区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:L房抽选截止
-UID:5b78aa18-e034-4fb6-97e7-462c88c562f7@5b78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 白银乡 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:L房抽选截止
-UID:bfb0b592-afa9-44af-ade9-639b39fa7e71@bfb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 10区 - 29号 - 个人\n宇宙和音 - 海雾村 - 12区 - 1号 - 个人\n宇宙和音 - 高脚孤丘 - 21区 - 41号 - 部队\n宇宙和音 - 穹顶皓天 - 5区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 10区 - 29号 - 个人\n宇宙和音 - 海雾村 - 12区 - 1号 - 个人\n宇宙和音 - 海雾村 - 30区 - 37号 - 部队\n宇宙和音 - 高脚孤丘 - 21区 - 41号 - 部队\n宇宙和音 - 穹顶皓天 - 5区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:6a46c258-be1e-4786-9b57-dbc258f20280@6a46.org
+UID:4ffc3e65-d44d-4dd9-b6b9-0c28725c369c@4ffc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 2区 - 44号 - 个人\n宇宙和音 - 海雾村 - 9区 - 59号 - 个人\n宇宙和音 - 海雾村 - 12区 - 29号 - 个人\n宇宙和音 - 薰衣草苗圃 - 1区 - 30号 - 个人\n宇宙和音 - 薰衣草苗圃 - 21区 - 31号 - 部队\n宇宙和音 - 高脚孤丘 - 21区 - 42号 - 部队\n宇宙和音 - 高脚孤丘 - 28区 - 36号 - 其他\n宇宙和音 - 高脚孤丘 - 28区 - 38号 - 其他\n宇宙和音 - 白银乡 - 24区 - 58号 - 部队\n宇宙和音 - 白银乡 - 28区 - 31号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:334f0b7d-defc-48ee-a535-2bb675c350ed@334f.org
+UID:a7ae57ae-baa6-4053-adba-c003f8ae7ab5@a7ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 5区 - 35号 - 个人\n宇宙和音 - 薰衣草苗圃 - 13区 - 36号 - 个人\n宇宙和音 - 高脚孤丘 - 6区 - 13号 - 个人\n宇宙和音 - 高脚孤丘 - 8区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251122T150000Z
+SUMMARY:L房抽选截止
+UID:2ecfe78b-1714-4bea-ad28-84e975d0f38f@2ecf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 白银乡 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:L房抽选截止
+UID:8c1b1908-5d53-4980-87b8-4f273a1d64c6@8c1b.org
 END:VEVENT
 END:VCALENDAR
