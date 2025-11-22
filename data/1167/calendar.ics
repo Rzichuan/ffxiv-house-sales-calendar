@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 29区 - 5号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:L房抽选截止
-UID:8c38ff76-ae90-4701-a0da-296d1547bc85@8c38.org
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 4区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 57号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 白银乡 - 2区 - 58号 - 个人\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:M房抽选截止
+UID:e779a3e1-1ab3-4f44-959b-0991ef218cb7@e779.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:M房抽选截止
-UID:04015798-3cc3-495e-9e91-15cd2b02c10b@0401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:M房抽选截止
-UID:372be8bd-5fef-4cda-85e1-0bafb1bdb218@372b.org
+UID:266fb3c0-2b70-4d32-b37f-c86f0e0d9747@266f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 22区 - 29号 - 部队\n红玉海 - 海雾村 - 28区 - 60号 - 其他\n红玉海 - 薰衣草苗圃 - 1区 - 46号 - 个人\n红玉海 - 薰衣草苗圃 - 30区 - 57号 - 部队\n红玉海 - 高脚孤丘 - 10区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 49号 - 其他\n红玉海 - 白银乡 - 3区 - 13号 - 个人\n红玉海 - 白银乡 - 12区 - 58号 - 个人\n红玉海 - 白银乡 - 16区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 51号 - 其他\n红玉海 - 穹顶皓天 - 30区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:eec965b9-9c97-4e39-9bf8-b04ebbd53729@eec9.org
+UID:9cd3adf7-b787-4320-8602-401b89813ee0@9cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 29区 - 5号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251122T150000Z
+SUMMARY:L房抽选截止
+UID:64a7cffe-b4d7-4471-beeb-7d8e6e0cd8ba@64a7.org
 END:VEVENT
 END:VCALENDAR

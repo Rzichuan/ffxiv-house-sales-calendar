@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 5区 - 36号 - 个人\n拉诺西亚 - 海雾村 - 7区 - 14号 - 个人\n拉诺西亚 - 高脚孤丘 - 4区 - 19号 - 个人\n拉诺西亚 - 高脚孤丘 - 30区 - 25号 - 部队\n拉诺西亚 - 白银乡 - 10区 - 1号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 1号 - 其他\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 37号 - 个人\n拉诺西亚 - 海雾村 - 28区 - 44号 - 其他\n拉诺西亚 - 高脚孤丘 - 2区 - 42号 - 个人\n拉诺西亚 - 高脚孤丘 - 9区 - 4号 - 个人\n拉诺西亚 - 穹顶皓天 - 26区 - 21号 - 个人\n拉诺西亚 - 穹顶皓天 - 27区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251122T150000Z
+SUMMARY:M房抽选截止
+UID:393a515c-8f7f-449a-94f2-ef53d5de6b3b@393a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 5区 - 36号 - 个人\n拉诺西亚 - 海雾村 - 7区 - 14号 - 个人\n拉诺西亚 - 高脚孤丘 - 4区 - 19号 - 个人\n拉诺西亚 - 高脚孤丘 - 10区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 23区 - 42号 - 部队\n拉诺西亚 - 高脚孤丘 - 30区 - 25号 - 部队\n拉诺西亚 - 白银乡 - 10区 - 1号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 1号 - 其他\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n拉诺西亚 - 穹顶皓天 - 11区 - 18号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:fa93ca8d-f145-4268-9c37-1a69e855c0be@fa93.org
+UID:6936c281-a69f-4c66-ab4b-afd529d9c74f@6936.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 白银乡 - 7区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:M房抽选截止
-UID:743143f5-b323-466c-a962-5a68e430fd49@7431.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 37号 - 个人\n拉诺西亚 - 海雾村 - 28区 - 44号 - 其他\n拉诺西亚 - 高脚孤丘 - 2区 - 42号 - 个人\n拉诺西亚 - 高脚孤丘 - 9区 - 4号 - 个人\n拉诺西亚 - 穹顶皓天 - 26区 - 21号 - 个人\n拉诺西亚 - 穹顶皓天 - 27区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:M房抽选截止
-UID:d7a25f3c-9d7b-4ea5-85d2-169f1b174c19@d7a2.org
+UID:359a0615-3cda-4fd3-b4d9-93e82289da40@359a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 19区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:L房抽选截止
-UID:a62b9807-c912-4a28-9852-36d844697053@a62b.org
+UID:45b7ccde-e94f-4d68-a054-0ce6e2f5a419@45b7.org
 END:VEVENT
 END:VCALENDAR
