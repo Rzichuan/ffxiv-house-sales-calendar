@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 5区 - 35号 - 个人\n宇宙和音 - 薰衣草苗圃 - 13区 - 36号 - 个人\n宇宙和音 - 高脚孤丘 - 6区 - 13号 - 个人\n宇宙和音 - 高脚孤丘 - 8区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 5区 - 35号 - 个人\n宇宙和音 - 薰衣草苗圃 - 13区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:L房抽选截止
-UID:fcb069b1-9218-4d7a-960a-5809a0d2b7fd@fcb0.org
+UID:2f7f62df-2caa-47fd-9278-f0f77984b167@2f7f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 2区 - 44号 - 个人\n宇宙和音 - 海雾村 - 9区 - 59号 - 个人\n宇宙和音 - 海雾村 - 12区 - 29号 - 个人\n宇宙和音 - 薰衣草苗圃 - 1区 - 30号 - 个人\n宇宙和音 - 薰衣草苗圃 - 21区 - 31号 - 部队\n宇宙和音 - 高脚孤丘 - 21区 - 42号 - 部队\n宇宙和音 - 高脚孤丘 - 28区 - 36号 - 其他\n宇宙和音 - 高脚孤丘 - 28区 - 38号 - 其他\n宇宙和音 - 白银乡 - 24区 - 58号 - 部队\n宇宙和音 - 白银乡 - 28区 - 31号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 2区 - 44号 - 个人\n宇宙和音 - 高脚孤丘 - 28区 - 36号 - 其他\n宇宙和音 - 高脚孤丘 - 28区 - 38号 - 其他\n宇宙和音 - 白银乡 - 24区 - 58号 - 部队\n宇宙和音 - 白银乡 - 28区 - 31号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:300ec1ee-21cc-4685-8e6d-3b7f31605cef@300e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 10区 - 29号 - 个人\n宇宙和音 - 海雾村 - 12区 - 1号 - 个人\n宇宙和音 - 海雾村 - 30区 - 37号 - 部队\n宇宙和音 - 高脚孤丘 - 21区 - 41号 - 部队\n宇宙和音 - 穹顶皓天 - 5区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:M房抽选截止
-UID:2d610dee-dafb-48ca-877c-87369377b3a3@2d61.org
+UID:519428e6-0413-4cfb-b57e-fb4bbd500e62@5194.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 白银乡 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:L房抽选截止
-UID:2fd09394-5ec0-42fa-a3e8-9183d9078786@2fd0.org
+UID:dbbee60c-92cc-419c-abff-8881d972f45f@dbbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 10区 - 29号 - 个人\n宇宙和音 - 海雾村 - 12区 - 1号 - 个人\n宇宙和音 - 海雾村 - 30区 - 37号 - 部队\n宇宙和音 - 高脚孤丘 - 15区 - 34号 - 个人\n宇宙和音 - 高脚孤丘 - 21区 - 41号 - 部队\n宇宙和音 - 白银乡 - 22区 - 8号 - 部队\n宇宙和音 - 穹顶皓天 - 5区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:M房抽选截止
+UID:ab9a6252-cc08-4b74-a63b-b92ca5c3a307@ab9a.org
 END:VEVENT
 END:VCALENDAR
