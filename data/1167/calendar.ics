@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 4区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 57号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 20区 - 34号 - 其他\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 白银乡 - 2区 - 58号 - 个人\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 白银乡 - 14区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n红玉海 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 29区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251122T150000Z
+SUMMARY:L房抽选截止
+UID:30d054e6-c455-490f-90f0-b96e676640c5@30d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 4区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 4区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 57号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 20区 - 34号 - 其他\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 白银乡 - 2区 - 58号 - 个人\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 白银乡 - 14区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n红玉海 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:41f42167-a56a-4012-aee9-a8e0577fc7ec@41f4.org
+UID:1a36226b-0875-4e7c-86b9-f9d9f617c4d3@1a36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 28区 - 51号 - 其他\n红玉海 - 穹顶皓天 - 30区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251122T150000Z
+SUMMARY:M房抽选截止
+UID:4fb8db8f-cd43-484a-adda-ee18c5aba690@4fb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:M房抽选截止
-UID:c790da57-5c03-40e7-b94e-0a69f3652460@c790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 28区 - 60号 - 其他\n红玉海 - 白银乡 - 16区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 51号 - 其他\n红玉海 - 穹顶皓天 - 30区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:M房抽选截止
-UID:694f40f1-826a-4d70-b418-7b2f322eb40d@694f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 29区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:L房抽选截止
-UID:008cd344-f32e-4498-a0e0-9074b3ffd2ee@008c.org
+UID:7e5bd5b3-0424-45c8-b6e4-818b5893226b@7e5b.org
 END:VEVENT
 END:VCALENDAR
