@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 29区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:L房抽选截止
-UID:30d054e6-c455-490f-90f0-b96e676640c5@30d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 4区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 4区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 57号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 20区 - 34号 - 其他\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 白银乡 - 2区 - 58号 - 个人\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 白银乡 - 14区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n红玉海 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:M房抽选截止
-UID:1a36226b-0875-4e7c-86b9-f9d9f617c4d3@1a36.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 穹顶皓天 - 28区 - 51号 - 其他\n红玉海 - 穹顶皓天 - 30区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:4fb8db8f-cd43-484a-adda-ee18c5aba690@4fb8.org
+UID:312794d9-8b4b-4f45-9e0a-edfb3720a50c@3127.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:M房抽选截止
-UID:7e5bd5b3-0424-45c8-b6e4-818b5893226b@7e5b.org
+UID:72225fb0-bbf6-4b6a-946e-18b80c3a47a8@7222.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 4区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 4区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 57号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 34号 - 其他\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 8号 - 个人\n红玉海 - 白银乡 - 2区 - 58号 - 个人\n红玉海 - 白银乡 - 4区 - 1号 - 个人\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 白银乡 - 14区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n红玉海 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:M房抽选截止
+UID:56971b2a-faae-42d0-ad33-e5fab27f2c98@5697.org
 END:VEVENT
 END:VCALENDAR
