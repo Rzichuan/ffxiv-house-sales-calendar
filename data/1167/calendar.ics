@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 28区 - 51号 - 其他\n红玉海 - 穹顶皓天 - 30区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:M房抽选截止
-UID:312794d9-8b4b-4f45-9e0a-edfb3720a50c@3127.org
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 17区 - 3号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:L房抽选截止
+UID:834f348a-dcd2-459b-ad67-9f4165bbcc38@834f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251113T150000Z
 SUMMARY:M房抽选截止
-UID:72225fb0-bbf6-4b6a-946e-18b80c3a47a8@7222.org
+UID:cbc2d042-245a-48ac-8ef3-39e7d5ae6882@cbc2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 4区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 4区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 57号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 34号 - 其他\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 8号 - 个人\n红玉海 - 白银乡 - 2区 - 58号 - 个人\n红玉海 - 白银乡 - 4区 - 1号 - 个人\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 白银乡 - 14区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n红玉海 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 4区 - 1号 - 个人\n红玉海 - 海雾村 - 8区 - 59号 - 个人\n红玉海 - 薰衣草苗圃 - 4区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 57号 - 个人\n红玉海 - 高脚孤丘 - 9区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 12区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 34号 - 其他\n红玉海 - 高脚孤丘 - 23区 - 12号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 8号 - 个人\n红玉海 - 白银乡 - 2区 - 58号 - 个人\n红玉海 - 白银乡 - 4区 - 1号 - 个人\n红玉海 - 白银乡 - 13区 - 43号 - 个人\n红玉海 - 白银乡 - 14区 - 38号 - 个人\n红玉海 - 白银乡 - 15区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 5区 - 17号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 8区 - 47号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 47号 - 其他\n红玉海 - 穹顶皓天 - 27区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:56971b2a-faae-42d0-ad33-e5fab27f2c98@5697.org
+UID:5084ec91-6ea4-4893-912e-ae83d76f4480@5084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 30区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20251122T150000Z
+SUMMARY:M房抽选截止
+UID:049ce83a-d515-482a-8d67-844956960240@049c.org
 END:VEVENT
 END:VCALENDAR
