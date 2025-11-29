@@ -2,27 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 28区 - 4号 - 其他\n幻影群岛 - 薰衣草苗圃 - 18区 - 46号 - 其他\n幻影群岛 - 薰衣草苗圃 - 22区 - 5号 - 部队\n幻影群岛 - 高脚孤丘 - 1区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 8区 - 19号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 42号 - 其他\n幻影群岛 - 白银乡 - 28区 - 28号 - 其他\n幻影群岛 - 穹顶皓天 - 3区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 3区 - 48号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 2号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 15区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:M房抽选截止
+UID:6fbfb342-a967-4d4e-b32e-8300d6336812@6fbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 白银乡 - 20区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251210T150000Z
+SUMMARY:L房抽选截止
+UID:e6a27773-49ed-4316-ba59-572acad540fb@e6a2.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 穹顶皓天 - 25区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251122T150000Z
 SUMMARY:M房抽选截止
-UID:abeab013-589d-452c-9779-d5eb5fac9fa4@abea.org
+UID:ee804974-9107-449a-b74f-9285f2bc4566@ee80.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 19区 - 15号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:L房抽选截止
-UID:743bf2f5-fd1c-40b7-a714-8aca5cbfb903@743b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 28区 - 4号 - 其他\n幻影群岛 - 薰衣草苗圃 - 18区 - 46号 - 其他\n幻影群岛 - 薰衣草苗圃 - 22区 - 5号 - 部队\n幻影群岛 - 高脚孤丘 - 1区 - 42号 - 个人\n幻影群岛 - 高脚孤丘 - 7区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 8区 - 19号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 42号 - 其他\n幻影群岛 - 白银乡 - 28区 - 28号 - 其他\n幻影群岛 - 穹顶皓天 - 3区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 3区 - 48号 - 个人\n幻影群岛 - 穹顶皓天 - 5区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 2号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 15区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:M房抽选截止
-UID:d87dcfdb-0212-428b-9597-a76ac418de86@d87d.org
+UID:99c41896-1ad1-40e6-89b4-c2f68746c61d@99c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 穹顶皓天 - 11区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251210T150000Z
 SUMMARY:M房抽选截止
-UID:a76bf392-5f00-4d97-8361-09f5e865e2db@a76b.org
+UID:528db88e-46ec-4050-9bf0-c333fa9780cc@528d.org
 END:VEVENT
 END:VCALENDAR
