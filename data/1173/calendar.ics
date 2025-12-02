@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 19区 - 60号 - 其他\n宇宙和音 - 海雾村 - 26区 - 29号 - 个人\n宇宙和音 - 高脚孤丘 - 10区 - 55号 - 个人\n宇宙和音 - 高脚孤丘 - 23区 - 11号 - 部队\n宇宙和音 - 穹顶皓天 - 3区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 19区 - 60号 - 其他\n宇宙和音 - 海雾村 - 26区 - 29号 - 个人\n宇宙和音 - 高脚孤丘 - 10区 - 55号 - 个人\n宇宙和音 - 高脚孤丘 - 23区 - 11号 - 部队\n宇宙和音 - 白银乡 - 14区 - 54号 - 个人\n宇宙和音 - 穹顶皓天 - 3区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251210T150000Z
 SUMMARY:M房抽选截止
-UID:6f45e763-6606-48af-a257-a7c147e3fab6@6f45.org
+UID:67f44af9-deed-41e9-88f9-90f8241994eb@67f4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 8区 - 7号 - 个人\n宇宙和音 - 海雾村 - 10区 - 29号 - 个人\n宇宙和音 - 海雾村 - 11区 - 14号 - 个人\n宇宙和音 - 海雾村 - 12区 - 1号 - 个人\n宇宙和音 - 海雾村 - 18区 - 4号 - 其他\n宇宙和音 - 海雾村 - 30区 - 37号 - 部队\n宇宙和音 - 薰衣草苗圃 - 27区 - 21号 - 个人\n宇宙和音 - 高脚孤丘 - 15区 - 34号 - 个人\n宇宙和音 - 高脚孤丘 - 21区 - 41号 - 部队\n宇宙和音 - 高脚孤丘 - 27区 - 6号 - 个人\n宇宙和音 - 白银乡 - 1区 - 13号 - 个人\n宇宙和音 - 白银乡 - 12区 - 15号 - 个人\n宇宙和音 - 白银乡 - 22区 - 8号 - 部队\n宇宙和音 - 白银乡 - 22区 - 31号 - 部队\n宇宙和音 - 穹顶皓天 - 5区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:M房抽选截止
-UID:46ad04e0-7880-423c-9b32-49134be40b48@46ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 25区 - 58号 - 个人\n宇宙和音 - 白银乡 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 白银乡 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:L房抽选截止
-UID:336b4e94-9ffd-44ba-8149-7a5d6c745138@336b.org
+UID:54d9c6af-eecf-4757-b16a-4e9f1045c434@54d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 8区 - 7号 - 个人\n宇宙和音 - 海雾村 - 11区 - 14号 - 个人\n宇宙和音 - 海雾村 - 12区 - 1号 - 个人\n宇宙和音 - 海雾村 - 18区 - 4号 - 其他\n宇宙和音 - 海雾村 - 30区 - 37号 - 部队\n宇宙和音 - 薰衣草苗圃 - 27区 - 21号 - 个人\n宇宙和音 - 高脚孤丘 - 27区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:M房抽选截止
+UID:9a72fa5a-698c-47ce-a3f6-c7ba24f0b7ba@9a72.org
 END:VEVENT
 END:VCALENDAR

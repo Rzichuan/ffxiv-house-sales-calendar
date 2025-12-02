@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 24区 - 32号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 24区 - 6号 - 部队\n拉诺西亚 - 高脚孤丘 - 19区 - 60号 - 其他\n拉诺西亚 - 高脚孤丘 - 28区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:L房抽选截止
-UID:584f6663-7a92-4a43-9672-8f06ab0c153a@584f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 10区 - 1号 - 个人\n拉诺西亚 - 穹顶皓天 - 17区 - 26号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 10区 - 1号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 17区 - 26号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251210T150000Z
 SUMMARY:M房抽选截止
-UID:35ae8b26-8172-47b4-8e43-280c108c7016@35ae.org
+UID:1d692e96-d86d-43f5-9b3f-fa0b00f476e3@1d69.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 5区 - 36号 - 个人\n拉诺西亚 - 海雾村 - 7区 - 14号 - 个人\n拉诺西亚 - 海雾村 - 22区 - 44号 - 部队\n拉诺西亚 - 高脚孤丘 - 4区 - 19号 - 个人\n拉诺西亚 - 高脚孤丘 - 10区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 16区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 17区 - 12号 - 其他\n拉诺西亚 - 高脚孤丘 - 22区 - 38号 - 部队\n拉诺西亚 - 高脚孤丘 - 23区 - 42号 - 部队\n拉诺西亚 - 高脚孤丘 - 30区 - 25号 - 部队\n拉诺西亚 - 白银乡 - 10区 - 1号 - 个人\n拉诺西亚 - 白银乡 - 10区 - 24号 - 个人\n拉诺西亚 - 白银乡 - 13区 - 58号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 1号 - 其他\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 21号 - 个人\n拉诺西亚 - 穹顶皓天 - 11区 - 18号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 24区 - 32号 - 部队\n拉诺西亚 - 高脚孤丘 - 28区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251201T150000Z
+SUMMARY:L房抽选截止
+UID:af7ba134-7d19-4cc2-a2c6-142ea9f3749e@af7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 7区 - 14号 - 个人\n拉诺西亚 - 海雾村 - 22区 - 44号 - 部队\n拉诺西亚 - 高脚孤丘 - 4区 - 19号 - 个人\n拉诺西亚 - 高脚孤丘 - 10区 - 4号 - 个人\n拉诺西亚 - 高脚孤丘 - 17区 - 12号 - 其他\n拉诺西亚 - 高脚孤丘 - 22区 - 38号 - 部队\n拉诺西亚 - 白银乡 - 10区 - 24号 - 个人\n拉诺西亚 - 白银乡 - 13区 - 58号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:11ad8012-81dd-4b80-98b9-e145dc334de7@11ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 9区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251122T150000Z
-SUMMARY:M房抽选截止
-UID:2c6a3929-90c7-4a4a-a827-f16371d9a5d8@2c6a.org
+UID:839f27a4-b19a-4657-8f05-6c9d88ccc910@839f.org
 END:VEVENT
 END:VCALENDAR
