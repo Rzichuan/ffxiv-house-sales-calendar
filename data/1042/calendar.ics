@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 36号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 10区 - 1号 - 个人\n拉诺西亚 - 白银乡 - 27区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 17区 - 26号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 13区 - 36号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 7区 - 57号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 10区 - 1号 - 个人\n拉诺西亚 - 白银乡 - 27区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 17区 - 26号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251210T150000Z
 SUMMARY:M房抽选截止
-UID:4ab86dfc-92ba-4db7-8b47-33171d1756b9@4ab8.org
+UID:96b703e7-a9c2-431a-9662-6c5de853ec8f@96b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 7区 - 14号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:08e6bd26-711a-4ac2-905d-e431104be8dc@08e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 24区 - 32号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20251201T150000Z
-SUMMARY:L房抽选截止
-UID:7932eb42-7572-4e35-bbb6-89a2f013b214@7932.org
+UID:20ea2b49-ac07-4b1c-9b0b-9730f240816d@20ea.org
 END:VEVENT
 END:VCALENDAR
