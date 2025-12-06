@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 30区 - 59号 - 部队\n幻影群岛 - 高脚孤丘 - 2区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 12号 - 个人\n幻影群岛 - 高脚孤丘 - 23区 - 55号 - 部队\n幻影群岛 - 白银乡 - 13区 - 58号 - 个人\n幻影群岛 - 白银乡 - 28区 - 31号 - 其他\n幻影群岛 - 穹顶皓天 - 10区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251210T150000Z
 SUMMARY:M房抽选截止
-UID:4f1c42cf-daa0-45ba-acff-a06de82436a0@4f1c.org
+UID:61caea74-1aa3-421b-aff1-d91a6f305848@61ca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 白银乡 - 20区 - 7号 - 其他\n幻影群岛 - 穹顶皓天 - 7区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251210T150000Z
 SUMMARY:L房抽选截止
-UID:c492c7da-5481-4d57-8c2d-23f22886aeb2@c492.org
+UID:e1f5777e-2285-4750-963c-a92d1e3dd9c0@e1f5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 28区 - 4号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:1067c4b4-75f0-4543-9db4-df1610b0a271@1067.org
+UID:c3e92830-17c1-418c-b8fd-5e6a0e222702@c3e9.org
 END:VEVENT
 END:VCALENDAR
