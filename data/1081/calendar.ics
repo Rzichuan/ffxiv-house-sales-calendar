@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 28区 - 32号 - 其他\n神意之地 - 薰衣草苗圃 - 22区 - 33号 - 部队\n神意之地 - 薰衣草苗圃 - 26区 - 36号 - 个人\n神意之地 - 白银乡 - 12区 - 30号 - 个人\n神意之地 - 白银乡 - 18区 - 37号 - 其他\n神意之地 - 穹顶皓天 - 1区 - 42号 - 个人\n神意之地 - 穹顶皓天 - 15区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 海雾村 - 9区 - 6号 - 个人\n神意之地 - 海雾村 - 10区 - 59号 - 个人\n神意之地 - 薰衣草苗圃 - 3区 - 46号 - 个人\n神意之地 - 薰衣草苗圃 - 20区 - 1号 - 其他\n神意之地 - 高脚孤丘 - 11区 - 8号 - 个人\n神意之地 - 高脚孤丘 - 26区 - 25号 - 个人\n神意之地 - 高脚孤丘 - 29区 - 4号 - 其他\n神意之地 - 白银乡 - 6区 - 24号 - 个人\n神意之地 - 穹顶皓天 - 3区 - 8号 - 个人\n神意之地 - 穹顶皓天 - 12区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251219T150000Z
-SUMMARY:L房抽选截止
-UID:b2aa8c21-c2f7-43ef-b5ad-660dd7958f69@b2aa.org
+SUMMARY:M房抽选截止
+UID:f983db5e-5cfd-48d9-a263-ec6c9478800d@f983.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 白银乡 - 6区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251201T150000Z
 SUMMARY:M房抽选截止
-UID:9507a74f-858e-4eb3-a144-006aafec29a0@9507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 9区 - 6号 - 个人\n神意之地 - 海雾村 - 10区 - 59号 - 个人\n神意之地 - 薰衣草苗圃 - 3区 - 46号 - 个人\n神意之地 - 薰衣草苗圃 - 20区 - 1号 - 其他\n神意之地 - 高脚孤丘 - 11区 - 8号 - 个人\n神意之地 - 高脚孤丘 - 26区 - 25号 - 个人\n神意之地 - 高脚孤丘 - 29区 - 4号 - 其他\n神意之地 - 白银乡 - 6区 - 24号 - 个人\n神意之地 - 穹顶皓天 - 3区 - 8号 - 个人\n神意之地 - 穹顶皓天 - 12区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251219T150000Z
-SUMMARY:M房抽选截止
-UID:4cb5b09e-0049-43fa-937a-10f2c82077ab@4cb5.org
+UID:3ebe3d23-42d4-4ba5-a8f4-a54d439b77d4@3ebe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 25区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
 SUMMARY:L房抽选截止
-UID:55808298-8828-4f39-8fb5-482bf24b9443@5580.org
+UID:9c931f91-2c8b-4460-a11d-5a41f4b294e1@9c93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 28区 - 32号 - 其他\n神意之地 - 薰衣草苗圃 - 22区 - 33号 - 部队\n神意之地 - 薰衣草苗圃 - 26区 - 36号 - 个人\n神意之地 - 白银乡 - 12区 - 30号 - 个人\n神意之地 - 白银乡 - 18区 - 37号 - 其他\n神意之地 - 穹顶皓天 - 1区 - 42号 - 个人\n神意之地 - 穹顶皓天 - 15区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251219T150000Z
+SUMMARY:L房抽选截止
+UID:d50c6569-7aa0-4a66-afae-c3f779cf22bd@d50c.org
 END:VEVENT
 END:VCALENDAR
