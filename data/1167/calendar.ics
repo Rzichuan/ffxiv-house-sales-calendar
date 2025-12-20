@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 10区 - 30号 - 个人\n红玉海 - 高脚孤丘 - 1区 - 36号 - 个人\n红玉海 - 高脚孤丘 - 4区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 6号 - 其他\n红玉海 - 白银乡 - 6区 - 54号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251228T150000Z
-SUMMARY:M房抽选截止
-UID:2b366033-2e0f-41be-be48-732e2961d9f5@2b36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 白银乡 - 26区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251228T150000Z
-SUMMARY:L房抽选截止
-UID:ae39f1fd-6275-4a14-9a90-14520f10cc16@ae39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 7区 - 44号 - 个人\n红玉海 - 海雾村 - 26区 - 7号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 46号 - 其他\n红玉海 - 薰衣草苗圃 - 21区 - 1号 - 部队\n红玉海 - 高脚孤丘 - 6区 - 25号 - 个人\n红玉海 - 高脚孤丘 - 8区 - 42号 - 个人\n红玉海 - 高脚孤丘 - 9区 - 8号 - 个人\n红玉海 - 白银乡 - 19区 - 45号 - 其他\n红玉海 - 穹顶皓天 - 9区 - 17号 - 个人\n红玉海 - 穹顶皓天 - 26区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251219T150000Z
-SUMMARY:M房抽选截止
-UID:10b3465a-f6ee-4fc4-8017-e0fe5ab24836@10b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 白银乡 - 27区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251210T150000Z
-SUMMARY:M房抽选截止
-UID:7ed50351-8686-41fd-8747-8a72270441a0@7ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 19区 - 3号 - 其他\n红玉海 - 穹顶皓天 - 26区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 穹顶皓天 - 26区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251219T150000Z
 SUMMARY:L房抽选截止
-UID:c87ddea0-f793-45a8-9770-c32c36fd6e79@c87d.org
+UID:1c4e6c00-8f2f-4f29-9ed6-0e2b5dcafffd@1c4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 白银乡 - 26区 - 60号 - 个人\n红玉海 - 穹顶皓天 - 2区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251228T150000Z
+SUMMARY:L房抽选截止
+UID:c0c64a3c-c88c-4f18-bf71-535507e9d560@c0c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 10区 - 30号 - 个人\n红玉海 - 高脚孤丘 - 1区 - 36号 - 个人\n红玉海 - 高脚孤丘 - 4区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 9区 - 34号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 17区 - 6号 - 其他\n红玉海 - 白银乡 - 6区 - 54号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251228T150000Z
+SUMMARY:M房抽选截止
+UID:3a494916-af30-40d1-95a1-e1b0493e06dc@3a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 7区 - 44号 - 个人\n红玉海 - 海雾村 - 26区 - 7号 - 个人\n红玉海 - 高脚孤丘 - 8区 - 42号 - 个人\n红玉海 - 白银乡 - 19区 - 45号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251219T150000Z
+SUMMARY:M房抽选截止
+UID:fb133037-7859-4852-a413-558451e06300@fb13.org
 END:VEVENT
 END:VCALENDAR
