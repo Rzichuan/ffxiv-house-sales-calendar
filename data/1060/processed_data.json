@@ -1,66 +1,12 @@
 [
     {
-        "Area": 0,
-        "ID": 36,
-        "Slot": 12,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1060,
-        "Purchase_endtime": 1766156400
-    },
-    {
-        "Area": 0,
-        "ID": 32,
-        "Slot": 16,
-        "RegionType": 0,
-        "Size": 2,
-        "Server": 1060,
-        "Purchase_endtime": 1766156400
-    },
-    {
-        "Area": 0,
-        "ID": 14,
-        "Slot": 20,
-        "RegionType": 1,
-        "Size": 1,
-        "Server": 1060,
-        "Purchase_endtime": 1765378800
-    },
-    {
-        "Area": 1,
-        "ID": 46,
-        "Slot": 15,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1060,
-        "Purchase_endtime": 1766156400
-    },
-    {
         "Area": 1,
         "ID": 31,
-        "Slot": 17,
-        "RegionType": 0,
-        "Size": 1,
-        "Server": 1060,
-        "Purchase_endtime": 1766156400
-    },
-    {
-        "Area": 1,
-        "ID": 51,
-        "Slot": 27,
-        "RegionType": 0,
-        "Size": 1,
-        "Server": 1060,
-        "Purchase_endtime": 1766156400
-    },
-    {
-        "Area": 2,
-        "ID": 12,
-        "Slot": 7,
+        "Slot": 2,
         "RegionType": 2,
         "Size": 1,
         "Server": 1060,
-        "Purchase_endtime": 1766156400
+        "Purchase_endtime": 1766934000
     },
     {
         "Area": 3,
@@ -70,15 +16,6 @@
         "Size": 1,
         "Server": 1060,
         "Purchase_endtime": 1766934000
-    },
-    {
-        "Area": 3,
-        "ID": 19,
-        "Slot": 16,
-        "RegionType": 0,
-        "Size": 1,
-        "Server": 1060,
-        "Purchase_endtime": 1766156400
     },
     {
         "Area": 3,
@@ -118,11 +55,11 @@
     },
     {
         "Area": 4,
-        "ID": 60,
-        "Slot": 10,
-        "RegionType": 2,
-        "Size": 2,
+        "ID": 8,
+        "Slot": 29,
+        "RegionType": 1,
+        "Size": 1,
         "Server": 1060,
-        "Purchase_endtime": 1766156400
+        "Purchase_endtime": 1766934000
     }
 ]
