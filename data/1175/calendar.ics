@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 25区 - 31号 - 个人\n晨曦王座 - 穹顶皓天 - 3区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 19区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251219T150000Z
-SUMMARY:M房抽选截止
-UID:5ecf52d4-a1b2-4995-bbdf-58658f4e002e@5ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 1区 - 37号 - 个人\n晨曦王座 - 海雾村 - 19区 - 4号 - 其他\n晨曦王座 - 海雾村 - 20区 - 60号 - 其他\n晨曦王座 - 薰衣草苗圃 - 3区 - 46号 - 个人\n晨曦王座 - 薰衣草苗圃 - 25区 - 21号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 41号 - 其他\n晨曦王座 - 白银乡 - 24区 - 38号 - 部队\n晨曦王座 - 白银乡 - 30区 - 1号 - 部队\n晨曦王座 - 穹顶皓天 - 2区 - 7号 - 个人\n晨曦王座 - 穹顶皓天 - 3区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251228T150000Z
-SUMMARY:M房抽选截止
-UID:00a73b1f-213e-4614-a8e7-467cfd1f8d68@00a7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 穹顶皓天 - 2区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
 SUMMARY:L房抽选截止
-UID:b582924c-4b97-4ed4-bc7c-f8d5d15b377c@b582.org
+UID:30c02c95-c709-408c-8651-8074665e4ced@30c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 穹顶皓天 - 3区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 19区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20251219T150000Z
+SUMMARY:M房抽选截止
+UID:4d244f8b-e30a-40ff-9682-2ae9116b6d14@4d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 1区 - 37号 - 个人\n晨曦王座 - 海雾村 - 4区 - 6号 - 个人\n晨曦王座 - 海雾村 - 18区 - 14号 - 其他\n晨曦王座 - 海雾村 - 19区 - 4号 - 其他\n晨曦王座 - 海雾村 - 20区 - 60号 - 其他\n晨曦王座 - 薰衣草苗圃 - 3区 - 46号 - 个人\n晨曦王座 - 薰衣草苗圃 - 25区 - 21号 - 个人\n晨曦王座 - 高脚孤丘 - 3区 - 8号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 41号 - 其他\n晨曦王座 - 白银乡 - 24区 - 38号 - 部队\n晨曦王座 - 白银乡 - 30区 - 1号 - 部队\n晨曦王座 - 穹顶皓天 - 2区 - 7号 - 个人\n晨曦王座 - 穹顶皓天 - 3区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251228T150000Z
+SUMMARY:M房抽选截止
+UID:2f22d47f-2e16-4c75-8ceb-2844217e89be@2f22.org
 END:VEVENT
 END:VCALENDAR
