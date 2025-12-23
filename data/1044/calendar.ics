@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 8区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 8区 - 27号 - 个人\n幻影群岛 - 高脚孤丘 - 1区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 2区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 36号 - 个人\n幻影群岛 - 白银乡 - 19区 - 31号 - 其他\n幻影群岛 - 穹顶皓天 - 13区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 15区 - 21号 - 个人\n幻影群岛 - 穹顶皓天 - 19区 - 21号 - 其他\n幻影群岛 - 穹顶皓天 - 26区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
 SUMMARY:M房抽选截止
-UID:2dfc6f52-20ef-47e8-8790-29088848a4c7@2dfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 14区 - 28号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 60号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251228T150000Z
-SUMMARY:L房抽选截止
-UID:4c33e6d2-3762-40ca-8d04-1f46980a0e0e@4c33.org
+UID:b821ca72-a481-42b3-b363-1aeb800e5195@b821.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 穹顶皓天 - 29区 - 52号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251219T150000Z
 SUMMARY:L房抽选截止
-UID:01167be2-8317-4a90-87c4-5d8a69693a00@0116.org
+UID:7dc59567-54d7-44a2-80f7-bc0adb326abb@7dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 14区 - 28号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 60号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 26区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20251228T150000Z
+SUMMARY:L房抽选截止
+UID:42881d49-aee5-4ef0-a9d1-c665dc0408f2@4288.org
 END:VEVENT
 END:VCALENDAR
