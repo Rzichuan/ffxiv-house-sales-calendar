@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 23区 - 11号 - 部队\n幻影群岛 - 高脚孤丘 - 19区 - 25号 - 其他\n幻影群岛 - 白银乡 - 4区 - 24号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 17区 - 56号 - 其他\n幻影群岛 - 穹顶皓天 - 30区 - 2号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260106T150000Z
-SUMMARY:M房抽选截止
-UID:6bee614d-536e-47db-951e-fb7fbc595a0a@6bee.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 白银乡 - 27区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:L房抽选截止
-UID:2e7e7c02-42e2-4ff6-9de0-56759506917d@2e7e.org
+UID:a38f62b8-1532-4987-84c0-0d680545e3cf@a38f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 8区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 5区 - 27号 - 个人\n幻影群岛 - 薰衣草苗圃 - 8区 - 27号 - 个人\n幻影群岛 - 高脚孤丘 - 1区 - 8号 - 个人\n幻影群岛 - 高脚孤丘 - 2区 - 55号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 36号 - 个人\n幻影群岛 - 白银乡 - 19区 - 31号 - 其他\n幻影群岛 - 白银乡 - 22区 - 43号 - 部队\n幻影群岛 - 穹顶皓天 - 13区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 15区 - 21号 - 个人\n幻影群岛 - 穹顶皓天 - 19区 - 21号 - 其他\n幻影群岛 - 穹顶皓天 - 26区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 8区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 8区 - 27号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 36号 - 个人\n幻影群岛 - 白银乡 - 19区 - 31号 - 其他\n幻影群岛 - 穹顶皓天 - 19区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
 SUMMARY:M房抽选截止
-UID:97d74fdb-d0ef-49b6-be5a-048da6529cf4@97d7.org
+UID:8f747a4d-37f2-4243-854f-3aa481626fce@8f74.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 14区 - 28号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 60号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 42号 - 个人\n幻影群岛 - 穹顶皓天 - 26区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 5区 - 30号 - 个人\n幻影群岛 - 薰衣草苗圃 - 23区 - 11号 - 部队\n幻影群岛 - 高脚孤丘 - 19区 - 25号 - 其他\n幻影群岛 - 白银乡 - 4区 - 24号 - 个人\n幻影群岛 - 穹顶皓天 - 1区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 4区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 17区 - 56号 - 其他\n幻影群岛 - 穹顶皓天 - 30区 - 2号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260106T150000Z
+SUMMARY:M房抽选截止
+UID:cc0658d5-655c-4dd0-98f2-d4d8097cf0be@cc06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 高脚孤丘 - 11区 - 60号 - 个人\n幻影群岛 - 穹顶皓天 - 26区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
 SUMMARY:L房抽选截止
-UID:1939c126-5b02-4d8c-97b3-cea5f6a70426@1939.org
+UID:8affd56c-a2a5-42fd-8190-77407e007954@8aff.org
 END:VEVENT
 END:VCALENDAR

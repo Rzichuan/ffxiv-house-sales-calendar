@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 12区 - 7号 - 个人\n神意之地 - 海雾村 - 15区 - 1号 - 个人\n神意之地 - 海雾村 - 26区 - 34号 - 个人\n神意之地 - 薰衣草苗圃 - 8区 - 30号 - 个人\n神意之地 - 薰衣草苗圃 - 12区 - 57号 - 个人\n神意之地 - 薰衣草苗圃 - 29区 - 41号 - 其他\n神意之地 - 高脚孤丘 - 18区 - 34号 - 其他\n神意之地 - 穹顶皓天 - 11区 - 51号 - 个人\n神意之地 - 穹顶皓天 - 18区 - 8号 - 其他\n神意之地 - 穹顶皓天 - 20区 - 56号 - 其他\n神意之地 - 穹顶皓天 - 25区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 高脚孤丘 - 25区 - 13号 - 个人\n神意之地 - 高脚孤丘 - 28区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
+SUMMARY:L房抽选截止
+UID:5928edb8-99f4-4f7b-a6a4-6a772ccb2830@5928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 高脚孤丘 - 4区 - 12号 - 个人\n神意之地 - 高脚孤丘 - 25区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260106T150000Z
 SUMMARY:M房抽选截止
-UID:824db61b-1f3b-4c20-b7af-115837479253@824d.org
+UID:32334416-dfae-4303-a202-e4a9a7cdd407@3233.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 19区 - 6号 - 其他\n神意之地 - 白银乡 - 30区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:L房抽选截止
-UID:0b0e0bf3-964a-48cc-bd53-b78ee6584ea6@0b0e.org
+UID:c5263579-f925-406e-b1fb-c6a20fbc378c@c526.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 29区 - 4号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20251219T150000Z
-SUMMARY:M房抽选截止
-UID:9d510527-4f4d-48d0-8862-eb8823ee5e79@9d51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 25区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260106T150000Z
-SUMMARY:M房抽选截止
-UID:b0bcc1cc-c884-4cce-9bb8-12688f93252e@b0bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 24区 - 28号 - 部队\n神意之地 - 高脚孤丘 - 25区 - 13号 - 个人\n神意之地 - 高脚孤丘 - 28区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 海雾村 - 12区 - 7号 - 个人\n神意之地 - 海雾村 - 26区 - 34号 - 个人\n神意之地 - 薰衣草苗圃 - 29区 - 41号 - 其他\n神意之地 - 穹顶皓天 - 11区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
-SUMMARY:L房抽选截止
-UID:a1728bcb-03bb-42d6-93c2-679583a746a6@a172.org
+SUMMARY:M房抽选截止
+UID:89ef7be9-0347-469f-b4f2-32c529bacf8a@89ef.org
 END:VEVENT
 END:VCALENDAR
