@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 3区 - 7号 - 个人\n晨曦王座 - 海雾村 - 24区 - 7号 - 部队\n晨曦王座 - 海雾村 - 29区 - 14号 - 其他\n晨曦王座 - 薰衣草苗圃 - 20区 - 5号 - 其他\n晨曦王座 - 穹顶皓天 - 19区 - 48号 - 其他\n晨曦王座 - 穹顶皓天 - 21区 - 17号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:M房抽选截止
-UID:77778aa2-9147-4a6f-aacc-5745488196c5@7777.org
+UID:425f7bab-383a-4821-a16a-aee9e6962247@425f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 1区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:L房抽选截止
-UID:79c73f5c-08c6-4af1-a774-d250090d5186@79c7.org
+UID:282aa4b1-764b-4792-b9a1-a162003d519f@282a.org
 END:VEVENT
 END:VCALENDAR

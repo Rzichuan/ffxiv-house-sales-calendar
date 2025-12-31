@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 10区 - 30号 - 个人\n红玉海 - 高脚孤丘 - 4区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251228T150000Z
-SUMMARY:M房抽选截止
-UID:d56559e9-1090-43ff-ac5c-eb9e04edc44f@d565.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 26区 - 34号 - 个人\n红玉海 - 白银乡 - 3区 - 19号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 7区 - 1号 - 个人\n红玉海 - 高脚孤丘 - 26区 - 34号 - 个人\n红玉海 - 白银乡 - 3区 - 19号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:M房抽选截止
-UID:b866f14b-0c6a-4cce-ba7a-7e0429a348ad@b866.org
+UID:65c6ea38-2f84-4c6e-8dd2-6af88d691e4e@65c6.org
 END:VEVENT
 END:VCALENDAR
