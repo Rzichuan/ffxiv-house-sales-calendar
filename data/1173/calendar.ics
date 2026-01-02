@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 白银乡 - 7区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260115T150000Z
+SUMMARY:L房抽选截止
+UID:8faf5a97-e036-4032-bb30-92226219bcf9@8faf.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 22区 - 35号 - 部队\n宇宙和音 - 薰衣草苗圃 - 26区 - 51号 - 个人\n宇宙和音 - 高脚孤丘 - 25区 - 19号 - 个人\n宇宙和音 - 白银乡 - 4区 - 54号 - 个人\n宇宙和音 - 穹顶皓天 - 10区 - 8号 - 个人\n宇宙和音 - 穹顶皓天 - 12区 - 37号 - 个人\n宇宙和音 - 穹顶皓天 - 23区 - 32号 - 部队\n宇宙和音 - 穹顶皓天 - 26区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:M房抽选截止
-UID:f167f50a-e786-436d-a24b-b8e5b4e03e45@f167.org
+UID:3a07ccce-7df5-4a72-877d-09ab72e8b91f@3a07.org
 END:VEVENT
 END:VCALENDAR
