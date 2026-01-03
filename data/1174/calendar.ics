@@ -5,18 +5,30 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 7区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20251228T150000Z
 SUMMARY:M房抽选截止
-UID:c7b41cac-2877-4c18-ba09-8245d0a02c3e@c7b4.org
+UID:152a2778-71bb-4644-bd0d-0d91be74a74c@152a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 8区 - 3号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260115T150000Z
+SUMMARY:L房抽选截止
+UID:94413227-4123-4054-9a4b-3994951dd55e@9441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 9区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260115T150000Z
+SUMMARY:M房抽选截止
+UID:08d3f25c-254b-4830-b0de-7b18f4a96aaf@08d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 29区 - 45号 - 其他\n沃仙曦染 - 白银乡 - 24区 - 46号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:L房抽选截止
-UID:2ebfa385-9b3f-4f20-b78b-37f8fbc8f90c@2ebf.org
+UID:e446e53b-37dc-48a5-ac12-5030a05ad7ce@e446.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 3区 - 31号 - 个人\n沃仙曦染 - 高脚孤丘 - 4区 - 25号 - 个人\n沃仙曦染 - 白银乡 - 1区 - 49号 - 个人\n沃仙曦染 - 白银乡 - 15区 - 58号 - 个人\n沃仙曦染 - 白银乡 - 16区 - 15号 - 个人\n沃仙曦染 - 白银乡 - 26区 - 43号 - 个人\n沃仙曦染 - 白银乡 - 29区 - 19号 - 其他\n沃仙曦染 - 穹顶皓天 - 7区 - 56号 - 个人\n沃仙曦染 - 穹顶皓天 - 10区 - 47号 - 个人\n沃仙曦染 - 穹顶皓天 - 13区 - 21号 - 个人\n沃仙曦染 - 穹顶皓天 - 25区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:M房抽选截止
-UID:16dcbd65-bad0-43f0-82a0-a2e62b9e59f7@16dc.org
+UID:9cd6db91-99df-4c0b-a794-bd0749696c72@9cd6.org
 END:VEVENT
 END:VCALENDAR
