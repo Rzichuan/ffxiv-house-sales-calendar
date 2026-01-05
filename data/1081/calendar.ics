@@ -5,18 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 13区 - 28号 - 个人\n神意之地 - 薰衣草苗圃 - 19区 - 28号 - 其他\n神意之地 - 穹顶皓天 - 10区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260115T150000Z
 SUMMARY:L房抽选截止
-UID:f56aad72-6f4b-4a06-8bd5-c6ad7777b2ea@f56a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 19区 - 6号 - 其他\n神意之地 - 白银乡 - 30区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260106T150000Z
-SUMMARY:L房抽选截止
-UID:cc06537a-eccb-4518-abbf-5522526f2021@cc06.org
+UID:f8b5c089-f102-4c79-a5e9-e24e9a51155e@f8b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 28区 - 59号 - 其他\n神意之地 - 海雾村 - 30区 - 1号 - 部队\n神意之地 - 高脚孤丘 - 4区 - 12号 - 个人\n神意之地 - 高脚孤丘 - 25区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
 SUMMARY:M房抽选截止
-UID:508843a7-dd1f-42f8-b182-a18bbda1eb56@5088.org
+UID:0cc845fc-4945-46ef-a84f-2548bbabe6e7@0cc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 19区 - 6号 - 其他\n神意之地 - 白银乡 - 30区 - 16号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260106T150000Z
+SUMMARY:L房抽选截止
+UID:1fc02ad9-21cd-4ff6-8bf3-84d381136df7@1fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 白银乡 - 4区 - 58号 - 个人\n神意之地 - 穹顶皓天 - 11区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260115T150000Z
+SUMMARY:M房抽选截止
+UID:89fc88cb-e65e-48c6-8312-74096a371f74@89fc.org
 END:VEVENT
 END:VCALENDAR
