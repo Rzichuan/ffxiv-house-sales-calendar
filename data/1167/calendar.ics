@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 10区 - 1号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 7号 - 其他\n红玉海 - 穹顶皓天 - 26区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 10区 - 1号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 7号 - 其他\n红玉海 - 穹顶皓天 - 26区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260115T150000Z
 SUMMARY:M房抽选截止
-UID:f8480a6e-7409-4257-8f3d-f2a8f63221de@f848.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 8区 - 60号 - 个人\n红玉海 - 薰衣草苗圃 - 7区 - 1号 - 个人\n红玉海 - 高脚孤丘 - 26区 - 34号 - 个人\n红玉海 - 白银乡 - 3区 - 19号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260106T150000Z
-SUMMARY:M房抽选截止
-UID:bb40a182-7d0d-469a-9850-9b75fbfa1a31@bb40.org
+UID:ee2ba254-9540-4355-b5a3-5e4e280e0d58@ee2b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 白银乡 - 7区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260115T150000Z
 SUMMARY:L房抽选截止
-UID:a262d32b-aeaf-41b9-ba5e-92c8b46beec2@a262.org
+UID:698930c4-9f77-48ee-98e8-5aedb19ed0b3@6989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 8区 - 60号 - 个人\n红玉海 - 薰衣草苗圃 - 7区 - 1号 - 个人\n红玉海 - 高脚孤丘 - 26区 - 34号 - 个人\n红玉海 - 白银乡 - 3区 - 19号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260106T150000Z
+SUMMARY:M房抽选截止
+UID:41fc685c-d6f9-4527-b19e-aa6d58c3e167@41fc.org
 END:VEVENT
 END:VCALENDAR
