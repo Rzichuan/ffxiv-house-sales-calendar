@@ -2,33 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 白银乡 - 7区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20251228T150000Z
-SUMMARY:M房抽选截止
-UID:ea403b3e-6b29-470a-b992-e7b0ea1a700f@ea40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 9区 - 7号 - 个人\n沃仙曦染 - 海雾村 - 13区 - 1号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 30区 - 46号 - 部队\n沃仙曦染 - 高脚孤丘 - 9区 - 55号 - 个人\n沃仙曦染 - 白银乡 - 7区 - 24号 - 个人\n沃仙曦染 - 穹顶皓天 - 7区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260115T150000Z
-SUMMARY:M房抽选截止
-UID:6229df57-8579-4f54-9b09-b8b23151d2eb@6229.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 29区 - 45号 - 其他\n沃仙曦染 - 白银乡 - 24区 - 46号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 3区 - 31号 - 个人\n沃仙曦染 - 白银乡 - 15区 - 58号 - 个人\n沃仙曦染 - 穹顶皓天 - 25区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260106T150000Z
-SUMMARY:L房抽选截止
-UID:c662cce8-b560-4d70-ab44-8959937e106f@c662.org
+SUMMARY:M房抽选截止
+UID:567daf05-cf15-4f3b-b30c-45861b33249f@567d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 20区 - 15号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 8区 - 3号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260115T150000Z
 SUMMARY:L房抽选截止
-UID:275fe11f-d8b5-4713-88bf-cd0adc4f5622@275f.org
+UID:6cc5cd0a-330b-43d9-b373-7b693359a5ac@6cc5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 3区 - 31号 - 个人\n沃仙曦染 - 高脚孤丘 - 4区 - 25号 - 个人\n沃仙曦染 - 白银乡 - 1区 - 49号 - 个人\n沃仙曦染 - 白银乡 - 15区 - 58号 - 个人\n沃仙曦染 - 白银乡 - 16区 - 15号 - 个人\n沃仙曦染 - 白银乡 - 26区 - 43号 - 个人\n沃仙曦染 - 白银乡 - 29区 - 19号 - 其他\n沃仙曦染 - 穹顶皓天 - 7区 - 56号 - 个人\n沃仙曦染 - 穹顶皓天 - 10区 - 47号 - 个人\n沃仙曦染 - 穹顶皓天 - 13区 - 21号 - 个人\n沃仙曦染 - 穹顶皓天 - 25区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260106T150000Z
+DESCRIPTION:沃仙曦染 - 海雾村 - 9区 - 7号 - 个人\n沃仙曦染 - 海雾村 - 13区 - 1号 - 个人\n沃仙曦染 - 海雾村 - 22区 - 44号 - 部队\n沃仙曦染 - 薰衣草苗圃 - 22区 - 30号 - 部队\n沃仙曦染 - 薰衣草苗圃 - 30区 - 46号 - 部队\n沃仙曦染 - 高脚孤丘 - 3区 - 12号 - 个人\n沃仙曦染 - 高脚孤丘 - 9区 - 55号 - 个人\n沃仙曦染 - 白银乡 - 7区 - 24号 - 个人\n沃仙曦染 - 穹顶皓天 - 7区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260115T150000Z
 SUMMARY:M房抽选截止
-UID:1c2f1824-e05b-4fdc-948b-8f8978f241a1@1c2f.org
+UID:951a3e0b-3d92-4148-a17c-dd2d21571380@951a.org
 END:VEVENT
 END:VCALENDAR
