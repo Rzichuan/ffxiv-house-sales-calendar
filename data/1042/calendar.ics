@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 24区 - 42号 - 部队\n拉诺西亚 - 白银乡 - 3区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 7区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 30区 - 58号 - 部队\n拉诺西亚 - 穹顶皓天 - 3区 - 38号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 24区 - 7号 - 部队\n拉诺西亚 - 海雾村 - 25区 - 36号 - 个人\n拉诺西亚 - 高脚孤丘 - 18区 - 12号 - 其他\n拉诺西亚 - 高脚孤丘 - 24区 - 42号 - 部队\n拉诺西亚 - 白银乡 - 3区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 7区 - 8号 - 个人\n拉诺西亚 - 白银乡 - 30区 - 58号 - 部队\n拉诺西亚 - 穹顶皓天 - 3区 - 38号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260115T150000Z
 SUMMARY:M房抽选截止
-UID:07f56340-9bfc-423a-9ec0-690441f625c4@07f5.org
+UID:7f871a16-7dea-4e6b-850a-be50f53e8e0b@7f87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 2区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260115T150000Z
+SUMMARY:L房抽选截止
+UID:0305ef4c-cffd-4291-a55d-8fcf91008414@0305.org
 END:VEVENT
 END:VCALENDAR
