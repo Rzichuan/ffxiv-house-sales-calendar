@@ -46,15 +46,6 @@
     },
     {
         "Area": 2,
-        "ID": 34,
-        "Slot": 8,
-        "RegionType": 2,
-        "Size": 1,
-        "Server": 1175,
-        "Purchase_endtime": 1768489200
-    },
-    {
-        "Area": 2,
         "ID": 6,
         "Slot": 24,
         "RegionType": 2,

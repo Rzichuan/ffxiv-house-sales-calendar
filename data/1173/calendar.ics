@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 23区 - 35号 - 部队\n宇宙和音 - 高脚孤丘 - 5区 - 38号 - 个人\n宇宙和音 - 高脚孤丘 - 7区 - 25号 - 个人\n宇宙和音 - 穹顶皓天 - 25区 - 32号 - 个人\n宇宙和音 - 穹顶皓天 - 29区 - 2号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260124T150000Z
-SUMMARY:M房抽选截止
-UID:6e363386-8cd8-4e78-9bfa-9108984598e2@6e36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 27区 - 12号 - 个人\n宇宙和音 - 白银乡 - 5区 - 1号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 27区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260115T150000Z
 SUMMARY:M房抽选截止
-UID:0f9988bd-f8f2-41e8-9f49-03d879ced930@0f99.org
+UID:d72e3534-1c85-42d1-a5b5-70348e8192c3@d72e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 13区 - 45号 - 个人\n宇宙和音 - 白银乡 - 9区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260124T150000Z
 SUMMARY:L房抽选截止
-UID:a7b3b5ea-04a1-475a-b8dc-816a34a6524d@a7b3.org
+UID:e103ee45-2bc2-4d1f-9efe-0da406704f84@e103.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 23区 - 35号 - 部队\n宇宙和音 - 高脚孤丘 - 5区 - 38号 - 个人\n宇宙和音 - 高脚孤丘 - 7区 - 25号 - 个人\n宇宙和音 - 穹顶皓天 - 25区 - 32号 - 个人\n宇宙和音 - 穹顶皓天 - 29区 - 2号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260124T150000Z
+SUMMARY:M房抽选截止
+UID:f6c71fed-b19e-4900-bf52-82e3fbdc431f@f6c7.org
 END:VEVENT
 END:VCALENDAR

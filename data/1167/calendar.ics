@@ -5,24 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 白银乡 - 1区 - 28号 - 个人\n红玉海 - 穹顶皓天 - 20区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260115T150000Z
 SUMMARY:M房抽选截止
-UID:b84346ee-38f9-4558-a75b-3be3ebda813e@b843.org
+UID:b7a91c39-6e67-46f8-96bb-2ef06ac400d9@b7a9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 8区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260106T150000Z
-SUMMARY:M房抽选截止
-UID:611dbb62-65bb-4898-8f44-3b0b05e2f065@611d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 23区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 28区 - 45号 - 其他\n红玉海 - 薰衣草苗圃 - 23区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260124T150000Z
 SUMMARY:L房抽选截止
-UID:85fbc923-4813-4639-bc5d-7cfca2256fbd@85fb.org
+UID:00e9bc0f-b71f-46cf-892a-356efcb4b2ac@00e9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 51号 - 部队\n红玉海 - 高脚孤丘 - 3区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 7区 - 12号 - 个人\n红玉海 - 白银乡 - 14区 - 43号 - 个人\n红玉海 - 白银乡 - 26区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 21区 - 44号 - 部队\n红玉海 - 薰衣草苗圃 - 5区 - 35号 - 个人\n红玉海 - 薰衣草苗圃 - 21区 - 51号 - 部队\n红玉海 - 高脚孤丘 - 3区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 7区 - 12号 - 个人\n红玉海 - 白银乡 - 14区 - 43号 - 个人\n红玉海 - 白银乡 - 26区 - 58号 - 个人\n红玉海 - 穹顶皓天 - 27区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260124T150000Z
 SUMMARY:M房抽选截止
-UID:7f0189c3-ef40-429f-987a-7acfeccf1f62@7f01.org
+UID:7c7aa271-7c4f-4d9d-8644-8695452857ea@7c7a.org
 END:VEVENT
 END:VCALENDAR
