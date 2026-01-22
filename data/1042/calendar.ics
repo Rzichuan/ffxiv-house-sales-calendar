@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 1区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260124T150000Z
-SUMMARY:L房抽选截止
-UID:4e1e5048-fbe8-4de8-83e6-b26ce317fc6e@4e1e.org
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 4区 - 30号 - 个人\n拉诺西亚 - 高脚孤丘 - 12区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260202T150000Z
+SUMMARY:M房抽选截止
+UID:47f99ecd-0508-43d3-907b-9f378fe9cc46@47f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 30区 - 12号 - 部队\n拉诺西亚 - 白银乡 - 4区 - 13号 - 个人\n拉诺西亚 - 白银乡 - 9区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260124T150000Z
 SUMMARY:M房抽选截止
-UID:547a5dfd-ed32-4d8f-a304-9d0caf9781ff@547a.org
+UID:f79c6793-3004-441a-82c7-a6c3ace4ddab@f79c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 白银乡 - 1区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260124T150000Z
+SUMMARY:L房抽选截止
+UID:a8c36daa-015d-4f2e-8dd4-0d247898e394@a8c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 白银乡 - 25区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260202T150000Z
 SUMMARY:L房抽选截止
-UID:03c301dd-a598-4bf1-bdae-2cf229b4d03f@03c3.org
+UID:6a5637a8-d7cf-4152-aafd-963e78981085@6a56.org
 END:VEVENT
 END:VCALENDAR
