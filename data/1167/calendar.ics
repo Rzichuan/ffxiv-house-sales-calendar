@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 11区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 海雾村 - 25区 - 60号 - 个人\n红玉海 - 高脚孤丘 - 11区 - 6号 - 个人\n红玉海 - 白银乡 - 13区 - 49号 - 个人\n红玉海 - 白银乡 - 21区 - 31号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:M房抽选截止
-UID:5c51eb8c-f35c-434d-ad2d-f5b294677859@5c51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 16区 - 3号 - 个人\n红玉海 - 薰衣草苗圃 - 25区 - 3号 - 个人\n红玉海 - 白银乡 - 8区 - 37号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 22号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 22号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260202T150000Z
-SUMMARY:L房抽选截止
-UID:94e639d6-b917-4a5e-85fd-0380aa8ae754@94e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 白银乡 - 1区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260115T150000Z
-SUMMARY:M房抽选截止
-UID:2df52a98-5991-4298-a378-16344b455e74@2df5.org
+UID:ce9a9f44-cc00-4562-9002-82d5a7590f04@ce9a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 2区 - 37号 - 个人\n红玉海 - 海雾村 - 21区 - 14号 - 部队\n红玉海 - 海雾村 - 26区 - 6号 - 个人\n红玉海 - 薰衣草苗圃 - 7区 - 60号 - 个人\n红玉海 - 薰衣草苗圃 - 18区 - 27号 - 其他\n红玉海 - 高脚孤丘 - 16区 - 55号 - 个人\n红玉海 - 高脚孤丘 - 27区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 28区 - 41号 - 其他\n红玉海 - 白银乡 - 13区 - 58号 - 个人\n红玉海 - 白银乡 - 20区 - 1号 - 其他\n红玉海 - 白银乡 - 28区 - 31号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260202T150000Z
 SUMMARY:M房抽选截止
-UID:6eb4e9a6-a18a-493f-b53d-a288c9a12ef6@6eb4.org
+UID:3a623d01-b0cb-4649-8eee-9000f65d8ff0@3a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 白银乡 - 1区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260115T150000Z
+SUMMARY:M房抽选截止
+UID:63aac5ae-2a40-4a73-84ee-f240150dbe7b@63aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 16区 - 3号 - 个人\n红玉海 - 薰衣草苗圃 - 25区 - 3号 - 个人\n红玉海 - 白银乡 - 8区 - 37号 - 个人\n红玉海 - 穹顶皓天 - 1区 - 22号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 22号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260202T150000Z
+SUMMARY:L房抽选截止
+UID:84bb3f2c-1894-4284-9f28-c12bc1378770@84bb.org
 END:VEVENT
 END:VCALENDAR
