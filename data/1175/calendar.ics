@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 海雾村 - 25区 - 6号 - 个人\n晨曦王座 - 海雾村 - 27区 - 29号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 46号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 16号 - 其他\n晨曦王座 - 白银乡 - 14区 - 8号 - 个人\n晨曦王座 - 白银乡 - 17区 - 28号 - 其他\n晨曦王座 - 白银乡 - 21区 - 19号 - 部队\n晨曦王座 - 白银乡 - 22区 - 1号 - 部队\n晨曦王座 - 白银乡 - 28区 - 43号 - 其他\n晨曦王座 - 穹顶皓天 - 14区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260202T150000Z
-SUMMARY:M房抽选截止
-UID:43f7107f-2c75-4602-bbd4-608ed9afd6e6@43f7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 9区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:L房抽选截止
-UID:61e0a665-5c0c-48d1-9877-79db84d06ee9@61e0.org
+UID:02f24a31-d694-495b-8d93-3287e1162df6@02f2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 22区 - 21号 - 部队\n晨曦王座 - 薰衣草苗圃 - 29区 - 60号 - 其他\n晨曦王座 - 高脚孤丘 - 8区 - 34号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 22区 - 21号 - 部队\n晨曦王座 - 薰衣草苗圃 - 29区 - 60号 - 其他\n晨曦王座 - 高脚孤丘 - 8区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 20区 - 36号 - 其他\n晨曦王座 - 穹顶皓天 - 7区 - 17号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:M房抽选截止
-UID:f4395286-452c-4070-8d72-582e57364ec6@f439.org
+UID:2dbe1597-873a-4859-885f-607fa0da4dc7@2dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 海雾村 - 25区 - 6号 - 个人\n晨曦王座 - 海雾村 - 27区 - 29号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 46号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 16号 - 其他\n晨曦王座 - 白银乡 - 14区 - 8号 - 个人\n晨曦王座 - 白银乡 - 17区 - 28号 - 其他\n晨曦王座 - 白银乡 - 21区 - 19号 - 部队\n晨曦王座 - 白银乡 - 22区 - 1号 - 部队\n晨曦王座 - 白银乡 - 28区 - 43号 - 其他\n晨曦王座 - 穹顶皓天 - 14区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260202T150000Z
+SUMMARY:M房抽选截止
+UID:b1938b6e-93a9-4540-b41c-5a7c12c32004@b193.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 8区 - 30号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260202T150000Z
 SUMMARY:L房抽选截止
-UID:f5af1050-7bd9-4b19-960f-c9b2ccff6f5c@f5af.org
+UID:9f477985-8769-41d9-9012-35515c2e62d6@9f47.org
 END:VEVENT
 END:VCALENDAR
