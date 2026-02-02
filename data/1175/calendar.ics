@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 9区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260211T150000Z
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 8区 - 30号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260202T150000Z
 SUMMARY:L房抽选截止
-UID:02f24a31-d694-495b-8d93-3287e1162df6@02f2.org
+UID:a5d637e6-5aae-4aef-97fc-93fd51de8d22@a5d6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 22区 - 21号 - 部队\n晨曦王座 - 薰衣草苗圃 - 29区 - 60号 - 其他\n晨曦王座 - 高脚孤丘 - 8区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 20区 - 36号 - 其他\n晨曦王座 - 穹顶皓天 - 7区 - 17号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 22区 - 21号 - 部队\n晨曦王座 - 薰衣草苗圃 - 29区 - 60号 - 其他\n晨曦王座 - 高脚孤丘 - 8区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 20区 - 36号 - 其他\n晨曦王座 - 高脚孤丘 - 26区 - 12号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 51号 - 个人\n晨曦王座 - 穹顶皓天 - 7区 - 17号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:M房抽选截止
-UID:2dbe1597-873a-4859-885f-607fa0da4dc7@2dbe.org
+UID:350e44c6-de56-47b8-9134-9e788a86b07e@350e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 19区 - 7号 - 其他\n晨曦王座 - 海雾村 - 25区 - 6号 - 个人\n晨曦王座 - 海雾村 - 27区 - 29号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 46号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 16号 - 其他\n晨曦王座 - 白银乡 - 14区 - 8号 - 个人\n晨曦王座 - 白银乡 - 17区 - 28号 - 其他\n晨曦王座 - 白银乡 - 21区 - 19号 - 部队\n晨曦王座 - 白银乡 - 22区 - 1号 - 部队\n晨曦王座 - 白银乡 - 28区 - 43号 - 其他\n晨曦王座 - 穹顶皓天 - 14区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260202T150000Z
 SUMMARY:M房抽选截止
-UID:b1938b6e-93a9-4540-b41c-5a7c12c32004@b193.org
+UID:7a6218b3-eb0f-4c98-adcb-1926a160c6d3@7a62.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 8区 - 30号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260202T150000Z
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 9区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260211T150000Z
 SUMMARY:L房抽选截止
-UID:9f477985-8769-41d9-9012-35515c2e62d6@9f47.org
+UID:12a8ab10-2346-4544-83ac-3c665e7c509b@12a8.org
 END:VEVENT
 END:VCALENDAR
