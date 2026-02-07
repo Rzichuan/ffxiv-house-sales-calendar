@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 9区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 15区 - 4号 - 个人\n晨曦王座 - 薰衣草苗圃 - 2区 - 30号 - 个人\n晨曦王座 - 薰衣草苗圃 - 22区 - 21号 - 部队\n晨曦王座 - 薰衣草苗圃 - 27区 - 5号 - 个人\n晨曦王座 - 薰衣草苗圃 - 27区 - 57号 - 个人\n晨曦王座 - 薰衣草苗圃 - 29区 - 60号 - 其他\n晨曦王座 - 高脚孤丘 - 8区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 20区 - 36号 - 其他\n晨曦王座 - 高脚孤丘 - 26区 - 12号 - 个人\n晨曦王座 - 白银乡 - 14区 - 15号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 51号 - 个人\n晨曦王座 - 穹顶皓天 - 7区 - 17号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 47号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 37号 - 其他\n晨曦王座 - 穹顶皓天 - 21区 - 48号 - 部队\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
-SUMMARY:L房抽选截止
-UID:5d883e7a-22b5-4ca6-9853-8028e135545b@5d88.org
+SUMMARY:M房抽选截止
+UID:2a40a26c-143f-409f-9ee9-4b0611f0cba8@2a40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 10区 - 16号 - 个人\n晨曦王座 - 薰衣草苗圃 - 21区 - 57号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260220T150000Z
+SUMMARY:M房抽选截止
+UID:6d38e4ba-ff45-4607-ab03-115e5dd8ac38@6d38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 21区 - 19号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260202T150000Z
 SUMMARY:M房抽选截止
-UID:37ddd719-76a0-459e-8a19-c9cfdc468103@37dd.org
+UID:db54c166-8f1e-4b9b-ae95-035c0744d150@db54.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 15区 - 4号 - 个人\n晨曦王座 - 薰衣草苗圃 - 2区 - 30号 - 个人\n晨曦王座 - 薰衣草苗圃 - 22区 - 21号 - 部队\n晨曦王座 - 薰衣草苗圃 - 27区 - 5号 - 个人\n晨曦王座 - 薰衣草苗圃 - 29区 - 60号 - 其他\n晨曦王座 - 高脚孤丘 - 8区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 20区 - 36号 - 其他\n晨曦王座 - 高脚孤丘 - 26区 - 12号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 51号 - 个人\n晨曦王座 - 穹顶皓天 - 7区 - 17号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 47号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 37号 - 其他\n晨曦王座 - 穹顶皓天 - 21区 - 48号 - 部队\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 9区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 5区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
-SUMMARY:M房抽选截止
-UID:dadfec14-521f-4d4a-bf4e-934fd3e1caae@dadf.org
+SUMMARY:L房抽选截止
+UID:bb50c2d4-75f8-431c-a9a7-b7cf12afc0f9@bb50.org
 END:VEVENT
 END:VCALENDAR
