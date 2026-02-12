@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 18区 - 6号 - 其他\n宇宙和音 - 薰衣草苗圃 - 5区 - 16号 - 个人\n宇宙和音 - 高脚孤丘 - 1区 - 8号 - 个人\n宇宙和音 - 穹顶皓天 - 16区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260220T150000Z
+SUMMARY:M房抽选截止
+UID:9c87b480-aa5f-4ad0-8e08-7273c7c23c05@9c87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 9区 - 59号 - 个人\n宇宙和音 - 薰衣草苗圃 - 20区 - 57号 - 其他\n宇宙和音 - 白银乡 - 1区 - 54号 - 个人\n宇宙和音 - 白银乡 - 8区 - 19号 - 个人\n宇宙和音 - 白银乡 - 11区 - 1号 - 个人\n宇宙和音 - 穹顶皓天 - 2区 - 21号 - 个人\n宇宙和音 - 穹顶皓天 - 10区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260211T150000Z
+SUMMARY:M房抽选截止
+UID:3ade603b-6d7e-4548-ad13-6639d44c94e4@3ade.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 白银乡 - 12区 - 30号 - 个人\n宇宙和音 - 穹顶皓天 - 27区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260220T150000Z
 SUMMARY:L房抽选截止
-UID:205cffb0-215c-44e1-a717-6c8b1a961a7f@205c.org
+UID:3c567671-61fd-499a-9561-d2032c15cb37@3c56.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 9区 - 59号 - 个人\n宇宙和音 - 薰衣草苗圃 - 20区 - 57号 - 其他\n宇宙和音 - 薰衣草苗圃 - 27区 - 16号 - 个人\n宇宙和音 - 薰衣草苗圃 - 27区 - 31号 - 个人\n宇宙和音 - 薰衣草苗圃 - 29区 - 1号 - 其他\n宇宙和音 - 高脚孤丘 - 1区 - 38号 - 个人\n宇宙和音 - 高脚孤丘 - 11区 - 6号 - 个人\n宇宙和音 - 白银乡 - 1区 - 54号 - 个人\n宇宙和音 - 白银乡 - 8区 - 19号 - 个人\n宇宙和音 - 白银乡 - 8区 - 54号 - 个人\n宇宙和音 - 白银乡 - 11区 - 1号 - 个人\n宇宙和音 - 白银乡 - 11区 - 13号 - 个人\n宇宙和音 - 白银乡 - 16区 - 28号 - 个人\n宇宙和音 - 穹顶皓天 - 1区 - 7号 - 个人\n宇宙和音 - 穹顶皓天 - 2区 - 21号 - 个人\n宇宙和音 - 穹顶皓天 - 10区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260211T150000Z
-SUMMARY:M房抽选截止
-UID:aea2eb17-af0d-428d-bf97-ffe6ed19dc31@aea2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 8区 - 33号 - 个人\n宇宙和音 - 白银乡 - 27区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 8区 - 33号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:L房抽选截止
-UID:cfdb70b3-e3e9-4309-8c78-8b907763bbc9@cfdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 18区 - 6号 - 其他\n宇宙和音 - 薰衣草苗圃 - 5区 - 16号 - 个人\n宇宙和音 - 高脚孤丘 - 1区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260220T150000Z
-SUMMARY:M房抽选截止
-UID:f140d2c6-2e36-4bb8-88ec-afe3b076a8a7@f140.org
+UID:20d7f5ef-2090-44c0-8193-dbaf6e26338b@20d7.org
 END:VEVENT
 END:VCALENDAR
