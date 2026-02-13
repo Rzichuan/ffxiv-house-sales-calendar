@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 28区 - 52号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260211T150000Z
-SUMMARY:L房抽选截止
-UID:b9c87b4a-2922-4d66-ad63-a2f942f02d0a@b9c8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 8区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260220T150000Z
 SUMMARY:L房抽选截止
-UID:e5dac23c-ae09-4827-8c02-d4eeac07277b@e5da.org
+UID:ea3a2438-d11d-4d5d-8675-056523c6bc72@ea3a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 14区 - 59号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 海雾村 - 26区 - 37号 - 个人\n红玉海 - 薰衣草苗圃 - 2区 - 30号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 35号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 高脚孤丘 - 26区 - 38号 - 个人\n红玉海 - 白银乡 - 21区 - 43号 - 部队\n红玉海 - 穹顶皓天 - 4区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 14区 - 59号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 海雾村 - 26区 - 37号 - 个人\n红玉海 - 薰衣草苗圃 - 2区 - 30号 - 个人\n红玉海 - 薰衣草苗圃 - 11区 - 35号 - 个人\n红玉海 - 高脚孤丘 - 26区 - 38号 - 个人\n红玉海 - 白银乡 - 21区 - 43号 - 部队\n红玉海 - 穹顶皓天 - 4区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:M房抽选截止
-UID:04818463-7dc1-4bb0-bdd1-6937d7507435@0481.org
+UID:fe94d1c4-3c59-4e35-85d4-fff8da564607@fe94.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 4区 - 29号 - 个人\n红玉海 - 海雾村 - 22区 - 31号 - 部队\n红玉海 - 薰衣草苗圃 - 14区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 14区 - 51号 - 个人\n红玉海 - 高脚孤丘 - 25区 - 41号 - 个人\n红玉海 - 白银乡 - 2区 - 31号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 18号 - 个人\n红玉海 - 穹顶皓天 - 13区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 4区 - 29号 - 个人\n红玉海 - 海雾村 - 22区 - 31号 - 部队\n红玉海 - 薰衣草苗圃 - 11区 - 60号 - 个人\n红玉海 - 薰衣草苗圃 - 14区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 14区 - 51号 - 个人\n红玉海 - 高脚孤丘 - 25区 - 41号 - 个人\n红玉海 - 白银乡 - 2区 - 31号 - 个人\n红玉海 - 白银乡 - 5区 - 43号 - 个人\n红玉海 - 白银乡 - 10区 - 45号 - 个人\n红玉海 - 穹顶皓天 - 6区 - 18号 - 个人\n红玉海 - 穹顶皓天 - 13区 - 38号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260220T150000Z
 SUMMARY:M房抽选截止
-UID:75fa569d-bb84-4b8c-9aec-1e0417e40f4f@75fa.org
+UID:5f7f8cbd-38b8-4227-86d0-8acebe944b50@5f7f.org
 END:VEVENT
 END:VCALENDAR
