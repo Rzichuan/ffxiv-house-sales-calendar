@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 10区 - 16号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 57号 - 个人\n晨曦王座 - 薰衣草苗圃 - 21区 - 57号 - 部队\n晨曦王座 - 白银乡 - 1区 - 54号 - 个人\n晨曦王座 - 白银乡 - 13区 - 1号 - 个人\n晨曦王座 - 白银乡 - 27区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260220T150000Z
-SUMMARY:M房抽选截止
-UID:40b90317-1cd4-404f-a8f0-b96a59b156aa@40b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 穹顶皓天 - 5区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260211T150000Z
-SUMMARY:L房抽选截止
-UID:52fd6aa1-20f6-4e99-a263-a1c42f03ddf3@52fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 6号 - 个人\n晨曦王座 - 穹顶皓天 - 8区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 6号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 6号 - 个人\n晨曦王座 - 白银乡 - 13区 - 16号 - 个人\n晨曦王座 - 穹顶皓天 - 8区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260220T150000Z
 SUMMARY:L房抽选截止
-UID:87cbd604-68c7-44df-a0fd-bc3de5bae887@87cb.org
+UID:27ae1efe-6a12-42c1-9738-597164a54a89@27ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 29区 - 60号 - 其他\n晨曦王座 - 白银乡 - 14区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 10区 - 16号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 57号 - 个人\n晨曦王座 - 薰衣草苗圃 - 21区 - 57号 - 部队\n晨曦王座 - 白银乡 - 1区 - 54号 - 个人\n晨曦王座 - 白银乡 - 2区 - 49号 - 个人\n晨曦王座 - 白银乡 - 13区 - 1号 - 个人\n晨曦王座 - 白银乡 - 27区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260220T150000Z
+SUMMARY:M房抽选截止
+UID:3704c3da-2dcf-490e-bef7-f7fdf9598f62@3704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 14区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:M房抽选截止
-UID:b87f49d6-d059-49ff-9df7-71b1e4ff59a6@b87f.org
+UID:97aefd26-a8c2-4f2e-8be7-110de43b398a@97ae.org
 END:VEVENT
 END:VCALENDAR
