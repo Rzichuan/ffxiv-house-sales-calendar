@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 6号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 6号 - 个人\n晨曦王座 - 白银乡 - 13区 - 16号 - 个人\n晨曦王座 - 穹顶皓天 - 8区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260220T150000Z
-SUMMARY:L房抽选截止
-UID:80330e31-c365-48a1-81eb-7958ab30cfbd@8033.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 20区 - 34号 - 其他\n晨曦王座 - 海雾村 - 30区 - 14号 - 部队\n晨曦王座 - 薰衣草苗圃 - 15区 - 21号 - 个人\n晨曦王座 - 薰衣草苗圃 - 29区 - 30号 - 其他\n晨曦王座 - 高脚孤丘 - 15区 - 41号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260301T150000Z
-SUMMARY:M房抽选截止
-UID:0a0b0d3e-9509-4dbc-947c-30e0cbc4d5d8@0a0b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 26区 - 1号 - 个人\n晨曦王座 - 海雾村 - 26区 - 37号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 16号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 57号 - 个人\n晨曦王座 - 薰衣草苗圃 - 21区 - 57号 - 部队\n晨曦王座 - 白银乡 - 1区 - 54号 - 个人\n晨曦王座 - 白银乡 - 2区 - 49号 - 个人\n晨曦王座 - 白银乡 - 3区 - 13号 - 个人\n晨曦王座 - 白银乡 - 13区 - 1号 - 个人\n晨曦王座 - 白银乡 - 27区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260220T150000Z
 SUMMARY:M房抽选截止
-UID:a653692b-7903-4f28-a839-c52df688f98f@a653.org
+UID:b45d0e6b-9db9-42e9-bf79-621768095b27@b45d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 14区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260211T150000Z
 SUMMARY:M房抽选截止
-UID:16520826-490f-4e17-b7a0-5d74d2851f10@1652.org
+UID:9513d256-7f01-4474-ab23-6ea432b5c9a3@9513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 5区 - 6号 - 个人\n晨曦王座 - 薰衣草苗圃 - 14区 - 6号 - 个人\n晨曦王座 - 白银乡 - 13区 - 16号 - 个人\n晨曦王座 - 穹顶皓天 - 8区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260220T150000Z
+SUMMARY:L房抽选截止
+UID:f7eb7908-1ded-4fae-8da2-9db7a43d3315@f7eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 20区 - 34号 - 其他\n晨曦王座 - 海雾村 - 30区 - 14号 - 部队\n晨曦王座 - 薰衣草苗圃 - 15区 - 21号 - 个人\n晨曦王座 - 薰衣草苗圃 - 29区 - 30号 - 其他\n晨曦王座 - 高脚孤丘 - 15区 - 41号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260301T150000Z
+SUMMARY:M房抽选截止
+UID:bd33d450-cf0e-446b-abc1-bb36678d8114@bd33.org
 END:VEVENT
 END:VCALENDAR
