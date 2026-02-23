@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 13区 - 4号 - 个人\n神意之地 - 薰衣草苗圃 - 23区 - 11号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260220T150000Z
-SUMMARY:M房抽选截止
-UID:39a1d2a2-afe4-4f6d-ac46-30fa9f27ba46@39a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 穹顶皓天 - 8区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260220T150000Z
-SUMMARY:L房抽选截止
-UID:4d435997-c16e-45d8-97fb-b3319fb80d32@4d43.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 11区 - 1号 - 个人\n神意之地 - 薰衣草苗圃 - 21区 - 35号 - 部队\n神意之地 - 薰衣草苗圃 - 23区 - 21号 - 部队\n神意之地 - 高脚孤丘 - 3区 - 4号 - 个人\n神意之地 - 高脚孤丘 - 18区 - 6号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260301T150000Z
 SUMMARY:M房抽选截止
-UID:08385271-ff9f-4378-aec6-4c2e99cb19f4@0838.org
+UID:acd7d5f2-0281-413f-9e3c-e2e54b8da9d7@acd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 13区 - 4号 - 个人\n神意之地 - 薰衣草苗圃 - 23区 - 11号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260220T150000Z
+SUMMARY:M房抽选截止
+UID:7a25bbff-d841-4da6-82e1-11a677a0e7a9@7a25.org
 END:VEVENT
 END:VCALENDAR
