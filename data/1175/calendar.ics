@@ -2,39 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 27区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260220T150000Z
-SUMMARY:M房抽选截止
-UID:e1dcc1b6-ad55-4a6f-b6a1-e5756c97443e@e1dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 12区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260310T150000Z
-SUMMARY:M房抽选截止
-UID:95339dd5-ec7a-4815-bc10-7a15e41a8917@9533.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 14区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260211T150000Z
-SUMMARY:M房抽选截止
-UID:50f7428c-2eae-411e-86da-fcfeb9145f0b@50f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 22区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 20区 - 34号 - 其他\n晨曦王座 - 海雾村 - 30区 - 14号 - 部队\n晨曦王座 - 薰衣草苗圃 - 29区 - 30号 - 其他\n晨曦王座 - 高脚孤丘 - 10区 - 11号 - 个人\n晨曦王座 - 白银乡 - 15区 - 1号 - 个人\n晨曦王座 - 穹顶皓天 - 9区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260301T150000Z
-SUMMARY:L房抽选截止
-UID:b2230f76-f2fd-4527-9857-0616b4b74808@b223.org
+SUMMARY:M房抽选截止
+UID:3187592f-b017-41c0-aef3-84a0d3420bdf@3187.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 45号 - 个人\n晨曦王座 - 海雾村 - 29区 - 32号 - 其他\n晨曦王座 - 穹顶皓天 - 25区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260310T150000Z
 SUMMARY:L房抽选截止
-UID:1c17e125-2c15-4cd1-8216-3a9560169c6b@1c17.org
+UID:1687286f-69fb-4209-9c3e-93feb650ce0c@1687.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 14区 - 37号 - 个人\n晨曦王座 - 海雾村 - 20区 - 34号 - 其他\n晨曦王座 - 海雾村 - 23区 - 31号 - 部队\n晨曦王座 - 海雾村 - 30区 - 14号 - 部队\n晨曦王座 - 薰衣草苗圃 - 15区 - 21号 - 个人\n晨曦王座 - 薰衣草苗圃 - 29区 - 30号 - 其他\n晨曦王座 - 高脚孤丘 - 1区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 12号 - 个人\n晨曦王座 - 高脚孤丘 - 15区 - 41号 - 个人\n晨曦王座 - 白银乡 - 15区 - 1号 - 个人\n晨曦王座 - 穹顶皓天 - 9区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 38号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260301T150000Z
+DESCRIPTION:晨曦王座 - 海雾村 - 8区 - 31号 - 个人\n晨曦王座 - 海雾村 - 18区 - 34号 - 其他\n晨曦王座 - 薰衣草苗圃 - 12区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260310T150000Z
 SUMMARY:M房抽选截止
-UID:7a7c6ac1-5a4d-4610-9052-67e2fd457c7a@7a7c.org
+UID:3e5d3b23-0d6c-4336-a187-9f030e4a1c37@3e5d.org
 END:VEVENT
 END:VCALENDAR
