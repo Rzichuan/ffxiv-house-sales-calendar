@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 5区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260301T150000Z
-SUMMARY:L房抽选截止
-UID:10930356-c934-4ec2-a706-bd5fc281b71d@1093.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 8区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260220T150000Z
 SUMMARY:L房抽选截止
-UID:052f25fa-8335-433e-860d-93a63237de04@052f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 8区 - 1号 - 个人\n红玉海 - 高脚孤丘 - 13区 - 4号 - 个人\n红玉海 - 白银乡 - 28区 - 38号 - 其他\n红玉海 - 穹顶皓天 - 14区 - 17号 - 个人\n红玉海 - 穹顶皓天 - 22区 - 17号 - 部队\n红玉海 - 穹顶皓天 - 23区 - 8号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260301T150000Z
-SUMMARY:M房抽选截止
-UID:f4a3710a-f1f7-4f7f-b8e0-281f820aa8c5@f4a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 1区 - 60号 - 个人\n红玉海 - 海雾村 - 3区 - 1号 - 个人\n红玉海 - 海雾村 - 19区 - 4号 - 其他\n红玉海 - 薰衣草苗圃 - 10区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 26区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 2区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 11区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 22区 - 25号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260310T150000Z
-SUMMARY:M房抽选截止
-UID:ee90c0c3-ddc6-4e89-97c3-46891a1e0be0@ee90.org
+UID:604ccc13-f630-4327-a605-0ba047db8bbb@604c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 白银乡 - 4区 - 16号 - 个人\n红玉海 - 白银乡 - 18区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260310T150000Z
 SUMMARY:L房抽选截止
-UID:7ba0d4aa-0735-4bbc-9733-ef3181e3e0be@7ba0.org
+UID:5278fc04-d364-4f7a-a91a-441275fd534f@5278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 高脚孤丘 - 13区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260301T150000Z
+SUMMARY:M房抽选截止
+UID:5a434c7a-f1b3-4827-a88b-1717e2c77576@5a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 1区 - 60号 - 个人\n红玉海 - 海雾村 - 3区 - 1号 - 个人\n红玉海 - 海雾村 - 19区 - 4号 - 其他\n红玉海 - 薰衣草苗圃 - 10区 - 27号 - 个人\n红玉海 - 薰衣草苗圃 - 26区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 2区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 8区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 11区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 22区 - 25号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260310T150000Z
+SUMMARY:M房抽选截止
+UID:e9e44cb9-427a-4cf7-8eb7-32f006eb90be@e9e4.org
 END:VEVENT
 END:VCALENDAR
