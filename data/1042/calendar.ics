@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 28区 - 4号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260301T150000Z
-SUMMARY:M房抽选截止
-UID:a256f68b-dc15-409c-a895-f07dd593aa35@a256.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 29号 - 其他\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 10区 - 27号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260310T150000Z
 SUMMARY:M房抽选截止
-UID:46ebf0a4-709f-4d93-8ea7-caa738b745cb@46eb.org
+UID:82824b4c-8b28-4e64-b84e-493b2f8a429d@8282.org
 END:VEVENT
 END:VCALENDAR
