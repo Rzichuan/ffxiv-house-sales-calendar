@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 10区 - 27号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 2号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 17号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260310T150000Z
 SUMMARY:M房抽选截止
-UID:cd9a1d04-880a-4724-aa69-1ae28cc276ab@cd9a.org
+UID:859e426b-ff7d-466c-8ae6-840e310f2f32@859e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 29区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260319T150000Z
+SUMMARY:L房抽选截止
+UID:d00ed637-57e4-4c0e-bfca-e371e4302f96@d00e.org
 END:VEVENT
 END:VCALENDAR
