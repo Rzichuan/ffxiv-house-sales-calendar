@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 22区 - 12号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260301T150000Z
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 19区 - 30号 - 其他\n神意之地 - 高脚孤丘 - 4区 - 55号 - 个人\n神意之地 - 白银乡 - 26区 - 15号 - 个人\n神意之地 - 穹顶皓天 - 3区 - 26号 - 个人\n神意之地 - 穹顶皓天 - 5区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260319T150000Z
 SUMMARY:M房抽选截止
-UID:5f85069e-e4a5-4f7e-a4bc-dae34f2903fc@5f85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 3区 - 32号 - 个人\n神意之地 - 穹顶皓天 - 25区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260310T150000Z
-SUMMARY:L房抽选截止
-UID:750dfe93-4999-4f80-a90b-fc3f4b6fc76e@750d.org
+UID:fa9aebba-3f7a-48e8-90e2-43780b08f308@fa9a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 19区 - 13号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260319T150000Z
 SUMMARY:L房抽选截止
-UID:a315bb52-166c-4614-8c27-397e1e46c55e@a315.org
+UID:e987a79c-94bb-488b-8cc3-7255a3d7996c@e987.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 23区 - 36号 - 部队\n神意之地 - 海雾村 - 25区 - 37号 - 个人\n神意之地 - 高脚孤丘 - 25区 - 4号 - 个人\n神意之地 - 白银乡 - 4区 - 15号 - 个人\n神意之地 - 白银乡 - 7区 - 8号 - 个人\n神意之地 - 穹顶皓天 - 9区 - 21号 - 个人\n神意之地 - 穹顶皓天 - 25区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 海雾村 - 23区 - 36号 - 部队\n神意之地 - 海雾村 - 25区 - 37号 - 个人\n神意之地 - 高脚孤丘 - 25区 - 4号 - 个人\n神意之地 - 白银乡 - 4区 - 15号 - 个人\n神意之地 - 白银乡 - 7区 - 8号 - 个人\n神意之地 - 穹顶皓天 - 9区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260310T150000Z
 SUMMARY:M房抽选截止
-UID:2b7a5df5-dd20-4614-8258-5bfdfd07a113@2b7a.org
+UID:8475ecc4-8e66-470f-8194-8ab1efdb5b3f@8475.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 19区 - 30号 - 其他\n神意之地 - 高脚孤丘 - 4区 - 55号 - 个人\n神意之地 - 白银乡 - 26区 - 15号 - 个人\n神意之地 - 穹顶皓天 - 3区 - 26号 - 个人\n神意之地 - 穹顶皓天 - 5区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260319T150000Z
-SUMMARY:M房抽选截止
-UID:c03b7e3c-59e1-4483-83db-0668bebc17d6@c03b.org
+DESCRIPTION:神意之地 - 海雾村 - 3区 - 32号 - 个人\n神意之地 - 穹顶皓天 - 25区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260310T150000Z
+SUMMARY:L房抽选截止
+UID:97a0f781-7b32-464b-94d2-bfb44c2dc6d5@97a0.org
 END:VEVENT
 END:VCALENDAR
