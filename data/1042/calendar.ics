@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 16区 - 30号 - 个人\n拉诺西亚 - 高脚孤丘 - 29区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260319T150000Z
 SUMMARY:L房抽选截止
-UID:c8495c55-9fff-4933-93bf-55ad82f3c01c@c849.org
+UID:a912a338-66cc-42b9-9a65-9fa3b8dd87ed@a912.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 穹顶皓天 - 4区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 12区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260319T150000Z
 SUMMARY:M房抽选截止
-UID:06551dec-cd42-4fe1-a9b8-a72cb2ae5d67@0655.org
+UID:8bd59e7d-52eb-48d8-9064-06cc92b9f6b2@8bd5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 29号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 10区 - 27号 - 个人\n拉诺西亚 - 穹顶皓天 - 5区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 29号 - 其他\n拉诺西亚 - 穹顶皓天 - 5区 - 17号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260310T150000Z
 SUMMARY:M房抽选截止
-UID:899bdcdc-fe23-475e-8709-0745b886a253@899b.org
+UID:1e03c9e1-7f8c-446b-a0c0-17654770322e@1e03.org
 END:VEVENT
 END:VCALENDAR
