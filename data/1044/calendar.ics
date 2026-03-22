@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 穹顶皓天 - 1区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260319T150000Z
+SUMMARY:L房抽选截止
+UID:6cc53c34-50f8-45d8-a92c-e2de2d84ba2a@6cc5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 27区 - 30号 - 个人\n幻影群岛 - 白银乡 - 20区 - 16号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260328T150000Z
 SUMMARY:L房抽选截止
-UID:880863a7-6eab-4afb-be89-508e299fea44@8808.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 13区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 24区 - 11号 - 部队\n幻影群岛 - 高脚孤丘 - 8区 - 25号 - 个人\n幻影群岛 - 白银乡 - 23区 - 28号 - 部队\n幻影群岛 - 白银乡 - 26区 - 13号 - 个人\n幻影群岛 - 穹顶皓天 - 2区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 4区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 25区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260328T150000Z
-SUMMARY:M房抽选截止
-UID:58fad056-eb20-4887-96f6-b50cec80fd00@58fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 26区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260319T150000Z
-SUMMARY:M房抽选截止
-UID:be736360-d766-403a-848e-7db6783cf6b0@be73.org
+UID:c39edd42-2c6d-4c5a-a9a9-943d69d44680@c39e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 26区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260310T150000Z
 SUMMARY:M房抽选截止
-UID:d63e6a3c-1a8d-4b42-b908-57535326ccce@d63e.org
+UID:3226a062-e527-4fd6-81ae-4def8a8acbe1@3226.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 穹顶皓天 - 1区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260319T150000Z
-SUMMARY:L房抽选截止
-UID:cd3f2dac-59a5-49f5-b1ca-7db36744ca8b@cd3f.org
+DESCRIPTION:幻影群岛 - 海雾村 - 13区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 1区 - 21号 - 个人\n幻影群岛 - 薰衣草苗圃 - 24区 - 11号 - 部队\n幻影群岛 - 高脚孤丘 - 8区 - 25号 - 个人\n幻影群岛 - 白银乡 - 23区 - 28号 - 部队\n幻影群岛 - 白银乡 - 26区 - 13号 - 个人\n幻影群岛 - 穹顶皓天 - 2区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 4区 - 17号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 11区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 21区 - 51号 - 部队\n幻影群岛 - 穹顶皓天 - 25区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260328T150000Z
+SUMMARY:M房抽选截止
+UID:aae9060d-d825-48d3-9362-f6ec5391289d@aae9.org
 END:VEVENT
 END:VCALENDAR

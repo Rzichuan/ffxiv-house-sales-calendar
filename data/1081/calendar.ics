@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 1区 - 45号 - 个人\n神意之地 - 高脚孤丘 - 6区 - 5号 - 个人\n神意之地 - 高脚孤丘 - 6区 - 30号 - 个人\n神意之地 - 白银乡 - 17区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260328T150000Z
 SUMMARY:L房抽选截止
-UID:60ac16ca-ccc0-4cdb-ba94-c8f329a129e3@60ac.org
+UID:20788b81-2f53-4942-9303-b8bab77c3829@2078.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 3区 - 44号 - 个人\n神意之地 - 海雾村 - 19区 - 29号 - 其他\n神意之地 - 海雾村 - 27区 - 1号 - 个人\n神意之地 - 白银乡 - 5区 - 24号 - 个人\n神意之地 - 穹顶皓天 - 23区 - 47号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 海雾村 - 3区 - 44号 - 个人\n神意之地 - 海雾村 - 15区 - 36号 - 个人\n神意之地 - 海雾村 - 19区 - 29号 - 其他\n神意之地 - 海雾村 - 21区 - 44号 - 部队\n神意之地 - 海雾村 - 27区 - 1号 - 个人\n神意之地 - 薰衣草苗圃 - 18区 - 51号 - 其他\n神意之地 - 白银乡 - 5区 - 24号 - 个人\n神意之地 - 白银乡 - 24区 - 58号 - 部队\n神意之地 - 白银乡 - 25区 - 31号 - 个人\n神意之地 - 穹顶皓天 - 23区 - 47号 - 部队\n神意之地 - 穹顶皓天 - 26区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260328T150000Z
 SUMMARY:M房抽选截止
-UID:35301f51-268d-44d2-b9aa-083aac966814@3530.org
+UID:ae4af25e-03e6-41f3-b5cf-bc8c7e224bff@ae4a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 26区 - 15号 - 个人\n神意之地 - 穹顶皓天 - 3区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 白银乡 - 26区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260319T150000Z
 SUMMARY:M房抽选截止
-UID:f4217d21-7f95-4577-844b-177029979ae2@f421.org
+UID:ca271d58-7eb7-40b8-9a98-f4ade348f548@ca27.org
 END:VEVENT
 END:VCALENDAR

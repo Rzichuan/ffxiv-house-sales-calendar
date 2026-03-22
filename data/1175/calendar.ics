@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 8区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 4号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 32号 - 个人\n晨曦王座 - 穹顶皓天 - 8区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 22区 - 32号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260328T150000Z
 SUMMARY:M房抽选截止
-UID:233ff9d8-aa54-4c9c-9a02-954634d3cedc@233f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 25区 - 11号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260319T150000Z
-SUMMARY:M房抽选截止
-UID:a98d4e1d-e4c5-42cd-b774-ccf61f51b435@a98d.org
+UID:04aa71e5-449f-4f67-98f7-8f2722b8ca96@04aa.org
 END:VEVENT
 END:VCALENDAR
