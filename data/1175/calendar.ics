@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 30区 - 4号 - 部队\n晨曦王座 - 薰衣草苗圃 - 8区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 4号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 32号 - 个人\n晨曦王座 - 穹顶皓天 - 8区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 14区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 22区 - 32号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 12区 - 31号 - 个人\n晨曦王座 - 海雾村 - 30区 - 4号 - 部队\n晨曦王座 - 薰衣草苗圃 - 8区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 4号 - 个人\n晨曦王座 - 白银乡 - 15区 - 54号 - 个人\n晨曦王座 - 穹顶皓天 - 1区 - 32号 - 个人\n晨曦王座 - 穹顶皓天 - 8区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 14区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 22区 - 32号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260328T150000Z
 SUMMARY:M房抽选截止
-UID:a5fdada3-c612-4ab9-bfb6-23464fdc0875@a5fd.org
+UID:868fa09d-7348-43f0-ba5a-bc5fd15667cb@868f.org
 END:VEVENT
 END:VCALENDAR
