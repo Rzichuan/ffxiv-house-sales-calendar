@@ -5,24 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 25区 - 30号 - 个人\n拉诺西亚 - 穹顶皓天 - 21区 - 42号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260406T150000Z
 SUMMARY:L房抽选截止
-UID:411808bc-22f2-451e-a50d-a8995b108f19@4118.org
+UID:b279c49c-85f2-4922-8b53-b8064dd6fe2a@b279.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 14区 - 37号 - 个人\n拉诺西亚 - 白银乡 - 15区 - 24号 - 个人\n拉诺西亚 - 白银乡 - 22区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 白银乡 - 15区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260328T150000Z
 SUMMARY:M房抽选截止
-UID:cd7fa91b-e469-4d70-8d81-cbd7e7aa7df6@cd7f.org
+UID:b2290491-da46-4149-8add-387664ba78ca@b229.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 21区 - 36号 - 部队\n拉诺西亚 - 白银乡 - 24区 - 24号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260406T150000Z
 SUMMARY:M房抽选截止
-UID:d8c536fd-5d75-459d-ab6b-6d701e6eb6cd@d8c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 27区 - 6号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 28区 - 33号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260328T150000Z
-SUMMARY:L房抽选截止
-UID:1b836df1-e89b-4794-a2ea-cb18fa84b1f3@1b83.org
+UID:12ea8e9c-41d4-41e9-9e22-60081110ac59@12ea.org
 END:VEVENT
 END:VCALENDAR
