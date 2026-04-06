@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 22区 - 34号 - 部队\n宇宙和音 - 薰衣草苗圃 - 1区 - 51号 - 个人\n宇宙和音 - 薰衣草苗圃 - 16区 - 21号 - 个人\n宇宙和音 - 薰衣草苗圃 - 17区 - 11号 - 其他\n宇宙和音 - 薰衣草苗圃 - 19区 - 5号 - 其他\n宇宙和音 - 薰衣草苗圃 - 22区 - 16号 - 部队\n宇宙和音 - 薰衣草苗圃 - 23区 - 1号 - 部队\n宇宙和音 - 薰衣草苗圃 - 30区 - 35号 - 部队\n宇宙和音 - 高脚孤丘 - 15区 - 41号 - 个人\n宇宙和音 - 高脚孤丘 - 23区 - 25号 - 部队\n宇宙和音 - 白银乡 - 5区 - 38号 - 个人\n宇宙和音 - 白银乡 - 23区 - 28号 - 部队\n宇宙和音 - 穹顶皓天 - 12区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260406T150000Z
-SUMMARY:M房抽选截止
-UID:988af988-5a98-4b79-9fd9-f2a69f60d643@988a.org
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 2区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260415T150000Z
+SUMMARY:L房抽选截止
+UID:3f8fad58-6820-4be8-aa09-a6df655ee346@3f8f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 7区 - 35号 - 个人\n宇宙和音 - 薰衣草苗圃 - 23区 - 58号 - 部队\n宇宙和音 - 薰衣草苗圃 - 24区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260406T150000Z
 SUMMARY:L房抽选截止
-UID:4600c347-3b8d-4f5b-8aa2-8322f8f3ec4f@4600.org
+UID:ba1dcae2-eb88-418c-b194-f5ff8a136ec4@ba1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 28区 - 31号 - 其他\n宇宙和音 - 高脚孤丘 - 7区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260415T150000Z
 SUMMARY:M房抽选截止
-UID:e2e34654-ada6-448b-94c3-036ce754e85e@e2e3.org
+UID:32300fb1-b896-4f98-b953-f7828d98b6dd@3230.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 2区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260415T150000Z
-SUMMARY:L房抽选截止
-UID:312d0c73-4762-42b5-bf7f-41b81ed18be7@312d.org
+DESCRIPTION:宇宙和音 - 海雾村 - 22区 - 34号 - 部队\n宇宙和音 - 薰衣草苗圃 - 1区 - 51号 - 个人\n宇宙和音 - 薰衣草苗圃 - 16区 - 21号 - 个人\n宇宙和音 - 薰衣草苗圃 - 17区 - 11号 - 其他\n宇宙和音 - 薰衣草苗圃 - 19区 - 5号 - 其他\n宇宙和音 - 薰衣草苗圃 - 22区 - 16号 - 部队\n宇宙和音 - 薰衣草苗圃 - 23区 - 1号 - 部队\n宇宙和音 - 薰衣草苗圃 - 30区 - 35号 - 部队\n宇宙和音 - 高脚孤丘 - 15区 - 41号 - 个人\n宇宙和音 - 高脚孤丘 - 23区 - 25号 - 部队\n宇宙和音 - 白银乡 - 5区 - 38号 - 个人\n宇宙和音 - 白银乡 - 23区 - 28号 - 部队\n宇宙和音 - 穹顶皓天 - 12区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260406T150000Z
+SUMMARY:M房抽选截止
+UID:f8f75166-0120-4c07-af7c-0fb1a90b3a60@f8f7.org
 END:VEVENT
 END:VCALENDAR
