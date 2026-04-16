@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 2区 - 34号 - 个人\n幻影群岛 - 海雾村 - 26区 - 37号 - 个人\n幻影群岛 - 海雾村 - 27区 - 59号 - 个人\n幻影群岛 - 薰衣草苗圃 - 9区 - 30号 - 个人\n幻影群岛 - 薰衣草苗圃 - 15区 - 1号 - 个人\n幻影群岛 - 高脚孤丘 - 4区 - 4号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 41号 - 个人\n幻影群岛 - 高脚孤丘 - 20区 - 4号 - 其他\n幻影群岛 - 白银乡 - 6区 - 54号 - 个人\n幻影群岛 - 白银乡 - 15区 - 28号 - 个人\n幻影群岛 - 白银乡 - 18区 - 49号 - 其他\n幻影群岛 - 穹顶皓天 - 10区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260415T150000Z
-SUMMARY:M房抽选截止
-UID:d093bbe3-ba30-4d65-b8ce-02765f6f6128@d093.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 25区 - 60号 - 个人\n幻影群岛 - 白银乡 - 20区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260406T150000Z
-SUMMARY:M房抽选截止
-UID:2f94a24a-b11d-4552-afa7-fa7f0f5b18d5@2f94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 24区 - 30号 - 部队\n幻影群岛 - 高脚孤丘 - 12区 - 19号 - 个人\n幻影群岛 - 高脚孤丘 - 23区 - 42号 - 部队\n幻影群岛 - 高脚孤丘 - 30区 - 55号 - 部队\n幻影群岛 - 白银乡 - 19区 - 15号 - 其他\n幻影群岛 - 穹顶皓天 - 26区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 28区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260424T150000Z
-SUMMARY:M房抽选截止
-UID:d308e9c7-a416-44fa-9ada-ec647c3038f4@d308.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 白银乡 - 27区 - 16号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260424T150000Z
 SUMMARY:L房抽选截止
-UID:7401ce5f-edfe-4589-8e18-83c7caa67d1e@7401.org
+UID:7492b9d3-969b-479e-930c-6fe5adc32003@7492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 24区 - 30号 - 部队\n幻影群岛 - 高脚孤丘 - 8区 - 49号 - 个人\n幻影群岛 - 高脚孤丘 - 12区 - 19号 - 个人\n幻影群岛 - 高脚孤丘 - 23区 - 42号 - 部队\n幻影群岛 - 高脚孤丘 - 30区 - 55号 - 部队\n幻影群岛 - 白银乡 - 10区 - 38号 - 个人\n幻影群岛 - 白银乡 - 19区 - 15号 - 其他\n幻影群岛 - 穹顶皓天 - 26区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 28区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260424T150000Z
+SUMMARY:M房抽选截止
+UID:1564deaf-c944-4650-b92a-9fb696ed03c4@1564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 27区 - 59号 - 个人\n幻影群岛 - 薰衣草苗圃 - 9区 - 30号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 41号 - 个人\n幻影群岛 - 白银乡 - 15区 - 28号 - 个人\n幻影群岛 - 穹顶皓天 - 10区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260415T150000Z
+SUMMARY:M房抽选截止
+UID:8b98a66e-e324-4d7d-a973-1680268073ea@8b98.org
 END:VEVENT
 END:VCALENDAR
