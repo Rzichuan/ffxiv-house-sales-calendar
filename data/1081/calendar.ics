@@ -2,33 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 19区 - 1号 - 其他\n神意之地 - 海雾村 - 26区 - 36号 - 个人\n神意之地 - 薰衣草苗圃 - 4区 - 46号 - 个人\n神意之地 - 薰衣草苗圃 - 5区 - 51号 - 个人\n神意之地 - 薰衣草苗圃 - 14区 - 41号 - 个人\n神意之地 - 薰衣草苗圃 - 26区 - 1号 - 个人\n神意之地 - 高脚孤丘 - 9区 - 4号 - 个人\n神意之地 - 高脚孤丘 - 25区 - 42号 - 个人\n神意之地 - 白银乡 - 6区 - 8号 - 个人\n神意之地 - 白银乡 - 25区 - 49号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 18号 - 个人\n神意之地 - 穹顶皓天 - 7区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260424T150000Z
+SUMMARY:M房抽选截止
+UID:0b93805d-8669-4ba6-bb7d-37591885579c@0b93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 2区 - 59号 - 个人\n神意之地 - 薰衣草苗圃 - 13区 - 51号 - 个人\n神意之地 - 穹顶皓天 - 25区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260415T150000Z
+SUMMARY:M房抽选截止
+UID:d081174a-a965-4114-87b7-11eb23f4bcb4@d081.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 21区 - 45号 - 部队\n神意之地 - 海雾村 - 22区 - 45号 - 部队\n神意之地 - 薰衣草苗圃 - 1区 - 3号 - 个人\n神意之地 - 穹顶皓天 - 6区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260424T150000Z
 SUMMARY:L房抽选截止
-UID:3579c4b5-3f33-4eff-be81-0deee4b187fe@3579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 2区 - 59号 - 个人\n神意之地 - 海雾村 - 19区 - 44号 - 其他\n神意之地 - 薰衣草苗圃 - 8区 - 35号 - 个人\n神意之地 - 薰衣草苗圃 - 13区 - 51号 - 个人\n神意之地 - 高脚孤丘 - 1区 - 4号 - 个人\n神意之地 - 白银乡 - 20区 - 28号 - 其他\n神意之地 - 穹顶皓天 - 25区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260415T150000Z
-SUMMARY:M房抽选截止
-UID:5124f412-bc19-4fbe-a98c-3e3eb22db1d0@5124.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 海雾村 - 19区 - 1号 - 其他\n神意之地 - 薰衣草苗圃 - 4区 - 46号 - 个人\n神意之地 - 薰衣草苗圃 - 5区 - 51号 - 个人\n神意之地 - 薰衣草苗圃 - 14区 - 41号 - 个人\n神意之地 - 薰衣草苗圃 - 26区 - 1号 - 个人\n神意之地 - 高脚孤丘 - 9区 - 4号 - 个人\n神意之地 - 高脚孤丘 - 25区 - 42号 - 个人\n神意之地 - 白银乡 - 6区 - 8号 - 个人\n神意之地 - 白银乡 - 25区 - 49号 - 个人\n神意之地 - 穹顶皓天 - 2区 - 18号 - 个人\n神意之地 - 穹顶皓天 - 7区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260424T150000Z
-SUMMARY:M房抽选截止
-UID:b126de18-4367-4294-b905-d3ad7e4e35b1@b126.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 9区 - 27号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260406T150000Z
-SUMMARY:M房抽选截止
-UID:3579f575-71ab-4049-afd5-fbb5569e07b0@3579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 16区 - 33号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260415T150000Z
-SUMMARY:L房抽选截止
-UID:9918f809-bc5e-40b9-aa21-d612c7b780e5@9918.org
+UID:80985a7d-e374-4eec-a850-3c4bc0f8af3d@8098.org
 END:VEVENT
 END:VCALENDAR
