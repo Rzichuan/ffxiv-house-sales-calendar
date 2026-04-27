@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 2区 - 1号 - 个人\n拉诺西亚 - 高脚孤丘 - 26区 - 36号 - 个人\n拉诺西亚 - 白银乡 - 27区 - 15号 - 个人\n拉诺西亚 - 穹顶皓天 - 23区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 2区 - 1号 - 个人\n拉诺西亚 - 白银乡 - 27区 - 15号 - 个人\n拉诺西亚 - 穹顶皓天 - 23区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260424T150000Z
 SUMMARY:M房抽选截止
-UID:06f856a0-4e1b-454c-b3f5-3c97caf2509e@06f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 11区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260503T150000Z
-SUMMARY:L房抽选截止
-UID:eaf55ce8-b987-4391-a8ff-79f4b8211d44@eaf5.org
+UID:dcdf9f53-3c3c-4813-a516-8d0b509b2cc9@dcdf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 6区 - 27号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 11号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 57号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 23区 - 1号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 23区 - 27号 - 部队\n拉诺西亚 - 高脚孤丘 - 1区 - 11号 - 个人\n拉诺西亚 - 高脚孤丘 - 6区 - 41号 - 个人\n拉诺西亚 - 高脚孤丘 - 22区 - 11号 - 部队\n拉诺西亚 - 高脚孤丘 - 29区 - 36号 - 其他\n拉诺西亚 - 白银乡 - 8区 - 28号 - 个人\n拉诺西亚 - 穹顶皓天 - 26区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260503T150000Z
 SUMMARY:M房抽选截止
-UID:2a4bbc69-a076-4a3c-b0cd-eede249d7c2e@2a4b.org
+UID:05ad90e4-70f9-4e96-b3a9-d8e4846fb1e2@05ad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 29区 - 52号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260424T150000Z
+DESCRIPTION:拉诺西亚 - 白银乡 - 11区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260503T150000Z
 SUMMARY:L房抽选截止
-UID:e4085755-3d36-40ce-968f-ce3cb2270772@e408.org
+UID:be2caf7b-0cfd-40ee-80b2-aa34f5d80623@be2c.org
 END:VEVENT
 END:VCALENDAR
