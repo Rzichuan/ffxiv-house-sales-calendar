@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 8区 - 60号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 36号 - 个人\n晨曦王座 - 白银乡 - 19区 - 15号 - 其他\n晨曦王座 - 穹顶皓天 - 11区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260512T150000Z
-SUMMARY:M房抽选截止
-UID:f2ba58f4-8d00-4b74-81e2-9c7479f6693c@f2ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 19区 - 15号 - 其他\n晨曦王座 - 薰衣草苗圃 - 10区 - 28号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 33号 - 个人\n晨曦王座 - 高脚孤丘 - 4区 - 13号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260512T150000Z
-SUMMARY:L房抽选截止
-UID:4295d54b-e3fb-4efa-9932-4dd360ef30a1@4295.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 19区 - 30号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260424T150000Z
 SUMMARY:M房抽选截止
-UID:071d8673-a5e0-4ac2-954c-acd7071ea718@071d.org
+UID:3bdbd6b4-9aed-4f87-ab28-58e918fa5e7a@3bdb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260503T150000Z
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 6区 - 60号 - 个人\n晨曦王座 - 薰衣草苗圃 - 8区 - 60号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 36号 - 个人\n晨曦王座 - 白银乡 - 19区 - 15号 - 其他\n晨曦王座 - 穹顶皓天 - 5区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 11区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260512T150000Z
+SUMMARY:M房抽选截止
+UID:bb9d2fc8-e89b-4ba8-b679-c399da85a51a@bb9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 19区 - 15号 - 其他\n晨曦王座 - 薰衣草苗圃 - 4区 - 33号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 28号 - 个人\n晨曦王座 - 薰衣草苗圃 - 10区 - 33号 - 个人\n晨曦王座 - 高脚孤丘 - 4区 - 13号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260512T150000Z
 SUMMARY:L房抽选截止
-UID:02655cb5-1939-4b2b-9a37-b033ece3f022@0265.org
+UID:583ed0ee-1fbe-4def-b3a8-d890196b238b@583e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 22区 - 4号 - 部队\n晨曦王座 - 白银乡 - 17区 - 54号 - 其他\n晨曦王座 - 白银乡 - 28区 - 8号 - 其他\n晨曦王座 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260503T150000Z
 SUMMARY:M房抽选截止
-UID:02658b81-86ce-4d66-9f46-bac05a0c1c4e@0265.org
+UID:ab708432-a075-4736-838e-084f8aba1633@ab70.org
 END:VEVENT
 END:VCALENDAR
