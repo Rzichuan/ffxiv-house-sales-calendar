@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 29区 - 58号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260503T150000Z
 SUMMARY:M房抽选截止
-UID:51c8f481-2c3c-468e-8d40-3640bf8528b7@51c8.org
+UID:a07fff13-d17d-4794-a765-5afa8bb83f41@a07f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 36号 - 个人\n沃仙曦染 - 高脚孤丘 - 10区 - 19号 - 个人\n沃仙曦染 - 白银乡 - 1区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260512T150000Z
 SUMMARY:M房抽选截止
-UID:97b3a9a5-3624-4c9d-98dc-a28444ad6db0@97b3.org
+UID:3e1685d8-825f-4d12-9d37-2731ef498d51@3e16.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 13区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260503T150000Z
 SUMMARY:L房抽选截止
-UID:51e67c4c-1986-40eb-9adb-ebde03d9f815@51e6.org
+UID:de06d008-293e-44c8-9b13-09f65d592b16@de06.org
 END:VEVENT
 END:VCALENDAR
