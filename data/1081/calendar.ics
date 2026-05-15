@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 12区 - 46号 - 个人\n神意之地 - 薰衣草苗圃 - 24区 - 1号 - 部队\n神意之地 - 高脚孤丘 - 9区 - 34号 - 个人\n神意之地 - 高脚孤丘 - 10区 - 6号 - 个人\n神意之地 - 白银乡 - 8区 - 8号 - 个人\n神意之地 - 白银乡 - 11区 - 15号 - 个人\n神意之地 - 穹顶皓天 - 21区 - 38号 - 部队\n神意之地 - 穹顶皓天 - 25区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:M房抽选截止
-UID:292ab961-3a28-4698-94ee-a694ba2e5242@292a.org
+UID:1e6800e0-3797-425d-af7a-275218c624fa@1e68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 海雾村 - 18区 - 32号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260521T150000Z
+SUMMARY:L房抽选截止
+UID:357b5844-0965-461e-9b88-9c7af4a59e7d@357b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 5区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260512T150000Z
 SUMMARY:M房抽选截止
-UID:fc6eadcf-f0eb-42c9-bc3e-3c549a19f301@fc6e.org
+UID:fb06500b-d7bc-45ab-ad8e-80ea478e1c02@fb06.org
 END:VEVENT
 END:VCALENDAR
