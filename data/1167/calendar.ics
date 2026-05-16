@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 20区 - 60号 - 其他\n红玉海 - 海雾村 - 26区 - 60号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 11号 - 其他\n红玉海 - 白银乡 - 13区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 5区 - 2号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 18号 - 部队\n红玉海 - 穹顶皓天 - 29区 - 18号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:M房抽选截止
-UID:a690fde4-fe84-48d0-abc7-26c00dd30e9b@a690.org
+UID:bdee507e-4c86-462d-9631-4b86a5048687@bdee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 高脚孤丘 - 27区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260521T150000Z
+SUMMARY:L房抽选截止
+UID:c56f7bab-f0b9-4ad0-83fd-889d751c4bfc@c56f.org
 END:VEVENT
 END:VCALENDAR
