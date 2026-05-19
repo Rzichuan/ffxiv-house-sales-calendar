@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 27区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 27区 - 30号 - 个人\n红玉海 - 高脚孤丘 - 7区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260530T150000Z
 SUMMARY:M房抽选截止
-UID:c80bb059-3370-4d49-bf41-808b5aee261c@c80b.org
+UID:d504810d-6038-4778-a576-f3c9b3f289ed@d504.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 27区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:L房抽选截止
-UID:448046a9-248d-4902-b710-427cb687d90a@4480.org
+UID:7357c885-06b5-47a1-b5a1-7f995fef257c@7357.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 20区 - 60号 - 其他\n红玉海 - 海雾村 - 26区 - 60号 - 个人\n红玉海 - 高脚孤丘 - 10区 - 38号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 11号 - 其他\n红玉海 - 白银乡 - 2区 - 31号 - 个人\n红玉海 - 白银乡 - 13区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 5区 - 2号 - 个人\n红玉海 - 穹顶皓天 - 21区 - 18号 - 部队\n红玉海 - 穹顶皓天 - 29区 - 18号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:M房抽选截止
-UID:d887b593-1f1d-4968-a14c-7d425a1ae02d@d887.org
+UID:7d788b3c-0a7a-49cc-9034-a0b9648a1f0e@7d78.org
 END:VEVENT
 END:VCALENDAR
