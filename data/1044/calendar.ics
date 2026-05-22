@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 18区 - 2号 - 其他\n幻影群岛 - 白银乡 - 10区 - 16号 - 个人\n幻影群岛 - 白银乡 - 27区 - 30号 - 个人\n幻影群岛 - 穹顶皓天 - 13区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260521T150000Z
-SUMMARY:L房抽选截止
-UID:5bf678da-c0e6-4117-b1e2-9491e1c5f74c@5bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 2区 - 44号 - 个人\n幻影群岛 - 海雾村 - 7区 - 44号 - 个人\n幻影群岛 - 海雾村 - 13区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 4区 - 30号 - 个人\n幻影群岛 - 薰衣草苗圃 - 8区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 27区 - 46号 - 个人\n幻影群岛 - 高脚孤丘 - 8区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 17区 - 41号 - 其他\n幻影群岛 - 穹顶皓天 - 27区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260521T150000Z
-SUMMARY:M房抽选截止
-UID:9d1a0c71-22f1-4f21-b214-bf7384d2d055@9d1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 36号 - 个人\n幻影群岛 - 海雾村 - 10区 - 36号 - 个人\n幻影群岛 - 薰衣草苗圃 - 6区 - 30号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 42号 - 其他\n幻影群岛 - 穹顶皓天 - 6区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 36号 - 个人\n幻影群岛 - 海雾村 - 10区 - 36号 - 个人\n幻影群岛 - 薰衣草苗圃 - 6区 - 30号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 25号 - 个人\n幻影群岛 - 高脚孤丘 - 25区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 28区 - 42号 - 其他\n幻影群岛 - 穹顶皓天 - 6区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260530T150000Z
 SUMMARY:M房抽选截止
-UID:60ec1df9-a769-4513-b5f8-b50af09f7160@60ec.org
+UID:754c6c76-7cd9-45d5-a52f-be0f639add36@754c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 11区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260530T150000Z
 SUMMARY:L房抽选截止
-UID:f50fd8b0-5ce1-485c-883d-631c020b0f1a@f50f.org
+UID:ccd84b27-29c7-4365-b958-091b264bc27d@ccd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 18区 - 2号 - 其他\n幻影群岛 - 白银乡 - 27区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260521T150000Z
+SUMMARY:L房抽选截止
+UID:df3a4eaf-a9cd-4a7c-b86e-31ffbddde87d@df3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 7区 - 44号 - 个人\n幻影群岛 - 薰衣草苗圃 - 8区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 27区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260521T150000Z
+SUMMARY:M房抽选截止
+UID:95e38f8d-565e-47e2-ab4b-7b364cdde778@95e3.org
 END:VEVENT
 END:VCALENDAR
