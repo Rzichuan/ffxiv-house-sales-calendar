@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 白银乡 - 7区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:M房抽选截止
-UID:b3a7b76a-ba91-424b-afe2-b6b902de835e@b3a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 59号 - 其他\n拉诺西亚 - 穹顶皓天 - 24区 - 21号 - 部队\n拉诺西亚 - 穹顶皓天 - 28区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260608T150000Z
-SUMMARY:M房抽选截止
-UID:d2ea7ff2-5c19-441d-a527-02454b6ff562@d2ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 2区 - 14号 - 个人\n拉诺西亚 - 海雾村 - 6区 - 59号 - 个人\n拉诺西亚 - 海雾村 - 19区 - 7号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 4区 - 51号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 19区 - 31号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 27区 - 21号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 29区 - 30号 - 其他\n拉诺西亚 - 高脚孤丘 - 9区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 30区 - 38号 - 部队\n拉诺西亚 - 白银乡 - 5区 - 58号 - 个人\n拉诺西亚 - 白银乡 - 15区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 26区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260530T150000Z
-SUMMARY:M房抽选截止
-UID:03e15e9a-6cd8-4230-b3a3-96bf70ba1600@03e1.org
+UID:9cf0a0d3-828e-4aab-904b-c61783fdb5a0@9cf0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 23区 - 5号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 22区 - 58号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260530T150000Z
 SUMMARY:L房抽选截止
-UID:456add3f-6d25-4181-a421-5822cfe54f79@456a.org
+UID:e4980fe8-1319-4c30-9555-6a5ed481d368@e498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 59号 - 其他\n拉诺西亚 - 海雾村 - 27区 - 59号 - 个人\n拉诺西亚 - 穹顶皓天 - 7区 - 21号 - 个人\n拉诺西亚 - 穹顶皓天 - 24区 - 21号 - 部队\n拉诺西亚 - 穹顶皓天 - 28区 - 7号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260608T150000Z
+SUMMARY:M房抽选截止
+UID:8a52ddc1-06b5-4eee-bef8-4ed44f171c85@8a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 2区 - 14号 - 个人\n拉诺西亚 - 海雾村 - 6区 - 59号 - 个人\n拉诺西亚 - 海雾村 - 19区 - 7号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 4区 - 51号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 19区 - 31号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 27区 - 21号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 29区 - 30号 - 其他\n拉诺西亚 - 高脚孤丘 - 9区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 30区 - 38号 - 部队\n拉诺西亚 - 白银乡 - 5区 - 58号 - 个人\n拉诺西亚 - 白银乡 - 15区 - 8号 - 个人\n拉诺西亚 - 穹顶皓天 - 26区 - 26号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260530T150000Z
+SUMMARY:M房抽选截止
+UID:85769abb-1be6-4502-8d67-b96fbf9fa3c9@8576.org
 END:VEVENT
 END:VCALENDAR
