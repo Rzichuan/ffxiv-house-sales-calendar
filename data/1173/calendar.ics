@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 11区 - 60号 - 个人\n宇宙和音 - 薰衣草苗圃 - 3区 - 1号 - 个人\n宇宙和音 - 薰衣草苗圃 - 9区 - 35号 - 个人\n宇宙和音 - 薰衣草苗圃 - 12区 - 46号 - 个人\n宇宙和音 - 高脚孤丘 - 8区 - 34号 - 个人\n宇宙和音 - 白银乡 - 14区 - 43号 - 个人\n宇宙和音 - 白银乡 - 15区 - 38号 - 个人\n宇宙和音 - 白银乡 - 19区 - 19号 - 其他\n宇宙和音 - 白银乡 - 26区 - 38号 - 个人\n宇宙和音 - 穹顶皓天 - 14区 - 17号 - 个人\n宇宙和音 - 穹顶皓天 - 16区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260530T150000Z
-SUMMARY:M房抽选截止
-UID:b444e30c-a30c-476c-bab4-6f3b7f062684@b444.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 28区 - 28号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:L房抽选截止
-UID:84665379-e8d6-40e8-a946-cd86fbf19b63@8466.org
+UID:ef0d5003-e910-45c4-b561-a7e7f62a7461@ef0d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 24区 - 6号 - 部队\n宇宙和音 - 高脚孤丘 - 14区 - 35号 - 个人\n宇宙和音 - 穹顶皓天 - 4区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260530T150000Z
-SUMMARY:L房抽选截止
-UID:4eb49e03-5d6f-41ca-a5a7-b919f7006c95@4eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 16区 - 14号 - 个人\n宇宙和音 - 白银乡 - 3区 - 54号 - 个人\n宇宙和音 - 白银乡 - 13区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 16区 - 14号 - 个人\n宇宙和音 - 高脚孤丘 - 18区 - 25号 - 其他\n宇宙和音 - 白银乡 - 3区 - 54号 - 个人\n宇宙和音 - 白银乡 - 13区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:59cec4da-13b9-486b-b193-20cbdaad6220@59ce.org
+UID:a1e7e2be-1fba-4910-9398-b79e72f48099@a1e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 11区 - 60号 - 个人\n宇宙和音 - 薰衣草苗圃 - 9区 - 35号 - 个人\n宇宙和音 - 白银乡 - 14区 - 43号 - 个人\n宇宙和音 - 白银乡 - 19区 - 19号 - 其他\n宇宙和音 - 白银乡 - 26区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260530T150000Z
+SUMMARY:M房抽选截止
+UID:364865e7-3545-4e1a-b24f-832731514ca0@3648.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 白银乡 - 5区 - 54号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:M房抽选截止
-UID:29d13795-ceca-4be8-ace5-8d5b50fcba09@29d1.org
+UID:bf4ca4f8-dfea-4732-9108-ff7dfda08e5b@bf4c.org
 END:VEVENT
 END:VCALENDAR

@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 17区 - 6号 - 其他\n晨曦王座 - 薰衣草苗圃 - 1区 - 51号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 24区 - 34号 - 部队\n晨曦王座 - 高脚孤丘 - 26区 - 4号 - 个人\n晨曦王座 - 白银乡 - 1区 - 15号 - 个人\n晨曦王座 - 穹顶皓天 - 17区 - 21号 - 其他\n晨曦王座 - 穹顶皓天 - 25区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260530T150000Z
-SUMMARY:M房抽选截止
-UID:82c94c50-92de-434d-8b0e-f922535c4fb3@82c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 21区 - 51号 - 部队\n晨曦王座 - 高脚孤丘 - 15区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 21区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:M房抽选截止
-UID:8792e070-3a89-4cdb-9b0c-bf1b646d1d05@8792.org
+UID:127cafdc-34c2-4f9b-a784-1482dbb0901b@127c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 25区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260608T150000Z
-SUMMARY:L房抽选截止
-UID:38be2496-6950-4db3-a126-586227a239f6@38be.org
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 10区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 24区 - 34号 - 部队\n晨曦王座 - 高脚孤丘 - 26区 - 4号 - 个人\n晨曦王座 - 白银乡 - 1区 - 15号 - 个人\n晨曦王座 - 穹顶皓天 - 25区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260530T150000Z
+SUMMARY:M房抽选截止
+UID:158fc6e1-50a7-4a73-9b17-a4af2d1d50c3@158f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 14号 - 个人\n晨曦王座 - 海雾村 - 26区 - 59号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 31号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 49号 - 其他\n晨曦王座 - 穹顶皓天 - 15区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 14号 - 个人\n晨曦王座 - 海雾村 - 26区 - 59号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 31号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 49号 - 其他\n晨曦王座 - 白银乡 - 14区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:2795ac35-6e2d-44ba-a027-c7fdc6239525@2795.org
+UID:dd948c18-7c55-4817-adaa-c123bef627c3@dd94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 25区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 19区 - 12号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260608T150000Z
+SUMMARY:L房抽选截止
+UID:1a38398b-bcf8-4cdb-ae8a-dae9cd39e86a@1a38.org
 END:VEVENT
 END:VCALENDAR
