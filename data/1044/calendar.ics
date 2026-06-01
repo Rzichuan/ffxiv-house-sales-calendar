@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 11区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260530T150000Z
-SUMMARY:L房抽选截止
-UID:e2cb0573-b901-4a6f-9d0b-e2469bb4df1c@e2cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 36号 - 个人\n幻影群岛 - 海雾村 - 10区 - 36号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 38号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260530T150000Z
-SUMMARY:M房抽选截止
-UID:ffd7ac0e-b3aa-4db5-9c3b-3e60970d2780@ffd7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 1区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:L房抽选截止
-UID:08c31c08-b76f-4e2d-b304-c5516390171f@08c3.org
+UID:60c52d62-0d88-449e-983d-88ead1edf16e@60c5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 9区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 51号 - 部队\n幻影群岛 - 穹顶皓天 - 7区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 6区 - 36号 - 个人\n幻影群岛 - 海雾村 - 10区 - 36号 - 个人\n幻影群岛 - 高脚孤丘 - 11区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260530T150000Z
+SUMMARY:M房抽选截止
+UID:cf9e128f-5c35-4f2d-abe4-dc3d0e3e9682@cf9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 9区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 51号 - 部队\n幻影群岛 - 白银乡 - 1区 - 58号 - 个人\n幻影群岛 - 白银乡 - 16区 - 58号 - 个人\n幻影群岛 - 穹顶皓天 - 7区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:0c4bdad7-e1a3-41ee-bfe8-57902b640dd6@0c4b.org
+UID:bfbbc9d5-222c-4b5b-ac4b-ce91c9c54875@bfbb.org
 END:VEVENT
 END:VCALENDAR
