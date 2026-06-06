@@ -5,24 +5,30 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 10区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260530T150000Z
 SUMMARY:M房抽选截止
-UID:93270e4c-f072-4c41-ae02-cc62121b2fe8@9327.org
+UID:f4b7d79f-fb72-4310-a7c7-a5ef5639e9cb@f4b7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 14号 - 个人\n晨曦王座 - 海雾村 - 26区 - 59号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 31号 - 个人\n晨曦王座 - 薰衣草苗圃 - 19区 - 5号 - 其他\n晨曦王座 - 高脚孤丘 - 16区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 49号 - 其他\n晨曦王座 - 白银乡 - 8区 - 45号 - 个人\n晨曦王座 - 白银乡 - 14区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260608T150000Z
+DESCRIPTION:晨曦王座 - 海雾村 - 13区 - 37号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 19号 - 个人\n晨曦王座 - 白银乡 - 10区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260617T150000Z
 SUMMARY:M房抽选截止
-UID:76bec671-5209-43ce-a03b-b36221544664@76be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 1区 - 45号 - 个人\n晨曦王座 - 薰衣草苗圃 - 25区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 19区 - 12号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260608T150000Z
-SUMMARY:L房抽选截止
-UID:52c0ee2b-a30d-4739-82f5-655946325e51@52c0.org
+UID:05ca6b4e-9218-4cb1-b62e-85ab4ec8d671@05ca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 21区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260521T150000Z
 SUMMARY:M房抽选截止
-UID:2f4d9e38-dd51-4506-bdcd-f2e2b719f03f@2f4d.org
+UID:c0673e75-46f6-4ca9-9849-a4308885d0df@c067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 14号 - 个人\n晨曦王座 - 海雾村 - 26区 - 59号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 31号 - 个人\n晨曦王座 - 薰衣草苗圃 - 19区 - 5号 - 其他\n晨曦王座 - 高脚孤丘 - 16区 - 25号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 49号 - 其他\n晨曦王座 - 白银乡 - 8区 - 45号 - 个人\n晨曦王座 - 白银乡 - 14区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 15区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260608T150000Z
+SUMMARY:M房抽选截止
+UID:edd801d0-e3da-41c9-aef6-a7874235c67a@edd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 1区 - 45号 - 个人\n晨曦王座 - 薰衣草苗圃 - 25区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 35号 - 个人\n晨曦王座 - 穹顶皓天 - 19区 - 12号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260608T150000Z
+SUMMARY:L房抽选截止
+UID:43e5d15e-2eb5-4771-83ad-eb20e7943ae0@43e5.org
 END:VEVENT
 END:VCALENDAR
