@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 11区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260530T150000Z
-SUMMARY:M房抽选截止
-UID:611c4371-14c1-4689-9d54-09c2088ae113@611c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 9区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 51号 - 部队\n幻影群岛 - 高脚孤丘 - 14区 - 34号 - 个人\n幻影群岛 - 白银乡 - 1区 - 58号 - 个人\n幻影群岛 - 白银乡 - 16区 - 58号 - 个人\n幻影群岛 - 穹顶皓天 - 7区 - 32号 - 个人\n幻影群岛 - 穹顶皓天 - 8区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 9区 - 51号 - 个人\n幻影群岛 - 薰衣草苗圃 - 21区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:bc567e98-c209-4b69-bec4-ac345c8097c0@bc56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 白银乡 - 20区 - 45号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260617T150000Z
-SUMMARY:M房抽选截止
-UID:23dda934-785c-4bba-bb93-a0e6890bb7d9@23dd.org
+UID:91027ed1-4d7a-4af7-9e78-f880e0fe2254@9102.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 24区 - 45号 - 部队\n幻影群岛 - 穹顶皓天 - 1区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260617T150000Z
 SUMMARY:L房抽选截止
-UID:b20ee410-f115-4feb-8f83-0930ccc48534@b20e.org
+UID:352aebcc-f94a-46ff-a31d-9a833903cce8@352a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 2区 - 45号 - 个人\n幻影群岛 - 高脚孤丘 - 1区 - 60号 - 个人\n幻影群岛 - 高脚孤丘 - 13区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 高脚孤丘 - 4区 - 4号 - 个人\n幻影群岛 - 白银乡 - 16区 - 24号 - 个人\n幻影群岛 - 白银乡 - 20区 - 45号 - 其他\n幻影群岛 - 穹顶皓天 - 8区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260617T150000Z
+SUMMARY:M房抽选截止
+UID:44833474-434b-4582-8e75-43c58bfde650@4483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 2区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:L房抽选截止
-UID:63a85dd1-3dc8-4656-b952-ba144171e70c@63a8.org
+UID:456ef610-0d0b-420c-8982-94adf4b55a2b@456e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 高脚孤丘 - 11区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260530T150000Z
+SUMMARY:M房抽选截止
+UID:4f38778a-11e6-4103-a4ea-902ba74c1d30@4f38.org
 END:VEVENT
 END:VCALENDAR
