@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 23区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260617T150000Z
 SUMMARY:L房抽选截止
-UID:0a5f3429-6cfb-4478-9249-bc469b8e6df3@0a5f.org
+UID:479a1d22-a608-4889-a2a0-31ed1660b38f@479a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 5区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260617T150000Z
-SUMMARY:M房抽选截止
-UID:21ddd608-1a29-49da-af27-d07ff3b976b5@21dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 高脚孤丘 - 18区 - 25号 - 其他\n宇宙和音 - 高脚孤丘 - 28区 - 55号 - 其他\n宇宙和音 - 白银乡 - 3区 - 54号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 18区 - 25号 - 其他\n宇宙和音 - 白银乡 - 3区 - 54号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:61f479e4-995d-4196-819f-0e698730132f@61f4.org
+UID:b2738127-a4cc-4b89-b6e5-31fdcf62a89f@b273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 24区 - 14号 - 部队\n宇宙和音 - 高脚孤丘 - 5区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260617T150000Z
+SUMMARY:M房抽选截止
+UID:ed5aa1de-87ac-4129-a2f1-c333b6e675fa@ed5a.org
 END:VEVENT
 END:VCALENDAR
