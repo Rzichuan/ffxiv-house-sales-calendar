@@ -5,18 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 8区 - 57号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:452d5f54-f31d-4620-b3f9-4a3f310e868e@452d.org
+UID:01753911-9e9d-48d3-a97c-3613743796db@0175.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 22区 - 1号 - 部队\n红玉海 - 薰衣草苗圃 - 26区 - 57号 - 个人\n红玉海 - 薰衣草苗圃 - 27区 - 57号 - 个人\n红玉海 - 白银乡 - 11区 - 58号 - 个人\n红玉海 - 穹顶皓天 - 12区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 13区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 25区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260617T150000Z
 SUMMARY:M房抽选截止
-UID:605081f2-5435-4eca-a033-d9aeef7e90ef@6050.org
+UID:ce1337d0-41f7-40f9-8011-889c3e8d6090@ce13.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 白银乡 - 21区 - 16号 - 部队\n红玉海 - 穹顶皓天 - 10区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260617T150000Z
 SUMMARY:L房抽选截止
-UID:ee764800-fca7-4cd5-92d5-4f1c28b3a4f4@ee76.org
+UID:d1561d28-3ea7-49fd-98c9-6f96936b0b06@d156.org
 END:VEVENT
 END:VCALENDAR
