@@ -2,27 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 28区 - 30号 - 其他\n晨曦王座 - 白银乡 - 8区 - 37号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260617T150000Z
-SUMMARY:L房抽选截止
-UID:2fc9ae55-d293-4c37-a2d8-76ca9fa429a2@2fc9.org
+DESCRIPTION:晨曦王座 - 海雾村 - 26区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260626T150000Z
+SUMMARY:M房抽选截止
+UID:4a739a17-390b-4425-aae6-5aa0678126b2@4a73.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 13区 - 37号 - 个人\n晨曦王座 - 海雾村 - 24区 - 36号 - 部队\n晨曦王座 - 薰衣草苗圃 - 8区 - 60号 - 个人\n晨曦王座 - 薰衣草苗圃 - 9区 - 21号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 21号 - 其他\n晨曦王座 - 高脚孤丘 - 6区 - 49号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 19号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 38号 - 其他\n晨曦王座 - 高脚孤丘 - 25区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 8号 - 个人\n晨曦王座 - 白银乡 - 10区 - 49号 - 个人\n晨曦王座 - 白银乡 - 29区 - 31号 - 其他\n晨曦王座 - 穹顶皓天 - 25区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260617T150000Z
-SUMMARY:M房抽选截止
-UID:d5142082-fad4-4cc4-a35b-bab76d2007bf@d514.org
+DESCRIPTION:晨曦王座 - 白银乡 - 26区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260626T150000Z
+SUMMARY:L房抽选截止
+UID:cee47581-a58a-44e3-841c-1c5b7964bf8d@cee4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 16区 - 25号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:1f577c9c-fde4-4824-8c85-61a1c68831b9@1f57.org
+UID:c4c3c8e8-8d58-4a55-96ca-41dff5640953@c4c3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 26区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260626T150000Z
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 28区 - 30号 - 其他\n晨曦王座 - 白银乡 - 8区 - 37号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260617T150000Z
+SUMMARY:L房抽选截止
+UID:ff648aea-1917-4abd-856c-f1aee4a57840@ff64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 13区 - 37号 - 个人\n晨曦王座 - 海雾村 - 24区 - 36号 - 部队\n晨曦王座 - 薰衣草苗圃 - 8区 - 60号 - 个人\n晨曦王座 - 薰衣草苗圃 - 9区 - 21号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 21号 - 其他\n晨曦王座 - 高脚孤丘 - 6区 - 49号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 19号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 38号 - 其他\n晨曦王座 - 高脚孤丘 - 25区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 8号 - 个人\n晨曦王座 - 白银乡 - 10区 - 49号 - 个人\n晨曦王座 - 白银乡 - 29区 - 31号 - 其他\n晨曦王座 - 穹顶皓天 - 25区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260617T150000Z
 SUMMARY:M房抽选截止
-UID:faf761b4-f6cb-484b-b7cd-c780f687ea55@faf7.org
+UID:ace47348-e121-4abb-bd02-d89d406e2eff@ace4.org
 END:VEVENT
 END:VCALENDAR
