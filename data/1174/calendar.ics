@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 1区 - 1号 - 个人\n沃仙曦染 - 海雾村 - 15区 - 44号 - 个人\n沃仙曦染 - 高脚孤丘 - 10区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260626T150000Z
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 11区 - 51号 - 个人\n沃仙曦染 - 白银乡 - 8区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:f8d56c2c-2b9c-4aab-890f-79d98b71d6c1@f8d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 15区 - 7号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 9区 - 46号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 19区 - 1号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 23区 - 51号 - 部队\n沃仙曦染 - 薰衣草苗圃 - 28区 - 21号 - 其他\n沃仙曦染 - 高脚孤丘 - 7区 - 19号 - 个人\n沃仙曦染 - 高脚孤丘 - 29区 - 55号 - 其他\n沃仙曦染 - 穹顶皓天 - 1区 - 21号 - 个人\n沃仙曦染 - 穹顶皓天 - 29区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260617T150000Z
-SUMMARY:M房抽选截止
-UID:2544f34e-53e4-4269-a715-efc9b2fac6e2@2544.org
+UID:f49f0131-f2fb-49df-b59a-19a0fcde44cb@f49f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 30区 - 36号 - 部队\n沃仙曦染 - 高脚孤丘 - 17区 - 43号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:L房抽选截止
-UID:231f137e-d36c-4d63-82a5-4d2bd7844a08@231f.org
+UID:8aff21ef-7e8b-46b0-9f2c-38accd309cb2@8aff.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 11区 - 51号 - 个人\n沃仙曦染 - 白银乡 - 8区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260608T150000Z
+DESCRIPTION:沃仙曦染 - 海雾村 - 1区 - 1号 - 个人\n沃仙曦染 - 海雾村 - 15区 - 44号 - 个人\n沃仙曦染 - 高脚孤丘 - 10区 - 36号 - 个人\n沃仙曦染 - 穹顶皓天 - 29区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260626T150000Z
 SUMMARY:M房抽选截止
-UID:22d0ef86-e769-45bb-9ab2-4f16e6d2fe69@22d0.org
+UID:95551f28-744a-4c7a-8b6b-dcf0054a2ec6@9555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 海雾村 - 15区 - 7号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 9区 - 46号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 19区 - 1号 - 其他\n沃仙曦染 - 薰衣草苗圃 - 23区 - 51号 - 部队\n沃仙曦染 - 薰衣草苗圃 - 28区 - 21号 - 其他\n沃仙曦染 - 高脚孤丘 - 7区 - 19号 - 个人\n沃仙曦染 - 高脚孤丘 - 29区 - 55号 - 其他\n沃仙曦染 - 穹顶皓天 - 1区 - 21号 - 个人\n沃仙曦染 - 穹顶皓天 - 29区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260617T150000Z
+SUMMARY:M房抽选截止
+UID:8cdafbd6-90c5-476f-94f6-ab02605f31b0@8cda.org
 END:VEVENT
 END:VCALENDAR

@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 26区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260626T150000Z
+SUMMARY:L房抽选截止
+UID:912f269c-b3cf-4e3f-987d-65cf91e386e3@912f.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 28区 - 30号 - 其他\n晨曦王座 - 白银乡 - 8区 - 37号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260617T150000Z
 SUMMARY:L房抽选截止
-UID:ce06bf13-c078-4503-a7bd-87309d1119c6@ce06.org
+UID:0e12b84f-b455-41fd-b172-fe2c710b1dc0@0e12.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 13区 - 37号 - 个人\n晨曦王座 - 海雾村 - 24区 - 36号 - 部队\n晨曦王座 - 薰衣草苗圃 - 8区 - 60号 - 个人\n晨曦王座 - 薰衣草苗圃 - 9区 - 21号 - 个人\n晨曦王座 - 薰衣草苗圃 - 17区 - 21号 - 其他\n晨曦王座 - 高脚孤丘 - 6区 - 49号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 19号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 38号 - 其他\n晨曦王座 - 高脚孤丘 - 25区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 25区 - 8号 - 个人\n晨曦王座 - 白银乡 - 10区 - 49号 - 个人\n晨曦王座 - 白银乡 - 29区 - 31号 - 其他\n晨曦王座 - 穹顶皓天 - 25区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260617T150000Z
 SUMMARY:M房抽选截止
-UID:3eaba205-7ca3-4f5e-931e-989a8addd9f3@3eab.org
+UID:d1c583bf-b082-4ff9-b4f6-db813766293f@d1c5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 26区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 11区 - 44号 - 个人\n晨曦王座 - 海雾村 - 25区 - 6号 - 个人\n晨曦王座 - 海雾村 - 25区 - 14号 - 个人\n晨曦王座 - 海雾村 - 26区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
-SUMMARY:L房抽选截止
-UID:bf61659c-ea95-4cce-934b-baf367124808@bf61.org
+SUMMARY:M房抽选截止
+UID:02fa869d-9bf9-457c-940d-4250f4e85634@02fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 16区 - 25号 - 个人\n晨曦王座 - 穹顶皓天 - 23区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260608T150000Z
 SUMMARY:M房抽选截止
-UID:c652852d-e132-4b99-ac61-bef052e87ec4@c652.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 11区 - 44号 - 个人\n晨曦王座 - 海雾村 - 25区 - 6号 - 个人\n晨曦王座 - 海雾村 - 26区 - 31号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260626T150000Z
-SUMMARY:M房抽选截止
-UID:ea7447c8-5158-41d7-ac3b-defd4f9f455d@ea74.org
+UID:d9924bf5-b3f0-4d7d-b227-8a08b9c203da@d992.org
 END:VEVENT
 END:VCALENDAR
