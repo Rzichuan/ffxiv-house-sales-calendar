@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 高脚孤丘 - 14区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260617T150000Z
-SUMMARY:L房抽选截止
-UID:7e99dafb-5bcc-4a59-98cb-6c6c7610bf7c@7e99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 白银乡 - 23区 - 43号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260617T150000Z
-SUMMARY:M房抽选截止
-UID:1ae782d0-8e0a-40a8-971e-331c7215ee81@1ae7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 5区 - 37号 - 个人\n萌芽池 - 海雾村 - 10区 - 59号 - 个人\n萌芽池 - 薰衣草苗圃 - 10区 - 5号 - 个人\n萌芽池 - 高脚孤丘 - 17区 - 38号 - 其他\n萌芽池 - 白银乡 - 11区 - 13号 - 个人\n萌芽池 - 白银乡 - 14区 - 54号 - 个人\n萌芽池 - 白银乡 - 17区 - 24号 - 其他\n萌芽池 - 穹顶皓天 - 10区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:M房抽选截止
-UID:fad8422f-9556-4306-8918-4622dd1f9367@fad8.org
+UID:1d8b762d-f3bb-43a2-97df-20c4ec1f6c2f@1d8b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 4区 - 15号 - 个人\n萌芽池 - 穹顶皓天 - 20区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:萌芽池 - 海雾村 - 4区 - 15号 - 个人\n萌芽池 - 穹顶皓天 - 19区 - 42号 - 其他\n萌芽池 - 穹顶皓天 - 20区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:L房抽选截止
-UID:9ac1004b-5efa-4c35-a139-a0ef25a07b58@9ac1.org
+UID:241c89ae-e7d6-4349-9424-5695b96376e2@241c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 高脚孤丘 - 14区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260617T150000Z
+SUMMARY:L房抽选截止
+UID:f71cc4a8-4c91-4e88-b9b5-6a7771ab29ee@f71c.org
 END:VEVENT
 END:VCALENDAR

@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 27区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 8号 - 其他\n拉诺西亚 - 穹顶皓天 - 4区 - 38号 - 个人\n拉诺西亚 - 穹顶皓天 - 15区 - 37号 - 个人\n拉诺西亚 - 穹顶皓天 - 18区 - 37号 - 其他\n拉诺西亚 - 穹顶皓天 - 27区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:M房抽选截止
-UID:1f44a0d2-d650-4dca-80bd-e25a6887c38b@1f44.org
+UID:69e314c3-dc58-40dc-9d36-a752234b3701@69e3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 22区 - 4号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260608T150000Z
-SUMMARY:M房抽选截止
-UID:1e0645ed-8692-4a28-855c-1fc6ea43e1ad@1e06.org
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 12区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260626T150000Z
+SUMMARY:L房抽选截止
+UID:40658389-6f9b-4957-ae08-d15aa9cf5f9e@4065.org
 END:VEVENT
 END:VCALENDAR
