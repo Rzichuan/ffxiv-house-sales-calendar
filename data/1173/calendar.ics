@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 18区 - 59号 - 其他\n宇宙和音 - 海雾村 - 23区 - 44号 - 部队\n宇宙和音 - 海雾村 - 25区 - 4号 - 个人\n宇宙和音 - 高脚孤丘 - 2区 - 12号 - 个人\n宇宙和音 - 白银乡 - 7区 - 49号 - 个人\n宇宙和音 - 白银乡 - 16区 - 54号 - 个人\n宇宙和音 - 白银乡 - 28区 - 43号 - 其他\n宇宙和音 - 穹顶皓天 - 24区 - 56号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260626T150000Z
+SUMMARY:M房抽选截止
+UID:71100761-0b32-4e49-a73a-11c201395444@7110.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 18区 - 5号 - 其他\n宇宙和音 - 薰衣草苗圃 - 3区 - 33号 - 个人\n宇宙和音 - 薰衣草苗圃 - 4区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:L房抽选截止
-UID:eac3d410-dbfc-40f4-bf74-c0916687452b@eac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 18区 - 59号 - 其他\n宇宙和音 - 海雾村 - 25区 - 4号 - 个人\n宇宙和音 - 高脚孤丘 - 2区 - 12号 - 个人\n宇宙和音 - 白银乡 - 7区 - 49号 - 个人\n宇宙和音 - 白银乡 - 16区 - 54号 - 个人\n宇宙和音 - 白银乡 - 28区 - 43号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260626T150000Z
-SUMMARY:M房抽选截止
-UID:0fe8bb81-089c-45b5-bbaf-02490e9a0479@0fe8.org
+UID:27a3c735-344b-49cf-9f33-7783b685356c@27a3.org
 END:VEVENT
 END:VCALENDAR
