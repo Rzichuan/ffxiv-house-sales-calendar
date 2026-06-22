@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 4区 - 15号 - 个人\n萌芽池 - 穹顶皓天 - 19区 - 42号 - 其他\n萌芽池 - 穹顶皓天 - 20区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:L房抽选截止
-UID:c9947ba0-c96c-40ee-b70c-d7a18caab9a2@c994.org
+UID:4d3823bb-3759-4a47-bf6e-b1f681ae0fe9@4d38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 海雾村 - 25区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260705T150000Z
+SUMMARY:M房抽选截止
+UID:4746268f-02ec-4f94-bce4-b1c434f431ad@4746.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 5区 - 37号 - 个人\n萌芽池 - 海雾村 - 10区 - 59号 - 个人\n萌芽池 - 薰衣草苗圃 - 5区 - 1号 - 个人\n萌芽池 - 薰衣草苗圃 - 10区 - 5号 - 个人\n萌芽池 - 高脚孤丘 - 17区 - 38号 - 其他\n萌芽池 - 白银乡 - 11区 - 13号 - 个人\n萌芽池 - 白银乡 - 14区 - 54号 - 个人\n萌芽池 - 白银乡 - 17区 - 24号 - 其他\n萌芽池 - 穹顶皓天 - 10区 - 37号 - 个人\n萌芽池 - 穹顶皓天 - 11区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:M房抽选截止
-UID:308a71cf-3c9c-4e66-bc63-fb25b2d6dc04@308a.org
+UID:94afea8c-7aa1-4356-a582-26ebe785d245@94af.org
 END:VEVENT
 END:VCALENDAR
