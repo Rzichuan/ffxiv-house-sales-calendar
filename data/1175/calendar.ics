@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 7区 - 2号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 60号 - 个人\n晨曦王座 - 白银乡 - 26区 - 37号 - 个人\n晨曦王座 - 穹顶皓天 - 25区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:L房抽选截止
-UID:87a80881-3b1e-453f-9429-d551bf214976@87a8.org
+UID:be118a43-f977-4b9c-a6c2-a11dcd15c038@be11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 26区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260705T150000Z
+SUMMARY:M房抽选截止
+UID:3e08e13b-a9df-4c08-918a-e0bb2392150d@3e08.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 11区 - 44号 - 个人\n晨曦王座 - 海雾村 - 24区 - 37号 - 部队\n晨曦王座 - 海雾村 - 25区 - 6号 - 个人\n晨曦王座 - 海雾村 - 25区 - 14号 - 个人\n晨曦王座 - 海雾村 - 26区 - 31号 - 个人\n晨曦王座 - 薰衣草苗圃 - 12区 - 27号 - 个人\n晨曦王座 - 高脚孤丘 - 14区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 24区 - 34号 - 部队\n晨曦王座 - 白银乡 - 4区 - 19号 - 个人\n晨曦王座 - 白银乡 - 17区 - 24号 - 其他\n晨曦王座 - 穹顶皓天 - 1区 - 8号 - 个人\n晨曦王座 - 穹顶皓天 - 6区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:M房抽选截止
-UID:cfae3135-ac72-4f28-81b5-774dca39b2d2@cfae.org
+UID:76e3fc09-3207-423d-9e3c-624834e1de20@76e3.org
 END:VEVENT
 END:VCALENDAR
