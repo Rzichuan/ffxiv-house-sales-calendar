@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 26区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 2区 - 25号 - 个人\n红玉海 - 高脚孤丘 - 9区 - 41号 - 个人\n红玉海 - 白银乡 - 5区 - 54号 - 个人\n红玉海 - 白银乡 - 8区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260626T150000Z
-SUMMARY:M房抽选截止
-UID:a0c4b005-bbe8-4cf7-b01c-bf7beef1e9a8@a0c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 9区 - 2号 - 个人\n红玉海 - 穹顶皓天 - 11区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260705T150000Z
-SUMMARY:L房抽选截止
-UID:f197dc80-c219-4395-854b-25d21f86d131@f197.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 11区 - 21号 - 个人\n红玉海 - 薰衣草苗圃 - 19区 - 41号 - 其他\n红玉海 - 白银乡 - 5区 - 49号 - 个人\n红玉海 - 白银乡 - 12区 - 15号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 5区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 15区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 11区 - 21号 - 个人\n红玉海 - 薰衣草苗圃 - 19区 - 41号 - 其他\n红玉海 - 白银乡 - 5区 - 49号 - 个人\n红玉海 - 白银乡 - 12区 - 15号 - 个人\n红玉海 - 白银乡 - 13区 - 15号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 5区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 15区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260705T150000Z
 SUMMARY:M房抽选截止
-UID:01f8c2ed-c490-4372-8e66-e2e9c74d9e2d@01f8.org
+UID:32534619-e1bc-47d1-bfd2-d4688c1706f4@3253.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 20区 - 5号 - 其他\n红玉海 - 高脚孤丘 - 1区 - 43号 - 个人\n红玉海 - 白银乡 - 13区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 高脚孤丘 - 2区 - 25号 - 个人\n红玉海 - 白银乡 - 5区 - 54号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260626T150000Z
+SUMMARY:M房抽选截止
+UID:80dfa132-a569-4250-8928-a699dd3b8df6@80df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 9区 - 2号 - 个人\n红玉海 - 高脚孤丘 - 23区 - 43号 - 部队\n红玉海 - 穹顶皓天 - 11区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260705T150000Z
+SUMMARY:L房抽选截止
+UID:cc431c09-611a-4066-b17d-98b3ebfa390e@cc43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 高脚孤丘 - 1区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:L房抽选截止
-UID:b8ab2fc1-1e0c-4777-bf8c-6628bae8bdc5@b8ab.org
+UID:b9220402-736b-448c-9a0c-3b5980256c1c@b922.org
 END:VEVENT
 END:VCALENDAR
