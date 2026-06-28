@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 薰衣草苗圃 - 10区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260626T150000Z
-SUMMARY:M房抽选截止
-UID:0d5112a9-d034-4a19-9639-6759cad30f99@0d51.org
+DESCRIPTION:萌芽池 - 穹顶皓天 - 26区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260705T150000Z
+SUMMARY:L房抽选截止
+UID:20f42ac5-80f8-4b8a-b03f-dd9f812daa96@20f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 3区 - 31号 - 个人\n萌芽池 - 海雾村 - 25区 - 60号 - 个人\n萌芽池 - 白银乡 - 30区 - 43号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260705T150000Z
 SUMMARY:M房抽选截止
-UID:33fd0661-a70c-44a1-aa0c-d1b33c1442de@33fd.org
+UID:a76b0f23-00a2-4995-af06-6df7d13bc336@a76b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 穹顶皓天 - 26区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260705T150000Z
-SUMMARY:L房抽选截止
-UID:25274f5a-e5ed-45f9-9b9a-644477bbadf2@2527.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 4区 - 15号 - 个人\n萌芽池 - 穹顶皓天 - 19区 - 42号 - 其他\n萌芽池 - 穹顶皓天 - 20区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:萌芽池 - 穹顶皓天 - 19区 - 42号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:L房抽选截止
-UID:e9ad8416-5cd2-4bad-8703-1d492b7785d1@e9ad.org
+UID:21dca81b-a2db-46f4-878b-c707ee5b6566@21dc.org
 END:VEVENT
 END:VCALENDAR

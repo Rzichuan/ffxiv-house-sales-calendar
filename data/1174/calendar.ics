@@ -2,21 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 6区 - 57号 - 个人\n沃仙曦染 - 高脚孤丘 - 1区 - 41号 - 个人\n沃仙曦染 - 高脚孤丘 - 24区 - 36号 - 部队\n沃仙曦染 - 高脚孤丘 - 26区 - 49号 - 个人\n沃仙曦染 - 高脚孤丘 - 30区 - 55号 - 部队\n沃仙曦染 - 白银乡 - 14区 - 1号 - 个人\n沃仙曦染 - 白银乡 - 16区 - 28号 - 个人\n沃仙曦染 - 白银乡 - 17区 - 43号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260705T150000Z
-SUMMARY:M房抽选截止
-UID:4c13a20b-4ece-4e23-a396-0db00227d2b0@4c13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 9区 - 33号 - 个人\n沃仙曦染 - 高脚孤丘 - 17区 - 43号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260626T150000Z
-SUMMARY:L房抽选截止
-UID:207c4e92-6288-42a7-92e7-146b1f77bce8@207c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 海雾村 - 1区 - 1号 - 个人\n沃仙曦染 - 穹顶皓天 - 29区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260626T150000Z
 SUMMARY:M房抽选截止
-UID:37ec3483-8599-468f-9360-f9d59e4aa21b@37ec.org
+UID:83d73790-b2c4-4215-b469-6441bd9f4e80@83d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 6区 - 57号 - 个人\n沃仙曦染 - 高脚孤丘 - 1区 - 41号 - 个人\n沃仙曦染 - 高脚孤丘 - 20区 - 55号 - 其他\n沃仙曦染 - 高脚孤丘 - 24区 - 36号 - 部队\n沃仙曦染 - 高脚孤丘 - 26区 - 49号 - 个人\n沃仙曦染 - 高脚孤丘 - 30区 - 55号 - 部队\n沃仙曦染 - 白银乡 - 14区 - 1号 - 个人\n沃仙曦染 - 白银乡 - 16区 - 28号 - 个人\n沃仙曦染 - 白银乡 - 17区 - 43号 - 其他\n沃仙曦染 - 白银乡 - 18区 - 28号 - 其他\n沃仙曦染 - 穹顶皓天 - 6区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260705T150000Z
+SUMMARY:M房抽选截止
+UID:c65c1c3c-9550-4ed2-9beb-30a5e5cd8848@c65c.org
 END:VEVENT
 END:VCALENDAR
