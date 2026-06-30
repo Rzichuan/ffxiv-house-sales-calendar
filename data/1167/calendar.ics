@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 9区 - 2号 - 个人\n红玉海 - 高脚孤丘 - 23区 - 43号 - 部队\n红玉海 - 穹顶皓天 - 11区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 9区 - 2号 - 个人\n红玉海 - 薰衣草苗圃 - 16区 - 3号 - 个人\n红玉海 - 高脚孤丘 - 23区 - 43号 - 部队\n红玉海 - 穹顶皓天 - 11区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260705T150000Z
 SUMMARY:L房抽选截止
-UID:9eb3425c-f55b-4ea3-b536-47a81c76d200@9eb3.org
+UID:588c8f80-c048-4f63-8152-b4519748e5c0@588c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 11区 - 21号 - 个人\n红玉海 - 薰衣草苗圃 - 19区 - 41号 - 其他\n红玉海 - 高脚孤丘 - 1区 - 4号 - 个人\n红玉海 - 白银乡 - 5区 - 49号 - 个人\n红玉海 - 白银乡 - 12区 - 15号 - 个人\n红玉海 - 白银乡 - 13区 - 15号 - 个人\n红玉海 - 穹顶皓天 - 4区 - 26号 - 个人\n红玉海 - 穹顶皓天 - 5区 - 7号 - 个人\n红玉海 - 穹顶皓天 - 15区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260705T150000Z
 SUMMARY:M房抽选截止
-UID:486a9816-0e11-437d-887a-c3f83f2c05de@486a.org
+UID:3da9f212-5241-499d-a162-1ea275ea3823@3da9.org
 END:VEVENT
 END:VCALENDAR
