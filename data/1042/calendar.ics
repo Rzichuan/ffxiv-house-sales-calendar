@@ -2,15 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 7区 - 6号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 23区 - 51号 - 部队\n拉诺西亚 - 高脚孤丘 - 10区 - 4号 - 个人\n拉诺西亚 - 穹顶皓天 - 11区 - 38号 - 个人\n拉诺西亚 - 穹顶皓天 - 12区 - 32号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 7区 - 6号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 21区 - 31号 - 部队\n拉诺西亚 - 薰衣草苗圃 - 23区 - 51号 - 部队\n拉诺西亚 - 高脚孤丘 - 10区 - 4号 - 个人\n拉诺西亚 - 穹顶皓天 - 11区 - 38号 - 个人\n拉诺西亚 - 穹顶皓天 - 12区 - 32号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260705T150000Z
 SUMMARY:M房抽选截止
-UID:805ccd4b-f817-451f-bf17-6ddeb3d5499d@805c.org
+UID:9d750abd-45e1-47ad-bc4c-b20b35099de3@9d75.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 穹顶皓天 - 14区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260705T150000Z
 SUMMARY:L房抽选截止
-UID:b960ba1b-77a8-4f9e-8874-cef48e3fa3de@b960.org
+UID:cf885cf4-5de2-4f32-842a-62589892af9f@cf88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 20区 - 60号 - 其他\n拉诺西亚 - 穹顶皓天 - 28区 - 26号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260714T150000Z
+SUMMARY:M房抽选截止
+UID:aab3dcb6-640b-4328-86da-db4526028bf1@aab3.org
 END:VEVENT
 END:VCALENDAR
