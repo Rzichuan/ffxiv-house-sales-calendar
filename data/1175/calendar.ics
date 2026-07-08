@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 5区 - 4号 - 个人\n晨曦王座 - 薰衣草苗圃 - 22区 - 41号 - 部队\n晨曦王座 - 高脚孤丘 - 10区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 34号 - 个人\n晨曦王座 - 白银乡 - 1区 - 45号 - 个人\n晨曦王座 - 穹顶皓天 - 2区 - 18号 - 个人\n晨曦王座 - 穹顶皓天 - 6区 - 2号 - 个人\n晨曦王座 - 穹顶皓天 - 12区 - 7号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 56号 - 其他\n晨曦王座 - 穹顶皓天 - 30区 - 21号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:4f319073-7b6f-41c3-a203-c644bb18e94c@4f31.org
+UID:91aa9af1-d768-4da8-8e23-7b10809cf1aa@91aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 3区 - 46号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260714T150000Z
+SUMMARY:L房抽选截止
+UID:79b9e047-82d5-40a6-af3c-3fd88c7291b5@79b9.org
 END:VEVENT
 END:VCALENDAR

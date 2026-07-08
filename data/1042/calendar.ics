@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 6区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260714T150000Z
-SUMMARY:L房抽选截止
-UID:47212d15-5afb-422d-b28d-0bfff9c18691@4721.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 20区 - 60号 - 其他\n拉诺西亚 - 高脚孤丘 - 3区 - 42号 - 个人\n拉诺西亚 - 高脚孤丘 - 22区 - 55号 - 部队\n拉诺西亚 - 高脚孤丘 - 23区 - 42号 - 部队\n拉诺西亚 - 高脚孤丘 - 30区 - 6号 - 部队\n拉诺西亚 - 穹顶皓天 - 2区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 8区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 27区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 28区 - 26号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 20区 - 60号 - 其他\n拉诺西亚 - 高脚孤丘 - 3区 - 42号 - 个人\n拉诺西亚 - 高脚孤丘 - 10区 - 34号 - 个人\n拉诺西亚 - 高脚孤丘 - 22区 - 55号 - 部队\n拉诺西亚 - 高脚孤丘 - 23区 - 42号 - 部队\n拉诺西亚 - 高脚孤丘 - 30区 - 6号 - 部队\n拉诺西亚 - 穹顶皓天 - 2区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 8区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 27区 - 47号 - 个人\n拉诺西亚 - 穹顶皓天 - 28区 - 26号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:1d9fb425-9875-4c5c-b2df-b14d5bdc21a0@1d9f.org
+UID:9686d5d2-9c9c-405f-9153-cd11a620c3dd@9686.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 7区 - 6号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260705T150000Z
 SUMMARY:M房抽选截止
-UID:0b0f6463-a7b3-4452-970c-e5300f0a27dd@0b0f.org
+UID:0930bc93-862b-466a-bc09-7ed4ac0327db@0930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 6区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260714T150000Z
+SUMMARY:L房抽选截止
+UID:24ba274c-f046-4517-aab4-445194525565@24ba.org
 END:VEVENT
 END:VCALENDAR
