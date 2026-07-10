@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 高脚孤丘 - 6区 - 49号 - 个人\n萌芽池 - 高脚孤丘 - 23区 - 49号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260723T150000Z
+SUMMARY:M房抽选截止
+UID:bbf96f22-f2d4-427c-b265-fc850a3d29a3@bbf9.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 14区 - 4号 - 个人\n萌芽池 - 薰衣草苗圃 - 23区 - 31号 - 部队\n萌芽池 - 高脚孤丘 - 1区 - 19号 - 个人\n萌芽池 - 高脚孤丘 - 1区 - 25号 - 个人\n萌芽池 - 高脚孤丘 - 10区 - 4号 - 个人\n萌芽池 - 穹顶皓天 - 27区 - 56号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:a10923fd-201f-431d-a610-9cb5e2979845@a109.org
+UID:d0371b10-ecc4-4a61-a525-1cc5aa9eeea7@d037.org
 END:VEVENT
 END:VCALENDAR
