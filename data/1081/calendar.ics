@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 23区 - 21号 - 部队\n神意之地 - 高脚孤丘 - 4区 - 8号 - 个人\n神意之地 - 高脚孤丘 - 22区 - 49号 - 部队\n神意之地 - 白银乡 - 13区 - 8号 - 个人\n神意之地 - 白银乡 - 23区 - 43号 - 部队\n神意之地 - 白银乡 - 24区 - 13号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260714T150000Z
+SUMMARY:M房抽选截止
+UID:87f6570a-836b-4009-a245-ab28b9e9fab2@87f6.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 5区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:L房抽选截止
-UID:ce5eea64-66cf-4081-91df-f598377fb236@ce5e.org
+UID:0a413039-17ea-4208-bf5f-ca37b40908ec@0a41.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 26区 - 58号 - 个人\n神意之地 - 高脚孤丘 - 11区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:L房抽选截止
-UID:e40a8124-f033-4f08-be98-f87c13c0aa16@e40a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 23区 - 21号 - 部队\n神意之地 - 高脚孤丘 - 4区 - 8号 - 个人\n神意之地 - 高脚孤丘 - 22区 - 49号 - 部队\n神意之地 - 白银乡 - 13区 - 8号 - 个人\n神意之地 - 白银乡 - 23区 - 43号 - 部队\n神意之地 - 白银乡 - 24区 - 13号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260714T150000Z
-SUMMARY:M房抽选截止
-UID:c6060861-8457-4080-8218-cf156f595e35@c606.org
+UID:2c592e1a-f372-4246-bdab-2bf2e2c8fee6@2c59.org
 END:VEVENT
 END:VCALENDAR
