@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 23区 - 21号 - 部队\n神意之地 - 高脚孤丘 - 4区 - 8号 - 个人\n神意之地 - 高脚孤丘 - 22区 - 49号 - 部队\n神意之地 - 白银乡 - 13区 - 8号 - 个人\n神意之地 - 白银乡 - 23区 - 43号 - 部队\n神意之地 - 白银乡 - 24区 - 13号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:3524ca4d-5994-4033-97ed-a18b50bbc4d7@3524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260723T150000Z
-SUMMARY:M房抽选截止
-UID:1301f2ad-3b68-4ad8-9337-f5121948af0c@1301.org
+UID:196eb890-73ea-45fe-bbe0-b8a2c665b587@196e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 5区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:L房抽选截止
-UID:725612f4-7b59-467b-b35c-5e4ecd7acb49@7256.org
+UID:8ff24130-3b3f-4741-919b-ac6c15da949f@8ff2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 26区 - 58号 - 个人\n神意之地 - 高脚孤丘 - 11区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:L房抽选截止
-UID:cf9c0a67-fb54-47c5-b458-86d82228a16d@cf9c.org
+UID:82947315-534b-4efd-a73f-3c4929967c90@8294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260723T150000Z
+SUMMARY:M房抽选截止
+UID:fbc9ef5a-acf7-4da7-aeec-678f5b042228@fbc9.org
 END:VEVENT
 END:VCALENDAR
