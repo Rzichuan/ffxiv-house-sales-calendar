@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 23区 - 7号 - 部队\n萌芽池 - 薰衣草苗圃 - 10区 - 21号 - 个人\n萌芽池 - 高脚孤丘 - 6区 - 49号 - 个人\n萌芽池 - 高脚孤丘 - 23区 - 49号 - 部队\n萌芽池 - 高脚孤丘 - 24区 - 49号 - 部队\n萌芽池 - 白银乡 - 24区 - 31号 - 部队\n萌芽池 - 白银乡 - 27区 - 31号 - 个人\n萌芽池 - 穹顶皓天 - 13区 - 21号 - 个人\n萌芽池 - 穹顶皓天 - 22区 - 51号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:M房抽选截止
-UID:b479f0f3-5edd-4a17-92af-da14fc6de472@b479.org
+UID:2ada0342-8fa0-41e5-8c21-d509ea2c7b00@2ada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 白银乡 - 1区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:M房抽选截止
+UID:1cb18acf-6d0b-4883-a7d3-091a172fc5d3@1cb1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 高脚孤丘 - 1区 - 19号 - 个人\n萌芽池 - 高脚孤丘 - 10区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:6591fc26-7357-4028-a231-da2601191c1e@6591.org
+UID:2b46cfc8-063b-4c5b-8f77-dc2fd6cd4916@2b46.org
 END:VEVENT
 END:VCALENDAR
