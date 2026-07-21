@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 1区 - 4号 - 个人\n拉诺西亚 - 海雾村 - 1区 - 36号 - 个人\n拉诺西亚 - 海雾村 - 9区 - 7号 - 个人\n拉诺西亚 - 海雾村 - 20区 - 1号 - 其他\n拉诺西亚 - 海雾村 - 26区 - 59号 - 个人\n拉诺西亚 - 海雾村 - 29区 - 14号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 4区 - 30号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 12区 - 27号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 23区 - 5号 - 部队\n拉诺西亚 - 高脚孤丘 - 11区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 18区 - 25号 - 其他\n拉诺西亚 - 白银乡 - 1区 - 58号 - 个人\n拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 18号 - 个人\n拉诺西亚 - 穹顶皓天 - 22区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260723T150000Z
-SUMMARY:M房抽选截止
-UID:70f233be-60a3-4ec5-8284-85a2d1a211a7@70f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 14区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:M房抽选截止
-UID:f5e9f96f-a443-4ec6-8f26-dd25544305d8@f5e9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 22区 - 55号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:7ba219b0-ee66-49b0-b049-aadc91f51e80@7ba2.org
+UID:861a75ff-b5b6-4b3d-aec0-a4a441f66bfd@861a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 1区 - 4号 - 个人\n拉诺西亚 - 海雾村 - 1区 - 36号 - 个人\n拉诺西亚 - 海雾村 - 9区 - 7号 - 个人\n拉诺西亚 - 海雾村 - 20区 - 1号 - 其他\n拉诺西亚 - 海雾村 - 26区 - 59号 - 个人\n拉诺西亚 - 海雾村 - 29区 - 14号 - 其他\n拉诺西亚 - 薰衣草苗圃 - 4区 - 30号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 12区 - 27号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 23区 - 5号 - 部队\n拉诺西亚 - 高脚孤丘 - 11区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 18区 - 25号 - 其他\n拉诺西亚 - 白银乡 - 1区 - 58号 - 个人\n拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n拉诺西亚 - 穹顶皓天 - 3区 - 18号 - 个人\n拉诺西亚 - 穹顶皓天 - 22区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260723T150000Z
+SUMMARY:M房抽选截止
+UID:67e2284d-dcdf-44bd-90d2-1e41ed0780bc@67e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 6区 - 60号 - 个人\n拉诺西亚 - 穹顶皓天 - 15区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:L房抽选截止
-UID:9f9b3799-6d1e-4168-94b3-12d46012e32f@9f9b.org
+UID:cb6a7885-8b1a-44a5-96bb-f6cc7f2981c5@cb6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 14区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:M房抽选截止
+UID:f07a6844-e0cc-4a52-a2fd-75325fdd944b@f07a.org
 END:VEVENT
 END:VCALENDAR
