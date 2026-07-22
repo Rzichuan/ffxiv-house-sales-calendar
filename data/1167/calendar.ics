@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 4区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 8区 - 51号 - 个人\n红玉海 - 白银乡 - 9区 - 54号 - 个人\n红玉海 - 穹顶皓天 - 30区 - 48号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:M房抽选截止
+UID:9388e752-32d8-4c62-aba8-a80b786783a0@9388.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 26区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:L房抽选截止
-UID:f27b34a5-c13b-41e6-96f7-dfd7b563458b@f27b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 4区 - 14号 - 个人\n红玉海 - 白银乡 - 9区 - 54号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:M房抽选截止
-UID:fbfe5472-8071-4945-97e9-6f866ffa00f6@fbfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 2区 - 4号 - 个人\n红玉海 - 海雾村 - 9区 - 14号 - 个人\n红玉海 - 海雾村 - 10区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 3区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 31号 - 个人\n红玉海 - 薰衣草苗圃 - 27区 - 60号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 38号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 12号 - 其他\n红玉海 - 高脚孤丘 - 22区 - 55号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 19号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n红玉海 - 白银乡 - 7区 - 15号 - 个人\n红玉海 - 穹顶皓天 - 23区 - 47号 - 部队\n红玉海 - 穹顶皓天 - 27区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260723T150000Z
-SUMMARY:M房抽选截止
-UID:8fcab7f7-f877-4341-88e5-14ae824b8aec@8fca.org
+UID:f0bc2e6f-e6bf-40b5-ac2e-764f60d928dc@f0bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 5区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:8573fabe-dbbd-4998-a1c1-129673bc71f5@8573.org
+UID:c023d7a3-db90-4569-8ee5-99a38462c5ae@c023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 2区 - 4号 - 个人\n红玉海 - 海雾村 - 9区 - 14号 - 个人\n红玉海 - 海雾村 - 10区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 3区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 31号 - 个人\n红玉海 - 薰衣草苗圃 - 27区 - 60号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 38号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 12号 - 其他\n红玉海 - 高脚孤丘 - 22区 - 55号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 19号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n红玉海 - 白银乡 - 7区 - 15号 - 个人\n红玉海 - 穹顶皓天 - 23区 - 47号 - 部队\n红玉海 - 穹顶皓天 - 27区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260723T150000Z
+SUMMARY:M房抽选截止
+UID:028069f3-9dce-4e90-8e6a-41b17ef47afe@0280.org
 END:VEVENT
 END:VCALENDAR
