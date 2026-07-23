@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 4区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 8区 - 51号 - 个人\n红玉海 - 白银乡 - 9区 - 54号 - 个人\n红玉海 - 穹顶皓天 - 30区 - 48号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:M房抽选截止
-UID:9388e752-32d8-4c62-aba8-a80b786783a0@9388.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 26区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:L房抽选截止
-UID:f0bc2e6f-e6bf-40b5-ac2e-764f60d928dc@f0bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 5区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260714T150000Z
-SUMMARY:M房抽选截止
-UID:c023d7a3-db90-4569-8ee5-99a38462c5ae@c023.org
+UID:ea32d637-4331-4886-b95a-6ec1d9f94c8d@ea32.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 2区 - 4号 - 个人\n红玉海 - 海雾村 - 9区 - 14号 - 个人\n红玉海 - 海雾村 - 10区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 3区 - 5号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 31号 - 个人\n红玉海 - 薰衣草苗圃 - 27区 - 60号 - 个人\n红玉海 - 高脚孤丘 - 18区 - 38号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 12号 - 其他\n红玉海 - 高脚孤丘 - 22区 - 55号 - 部队\n红玉海 - 高脚孤丘 - 26区 - 19号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n红玉海 - 白银乡 - 7区 - 15号 - 个人\n红玉海 - 穹顶皓天 - 23区 - 47号 - 部队\n红玉海 - 穹顶皓天 - 27区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:M房抽选截止
-UID:028069f3-9dce-4e90-8e6a-41b17ef47afe@0280.org
+UID:33fccd21-74d7-4478-ba30-e65e20ec446a@33fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 5区 - 34号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260714T150000Z
+SUMMARY:M房抽选截止
+UID:6719312f-2985-4ce9-974b-c74969a44d2e@6719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 4区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 8区 - 51号 - 个人\n红玉海 - 白银乡 - 9区 - 54号 - 个人\n红玉海 - 穹顶皓天 - 30区 - 48号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:M房抽选截止
+UID:51c85026-c976-4aa7-9487-f820dd6103ae@51c8.org
 END:VEVENT
 END:VCALENDAR

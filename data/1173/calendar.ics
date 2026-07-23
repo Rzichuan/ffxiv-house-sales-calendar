@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 15区 - 58号 - 个人\n宇宙和音 - 穹顶皓天 - 1区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:L房抽选截止
+UID:fb307ff6-238f-46a0-a505-f4e7bac84b19@fb30.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 白银乡 - 3区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:L房抽选截止
-UID:61246b67-9b30-427a-a50b-b04891b5f63e@6124.org
+UID:446d2c6a-b3f0-4569-8b5d-869cd6773a83@446d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 穹顶皓天 - 1区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:L房抽选截止
-UID:edce3495-d948-4600-855e-cf37512af707@edce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 12区 - 29号 - 个人\n宇宙和音 - 海雾村 - 20区 - 59号 - 其他\n宇宙和音 - 薰衣草苗圃 - 7区 - 21号 - 个人\n宇宙和音 - 薰衣草苗圃 - 12区 - 21号 - 个人\n宇宙和音 - 高脚孤丘 - 10区 - 36号 - 个人\n宇宙和音 - 高脚孤丘 - 15区 - 34号 - 个人\n宇宙和音 - 穹顶皓天 - 7区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260723T150000Z
-SUMMARY:M房抽选截止
-UID:db588d33-7da7-405d-bbac-27dd208f22a0@db58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 27区 - 60号 - 个人\n宇宙和音 - 高脚孤丘 - 27区 - 19号 - 个人\n宇宙和音 - 白银乡 - 14区 - 54号 - 个人\n宇宙和音 - 白银乡 - 18区 - 1号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 27区 - 60号 - 个人\n宇宙和音 - 高脚孤丘 - 27区 - 19号 - 个人\n宇宙和音 - 白银乡 - 14区 - 54号 - 个人\n宇宙和音 - 白银乡 - 18区 - 1号 - 其他\n宇宙和音 - 白银乡 - 19区 - 19号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:06f5b9b3-fba1-4103-8094-8aacd9c2dce0@06f5.org
+UID:c30e97bb-342d-4553-9f87-685051b48b58@c30e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 高脚孤丘 - 7区 - 4号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260714T150000Z
 SUMMARY:M房抽选截止
-UID:e2e18b0c-cfff-44ae-afeb-a457a9512f4b@e2e1.org
+UID:2715d08c-a400-4060-93b7-d0fc7cb8e216@2715.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 12区 - 29号 - 个人\n宇宙和音 - 海雾村 - 20区 - 59号 - 其他\n宇宙和音 - 薰衣草苗圃 - 7区 - 21号 - 个人\n宇宙和音 - 薰衣草苗圃 - 12区 - 21号 - 个人\n宇宙和音 - 高脚孤丘 - 10区 - 36号 - 个人\n宇宙和音 - 高脚孤丘 - 15区 - 34号 - 个人\n宇宙和音 - 穹顶皓天 - 7区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260723T150000Z
+SUMMARY:M房抽选截止
+UID:185271e2-7b6c-474a-a596-9d386792eb79@1852.org
 END:VEVENT
 END:VCALENDAR

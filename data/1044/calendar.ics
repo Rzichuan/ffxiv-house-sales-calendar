@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 9区 - 7号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 9区 - 7号 - 个人\n幻影群岛 - 海雾村 - 22区 - 44号 - 部队\n幻影群岛 - 薰衣草苗圃 - 4区 - 60号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:b0422eaf-c724-40c5-ad92-ff84e4e9ec59@b042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 高脚孤丘 - 24区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:L房抽选截止
-UID:71912c93-2a3d-48cf-bbe3-f8464565d7b3@7191.org
+UID:a453c273-a518-43f9-ba80-04ab90d0baf7@a453.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 8区 - 7号 - 个人\n幻影群岛 - 海雾村 - 24区 - 14号 - 部队\n幻影群岛 - 海雾村 - 28区 - 36号 - 其他\n幻影群岛 - 薰衣草苗圃 - 10区 - 60号 - 个人\n幻影群岛 - 高脚孤丘 - 2区 - 38号 - 个人\n幻影群岛 - 高脚孤丘 - 16区 - 34号 - 个人\n幻影群岛 - 高脚孤丘 - 19区 - 25号 - 其他\n幻影群岛 - 高脚孤丘 - 28区 - 25号 - 其他\n幻影群岛 - 穹顶皓天 - 15区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 16区 - 2号 - 个人\n幻影群岛 - 穹顶皓天 - 29区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:M房抽选截止
-UID:8909813d-7f85-4528-9a34-6d167e7627e9@8909.org
+UID:63076074-6ca4-43c5-97ef-6c542140fb3a@6307.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 29区 - 2号 - 其他\n幻影群岛 - 高脚孤丘 - 24区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:L房抽选截止
+UID:f39e6ad9-3a77-4e14-b5c2-4977fdd24c79@f39e.org
 END:VEVENT
 END:VCALENDAR
