@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 1号 - 其他\n拉诺西亚 - 海雾村 - 26区 - 59号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 4区 - 30号 - 个人\n拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260723T150000Z
+SUMMARY:M房抽选截止
+UID:bb3e3551-8cc5-4bcf-a1f7-852d2ba5bcc3@bb3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 15区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260723T150000Z
+SUMMARY:L房抽选截止
+UID:0f6a044f-4aba-41fe-8e4a-e0121ed27373@0f6a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 1号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 16号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 21区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:c392e5a0-dc18-4aba-b37c-72eb0af01c07@c392.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 1号 - 其他\n拉诺西亚 - 海雾村 - 26区 - 59号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 4区 - 30号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 23区 - 5号 - 部队\n拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n拉诺西亚 - 穹顶皓天 - 22区 - 18号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260723T150000Z
-SUMMARY:M房抽选截止
-UID:6db74637-6017-42f6-831a-db5ae44c45f3@6db7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 6区 - 60号 - 个人\n拉诺西亚 - 穹顶皓天 - 15区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260723T150000Z
-SUMMARY:L房抽选截止
-UID:ac1b22d0-3f22-43a7-92fc-eeff651afb72@ac1b.org
+UID:56eb9c02-c369-4ba9-aac5-419c5005c27a@56eb.org
 END:VEVENT
 END:VCALENDAR
