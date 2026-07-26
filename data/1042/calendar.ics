@@ -5,18 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 1号 - 其他\n拉诺西亚 - 海雾村 - 26区 - 59号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 4区 - 30号 - 个人\n拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:M房抽选截止
-UID:bb3e3551-8cc5-4bcf-a1f7-852d2ba5bcc3@bb3e.org
+UID:8e371ca8-5442-41f2-9432-869db7e4a83b@8e37.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 15区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260723T150000Z
-SUMMARY:L房抽选截止
-UID:0f6a044f-4aba-41fe-8e4a-e0121ed27373@0f6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 1号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 16号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 21区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 1号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 16号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 38号 - 个人\n拉诺西亚 - 白银乡 - 11区 - 49号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 21区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:56eb9c02-c369-4ba9-aac5-419c5005c27a@56eb.org
+UID:a66df234-37c1-4eda-801e-a171162890f3@a66d.org
 END:VEVENT
 END:VCALENDAR
