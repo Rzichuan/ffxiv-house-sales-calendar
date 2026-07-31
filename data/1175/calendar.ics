@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 4号 - 其他\n晨曦王座 - 薰衣草苗圃 - 25区 - 46号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 14区 - 30号 - 个人\n晨曦王座 - 海雾村 - 18区 - 4号 - 其他\n晨曦王座 - 薰衣草苗圃 - 10区 - 31号 - 个人\n晨曦王座 - 薰衣草苗圃 - 25区 - 46号 - 个人\n晨曦王座 - 高脚孤丘 - 14区 - 12号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 48号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:M房抽选截止
-UID:76123c6c-cdc3-469e-91fd-5e419891a92a@7612.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 2号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:L房抽选截止
-UID:f7ad0262-130f-4dd7-adc0-c4ba8e543d1a@f7ad.org
+UID:57b34b78-6ccd-44ec-8141-9a226a349489@57b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 10区 - 4号 - 个人\n晨曦王座 - 高脚孤丘 - 11区 - 42号 - 个人\n晨曦王座 - 高脚孤丘 - 15区 - 12号 - 个人\n晨曦王座 - 高脚孤丘 - 20区 - 42号 - 其他\n晨曦王座 - 穹顶皓天 - 15区 - 18号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 37号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:88ed6e63-9c04-4518-853c-34c9b45c8819@88ed.org
+UID:18fda67e-8f50-4ef9-bbb0-ed8688e5e550@18fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 2号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:L房抽选截止
+UID:5538cfa7-a0fe-45ca-a4c4-090aa804613a@5538.org
 END:VEVENT
 END:VCALENDAR
