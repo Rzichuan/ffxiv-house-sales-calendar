@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 7区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:L房抽选截止
-UID:ed2981ac-45ee-4ef1-823f-ba9f5e88364c@ed29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 1号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 16号 - 个人\n拉诺西亚 - 高脚孤丘 - 27区 - 38号 - 个人\n拉诺西亚 - 白银乡 - 11区 - 49号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 21区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 8区 - 1号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 15区 - 16号 - 个人\n拉诺西亚 - 穹顶皓天 - 14区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 21区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:f27a818d-e954-4374-bcba-e1e840f39fe5@f27a.org
+UID:56ac3478-83c2-4207-8ed5-620bfa95adeb@56ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 11区 - 60号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 28区 - 3号 - 其他\n拉诺西亚 - 穹顶皓天 - 11区 - 60号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:L房抽选截止
-UID:35c9d743-1280-4711-9f34-64896972cfe1@35c9.org
+UID:1284c1c3-f6e7-4003-870d-0cdac1830f42@1284.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 1号 - 其他\n拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 海雾村 - 12区 - 14号 - 个人\n拉诺西亚 - 海雾村 - 23区 - 37号 - 部队\n拉诺西亚 - 高脚孤丘 - 11区 - 36号 - 个人\n拉诺西亚 - 高脚孤丘 - 15区 - 11号 - 个人\n拉诺西亚 - 穹顶皓天 - 22区 - 2号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260810T150000Z
+SUMMARY:M房抽选截止
+UID:4c014644-4bdd-4d67-a0e5-43cfa42d827f@4c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 穹顶皓天 - 2区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260723T150000Z
 SUMMARY:M房抽选截止
-UID:6296981b-fc21-4dbd-b6e7-c1e70b5a622e@6296.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 23区 - 37号 - 部队\n拉诺西亚 - 高脚孤丘 - 11区 - 36号 - 个人\n拉诺西亚 - 高脚孤丘 - 15区 - 11号 - 个人\n拉诺西亚 - 穹顶皓天 - 22区 - 2号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260810T150000Z
-SUMMARY:M房抽选截止
-UID:1e7e00ea-b7d9-4ae8-afc5-a6ba1b338b66@1e7e.org
+UID:4374dd4a-e37b-42ea-8732-7d304e6cc78a@4374.org
 END:VEVENT
 END:VCALENDAR
