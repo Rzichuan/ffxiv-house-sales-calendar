@@ -5,24 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 高脚孤丘 - 15区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:L房抽选截止
-UID:55e963ea-e64a-4018-bf00-57fd93888da8@55e9.org
+UID:1ab2f4e5-8d1d-47ca-b9e4-c6c42d214c7e@1ab2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 30区 - 48号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 28区 - 46号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 36号 - 其他\n红玉海 - 白银乡 - 29区 - 24号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 18区 - 8号 - 其他\n红玉海 - 穹顶皓天 - 18区 - 48号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260810T150000Z
 SUMMARY:M房抽选截止
-UID:d58899af-f83a-42ff-bd94-77dc547d534c@d588.org
+UID:c244e6ce-7418-467b-8745-6ba8b60006a3@c244.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 23区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 6号 - 部队\n红玉海 - 薰衣草苗圃 - 23区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:L房抽选截止
-UID:ebcb7535-6f26-462b-9414-8fc3586094d9@ebcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 28区 - 46号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 36号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260810T150000Z
-SUMMARY:M房抽选截止
-UID:42198d31-2682-4b4a-883f-a38550021254@4219.org
+UID:aed07feb-2e7e-4074-9ea0-f965ca3d7fd2@aed0.org
 END:VEVENT
 END:VCALENDAR
