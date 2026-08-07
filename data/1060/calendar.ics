@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 20区 - 29号 - 其他\n萌芽池 - 白银乡 - 27区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:df9a1867-1fb7-4913-9e3d-127c20abc393@df9a.org
+UID:04a886ad-e106-498f-8325-a54db26ff373@04a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 白银乡 - 16区 - 1号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:M房抽选截止
+UID:088c177a-f8ce-4ef7-8186-b2b5ae81b4f5@088c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 薰衣草苗圃 - 11区 - 57号 - 个人\n萌芽池 - 薰衣草苗圃 - 29区 - 27号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:M房抽选截止
-UID:18c38e18-b785-4d30-b6fe-69b75f47cf53@18c3.org
+UID:126b33f2-d3fa-47b9-91cd-bb230b5e2523@126b.org
 END:VEVENT
 END:VCALENDAR
