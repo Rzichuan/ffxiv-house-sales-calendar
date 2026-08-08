@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 7区 - 33号 - 个人\n晨曦王座 - 穹顶皓天 - 14区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:L房抽选截止
+UID:951de7b9-b706-439e-948b-5a9523099f61@951d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 8区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 3区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 14区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 24区 - 36号 - 部队\n晨曦王座 - 白银乡 - 21区 - 54号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:M房抽选截止
+UID:3098b931-ef9f-4f14-8efc-33a53bd32aa1@3098.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 12区 - 4号 - 个人\n晨曦王座 - 海雾村 - 14区 - 30号 - 个人\n晨曦王座 - 海雾村 - 18区 - 4号 - 其他\n晨曦王座 - 薰衣草苗圃 - 10区 - 31号 - 个人\n晨曦王座 - 薰衣草苗圃 - 25区 - 46号 - 个人\n晨曦王座 - 高脚孤丘 - 14区 - 12号 - 个人\n晨曦王座 - 白银乡 - 17区 - 1号 - 其他\n晨曦王座 - 穹顶皓天 - 2区 - 38号 - 个人\n晨曦王座 - 穹顶皓天 - 5区 - 48号 - 个人\n晨曦王座 - 穹顶皓天 - 27区 - 32号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:M房抽选截止
-UID:a8a386cf-a4ea-4b81-8557-d20b06e504d7@a8a3.org
+UID:d9cbf6fe-09b6-47df-bd04-88a2b60acda3@d9cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 18区 - 2号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:L房抽选截止
-UID:44c9e920-249c-47aa-bcda-bdbcfc81c9b7@44c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 穹顶皓天 - 14区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:L房抽选截止
-UID:5a426d53-1291-4d08-8c38-2470f43cd0bc@5a42.org
+UID:ac0e1371-d761-4390-ba39-25f80b8b5110@ac0e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 穹顶皓天 - 16区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:1be69907-a61a-4c40-b9ca-15ba6a52d21c@1be6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 8区 - 5号 - 个人\n晨曦王座 - 高脚孤丘 - 3区 - 36号 - 个人\n晨曦王座 - 高脚孤丘 - 24区 - 36号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:M房抽选截止
-UID:3e52a908-a02c-4e28-907c-c855d0b94cf8@3e52.org
+UID:3494b46b-85f4-4bf2-92ef-72a04d34e26c@3494.org
 END:VEVENT
 END:VCALENDAR
