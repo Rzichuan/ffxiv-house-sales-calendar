@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 18区 - 46号 - 其他\n幻影群岛 - 高脚孤丘 - 29区 - 42号 - 其他\n幻影群岛 - 白银乡 - 13区 - 24号 - 个人\n幻影群岛 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260810T150000Z
-SUMMARY:M房抽选截止
-UID:9be6a9dd-6b12-4eb1-aa4f-7e2997512b5b@9be6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 9区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 4区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
-SUMMARY:M房抽选截止
-UID:2b79c095-e15d-44a2-b005-db78e4fd7773@2b79.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 10区 - 32号 - 个人\n幻影群岛 - 海雾村 - 28区 - 5号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:L房抽选截止
-UID:c80147de-dc47-49ab-a689-3b17bc4b76ca@c801.org
+UID:d0345111-257d-48e9-a620-915a6cea878a@d034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 18区 - 46号 - 其他\n幻影群岛 - 高脚孤丘 - 29区 - 42号 - 其他\n幻影群岛 - 白银乡 - 13区 - 24号 - 个人\n幻影群岛 - 白银乡 - 28区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260810T150000Z
+SUMMARY:M房抽选截止
+UID:a0d79938-0dd0-4e9e-8d83-b2ca71cfe595@a0d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 24区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260819T150000Z
 SUMMARY:L房抽选截止
-UID:49bea01c-5045-4a17-a0c1-9d4691dd1452@49be.org
+UID:2d91b636-53ad-4a75-9afe-6f14a596b97d@2d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 9区 - 7号 - 个人\n幻影群岛 - 薰衣草苗圃 - 4区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260801T150000Z
+SUMMARY:M房抽选截止
+UID:a1c58f54-530f-44cf-bdf4-70a56edf31c7@a1c5.org
 END:VEVENT
 END:VCALENDAR
