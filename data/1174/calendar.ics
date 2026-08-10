@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 18区 - 57号 - 其他\n沃仙曦染 - 高脚孤丘 - 10区 - 49号 - 个人\n沃仙曦染 - 高脚孤丘 - 15区 - 11号 - 个人\n沃仙曦染 - 高脚孤丘 - 25区 - 36号 - 个人\n沃仙曦染 - 白银乡 - 5区 - 13号 - 个人\n沃仙曦染 - 白银乡 - 11区 - 19号 - 个人\n沃仙曦染 - 白银乡 - 16区 - 24号 - 个人\n沃仙曦染 - 白银乡 - 22区 - 28号 - 部队\n沃仙曦染 - 穹顶皓天 - 8区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260810T150000Z
-SUMMARY:M房抽选截止
-UID:c44160e7-e598-4094-95a7-2ccc84616bcb@c441.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 27区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:f9f9c828-4b30-4d70-bd80-1815562323f2@f9f9.org
+UID:98800cd7-69bc-4c5a-938f-4a25b2d33764@9880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 18区 - 57号 - 其他\n沃仙曦染 - 高脚孤丘 - 10区 - 49号 - 个人\n沃仙曦染 - 高脚孤丘 - 15区 - 11号 - 个人\n沃仙曦染 - 高脚孤丘 - 25区 - 36号 - 个人\n沃仙曦染 - 白银乡 - 5区 - 13号 - 个人\n沃仙曦染 - 白银乡 - 11区 - 19号 - 个人\n沃仙曦染 - 白银乡 - 16区 - 24号 - 个人\n沃仙曦染 - 白银乡 - 22区 - 28号 - 部队\n沃仙曦染 - 穹顶皓天 - 8区 - 18号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260810T150000Z
+SUMMARY:M房抽选截止
+UID:85073cac-c99b-4632-804f-c45316fbc755@8507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 19号 - 个人\n沃仙曦染 - 白银乡 - 13区 - 8号 - 个人\n沃仙曦染 - 白银乡 - 27区 - 24号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:M房抽选截止
+UID:09fc8bdd-2945-42c3-b933-d4e917a71519@09fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 白银乡 - 8区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:L房抽选截止
-UID:1db1876f-7602-4c8b-b288-cbb7b23b1163@1db1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 高脚孤丘 - 7区 - 19号 - 个人\n沃仙曦染 - 白银乡 - 13区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:M房抽选截止
-UID:26d75595-9273-4a42-902a-dff584875b56@26d7.org
+UID:9a632df5-6659-4716-8812-8fba29d2423f@9a63.org
 END:VEVENT
 END:VCALENDAR
