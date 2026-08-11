@@ -2,33 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 3区 - 7号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 白银乡 - 29区 - 58号 - 其他\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:M房抽选截止
-UID:eda003bb-ff3f-4737-9db3-6b461152ee75@eda0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 6号 - 部队\n红玉海 - 薰衣草苗圃 - 23区 - 28号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 24区 - 6号 - 部队\n红玉海 - 穹顶皓天 - 18区 - 8号 - 其他\n红玉海 - 穹顶皓天 - 18区 - 48号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
-SUMMARY:L房抽选截止
-UID:d9f57c69-ad3c-464f-bb35-2bd46bbbc74c@d9f5.org
+SUMMARY:M房抽选截止
+UID:c8f9e031-201e-41d5-a841-98cbf9470814@c8f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 26区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260819T150000Z
 SUMMARY:L房抽选截止
-UID:4f8f154b-54bf-48c5-838b-2a71ce80c5eb@4f8f.org
+UID:ddb413f7-3cb9-4378-a8d1-9037bb856329@ddb4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 24区 - 6号 - 部队\n红玉海 - 薰衣草苗圃 - 28区 - 46号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 36号 - 其他\n红玉海 - 高脚孤丘 - 27区 - 12号 - 个人\n红玉海 - 白银乡 - 29区 - 24号 - 其他\n红玉海 - 穹顶皓天 - 1区 - 21号 - 个人\n红玉海 - 穹顶皓天 - 18区 - 8号 - 其他\n红玉海 - 穹顶皓天 - 18区 - 48号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260810T150000Z
+DESCRIPTION:红玉海 - 海雾村 - 3区 - 7号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 白银乡 - 29区 - 58号 - 其他\n红玉海 - 白银乡 - 30区 - 49号 - 部队\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
 SUMMARY:M房抽选截止
-UID:788cf8d0-9892-43f8-8e19-da50dd47af1d@788c.org
+UID:c1057be4-2ff1-4eaa-a1cb-5c2ff1ad2171@c105.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 15区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260801T150000Z
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260810T150000Z
 SUMMARY:L房抽选截止
-UID:d4f1b939-a6b0-4022-bc2a-cb01c6e5d259@d4f1.org
+UID:1fe3375b-3f62-4429-945b-973b52cbc651@1fe3.org
 END:VEVENT
 END:VCALENDAR
