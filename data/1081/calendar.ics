@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 27区 - 30号 - 个人\n神意之地 - 高脚孤丘 - 11区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260819T150000Z
 SUMMARY:M房抽选截止
-UID:d0918321-d148-44c1-abe7-43ea7c3ae095@d091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 1区 - 43号 - 个人\n神意之地 - 穹顶皓天 - 9区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260810T150000Z
-SUMMARY:M房抽选截止
-UID:50258231-598d-4e12-bcc2-b22f295be774@5025.org
+UID:12755efa-c6ef-4f0a-a8d1-e45fd7ab4733@1275.org
 END:VEVENT
 END:VCALENDAR
