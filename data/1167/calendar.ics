@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 26区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:L房抽选截止
-UID:e55061fc-4c80-4379-b808-198d6f767f27@e550.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20260810T150000Z
-SUMMARY:L房抽选截止
-UID:5efea130-a6f5-4df3-9fea-fc6367ca442f@5efe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 3区 - 7号 - 个人\n红玉海 - 海雾村 - 26区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 白银乡 - 29区 - 58号 - 其他\n红玉海 - 白银乡 - 30区 - 49号 - 部队\n红玉海 - 穹顶皓天 - 1区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 3区 - 7号 - 个人\n红玉海 - 海雾村 - 26区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 4区 - 8号 - 个人\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 白银乡 - 29区 - 58号 - 其他\n红玉海 - 白银乡 - 30区 - 49号 - 部队\n红玉海 - 穹顶皓天 - 1区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260819T150000Z
 SUMMARY:M房抽选截止
-UID:29d9af48-45ef-4dde-b1d0-69944f970b85@29d9.org
+UID:4af14f06-2568-4618-b733-d83a1afff267@4af1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 24区 - 6号 - 部队\n红玉海 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:M房抽选截止
-UID:7777c6c3-9d95-4bff-af46-296a2b0f5eb8@7777.org
+UID:ecad8950-f024-44b0-9d28-f6bf09b00b20@ecad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260810T150000Z
+SUMMARY:L房抽选截止
+UID:52e5ceac-5040-4b2c-a3ca-94c79eb4714b@52e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 26区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:L房抽选截止
+UID:5338ba5f-7d8d-43c9-a009-95e776da7b2d@5338.org
 END:VEVENT
 END:VCALENDAR
