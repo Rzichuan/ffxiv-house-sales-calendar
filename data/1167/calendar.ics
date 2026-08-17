@@ -2,27 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 3区 - 7号 - 个人\n红玉海 - 海雾村 - 26区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 4区 - 8号 - 个人\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 白银乡 - 29区 - 58号 - 其他\n红玉海 - 白银乡 - 30区 - 49号 - 部队\n红玉海 - 穹顶皓天 - 1区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:M房抽选截止
-UID:493ebd75-35d9-4a25-9cef-9b8d0ce4c0f5@493e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 24区 - 6号 - 部队\n红玉海 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:M房抽选截止
-UID:35ebb7ab-da44-4f70-bae1-a575de00e6d8@35eb.org
+UID:ec50cf36-32da-4f26-baa6-2af67ee3c752@ec50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 3区 - 7号 - 个人\n红玉海 - 海雾村 - 26区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 4区 - 8号 - 个人\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 白银乡 - 29区 - 58号 - 其他\n红玉海 - 白银乡 - 30区 - 49号 - 部队\n红玉海 - 穹顶皓天 - 1区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:M房抽选截止
+UID:35f95aba-4079-400d-81e7-a7958dffd8f6@35f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 28区 - 4号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260828T150000Z
+SUMMARY:M房抽选截止
+UID:2f0030e3-6098-44ca-a038-a51508630488@2f00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 26区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260819T150000Z
 SUMMARY:L房抽选截止
-UID:7907d383-ad80-4729-a61e-7b3e94fc5f4b@7907.org
+UID:005a5ca8-8a30-401d-a7da-915a16192e2b@005a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:L房抽选截止
-UID:97673e36-97a8-4ef7-8177-9660ffb264eb@9767.org
+UID:e3346243-9334-451a-b3cd-4a166ed36917@e334.org
 END:VEVENT
 END:VCALENDAR

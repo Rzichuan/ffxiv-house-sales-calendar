@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 24区 - 6号 - 部队\n幻影群岛 - 穹顶皓天 - 25区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:L房抽选截止
-UID:371bed83-0745-4fd9-a5e4-c4160a9431a8@371b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 22区 - 4号 - 部队\n幻影群岛 - 薰衣草苗圃 - 29区 - 16号 - 其他\n幻影群岛 - 高脚孤丘 - 10区 - 55号 - 个人\n幻影群岛 - 白银乡 - 18区 - 13号 - 其他\n幻影群岛 - 白银乡 - 22区 - 58号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260819T150000Z
 SUMMARY:M房抽选截止
-UID:5c71eae9-ac1b-4c72-8de3-4c713a3eb65b@5c71.org
+UID:2f74e9ec-a30e-4722-9ef1-f0f1635979ef@2f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 24区 - 6号 - 部队\n幻影群岛 - 穹顶皓天 - 25区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:L房抽选截止
+UID:d6541aed-5764-4927-924d-a0c31d12d198@d654.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 4区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260801T150000Z
 SUMMARY:M房抽选截止
-UID:1d0174e4-b3d7-416c-a910-d0d7810726b0@1d01.org
+UID:4be662d2-799d-4def-9c6f-4b3ed67ac7de@4be6.org
 END:VEVENT
 END:VCALENDAR
