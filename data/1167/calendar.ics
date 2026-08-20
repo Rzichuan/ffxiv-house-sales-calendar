@@ -5,30 +5,36 @@ BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 26区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260819T150000Z
 SUMMARY:L房抽选截止
-UID:3c559b7a-8e04-4ade-b883-037b7f0848eb@3c55.org
+UID:d865d7d5-434b-488d-a181-0b6206afd213@d865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 8区 - 2号 - 个人\n红玉海 - 穹顶皓天 - 19区 - 60号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260828T150000Z
+SUMMARY:L房抽选截止
+UID:56ccabf7-a3ec-4c86-b6a6-a50a64590c5a@56cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 30区 - 49号 - 部队\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260819T150000Z
+SUMMARY:M房抽选截止
+UID:4c1d1dfb-f9df-48d7-9006-08a186137adc@4c1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 21区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:L房抽选截止
-UID:fecafc67-3d7e-460e-b86f-64b555a950ec@feca.org
+UID:f738da52-8dbe-48b3-8b0c-40e68d23d056@f738.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 24区 - 6号 - 部队\n红玉海 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 24区 - 6号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260810T150000Z
 SUMMARY:M房抽选截止
-UID:493d8957-2a3a-45b0-b6cf-fad4ee15143b@493d.org
+UID:e5a83772-a013-4c88-97ec-2bfbf61581ae@e5a8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 28区 - 4号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 海雾村 - 28区 - 4号 - 其他\n红玉海 - 薰衣草苗圃 - 19区 - 51号 - 其他\n红玉海 - 白银乡 - 11区 - 43号 - 个人\n红玉海 - 穹顶皓天 - 13区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260828T150000Z
 SUMMARY:M房抽选截止
-UID:728b977b-828b-4959-92a7-7c75453df564@728b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 3区 - 7号 - 个人\n红玉海 - 海雾村 - 26区 - 14号 - 个人\n红玉海 - 薰衣草苗圃 - 6区 - 5号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 11号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 34号 - 其他\n红玉海 - 白银乡 - 4区 - 8号 - 个人\n红玉海 - 白银乡 - 13区 - 24号 - 个人\n红玉海 - 白银乡 - 13区 - 28号 - 个人\n红玉海 - 白银乡 - 29区 - 58号 - 其他\n红玉海 - 白银乡 - 30区 - 49号 - 部队\n红玉海 - 穹顶皓天 - 1区 - 51号 - 个人\n红玉海 - 穹顶皓天 - 3区 - 8号 - 个人\n红玉海 - 穹顶皓天 - 28区 - 37号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:M房抽选截止
-UID:8e6ebe1c-9d7c-4157-8b6d-96f246a70060@8e6e.org
+UID:24d6db5b-09de-4606-af2b-764bd3e18072@24d6.org
 END:VEVENT
 END:VCALENDAR
