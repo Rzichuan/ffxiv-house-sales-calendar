@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 28区 - 16号 - 其他\n神意之地 - 白银乡 - 29区 - 1号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260828T150000Z
 SUMMARY:M房抽选截止
-UID:8581e255-f66b-4717-9911-a1660ee03a3f@8581.org
+UID:13a6c309-628b-4914-ac19-6c70fb42d66e@13a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 穹顶皓天 - 15区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260906T150000Z
+SUMMARY:L房抽选截止
+UID:5b9fcdf5-8d0d-4b32-a529-586f6eda20c4@5b9f.org
 END:VEVENT
 END:VCALENDAR
