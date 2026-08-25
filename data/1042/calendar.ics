@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 20区 - 6号 - 其他\n拉诺西亚 - 高脚孤丘 - 7区 - 8号 - 个人\n拉诺西亚 - 高脚孤丘 - 9区 - 6号 - 个人\n拉诺西亚 - 高脚孤丘 - 15区 - 36号 - 个人\n拉诺西亚 - 高脚孤丘 - 28区 - 36号 - 其他\n拉诺西亚 - 穹顶皓天 - 1区 - 7号 - 个人\n拉诺西亚 - 穹顶皓天 - 1区 - 51号 - 个人\n拉诺西亚 - 穹顶皓天 - 16区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260828T150000Z
 SUMMARY:M房抽选截止
-UID:1e11a1c8-2633-4420-8640-4ee9943bd42e@1e11.org
+UID:a7b02b5e-d879-4dbc-977d-cb5c4f3bd399@a7b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 5区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260906T150000Z
 SUMMARY:L房抽选截止
-UID:e4e5c4f9-db8e-4aff-a696-30ccfc60bae2@e4e5.org
+UID:21026830-f870-44af-8f51-805d4a923f02@2102.org
 END:VEVENT
 END:VCALENDAR
