@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 14区 - 60号 - 个人\n神意之地 - 穹顶皓天 - 15区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260906T150000Z
 SUMMARY:L房抽选截止
-UID:7723df6a-5c2a-4822-a035-d4e0eba83cdb@7723.org
+UID:526ec9b9-c2cd-4f6f-ad71-f435a3afb834@526e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 薰衣草苗圃 - 28区 - 16号 - 其他\n神意之地 - 白银乡 - 29区 - 1号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260828T150000Z
 SUMMARY:M房抽选截止
-UID:67828f83-47f9-4ce0-917d-c1f6114395f0@6782.org
+UID:b816f442-3a93-406c-a044-1feae1a7c1fc@b816.org
 END:VEVENT
 END:VCALENDAR
