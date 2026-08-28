@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 17区 - 7号 - 其他\n宇宙和音 - 薰衣草苗圃 - 4区 - 27号 - 个人\n宇宙和音 - 白银乡 - 22区 - 1号 - 部队\n宇宙和音 - 穹顶皓天 - 8区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260828T150000Z
 SUMMARY:M房抽选截止
-UID:2bea8ce0-cef8-4d5c-a8f3-e5b6a38a19c9@2bea.org
+UID:61b94419-92e9-409f-922e-a1d5aa2c2c51@61b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 薰衣草苗圃 - 29区 - 28号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260906T150000Z
 SUMMARY:L房抽选截止
-UID:f953d344-2a5b-4fa3-a596-0d7436285c50@f953.org
+UID:63a4ea7c-0a52-4581-a8b0-5ee982efa657@63a4.org
 END:VEVENT
 END:VCALENDAR
