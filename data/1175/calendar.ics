@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 穹顶皓天 - 14区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260819T150000Z
-SUMMARY:L房抽选截止
-UID:eb74d86a-7611-4e95-a878-4937533e9ceb@eb74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 22区 - 45号 - 部队\n晨曦王座 - 高脚孤丘 - 3区 - 43号 - 个人\n晨曦王座 - 高脚孤丘 - 11区 - 35号 - 个人\n晨曦王座 - 高脚孤丘 - 20区 - 5号 - 其他\n晨曦王座 - 高脚孤丘 - 25区 - 43号 - 个人\n晨曦王座 - 穹顶皓天 - 16区 - 22号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260828T150000Z
-SUMMARY:L房抽选截止
-UID:9a8e185e-36cd-40cd-8aa1-8bee3a92f644@9a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 3区 - 31号 - 个人\n晨曦王座 - 白银乡 - 7区 - 43号 - 个人\n晨曦王座 - 白银乡 - 24区 - 31号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 8区 - 8号 - 个人\n晨曦王座 - 高脚孤丘 - 15区 - 12号 - 个人\n晨曦王座 - 高脚孤丘 - 30区 - 11号 - 部队\n晨曦王座 - 白银乡 - 3区 - 31号 - 个人\n晨曦王座 - 白银乡 - 6区 - 49号 - 个人\n晨曦王座 - 白银乡 - 7区 - 43号 - 个人\n晨曦王座 - 白银乡 - 13区 - 13号 - 个人\n晨曦王座 - 白银乡 - 24区 - 31号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260906T150000Z
 SUMMARY:M房抽选截止
-UID:98a6aa3c-4c23-434c-97fb-0c42514b7ccc@98a6.org
+UID:74ea6c99-bbd2-4294-bbfb-59d2e0d8c8c2@74ea.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 15区 - 55号 - 个人\n晨曦王座 - 高脚孤丘 - 28区 - 4号 - 其他\n晨曦王座 - 白银乡 - 12区 - 8号 - 个人\n晨曦王座 - 白银乡 - 29区 - 15号 - 其他\n晨曦王座 - 白银乡 - 30区 - 13号 - 部队\n晨曦王座 - 穹顶皓天 - 20区 - 48号 - 其他\n晨曦王座 - 穹顶皓天 - 29区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 12区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260906T150000Z
+SUMMARY:L房抽选截止
+UID:42d1abbf-c395-4668-a9ce-da684af8948e@42d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 22区 - 45号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260828T150000Z
+SUMMARY:L房抽选截止
+UID:410b7077-b375-4f9a-9963-23892371c5f8@410b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 白银乡 - 12区 - 8号 - 个人\n晨曦王座 - 白银乡 - 30区 - 13号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260828T150000Z
 SUMMARY:M房抽选截止
-UID:715787f4-f7ab-4f50-92f1-58c74260ff66@7157.org
+UID:92e6d661-883f-451f-aa64-d590b4a00b18@92e6.org
 END:VEVENT
 END:VCALENDAR
