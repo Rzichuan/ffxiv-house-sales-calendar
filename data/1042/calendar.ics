@@ -2,15 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 25区 - 44号 - 个人\n拉诺西亚 - 白银乡 - 13区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260906T150000Z
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 25区 - 57号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260915T150000Z
 SUMMARY:M房抽选截止
-UID:0b0f2134-80f4-43f2-91d7-1d6fb647faeb@0b0f.org
+UID:37901336-6d71-4739-94d6-c0518da4df33@3790.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 28区 - 45号 - 其他\n拉诺西亚 - 高脚孤丘 - 5区 - 60号 - 个人\n拉诺西亚 - 穹顶皓天 - 6区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260906T150000Z
 SUMMARY:L房抽选截止
-UID:4d21f904-583f-48c4-8ed0-fa40ace1b33f@4d21.org
+UID:4ddf23b3-8c17-4ade-bf9e-4d25ab83cd8d@4ddf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 25区 - 44号 - 个人\n拉诺西亚 - 白银乡 - 13区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260906T150000Z
+SUMMARY:M房抽选截止
+UID:e70b2bf7-589c-43ff-8c32-98933ec43d24@e70b.org
 END:VEVENT
 END:VCALENDAR
