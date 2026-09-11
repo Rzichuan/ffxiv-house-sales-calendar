@@ -5,12 +5,6 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 高脚孤丘 - 26区 - 42号 - 个人\n神意之地 - 白银乡 - 7区 - 45号 - 个人\n神意之地 - 白银乡 - 29区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260915T150000Z
 SUMMARY:M房抽选截止
-UID:e8d711e1-445e-4968-9bf5-d560fd962c26@e8d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 10区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260906T150000Z
-SUMMARY:M房抽选截止
-UID:3ab3e457-434d-444e-b56d-42c67404148d@3ab3.org
+UID:592d0876-a9ca-48f1-8b32-4a7574f88812@592d.org
 END:VEVENT
 END:VCALENDAR
