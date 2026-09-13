@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 白银乡 - 30区 - 38号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20260924T150000Z
+SUMMARY:M房抽选截止
+UID:1f680e7e-2994-4412-922c-7da39122d94f@1f68.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 14区 - 30号 - 个人\n拉诺西亚 - 薰衣草苗圃 - 25区 - 57号 - 个人\n拉诺西亚 - 高脚孤丘 - 3区 - 6号 - 个人\n拉诺西亚 - 高脚孤丘 - 25区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260915T150000Z
 SUMMARY:M房抽选截止
-UID:c3dba2f7-b4cf-47b0-87af-ac4b5b306e31@c3db.org
+UID:126b29fc-2567-4663-82c5-8bd7988bd96f@126b.org
 END:VEVENT
 END:VCALENDAR
