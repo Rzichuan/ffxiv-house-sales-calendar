@@ -29,6 +29,15 @@
     {
         "Area": 3,
         "ID": 28,
+        "Slot": 1,
+        "RegionType": 2,
+        "Size": 1,
+        "Server": 1173,
+        "Purchase_endtime": 1790262000
+    },
+    {
+        "Area": 3,
+        "ID": 28,
         "Slot": 11,
         "RegionType": 2,
         "Size": 1,
