@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:神意之地 - 高脚孤丘 - 26区 - 42号 - 个人\n神意之地 - 白银乡 - 7区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260915T150000Z
+SUMMARY:M房抽选截止
+UID:616cb4f1-5f39-4927-92e7-02f0282fa77b@616c.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 13区 - 17号 - 个人\n神意之地 - 穹顶皓天 - 13区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:M房抽选截止
-UID:8adfe199-4065-463a-a0f9-eb010a3cd40f@8adf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 26区 - 42号 - 个人\n神意之地 - 白银乡 - 7区 - 45号 - 个人\n神意之地 - 白银乡 - 29区 - 49号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260915T150000Z
-SUMMARY:M房抽选截止
-UID:8f7cf22b-a830-4908-b9bd-c6fed91db751@8f7c.org
+UID:21640ce5-7afe-4745-a25e-e70498322121@2164.org
 END:VEVENT
 END:VCALENDAR
