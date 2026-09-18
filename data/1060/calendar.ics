@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 15区 - 60号 - 个人\n萌芽池 - 白银乡 - 4区 - 38号 - 个人\n萌芽池 - 白银乡 - 23区 - 49号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:M房抽选截止
-UID:3c203288-45d6-4b24-ad7f-33daf82862a7@3c20.org
+UID:c133d27f-3914-41f5-a612-1ce8e82d526a@c133.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 白银乡 - 12区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260924T150000Z
+SUMMARY:L房抽选截止
+UID:bb98b207-1f4f-4e71-82c8-d1d2a906e656@bb98.org
 END:VEVENT
 END:VCALENDAR

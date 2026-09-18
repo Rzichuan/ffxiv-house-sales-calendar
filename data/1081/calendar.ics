@@ -2,15 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 白银乡 - 7区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260915T150000Z
-SUMMARY:M房抽选截止
-UID:6c2226ea-9ce3-47a2-912f-32606036107f@6c22.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 13区 - 17号 - 个人\n神意之地 - 穹顶皓天 - 13区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:M房抽选截止
-UID:2cd039ee-4efa-4f16-82f2-355ee5ee9bc7@2cd0.org
+UID:6a273f06-7fe6-45e7-b08c-44223d2b00b4@6a27.org
 END:VEVENT
 END:VCALENDAR

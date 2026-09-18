@@ -2,27 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 薰衣草苗圃 - 16区 - 16号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260828T150000Z
-SUMMARY:M房抽选截止
-UID:5b31514d-f347-4aed-8e56-582b32b651f7@5b31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 25区 - 37号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 30区 - 5号 - 部队\n沃仙曦染 - 白银乡 - 15区 - 43号 - 个人\n沃仙曦染 - 白银乡 - 27区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260924T150000Z
-SUMMARY:M房抽选截止
-UID:5b013a3f-6416-4b80-aaf8-c0ebd76a9f9b@5b01.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:沃仙曦染 - 高脚孤丘 - 1区 - 35号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:L房抽选截止
-UID:e7e11066-b2e5-4e78-93f7-228cc8a9a68c@e7e1.org
+UID:d51f2dde-fe3d-4045-9aa3-e0d2020e8965@d51f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沃仙曦染 - 海雾村 - 3区 - 6号 - 个人\n沃仙曦染 - 高脚孤丘 - 10区 - 36号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260915T150000Z
+DESCRIPTION:沃仙曦染 - 海雾村 - 10区 - 44号 - 个人\n沃仙曦染 - 海雾村 - 25区 - 37号 - 个人\n沃仙曦染 - 薰衣草苗圃 - 30区 - 5号 - 部队\n沃仙曦染 - 高脚孤丘 - 6区 - 6号 - 个人\n沃仙曦染 - 白银乡 - 15区 - 43号 - 个人\n沃仙曦染 - 白银乡 - 27区 - 49号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260924T150000Z
 SUMMARY:M房抽选截止
-UID:a24e0a52-7651-4928-8999-9be8f40199b6@a24e.org
+UID:3c3ae362-abc0-400d-a0aa-ef4299c3e72b@3c3a.org
 END:VEVENT
 END:VCALENDAR
