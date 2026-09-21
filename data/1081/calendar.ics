@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 13区 - 17号 - 个人\n神意之地 - 穹顶皓天 - 13区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:M房抽选截止
-UID:339b5aa8-d03b-4028-9bfa-91c94899bd15@339b.org
+UID:c3404401-03ee-449d-ad53-c2b23f993e3a@c340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 高脚孤丘 - 1区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261003T150000Z
+SUMMARY:M房抽选截止
+UID:1d9fec25-1ea5-4266-951f-6e1c3d8be402@1d9f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 29区 - 12号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:L房抽选截止
-UID:7c04fb1c-8f9f-44d1-ab6f-054f48741a68@7c04.org
+UID:e0bd416d-6086-4b0f-83a5-9583270b80c5@e0bd.org
 END:VEVENT
 END:VCALENDAR
