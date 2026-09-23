@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:神意之地 - 穹顶皓天 - 13区 - 17号 - 个人\n神意之地 - 穹顶皓天 - 13区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20260924T150000Z
+SUMMARY:M房抽选截止
+UID:1034e788-19fe-45d2-85fc-0cfa9ff260d5@1034.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 29区 - 12号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:L房抽选截止
-UID:1de7df5f-73ef-44ec-99c1-8ec3fbde7a0e@1de7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:神意之地 - 高脚孤丘 - 1区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261003T150000Z
-SUMMARY:M房抽选截止
-UID:d9158b38-08d4-480f-9e1a-ba876b844d43@d915.org
+UID:06396d16-d1e6-4902-9528-3d490e940510@0639.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 8区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261003T150000Z
 SUMMARY:L房抽选截止
-UID:2620c09a-8ab8-4b22-a218-b136bd0665fb@2620.org
+UID:4f69296a-e950-4ab2-be37-7a335b83127c@4f69.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 穹顶皓天 - 13区 - 17号 - 个人\n神意之地 - 穹顶皓天 - 13区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20260924T150000Z
+DESCRIPTION:神意之地 - 高脚孤丘 - 1区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261003T150000Z
 SUMMARY:M房抽选截止
-UID:ec9ba024-9dcd-403a-b401-fb9128c82eda@ec9b.org
+UID:ab6d0cae-13ec-4cae-b83f-a7d3ad7e6cf2@ab6d.org
 END:VEVENT
 END:VCALENDAR
