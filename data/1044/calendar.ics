@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 海雾村 - 14区 - 44号 - 个人\n幻影群岛 - 海雾村 - 22区 - 29号 - 部队\n幻影群岛 - 海雾村 - 25区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 4区 - 1号 - 个人\n幻影群岛 - 白银乡 - 24区 - 58号 - 部队\n幻影群岛 - 穹顶皓天 - 10区 - 51号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 7号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 48号 - 个人\n幻影群岛 - 穹顶皓天 - 27区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 28区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20260924T150000Z
+SUMMARY:M房抽选截止
+UID:f9ded1c6-a914-42c8-a54e-804855559222@f9de.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 24区 - 43号 - 部队\n幻影群岛 - 穹顶皓天 - 2区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:L房抽选截止
-UID:6ab95104-a62c-495c-bb2a-6ead24122e3e@6ab9.org
+UID:cc432e68-f14c-4a90-b8f9-76aebfe4b401@cc43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 4区 - 35号 - 个人\n幻影群岛 - 高脚孤丘 - 26区 - 6号 - 个人\n幻影群岛 - 白银乡 - 28区 - 28号 - 其他\n幻影群岛 - 穹顶皓天 - 12区 - 56号 - 个人\n幻影群岛 - 穹顶皓天 - 15区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261003T150000Z
+SUMMARY:M房抽选截止
+UID:54be8dc8-c525-428d-9964-8625d9ab1898@54be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 高脚孤丘 - 15区 - 11号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20260915T150000Z
 SUMMARY:M房抽选截止
-UID:8d450ce8-34dd-4c1b-a066-e81dc5565ded@8d45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 14区 - 44号 - 个人\n幻影群岛 - 海雾村 - 22区 - 29号 - 部队\n幻影群岛 - 海雾村 - 25区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 4区 - 1号 - 个人\n幻影群岛 - 白银乡 - 24区 - 58号 - 部队\n幻影群岛 - 穹顶皓天 - 10区 - 51号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 7号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 48号 - 个人\n幻影群岛 - 穹顶皓天 - 27区 - 8号 - 个人\n幻影群岛 - 穹顶皓天 - 28区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260924T150000Z
-SUMMARY:M房抽选截止
-UID:7a4727fd-58c7-43c0-803b-28eee5affa6b@7a47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 4区 - 35号 - 个人\n幻影群岛 - 高脚孤丘 - 26区 - 6号 - 个人\n幻影群岛 - 白银乡 - 28区 - 28号 - 其他\n幻影群岛 - 穹顶皓天 - 15区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261003T150000Z
-SUMMARY:M房抽选截止
-UID:1f6dfe6f-1c3d-475b-b6e9-5f1665405220@1f6d.org
+UID:8e3d79bb-aa49-4c8f-ab56-2aa0579c5d08@8e3d.org
 END:VEVENT
 END:VCALENDAR
