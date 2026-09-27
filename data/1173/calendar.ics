@@ -5,18 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 高脚孤丘 - 11区 - 55号 - 个人\n宇宙和音 - 穹顶皓天 - 17区 - 2号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261003T150000Z
 SUMMARY:M房抽选截止
-UID:b7f5c853-31e3-4f9e-973d-50a97db2c372@b7f5.org
+UID:162cf60e-4ff1-473d-bc16-5a5f066610fd@162c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 穹顶皓天 - 19区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:M房抽选截止
-UID:0e515917-5620-4f82-997c-374e2b5e8d59@0e51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 穹顶皓天 - 19区 - 52号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20260924T150000Z
-SUMMARY:L房抽选截止
-UID:c8bf37b8-7efd-4e8f-b026-9daac7cb035d@c8bf.org
+UID:a9c108ad-a083-4dc5-9905-0da772d34a52@a9c1.org
 END:VEVENT
 END:VCALENDAR

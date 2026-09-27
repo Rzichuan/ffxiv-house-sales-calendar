@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 15区 - 51号 - 个人\n神意之地 - 高脚孤丘 - 1区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 28区 - 33号 - 其他\n神意之地 - 穹顶皓天 - 8区 - 52号 - 个人\n神意之地 - 穹顶皓天 - 29区 - 52号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261003T150000Z
-SUMMARY:M房抽选截止
-UID:98b7619b-e01e-44d8-9496-2ee5d4801232@98b7.org
+SUMMARY:L房抽选截止
+UID:bd801aba-03c9-46ad-a7d4-994ec3c142f9@bd80.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神意之地 - 穹顶皓天 - 29区 - 12号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20260924T150000Z
 SUMMARY:L房抽选截止
-UID:5ff69fe0-bde9-473a-90be-af32ed0f2fcb@5ff6.org
+UID:721d4097-7bbd-470a-a7f5-5744e3ccc885@721d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 薰衣草苗圃 - 28区 - 33号 - 其他\n神意之地 - 穹顶皓天 - 8区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:神意之地 - 薰衣草苗圃 - 15区 - 51号 - 个人\n神意之地 - 高脚孤丘 - 1区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261003T150000Z
-SUMMARY:L房抽选截止
-UID:eda77b36-952c-4f3d-a7be-ab2d6ad06ddf@eda7.org
+SUMMARY:M房抽选截止
+UID:7dbef9c0-4957-4c37-bb29-00acb52524c3@7dbe.org
 END:VEVENT
 END:VCALENDAR
