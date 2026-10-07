@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 17区 - 58号 - 其他\n晨曦王座 - 穹顶皓天 - 9区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 白银乡 - 14区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261003T150000Z
-SUMMARY:L房抽选截止
-UID:6e62a0cb-9219-4a8a-b54e-58645a937e79@6e62.org
+SUMMARY:M房抽选截止
+UID:44745ef1-99b4-4554-bfee-5f5d0643c92d@4474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 14区 - 6号 - 个人\n晨曦王座 - 海雾村 - 21区 - 29号 - 部队\n晨曦王座 - 薰衣草苗圃 - 2区 - 5号 - 个人\n晨曦王座 - 薰衣草苗圃 - 28区 - 1号 - 其他\n晨曦王座 - 高脚孤丘 - 1区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 4区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 42号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 13区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 12号 - 个人\n晨曦王座 - 白银乡 - 28区 - 1号 - 其他\n晨曦王座 - 穹顶皓天 - 6区 - 21号 - 个人\n晨曦王座 - 穹顶皓天 - 18区 - 8号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20261012T150000Z
+SUMMARY:M房抽选截止
+UID:e9ec5a56-b0bb-46b3-a9fc-b5a07da7a28a@e9ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 5号 - 个人\n晨曦王座 - 薰衣草苗圃 - 26区 - 3号 - 个人\n晨曦王座 - 白银乡 - 9区 - 37号 - 个人\n晨曦王座 - 白银乡 - 12区 - 30号 - 个人\n晨曦王座 - 穹顶皓天 - 25区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261012T150000Z
 SUMMARY:L房抽选截止
-UID:1f3d65fc-9a84-455b-a8c4-fc19b9527f1e@1f3d.org
+UID:69dc8337-8acc-435c-a441-af8caea232cb@69dc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 14区 - 6号 - 个人\n晨曦王座 - 海雾村 - 21区 - 29号 - 部队\n晨曦王座 - 薰衣草苗圃 - 2区 - 5号 - 个人\n晨曦王座 - 薰衣草苗圃 - 28区 - 1号 - 其他\n晨曦王座 - 高脚孤丘 - 1区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 7区 - 42号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 13区 - 38号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 12号 - 个人\n晨曦王座 - 白银乡 - 28区 - 1号 - 其他\n晨曦王座 - 穹顶皓天 - 6区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261012T150000Z
-SUMMARY:M房抽选截止
-UID:2a5c2fc2-a208-4248-a0c4-8b05ba1903e8@2a5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 白银乡 - 14区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 17区 - 58号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261003T150000Z
-SUMMARY:M房抽选截止
-UID:ef6de0f6-33fe-4a5a-9ccd-32209c1aa631@ef6d.org
+SUMMARY:L房抽选截止
+UID:da0f9927-51be-4db2-9fc0-57ffbf57e295@da0f.org
 END:VEVENT
 END:VCALENDAR
