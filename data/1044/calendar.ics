@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 海雾村 - 20区 - 59号 - 其他\n幻影群岛 - 高脚孤丘 - 3区 - 42号 - 个人\n幻影群岛 - 白银乡 - 10区 - 1号 - 个人\n幻影群岛 - 白银乡 - 25区 - 1号 - 个人\n幻影群岛 - 白银乡 - 30区 - 49号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:幻影群岛 - 海雾村 - 20区 - 59号 - 其他\n幻影群岛 - 高脚孤丘 - 3区 - 42号 - 个人\n幻影群岛 - 白银乡 - 10区 - 1号 - 个人\n幻影群岛 - 白银乡 - 18区 - 49号 - 其他\n幻影群岛 - 白银乡 - 25区 - 1号 - 个人\n幻影群岛 - 白银乡 - 30区 - 49号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:M房抽选截止
-UID:3ef6a37e-5187-406c-9390-2ac2386b18b7@3ef6.org
+UID:94a9e9d3-d9c7-4cbf-8dbe-f5c8a9e9fc3f@94a9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 11区 - 57号 - 个人\n幻影群岛 - 薰衣草苗圃 - 11区 - 60号 - 个人\n幻影群岛 - 薰衣草苗圃 - 17区 - 1号 - 其他\n幻影群岛 - 高脚孤丘 - 16区 - 12号 - 个人\n幻影群岛 - 白银乡 - 7区 - 45号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 18号 - 个人\n幻影群岛 - 穹顶皓天 - 10区 - 48号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 14区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 19区 - 18号 - 其他\n幻影群岛 - 穹顶皓天 - 24区 - 26号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20261012T150000Z
-SUMMARY:M房抽选截止
-UID:93956530-a6f2-4058-b0c7-39e40b9b6a48@9395.org
+DESCRIPTION:幻影群岛 - 白银乡 - 6区 - 7号 - 个人\n幻影群岛 - 穹顶皓天 - 10区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:L房抽选截止
+UID:a2c06989-65f2-4069-8378-214deac8f6ab@a2c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 3区 - 6号 - 个人\n幻影群岛 - 薰衣草苗圃 - 19区 - 58号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261012T150000Z
 SUMMARY:L房抽选截止
-UID:a2a25afd-d503-45a9-b0ba-c0509a279d02@a2a2.org
+UID:b5703faf-edab-4c94-91c6-92dea8f9283c@b570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 薰衣草苗圃 - 11区 - 57号 - 个人\n幻影群岛 - 薰衣草苗圃 - 11区 - 60号 - 个人\n幻影群岛 - 薰衣草苗圃 - 17区 - 1号 - 其他\n幻影群岛 - 高脚孤丘 - 16区 - 12号 - 个人\n幻影群岛 - 白银乡 - 7区 - 45号 - 个人\n幻影群岛 - 穹顶皓天 - 6区 - 18号 - 个人\n幻影群岛 - 穹顶皓天 - 10区 - 48号 - 个人\n幻影群岛 - 穹顶皓天 - 12区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 14区 - 26号 - 个人\n幻影群岛 - 穹顶皓天 - 19区 - 18号 - 其他\n幻影群岛 - 穹顶皓天 - 24区 - 26号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20261012T150000Z
+SUMMARY:M房抽选截止
+UID:9ff52e05-2c69-4da2-8c68-c65acb1f4e4a@9ff5.org
 END:VEVENT
 END:VCALENDAR
