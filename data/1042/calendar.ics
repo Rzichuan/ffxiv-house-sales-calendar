@@ -2,33 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 13区 - 60号 - 个人\n拉诺西亚 - 高脚孤丘 - 19区 - 12号 - 其他\n拉诺西亚 - 白银乡 - 3区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 4区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
-SUMMARY:M房抽选截止
-UID:a6b49b23-0ec0-4303-9c89-5b595b3bd177@a6b4.org
+DESCRIPTION:拉诺西亚 - 白银乡 - 24区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20261012T150000Z
+SUMMARY:L房抽选截止
+UID:a161a3f9-3508-4c2b-91e7-7961dfdf82cc@a161.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 7区 - 5号 - 个人\n拉诺西亚 - 白银乡 - 9区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:L房抽选截止
-UID:2f045a2b-725a-4696-80a4-712e916929ac@2f04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 24区 - 31号 - 部队\n拉诺西亚 - 高脚孤丘 - 12区 - 55号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 13号 - 个人\n拉诺西亚 - 白银乡 - 21区 - 13号 - 部队\n拉诺西亚 - 白银乡 - 26区 - 49号 - 个人\n拉诺西亚 - 穹顶皓天 - 1区 - 48号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 51号 - 个人\n拉诺西亚 - 穹顶皓天 - 15区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261012T150000Z
-SUMMARY:M房抽选截止
-UID:b1b7f70a-3470-4d03-9671-17682cf2c781@b1b7.org
+UID:be5ce626-e7a4-4e0b-a2c9-59d4780855bb@be5c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 3区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261003T150000Z
 SUMMARY:L房抽选截止
-UID:93813700-8951-466b-aaaf-7d1c1371d3d7@9381.org
+UID:0ef3f26a-a7d9-44a3-afaf-c60b0de41d69@0ef3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 24区 - 7号 - 部队\n拉诺西亚 - 白银乡 - 27区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 13区 - 60号 - 个人\n拉诺西亚 - 高脚孤丘 - 19区 - 12号 - 其他\n拉诺西亚 - 白银乡 - 3区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 4区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:M房抽选截止
+UID:150660d7-ad8b-44e3-9652-0e20fdd9f4d9@1506.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 24区 - 31号 - 部队\n拉诺西亚 - 白银乡 - 8区 - 13号 - 个人\n拉诺西亚 - 白银乡 - 26区 - 49号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261012T150000Z
-SUMMARY:L房抽选截止
-UID:23f1a008-252e-4136-9fbe-98a3413d24d1@23f1.org
+SUMMARY:M房抽选截止
+UID:56a5a0fc-9b51-49eb-923e-af1f7182987e@56a5.org
 END:VEVENT
 END:VCALENDAR
