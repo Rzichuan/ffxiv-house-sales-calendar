@@ -2,33 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 白银乡 - 24区 - 7号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20261012T150000Z
-SUMMARY:L房抽选截止
-UID:a161a3f9-3508-4c2b-91e7-7961dfdf82cc@a161.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 7区 - 5号 - 个人\n拉诺西亚 - 白银乡 - 9区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
-SUMMARY:L房抽选截止
-UID:be5ce626-e7a4-4e0b-a2c9-59d4780855bb@be5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 3区 - 30号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261003T150000Z
-SUMMARY:L房抽选截止
-UID:0ef3f26a-a7d9-44a3-afaf-c60b0de41d69@0ef3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 13区 - 60号 - 个人\n拉诺西亚 - 高脚孤丘 - 19区 - 12号 - 其他\n拉诺西亚 - 白银乡 - 3区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 4区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:拉诺西亚 - 薰衣草苗圃 - 13区 - 60号 - 个人\n拉诺西亚 - 高脚孤丘 - 8区 - 55号 - 个人\n拉诺西亚 - 高脚孤丘 - 19区 - 12号 - 其他\n拉诺西亚 - 白银乡 - 3区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 4区 - 31号 - 个人\n拉诺西亚 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:M房抽选截止
-UID:150660d7-ad8b-44e3-9652-0e20fdd9f4d9@1506.org
+UID:731766cc-5b4f-4ab7-a68c-1098b0764fec@7317.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 24区 - 31号 - 部队\n拉诺西亚 - 白银乡 - 8区 - 13号 - 个人\n拉诺西亚 - 白银乡 - 26区 - 49号 - 个人\n拉诺西亚 - 穹顶皓天 - 13区 - 51号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261012T150000Z
 SUMMARY:M房抽选截止
-UID:56a5a0fc-9b51-49eb-923e-af1f7182987e@56a5.org
+UID:001480dd-57bb-4b4b-a9ae-62d6f899bf6a@0014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 7区 - 5号 - 个人\n拉诺西亚 - 白银乡 - 9区 - 37号 - 个人\n拉诺西亚 - 白银乡 - 29区 - 16号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:L房抽选截止
+UID:b92639f2-c7bb-4689-9255-181afdcc1d1d@b926.org
 END:VEVENT
 END:VCALENDAR
