@@ -2,27 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 12区 - 1号 - 个人\n红玉海 - 薰衣草苗圃 - 19区 - 57号 - 其他\n红玉海 - 高脚孤丘 - 29区 - 42号 - 其他\n红玉海 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 12区 - 1号 - 个人\n红玉海 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261012T150000Z
 SUMMARY:M房抽选截止
-UID:34f4313c-40ec-4e2f-9acb-6c93afed7383@34f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 24区 - 60号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20261012T150000Z
-SUMMARY:L房抽选截止
-UID:b0ea7930-2396-45b6-99ce-fab96cacdbd1@b0ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 1区 - 1号 - 个人\n红玉海 - 海雾村 - 12区 - 1号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 高脚孤丘 - 6区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 41号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 19号 - 部队\n红玉海 - 白银乡 - 4区 - 19号 - 个人\n红玉海 - 白银乡 - 7区 - 24号 - 个人\n红玉海 - 白银乡 - 17区 - 49号 - 其他\n红玉海 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
-SUMMARY:M房抽选截止
-UID:55d32440-5bb1-49df-9e40-1f1668645734@55d3.org
+UID:7e5921ea-619c-459f-846e-2f1ba73190c5@7e59.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 穹顶皓天 - 24区 - 52号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:L房抽选截止
-UID:14cab37b-2dec-4a31-8b7b-a3c069b30c3f@14ca.org
+UID:75949e53-d0b4-4fea-8423-6dbcbc11cb31@7594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 1区 - 1号 - 个人\n红玉海 - 海雾村 - 12区 - 1号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 高脚孤丘 - 5区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 8区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 41号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 19号 - 部队\n红玉海 - 白银乡 - 4区 - 19号 - 个人\n红玉海 - 白银乡 - 7区 - 24号 - 个人\n红玉海 - 白银乡 - 17区 - 49号 - 其他\n红玉海 - 白银乡 - 21区 - 13号 - 部队\n红玉海 - 白银乡 - 28区 - 28号 - 其他\n红玉海 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:M房抽选截止
+UID:2fabe9dc-20fe-4cd9-83a6-0f6b5abf8f5e@2fab.org
 END:VEVENT
 END:VCALENDAR
