@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 1区 - 1号 - 个人\n红玉海 - 海雾村 - 12区 - 1号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 高脚孤丘 - 5区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 8区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 41号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 19号 - 部队\n红玉海 - 白银乡 - 4区 - 19号 - 个人\n红玉海 - 白银乡 - 7区 - 24号 - 个人\n红玉海 - 白银乡 - 17区 - 49号 - 其他\n红玉海 - 白银乡 - 21区 - 13号 - 部队\n红玉海 - 白银乡 - 28区 - 28号 - 其他\n红玉海 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
-SUMMARY:M房抽选截止
-UID:3f81a82a-7dc4-48dd-a25c-89ec7f1a5365@3f81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 穹顶皓天 - 24区 - 52号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
-SUMMARY:L房抽选截止
-UID:27bda017-8687-4ad0-adf3-3f7650115666@27bd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 12区 - 1号 - 个人\n红玉海 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261012T150000Z
 SUMMARY:M房抽选截止
-UID:25f2f084-11b5-4371-95e7-a19e4e7821fb@25f2.org
+UID:9b52b325-eef5-4fd6-8dd9-3cc2e9fc1051@9b52.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 薰衣草苗圃 - 11区 - 16号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 19号 - 其他\n红玉海 - 穹顶皓天 - 26区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:M房抽选截止
-UID:6815c4fe-eb96-46b9-94ef-f7639f008e59@6815.org
+UID:9ee2af5c-6117-41ee-b815-351d5e3e7de7@9ee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 1区 - 1号 - 个人\n红玉海 - 海雾村 - 12区 - 1号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 高脚孤丘 - 5区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 8区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 41号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 19号 - 部队\n红玉海 - 白银乡 - 4区 - 19号 - 个人\n红玉海 - 白银乡 - 7区 - 24号 - 个人\n红玉海 - 白银乡 - 17区 - 49号 - 其他\n红玉海 - 白银乡 - 21区 - 13号 - 部队\n红玉海 - 白银乡 - 28区 - 28号 - 其他\n红玉海 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:M房抽选截止
+UID:0f95989e-b1fe-457d-b76c-bf4086b6b3ed@0f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 穹顶皓天 - 24区 - 52号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:L房抽选截止
+UID:9d5f9783-4204-46af-b8b6-0872707b89d3@9d5f.org
 END:VEVENT
 END:VCALENDAR

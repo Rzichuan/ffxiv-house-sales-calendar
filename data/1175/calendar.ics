@@ -2,39 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 4区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261012T150000Z
+SUMMARY:M房抽选截止
+UID:73ba3afa-f9b4-45e8-8975-8183a9455c05@73ba.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 17区 - 28号 - 其他\n晨曦王座 - 穹顶皓天 - 10区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:L房抽选截止
-UID:4e8a15a0-9274-45f2-a690-9e01e8932cef@4e8a.org
+UID:b09c7553-5bf2-4a0f-afed-f0e72bf50908@b09c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 白银乡 - 7区 - 13号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:M房抽选截止
-UID:5097168d-f262-4930-90f6-bea6c492486b@5097.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 4区 - 6号 - 个人\n晨曦王座 - 高脚孤丘 - 12区 - 11号 - 个人\n晨曦王座 - 高脚孤丘 - 16区 - 12号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261012T150000Z
-SUMMARY:M房抽选截止
-UID:791349f7-d932-494d-8d57-6d802ca83ff2@7913.org
+UID:5142bb85-d48b-4724-8c00-07571de89a92@5142.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 10区 - 7号 - 个人\n晨曦王座 - 海雾村 - 11区 - 37号 - 个人\n晨曦王座 - 海雾村 - 22区 - 14号 - 部队\n晨曦王座 - 薰衣草苗圃 - 11区 - 46号 - 个人\n晨曦王座 - 薰衣草苗圃 - 29区 - 30号 - 其他\n晨曦王座 - 高脚孤丘 - 3区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 8区 - 11号 - 个人\n晨曦王座 - 白银乡 - 5区 - 1号 - 个人\n晨曦王座 - 白银乡 - 7区 - 49号 - 个人\n晨曦王座 - 白银乡 - 12区 - 58号 - 个人\n晨曦王座 - 穹顶皓天 - 7区 - 47号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:M房抽选截止
-UID:bcd236a4-97ef-40ee-bded-aa30dcb533c2@bcd2.org
+UID:9393b81b-ce62-4742-8f01-3a16396958c1@9393.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 27区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261012T150000Z
 SUMMARY:L房抽选截止
-UID:fe98dde1-b540-4c17-93ca-f13f879c15a1@fe98.org
+UID:fcf81ce2-64b5-46b2-a9f1-6355e9ddec71@fcf8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 薰衣草苗圃 - 20区 - 58号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:L房抽选截止
-UID:4bee2e6b-26eb-4e6d-b5a5-7d83847c6f95@4bee.org
+UID:44861ee5-e29b-4fbd-814e-f66f1e23570a@4486.org
 END:VEVENT
 END:VCALENDAR
