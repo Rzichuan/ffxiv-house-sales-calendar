@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 11区 - 16号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 19号 - 其他\n红玉海 - 穹顶皓天 - 26区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261030T150000Z
-SUMMARY:M房抽选截止
-UID:8c1e3172-b65b-463e-8b1e-a84a601b5440@8c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 海雾村 - 1区 - 1号 - 个人\n红玉海 - 海雾村 - 12区 - 1号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 高脚孤丘 - 5区 - 41号 - 个人\n红玉海 - 高脚孤丘 - 6区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 8区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 14区 - 8号 - 个人\n红玉海 - 高脚孤丘 - 19区 - 25号 - 其他\n红玉海 - 高脚孤丘 - 20区 - 41号 - 其他\n红玉海 - 高脚孤丘 - 30区 - 19号 - 部队\n红玉海 - 白银乡 - 4区 - 19号 - 个人\n红玉海 - 白银乡 - 7区 - 24号 - 个人\n红玉海 - 白银乡 - 17区 - 49号 - 其他\n红玉海 - 白银乡 - 21区 - 13号 - 部队\n红玉海 - 白银乡 - 28区 - 28号 - 其他\n红玉海 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
-SUMMARY:M房抽选截止
-UID:bb48e0f9-b7bb-4374-aed5-4d2e2b60f955@bb48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:红玉海 - 薰衣草苗圃 - 12区 - 1号 - 个人\n红玉海 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261012T150000Z
-SUMMARY:M房抽选截止
-UID:c8a5cce4-7df6-424f-97d3-e5c8b935cfa2@c8a5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:红玉海 - 穹顶皓天 - 24区 - 52号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:L房抽选截止
-UID:dfcf9a5a-068f-492a-bd84-e4338f586697@dfcf.org
+UID:f16705c8-d80a-4348-9291-6404f4a18747@f167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 薰衣草苗圃 - 11区 - 16号 - 个人\n红玉海 - 高脚孤丘 - 29区 - 19号 - 其他\n红玉海 - 穹顶皓天 - 26区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261030T150000Z
+SUMMARY:M房抽选截止
+UID:8459cb28-cf17-4a01-b268-fab756acb6c0@8459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 白银乡 - 8区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261012T150000Z
+SUMMARY:M房抽选截止
+UID:6a97bb8f-0da2-4405-b29c-3ac7fbd6b21e@6a97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:红玉海 - 海雾村 - 12区 - 1号 - 个人\n红玉海 - 海雾村 - 17区 - 29号 - 其他\n红玉海 - 高脚孤丘 - 8区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 20区 - 41号 - 其他\n红玉海 - 白银乡 - 4区 - 19号 - 个人\n红玉海 - 白银乡 - 17区 - 49号 - 其他\n红玉海 - 穹顶皓天 - 15区 - 21号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:M房抽选截止
+UID:014db697-2fba-4e7b-b5fb-1cc02f0af972@014d.org
 END:VEVENT
 END:VCALENDAR

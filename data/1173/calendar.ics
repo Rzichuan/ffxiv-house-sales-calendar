@@ -2,21 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 2区 - 31号 - 个人\n宇宙和音 - 海雾村 - 22区 - 44号 - 部队\n宇宙和音 - 白银乡 - 11区 - 28号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261030T150000Z
-SUMMARY:M房抽选截止
-UID:8a0dd510-8c9d-4b2c-b5f6-d26e5820356e@8a0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 5区 - 44号 - 个人\n宇宙和音 - 高脚孤丘 - 9区 - 19号 - 个人\n宇宙和音 - 高脚孤丘 - 10区 - 19号 - 个人\n宇宙和音 - 白银乡 - 1区 - 8号 - 个人\n宇宙和音 - 白银乡 - 18区 - 19号 - 其他\n宇宙和音 - 穹顶皓天 - 3区 - 51号 - 个人\n宇宙和音 - 穹顶皓天 - 22区 - 17号 - 部队\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
-SUMMARY:M房抽选截止
-UID:cb344a04-62d5-4e30-80e4-90734f61410b@cb34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 25区 - 15号 - 个人\n宇宙和音 - 高脚孤丘 - 3区 - 60号 - 个人\n宇宙和音 - 白银乡 - 1区 - 16号 - 个人\n宇宙和音 - 白银乡 - 5区 - 37号 - 个人\n宇宙和音 - 白银乡 - 24区 - 30号 - 部队\n宇宙和音 - 穹顶皓天 - 7区 - 60号 - 个人\n宇宙和音 - 穹顶皓天 - 14区 - 42号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 25区 - 15号 - 个人\n宇宙和音 - 白银乡 - 5区 - 37号 - 个人\n宇宙和音 - 穹顶皓天 - 7区 - 60号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:L房抽选截止
-UID:29ef4fb5-3a90-4b80-b95a-5014b193b982@29ef.org
+UID:7cdb7084-56cf-435c-9e80-88c7401fd624@7cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 15区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261030T150000Z
+SUMMARY:L房抽选截止
+UID:91b57f81-98a6-4460-a922-21fa65f429c3@91b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 高脚孤丘 - 10区 - 19号 - 个人\n宇宙和音 - 穹顶皓天 - 22区 - 17号 - 部队\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
+SUMMARY:M房抽选截止
+UID:cd3ffa69-3c65-48e9-b74c-fed185465944@cd3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:宇宙和音 - 海雾村 - 2区 - 31号 - 个人\n宇宙和音 - 海雾村 - 22区 - 44号 - 部队\n宇宙和音 - 白银乡 - 11区 - 28号 - 个人\n宇宙和音 - 穹顶皓天 - 5区 - 2号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261030T150000Z
+SUMMARY:M房抽选截止
+UID:fc75ee0b-be07-4c2b-9086-edeef4cf73b2@fc75.org
 END:VEVENT
 END:VCALENDAR
