@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 高脚孤丘 - 13区 - 34号 - 个人\n拉诺西亚 - 高脚孤丘 - 15区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261030T150000Z
+DESCRIPTION:拉诺西亚 - 海雾村 - 4区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261021T150000Z
 SUMMARY:M房抽选截止
-UID:15c64f6c-5294-4148-913b-ad50b5ceb533@15c6.org
+UID:d34fc9c7-aecb-4600-9713-82daa0c73cb2@d34f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 20区 - 60号 - 其他\n拉诺西亚 - 白银乡 - 5区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:L房抽选截止
-UID:c08d91c4-0dc9-4f19-8e61-ccdb3a67b96b@c08d.org
+UID:ce58ad06-d12d-4f9b-90c7-3af2c2305e39@ce58.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 4区 - 7号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261021T150000Z
+DESCRIPTION:拉诺西亚 - 高脚孤丘 - 13区 - 34号 - 个人\n拉诺西亚 - 高脚孤丘 - 15区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261030T150000Z
 SUMMARY:M房抽选截止
-UID:44c210c6-c915-4d75-b407-252179226886@44c2.org
+UID:904b24df-ab97-4ba2-85e7-7ef95160a096@904b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 高脚孤丘 - 7区 - 5号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261021T150000Z
 SUMMARY:L房抽选截止
-UID:58d1ed44-01d2-49ef-829c-da2690355bfe@58d1.org
+UID:325e164c-4f8f-4ebf-aaec-d370aaf3a6de@325e.org
 END:VEVENT
 END:VCALENDAR
