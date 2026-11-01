@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 1区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261030T150000Z
-SUMMARY:M房抽选截止
-UID:02bed589-eb77-4713-9206-c2cd423a0050@02be.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261108T150000Z
 SUMMARY:L房抽选截止
-UID:3d6b663c-0cdc-473e-a33d-e3e191060b7e@3d6b.org
+UID:32578b0f-8b2c-4de0-bb96-f4a8b71ebd66@3257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 1区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261030T150000Z
+SUMMARY:M房抽选截止
+UID:d6dc9750-4b6e-44f2-adf1-755145ba52e4@d6dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 23区 - 35号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:L房抽选截止
-UID:e881c79f-5ff0-40d3-83be-ca5513368667@e881.org
+UID:40e6f2a3-57ff-4634-844a-0a6989c7ddbd@40e6.org
 END:VEVENT
 END:VCALENDAR
