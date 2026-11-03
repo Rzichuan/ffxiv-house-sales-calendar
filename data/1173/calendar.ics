@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:宇宙和音 - 海雾村 - 25区 - 36号 - 个人\n宇宙和音 - 高脚孤丘 - 7区 - 55号 - 个人\n宇宙和音 - 穹顶皓天 - 29区 - 21号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261108T150000Z
 SUMMARY:M房抽选截止
-UID:c34e13a7-b5b7-4a60-935c-509428b10f2f@c34e.org
+UID:71fff4dc-273a-4e60-954d-15b5f1ae5bef@71ff.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:宇宙和音 - 海雾村 - 22区 - 44号 - 部队\n宇宙和音 - 白银乡 - 25区 - 19号 - 个人\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:宇宙和音 - 海雾村 - 22区 - 44号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:M房抽选截止
-UID:75be0621-d78c-4354-9191-27b5dab385da@75be.org
+UID:b4993317-d2dd-4da8-9b65-cf6c581a6aad@b499.org
 END:VEVENT
 END:VCALENDAR

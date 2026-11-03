@@ -5,12 +5,18 @@ BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 海雾村 - 5区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261108T150000Z
 SUMMARY:M房抽选截止
-UID:b4638bc0-c17f-4447-8afc-d613806be6ad@b463.org
+UID:0376d008-b7ec-41ba-a9f5-aa2008f8439c@0376.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拉诺西亚 - 穹顶皓天 - 3区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:M房抽选截止
-UID:5a59ccd5-f311-42f3-ba49-20f4ae4133c6@5a59.org
+UID:74c15a29-3895-4fa8-ad85-44769fad60a9@74c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:拉诺西亚 - 海雾村 - 27区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261108T150000Z
+SUMMARY:L房抽选截止
+UID:1756611b-2e5f-446f-beff-4e3cf16dafed@1756.org
 END:VEVENT
 END:VCALENDAR

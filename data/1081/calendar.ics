@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:神意之地 - 穹顶皓天 - 11区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261108T150000Z
-SUMMARY:L房抽选截止
-UID:dbd45bdf-94af-4f01-a505-2ef60b99f11e@dbd4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:神意之地 - 海雾村 - 18区 - 59号 - 其他\n神意之地 - 白银乡 - 4区 - 58号 - 个人\n神意之地 - 白银乡 - 14区 - 1号 - 个人\n神意之地 - 穹顶皓天 - 10区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261108T150000Z
 SUMMARY:M房抽选截止
-UID:0df23a5d-65a7-41ad-b768-19b19d39ef67@0df2.org
+UID:dde7959b-b497-479a-ab84-a022bee1d4c9@dde7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:神意之地 - 穹顶皓天 - 11区 - 52号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261108T150000Z
+SUMMARY:L房抽选截止
+UID:c51c2109-479c-4b10-9114-88b8509e6394@c51c.org
 END:VEVENT
 END:VCALENDAR
