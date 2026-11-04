@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 海雾村 - 28区 - 6号 - 其他\n萌芽池 - 穹顶皓天 - 29区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261108T150000Z
 SUMMARY:M房抽选截止
-UID:3dece0dd-62f1-4355-a8f8-cb505ad87c1e@3dec.org
+UID:526af806-36be-416a-8676-2cd1e6b86838@526a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:萌芽池 - 海雾村 - 30区 - 4号 - 部队\n萌芽池 - 白银乡 - 26区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261117T150000Z
+SUMMARY:M房抽选截止
+UID:fa1e9ede-3723-4101-9952-2e722f67dce1@fa1e.org
 END:VEVENT
 END:VCALENDAR
