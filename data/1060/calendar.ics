@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 30区 - 4号 - 部队\n萌芽池 - 白银乡 - 26区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261117T150000Z
+DESCRIPTION:萌芽池 - 海雾村 - 28区 - 6号 - 其他\n萌芽池 - 穹顶皓天 - 29区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20261108T150000Z
 SUMMARY:M房抽选截止
-UID:c7aa7be9-7a53-486e-8577-a113590b7d87@c7aa.org
+UID:e19f3588-05cf-46a3-a263-ba40051d00db@e19f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 白银乡 - 20区 - 46号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261117T150000Z
 SUMMARY:L房抽选截止
-UID:449cf359-3890-4336-86be-36c89aee508d@449c.org
+UID:c327d4db-1a62-47ee-89f2-76b5ebdda51d@c327.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 28区 - 6号 - 其他\n萌芽池 - 穹顶皓天 - 29区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20261108T150000Z
+DESCRIPTION:萌芽池 - 海雾村 - 30区 - 4号 - 部队\n萌芽池 - 白银乡 - 26区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261117T150000Z
 SUMMARY:M房抽选截止
-UID:cec7df22-6f20-406f-aa57-22ea5dea7769@cec7.org
+UID:46d0903f-8f31-40e9-82af-db75908bb3b2@46d0.org
 END:VEVENT
 END:VCALENDAR
