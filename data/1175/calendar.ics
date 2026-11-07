@@ -5,24 +5,24 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 26区 - 43号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261108T150000Z
 SUMMARY:L房抽选截止
-UID:11be8040-13b2-4fbe-b057-bb70d560f003@11be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 1区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261030T150000Z
-SUMMARY:M房抽选截止
-UID:13bf37ff-ec9c-479e-b6e2-9634ebb18053@13bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 高脚孤丘 - 15区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261108T150000Z
-SUMMARY:M房抽选截止
-UID:59686ebf-ee9a-4e0f-8e02-f4a94992a3f8@5968.org
+UID:df2ef101-9e91-4954-8d2b-8f829538bef4@df2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 高脚孤丘 - 23区 - 25号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261117T150000Z
 SUMMARY:M房抽选截止
-UID:42338edb-f015-4b8e-8efd-b46752c427bb@4233.org
+UID:9457f694-7a93-491a-a9fd-f803705efe01@9457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 15区 - 25号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261108T150000Z
+SUMMARY:M房抽选截止
+UID:7e4c4746-0eb3-45b9-a129-1e324aed3a57@7e4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 高脚孤丘 - 1区 - 55号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261030T150000Z
+SUMMARY:M房抽选截止
+UID:4f909c4b-345c-4bcc-aa9e-225a4f77546c@4f90.org
 END:VEVENT
 END:VCALENDAR

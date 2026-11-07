@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:红玉海 - 高脚孤丘 - 22区 - 12号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:红玉海 - 高脚孤丘 - 22区 - 12号 - 部队\n红玉海 - 高脚孤丘 - 25区 - 8号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261117T150000Z
 SUMMARY:M房抽选截止
-UID:68f30273-8c3a-4132-8f03-8382860510a5@68f3.org
+UID:a59f91f6-9d91-43be-b53c-381bbce80499@a59f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 穹顶皓天 - 26区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261030T150000Z
 SUMMARY:M房抽选截止
-UID:f45017c1-eef6-4ee9-9a8e-d0917d2ab672@f450.org
+UID:dff55b24-1e23-4130-aaf7-5aaf7b1129de@dff5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:红玉海 - 海雾村 - 1区 - 34号 - 个人\n红玉海 - 高脚孤丘 - 13区 - 4号 - 个人\n红玉海 - 高脚孤丘 - 24区 - 42号 - 部队\n红玉海 - 白银乡 - 7区 - 38号 - 个人\n数据来源https://house.ffxiv.cyou
 DTSTART:20261108T150000Z
 SUMMARY:M房抽选截止
-UID:62b8dd7f-65ac-4bd8-b3e4-1717e3f33bb3@62b8.org
+UID:6c87313c-5981-45fe-aea2-889814487cdd@6c87.org
 END:VEVENT
 END:VCALENDAR
