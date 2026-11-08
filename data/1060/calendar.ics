@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 2区 - 34号 - 个人\n萌芽池 - 海雾村 - 30区 - 4号 - 部队\n萌芽池 - 白银乡 - 26区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261117T150000Z
+DESCRIPTION:萌芽池 - 海雾村 - 28区 - 6号 - 其他\n萌芽池 - 穹顶皓天 - 29区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20261108T150000Z
 SUMMARY:M房抽选截止
-UID:3af7f159-aa7d-4528-bbd5-a18b2281d1cd@3af7.org
+UID:717d609e-0db0-43c1-a95f-282c624cefb5@717d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:萌芽池 - 白银乡 - 20区 - 46号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261117T150000Z
 SUMMARY:L房抽选截止
-UID:3df5e574-0710-4829-a74f-21677d8b3b88@3df5.org
+UID:0412f7e7-d449-4270-a4b6-a40d3693e0e2@0412.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:萌芽池 - 海雾村 - 28区 - 6号 - 其他\n萌芽池 - 穹顶皓天 - 29区 - 17号 - 其他\n数据来源https://house.ffxiv.cyou
-DTSTART:20261108T150000Z
+DESCRIPTION:萌芽池 - 海雾村 - 2区 - 34号 - 个人\n萌芽池 - 海雾村 - 30区 - 4号 - 部队\n萌芽池 - 白银乡 - 26区 - 58号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261117T150000Z
 SUMMARY:M房抽选截止
-UID:4799f0a2-a1d5-4767-aba2-0fbc2593b86d@4799.org
+UID:ece9bf76-750b-419f-9bd5-d2bcb333f1e6@ece9.org
 END:VEVENT
 END:VCALENDAR
