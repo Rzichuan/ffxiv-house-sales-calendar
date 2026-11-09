@@ -1,22 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 穹顶皓天 - 3区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261030T150000Z
-SUMMARY:M房抽选截止
-UID:904ce3ea-eca2-408d-8da5-7ce23b4c025e@904c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 5区 - 37号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261108T150000Z
-SUMMARY:M房抽选截止
-UID:85753ee6-77a2-46b0-ad23-5ab7479d5526@8575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:拉诺西亚 - 海雾村 - 27区 - 15号 - 个人\n数据来源https://house.ffxiv.cyou
-DTSTART:20261108T150000Z
-SUMMARY:L房抽选截止
-UID:6f01f56e-acf5-4af2-83a9-614455bc045d@6f01.org
-END:VEVENT
 END:VCALENDAR
