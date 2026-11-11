@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:晨曦王座 - 海雾村 - 5区 - 44号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 23区 - 25号 - 部队\n数据来源https://house.ffxiv.cyou
+DESCRIPTION:晨曦王座 - 海雾村 - 5区 - 44号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 34号 - 其他\n晨曦王座 - 高脚孤丘 - 23区 - 25号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261117T150000Z
 SUMMARY:M房抽选截止
-UID:f3aabd68-3637-406e-a970-78e75b0be0c0@f3aa.org
+UID:6d78cd21-2e1c-477c-85dc-a2806b0ba20c@6d78.org
 END:VEVENT
 END:VCALENDAR
