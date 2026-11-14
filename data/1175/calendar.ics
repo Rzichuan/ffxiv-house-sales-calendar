@@ -5,6 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:晨曦王座 - 海雾村 - 5区 - 44号 - 个人\n晨曦王座 - 高脚孤丘 - 10区 - 34号 - 个人\n晨曦王座 - 高脚孤丘 - 17区 - 34号 - 其他\n晨曦王座 - 高脚孤丘 - 23区 - 25号 - 部队\n数据来源https://house.ffxiv.cyou
 DTSTART:20261117T150000Z
 SUMMARY:M房抽选截止
-UID:17212557-a431-4042-941f-fe053952dc23@1721.org
+UID:f660b286-859a-4ac1-9510-e9abf91612c6@f660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:晨曦王座 - 海雾村 - 1区 - 45号 - 个人\n数据来源https://house.ffxiv.cyou
+DTSTART:20261126T150000Z
+SUMMARY:L房抽选截止
+UID:beca44dd-17ac-4ed4-b734-7ad9a8db2e8f@beca.org
 END:VEVENT
 END:VCALENDAR
