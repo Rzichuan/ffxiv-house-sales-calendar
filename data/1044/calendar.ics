@@ -2,9 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:幻影群岛 - 白银乡 - 20区 - 1号 - 其他\n数据来源https://house.ffxiv.cyou
+DTSTART:20261126T150000Z
+SUMMARY:M房抽选截止
+UID:ed7b8b47-b3ba-4635-b11b-a491bcd02a26@ed7b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:幻影群岛 - 海雾村 - 12区 - 59号 - 个人\n幻影群岛 - 薰衣草苗圃 - 15区 - 35号 - 个人\n幻影群岛 - 高脚孤丘 - 10区 - 6号 - 个人\n幻影群岛 - 高脚孤丘 - 26区 - 34号 - 个人\n幻影群岛 - 白银乡 - 7区 - 49号 - 个人\n幻影群岛 - 白银乡 - 20区 - 38号 - 其他\n数据来源https://house.ffxiv.cyou
 DTSTART:20261117T150000Z
 SUMMARY:M房抽选截止
-UID:890b11ca-4496-4a62-8816-9818304339f2@890b.org
+UID:5815287e-dc44-4705-a45e-256255f7dcb9@5815.org
 END:VEVENT
 END:VCALENDAR
